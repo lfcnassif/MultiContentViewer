@@ -148,7 +148,6 @@ public class EmailViewer extends HtmlViewer {
 
                             doc = webEngine.getDocument();
 
-                            //TODO destacar documeto nulo ou alterar SecurityManager
                             if (file != null) {
                                 if (doc != null) {
                                     //System.out.println("Highlighting");
@@ -386,7 +385,7 @@ public class EmailViewer extends HtmlViewer {
                     outStream.write(text.getBytes(charset));
                 }
             } else {
-                IOUtil.copiaArquivo(is, outStream);
+                IOUtil.copyStream(is, outStream);
             }
 
             outStream.close();
@@ -430,7 +429,7 @@ public class EmailViewer extends HtmlViewer {
                 createHeader(outStream);
                 if (bodyFile != null) {
                     InputStream bodyStream = new FileInputStream(bodyFile);
-                    IOUtil.copiaArquivo(bodyStream, outStream);
+                    IOUtil.copyStream(bodyStream, outStream);
                     bodyStream.close();
                     bodyFile.delete();
                 }
@@ -461,7 +460,7 @@ public class EmailViewer extends HtmlViewer {
 
                         writer.flush();
                         InputStream stream = new FileInputStream(attFile);
-                        IOUtil.copiaArquivo(stream, outStream);
+                        IOUtil.copyStream(stream, outStream);
                         stream.close();
                     }
                 }
