@@ -19,7 +19,7 @@
 package dpf.sp.gpinf.indexer.util;
 
 /*
- * Encodes or decodes strings to HTML equivalent entities
+ * Encodes or decodes non permitted chars to HTML equivalent entities.
  */
 public class SimpleHTMLEncoder {
 

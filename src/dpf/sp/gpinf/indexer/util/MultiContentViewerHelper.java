@@ -32,6 +32,9 @@ import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 import org.openide.modules.InstalledFileLocator;
 
+/*
+ * Helper class to add specific viewers to MultiContentViewer.
+ */
 public class MultiContentViewerHelper {
 
     private static String NO_LO4_MSG = "LibreOffice 4 installation not detected!\n "

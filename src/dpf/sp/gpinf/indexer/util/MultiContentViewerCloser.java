@@ -21,9 +21,8 @@ package dpf.sp.gpinf.indexer.util;
 import dpf.sp.gpinf.indexer.search.viewer.MultiContentViewer;
 import org.openide.modules.ModuleInstall;
 
-/**
- *
- * @author Luis Felipe
+/*
+ * Helper class to dispose resources used by MultiContentViewer.
  */
 public class MultiContentViewerCloser extends ModuleInstall {
 

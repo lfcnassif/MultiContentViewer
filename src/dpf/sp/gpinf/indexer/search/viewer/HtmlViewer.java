@@ -62,7 +62,6 @@ public class HtmlViewer extends AbstractViewer {
     public HtmlViewer() {
         super(new GridLayout());
 
-        //System.out.println("Inicializando Viewer " + getName());
         Platform.setImplicitExit(false);
         jfxPanel = new JFXPanel();
 
@@ -83,7 +82,6 @@ public class HtmlViewer extends AbstractViewer {
         });
 
         this.getPanel().add(jfxPanel);
-        //System.out.println("Viewer " + getName() + " ok");
     }
 
     @Override
