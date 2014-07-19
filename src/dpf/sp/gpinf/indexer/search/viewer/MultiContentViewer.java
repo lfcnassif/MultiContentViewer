@@ -216,7 +216,7 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
             try {
                 attributes = abstractFile.getGenInfoAttributes(BlackboardAttribute.ATTRIBUTE_TYPE.TSK_FILE_TYPE_SIG);
                 for (BlackboardAttribute attribute : attributes) {
-                    //return attribute.getValueString();
+                    return attribute.getValueString();
                 }
 
             } catch (TskCoreException ex) {
@@ -327,7 +327,6 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
     public boolean isSupported(org.openide.nodes.Node node) {
 
         mimeType = getMimeType(node);
-        System.out.println(mimeType);
         for (AbstractViewer viewer : viewerList) {
             if (viewer.isSupportedType(mimeType)) {
                 return true;
