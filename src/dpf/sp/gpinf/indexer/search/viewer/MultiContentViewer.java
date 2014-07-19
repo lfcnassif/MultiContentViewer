@@ -270,7 +270,7 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
             panel.remove(topPanel);
         }
 
-        Logger.getLogger(MultiContentViewer.class.getName()).log(Level.INFO, abstractFile.getName());
+        Logger.getLogger(MultiContentViewer.class.getName()).log(Level.FINE, abstractFile.getName());
 
         try {
             File file = File.createTempFile("autopsy-multiviewer", ".tmp");
