@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">ファイル</e>
+ <e g="linktofile" i="label">ファイルへリンク</e>
+ <e g="InsertOLEObjectDialog" i="title">OLE オブジェクトを挿入</e>
+ <e g="label1" i="label">オブジェクトの型</e>
+ <e g="createfromfile" i="label">ファイルから作成</e>
+ <e g="urlbtn" i="label">検索...</e>
+ <e g="createnew" i="label">新規作成</e>
+</t>

@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 79 Označite ovu kučicu za označavanje otpremljene stranice kao manjom izmjenom već postojeće stranice s istim naslovom.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 30 Unesite neobavezni kratki sažetak ili komentar.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText e1 Unesite naslov Wiki upisa. To je glavni naslov vašeg Wiki upisa. Ako se radi o novom upisu, naslov mora na tom Wikiju biti jedinstven. Ukoliko unesete naslov koji već postoji, otpremanje će prebrisati postojeći Wiki upis.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 86 Odaberite MediaWiki poslužitelj na kojem želite objaviti vaš dokument. Kliknite Dodaj kako biste dodali novi poslužitelj na popis.
+22 vnd.com.sun.star.wiki%3AsendDialog 86 Odaberite MediaWiki poslužitelj na kojem želite objaviti vaš dokument. Kliknite Dodaj kako biste dodali novi poslužitelj na popis.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 69 Označite ovu kućicu kako bi otvorili vaš web preglednik na sustavu prikazajuću poslanu Wiki stranicu.
+1f vnd.com.sun.star.wiki%3Aaccount 3f Unesite URL od MediaWiki poslužitelja koji počinje sa http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 8f Omogućuje spremanje vaših lozinki između sesija. Glavna lozinka mora biti omogućena, vidite Alati - Mogućnosti - %PRODUCTNAME - Sigurnost.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 55 Unesite vašu lozinku za MediaWiki poslužitelj. Ostavite prazno za anonimni pristup.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 5f Unesite korisničku oznaku za vaš MediaWiki poslužitelj. Ostavite prazno za anonimni pristup.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3f Unesite URL od MediaWiki poslužitelja koji počinje sa http://
+1c vnd.com.sun.star.wiki%3Asend 6b Izaberite Datoteka-Pošalji - U MediaWiki za slanje trenutnog Writer dokumenta na poslužitelj MediaWiki-a.
+20 vnd.com.sun.star.wiki%3Aaboutbox bf Koristeći Wiki Publisher možete vaš trenutni tekstualni dokument u Writeru otpremiti na MediaWiki poslužitelj. Nakon otpremanja, svi korisnici Wikija mogu vaš dokument čitati na Wikiju.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 26 Briše sve označene stavke sa popisa.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList ba Kliknite 'Dodaj' za dodavanje novog Wiki poslužitelja.Za uređivanje postavki korisničkog računa odaberite unos i kliknite 'Uredi'.Za brisanje unosa odaberite unos i kliknite 'Makni'.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 36 Otvaa MediaWiki dialog za uređivanje odabranog unosa.
+20 vnd.com.sun.star.wiki%3Asettings ba Kliknite 'Dodaj' za dodavanje novog Wiki poslužitelja.Za uređivanje postavki korisničkog računa odaberite unos i kliknite 'Uredi'.Za brisanje unosa odaberite unos i kliknite 'Makni'.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 3a Otvara MediaWiki dijalog za dodavanje novog unosa u popis.

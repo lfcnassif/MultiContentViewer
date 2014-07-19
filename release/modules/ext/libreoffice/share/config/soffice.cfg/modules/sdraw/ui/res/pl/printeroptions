@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Rozmiar</e>
+ <e g="grayscale" i="label">Odcienie szarości</e>
+ <e g="tilesheet" i="label">Rozmieść powtórzone strony sąsiadująco na arkuszu papieru</e>
+ <e g="fittoprintable" i="label">Dopasuj do strony wydruku</e>
+ <e g="printname" i="label">Nazwa strony</e>
+ <e g="originalcolors" i="label">Rozmiar oryginalny</e>
+ <e g="blackandwhite" i="label">Czarno-biały</e>
+ <e g="printdatetime" i="label">Data i godzina</e>
+ <e g="label4" i="label">Zawartość</e>
+ <e g="distributeonmultiple" i="label">Rozłóż na wiele arkuszy papieru</e>
+ <e g="label5" i="label">Kolor</e>
+ <e g="originalsize" i="label">Rozmiar oryginalny</e>
+</t>

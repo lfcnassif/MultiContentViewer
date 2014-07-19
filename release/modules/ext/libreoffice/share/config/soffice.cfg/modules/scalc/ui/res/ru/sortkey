@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="down" i="label">По убыванию</e>
+ <e g="sortft" i="label">Условие сортировки</e>
+ <e g="up" i="label">По возрастанию</e>
+</t>

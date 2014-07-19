@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">Edycja</e>
+ <e g="macrotoft" i="label">Zapisz makro w</e>
+ <e g="existingmacrosft" i="label">Istniejące makra w:</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME - Makra Basic</e>
+ <e g="macrofromft" i="label">Makro z</e>
+ <e g="libraryft1" i="label">Nazwa makra</e>
+ <e g="newlibrary" i="label">Nowa biblioteka</e>
+ <e g="newmodule" i="label">Nowy moduł</e>
+ <e g="organize" i="label">Zarządzaj...</e>
+ <e g="run" i="label">Uruchom</e>
+ <e g="assign" i="label">Przypisz...</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">문서당</e>
+ <e g="pos" i="label">Position</e>
+ <e g="label3" i="label">Autonumbering</e>
+ <e g="label18" i="label">Start of next page</e>
+ <e g="label17" i="label">End of footnote</e>
+ <e g="pagestyleft" i="label">Page</e>
+ <e g="label6" i="label">Numbering</e>
+ <e g="label16" i="label">각주 영역</e>
+ <e g="label13" i="label">Character Styles</e>
+ <e g="pospagecb" i="label">End of page</e>
+ <e g="label8" i="label">Before</e>
+ <e g="label5" i="label">계속 시 주의 표시</e>
+ <e g="label15" i="label">Text area</e>
+ <e g="label12" i="label">Styles</e>
+ <e g="label7" i="label">Counting</e>
+ <e g="label4" i="label">Paragraph</e>
+ <e g="posdoccb" i="label">End of document</e>
+ <e g="liststore1" i="0">페이지당</e>
+ <e g="label11" i="label">After</e>
+ <e g="offset" i="label">Start at</e>
+ <e g="liststore1" i="1">장당</e>
+</t>

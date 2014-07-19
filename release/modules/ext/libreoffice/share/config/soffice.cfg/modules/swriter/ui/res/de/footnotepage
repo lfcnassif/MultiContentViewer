@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">Pro Dokument</e>
+ <e g="pos" i="label">Position</e>
+ <e g="label3" i="label">Automatische Nummerierung</e>
+ <e g="label18" i="label">Auf Folgeseite</e>
+ <e g="label17" i="label">Am Fußnotenende</e>
+ <e g="pagestyleft" i="label">Seite</e>
+ <e g="label6" i="label">Nummerierung</e>
+ <e g="label16" i="label">Fußnotenbereich</e>
+ <e g="label13" i="label">Zeichenvorlagen</e>
+ <e g="pospagecb" i="label">Seitenende</e>
+ <e g="label8" i="label">Vor</e>
+ <e g="label5" i="label">Hinweistext mehrseitige Fußnoten</e>
+ <e g="label15" i="label">Textbereich</e>
+ <e g="label12" i="label">Vorlagen</e>
+ <e g="label7" i="label">Zählung</e>
+ <e g="label4" i="label">Absatz</e>
+ <e g="posdoccb" i="label">Dokumentende</e>
+ <e g="liststore1" i="0">Pro Seite</e>
+ <e g="label11" i="label">Hinter</e>
+ <e g="offset" i="label">Beginn bei</e>
+ <e g="liststore1" i="1">Pro Kapitel</e>
+</t>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">條目</e>
+ <e g="label3" i="label">標題</e>
+ <e g="label5" i="label">簡短描述文</e>
+ <e g="fromdocument" i="label">從文件內容</e>
+ <e g="label2" i="label">作者</e>
+ <e g="insert" i="label">插入</e>
+ <e g="frombibliography" i="label">從文獻資料庫</e>
+ <e g="modify" i="label">修改</e>
+ <e g="BibliographyEntryDialog" i="title">插入參考文獻目錄項目</e>
+</t>

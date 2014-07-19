@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="fittopage" i="label">Ajustar à página</e>
+ <e g="scaling" i="label">Dimensionamento</e>
+ <e g="borders" i="label">Bordas</e>
+ <e g="formulatext" i="label">Texto da fórmula</e>
+ <e g="label4" i="label">Conteúdo</e>
+ <e g="label5" i="label">Tamanho</e>
+ <e g="originalsize" i="label">Tamanho original</e>
+ <e g="title" i="label">Título</e>
+</t>

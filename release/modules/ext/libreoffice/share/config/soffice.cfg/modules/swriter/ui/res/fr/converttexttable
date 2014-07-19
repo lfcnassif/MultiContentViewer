@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Paragraphe</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">lignes</e>
+ <e g="tabs" i="label">Tabulations</e>
+ <e g="label3" i="label">Le premier</e>
+ <e g="label1" i="label">Séparer le texte à</e>
+ <e g="headingcb" i="label">En-tête</e>
+ <e g="bordercb" i="label">Bordure</e>
+ <e g="dontsplitcb" i="label">Ne pas scinder le tableau</e>
+ <e g="autofmt" i="label">AutoFormat...</e>
+ <e g="repeatheading" i="label">Répéter l'en-tête</e>
+ <e g="keepcolumn" i="label">Largeur identique pour toutes les colonnes</e>
+ <e g="ConvertTextTableDialog" i="title">Convertir le tableau en texte</e>
+ <e g="semicolons" i="label">Point-virgule</e>
+ <e g="2" i="label">Options</e>
+ <e g="other" i="label">Autre :</e>
+</t>

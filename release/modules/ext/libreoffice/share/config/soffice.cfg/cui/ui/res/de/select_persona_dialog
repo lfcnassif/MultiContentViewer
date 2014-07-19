@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Kopieren Sie dann in Ihrem Browser den Inhalt der Adresszeile des Personas, das Sie sich ausgesucht haben, in die Zwischenablage und fügen Sie diesen wiederum in das unten stehende Eingabefeld ein.</e>
+ <e g="label1" i="label">Besuchen Sie Firefox-Personas (http://www.getpersonas.com). Suchen Sie ein Persona aus, das Sie für LibreOffice verwenden möchten.</e>
+ <e g="label3" i="label">Adresse des Personas:</e>
+ <e g="visit_personas" i="label">Besuchen Sie Firefox-Personas</e>
+</t>

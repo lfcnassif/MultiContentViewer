@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">На один документ</e>
+ <e g="pos" i="label">Положение</e>
+ <e g="label3" i="label">Автонумерация</e>
+ <e g="label18" i="label">В начале след. стр.</e>
+ <e g="label17" i="label">В конце сноски</e>
+ <e g="pagestyleft" i="label">Страница</e>
+ <e g="label6" i="label">Нумерация</e>
+ <e g="label16" i="label">Область сносок</e>
+ <e g="label13" i="label">Стили символов</e>
+ <e g="pospagecb" i="label">В конце страницы</e>
+ <e g="label8" i="label">До</e>
+ <e g="label5" i="label">Уведомление о продолжении сноски</e>
+ <e g="label15" i="label">Область текста</e>
+ <e g="label12" i="label">Стили</e>
+ <e g="label7" i="label">Подсчёт</e>
+ <e g="label4" i="label">Абзац</e>
+ <e g="posdoccb" i="label">В конце документа</e>
+ <e g="liststore1" i="0">На одну страницу</e>
+ <e g="label11" i="label">После</e>
+ <e g="offset" i="label">Начать с</e>
+ <e g="liststore1" i="1">На одну главу</e>
+</t>

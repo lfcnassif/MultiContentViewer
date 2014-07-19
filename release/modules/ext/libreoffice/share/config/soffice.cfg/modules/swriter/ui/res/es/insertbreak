@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Estilo</e>
+ <e g="linerb" i="label">Salto de línea</e>
+ <e g="label1" i="label">Tipo</e>
+ <e g="liststore1" i="0">[Ninguno]</e>
+ <e g="pagenumcb" i="label">Cambiar número de página</e>
+ <e g="pagerb" i="label">Salto de página</e>
+ <e g="BreakDialog" i="title">Insertar salto</e>
+ <e g="columnrb" i="label">Salto de columna</e>
+</t>

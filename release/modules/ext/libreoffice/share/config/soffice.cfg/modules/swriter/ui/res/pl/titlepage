@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Strona tytułowa</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Wstaw nowe strony tytułowe</e>
+ <e g="label3" i="label">Edycja ustawień strony</e>
+ <e g="label2" i="label">Numeracja strony</e>
+ <e g="label1" i="label">Twórz strony tytułowe</e>
+ <e g="label8" i="label">stron</e>
+ <e g="label6" i="label">Liczba stron tytułowych</e>
+ <e g="label7" i="label">Umieść strony tytułowe na</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Resetuj numerację stron po stronach tytułowych</e>
+ <e g="FT_PAGE_PAGES" i="label">Numer strony</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Konwertuj istniejące strony na strony tytułowe</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Ustaw numer strony dla pierwszej strony tytułowej</e>
+ <e g="RB_DOCUMENT_START" i="label">Początek dokumentu</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Edycja...</e>
+ <e g="RB_PAGE_START" i="label">Strona</e>
+ <e g="FT_PAGE_COUNT" i="label">Numer strony</e>
+</t>

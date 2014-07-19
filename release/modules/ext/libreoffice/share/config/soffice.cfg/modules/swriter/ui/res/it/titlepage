@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Pagina sommario</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Inserisci nuove pagine sommario</e>
+ <e g="label3" i="label">Modifica proprietà della pagina</e>
+ <e g="label2" i="label">Numerazione di pagina</e>
+ <e g="label1" i="label">Crea pagine sommario</e>
+ <e g="label8" i="label">pagine</e>
+ <e g="label6" i="label">Numero delle pagine sommario</e>
+ <e g="label7" i="label">Posiziona le pagine sommario in</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Azzera la numerazione di pagina dopo le pagine sommario</e>
+ <e g="FT_PAGE_PAGES" i="label">Numero di pagina</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Converti le pagine esistenti in pagine sommario</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Imposta il numero di pagina per la prima pagina sommario</e>
+ <e g="RB_DOCUMENT_START" i="label">Inizio del documento</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Modifica...</e>
+ <e g="RB_PAGE_START" i="label">Pagina</e>
+ <e g="FT_PAGE_COUNT" i="label">Numero di pagina</e>
+</t>

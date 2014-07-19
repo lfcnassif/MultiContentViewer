@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Breedte</e>
+ <e g="label2" i="label">Kolom</e>
+ <e g="label1" i="label">Breedte</e>
+ <e g="ColumnWidthDialog" i="title">Kolombreedte</e>
+</t>

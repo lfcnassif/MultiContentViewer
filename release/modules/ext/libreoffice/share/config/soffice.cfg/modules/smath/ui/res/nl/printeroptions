@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="fittopage" i="label">~Aanpassen aan pagina</e>
+ <e g="scaling" i="label">Op schaal brengen</e>
+ <e g="borders" i="label">Randen</e>
+ <e g="formulatext" i="label">Formuletekst</e>
+ <e g="label4" i="label">Inhoud</e>
+ <e g="label5" i="label">Grootte</e>
+ <e g="originalsize" i="label">Oorspronkelijke grootte</e>
+ <e g="title" i="label">Titel</e>
+</t>

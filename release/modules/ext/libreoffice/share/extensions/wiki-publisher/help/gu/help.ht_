@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 13c સરખા શીર્ષક સાથે પહેલેથી અસ્તિત્વ ધરાવતા પાનાં ને ગૌણ ફેરફાર વડે અપલોડ થયેલ પાનાં ને ચિહ્નિત કરવા માટે આ બોક્સ ને ચકાસો.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 7c વૈકલ્પિક ટૂંકુ સારાંસ અથવા ટિપ્પણીને દાખલ કરો.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 260 તમારા વિકી પ્રવેશનાં શીર્ષક ને દાખલ કરો. આ તમારા વિકી પ્રવેશનું ઉપરનું શીર્ષક છે. નવા પ્રવેશ માટે, શીર્ષક એ આ વિકી પર અનન્ય હોવુ જ જોઇએ. જો તમે હાલનાં શીર્ષકને પ્રવેશવા ઇચ્છતા હોય તો, તમારુ અપલોડ એ હાલની વિકી પ્રવેશ પર ફરી ઉપર લખાઇ જશે.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 166 મીડિયાવીકી સર્વર ને પસંદ કરો જ્યાં તમે તમારા દસ્તાવેજને પ્રકાશિત કરવા ઇચ્છતા હોય. યાદી માં નવા સર્વર ને ઉમેરવા માટે ઉમેરવા પર ક્લિક કરો.
+22 vnd.com.sun.star.wiki%3AsendDialog 166 મીડિયાવીકી સર્વર ને પસંદ કરો જ્યાં તમે તમારા દસ્તાવેજને પ્રકાશિત કરવા ઇચ્છતા હોય. યાદી માં નવા સર્વર ને ઉમેરવા માટે ઉમેરવા પર ક્લિક કરો.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck ed તમારા સિસ્ટમ વેબ બ્રાઉઝર ને ખોલવા માટે આ બોક્સ ને ચકાસો અને અપલોડ થયેલ વિકી પાનાં ને બતાવો.
+1f vnd.com.sun.star.wiki%3Aaccount 98 મીડિયાવિકી સર્વર ની URL ને દાખલ કરો, http:// સાથે શરૂ કરી રહ્યા છે
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 127 સત્રો વચ્ચે તમારા પાસવર્ડ ને સંગ્રહ કરવાનું સક્રિય કરો. મુખ્ય પાસવર્ડ એ સક્રિય થયેલ હોવો જ જોઇએ, Tools - Options - %PRODUCTNAME - Security.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField d2 મીડિયાવિકી સર્વર પર તમારા પાસવર્ડ ને દાખલ કરો. નામ વગરનાં પ્રવેશ માટે ખાલી છોડો.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField e4 મીડિયાવિકી સર્વર પર તમારા વપરાશકર્તાનામ ને દાખલ કરો. નામ વગરનાં પ્રવેશ માટે ખાલી છોડો.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 98 મીડિયાવિકી સર્વર ની URL ને દાખલ કરો, http:// સાથે શરૂ કરી રહ્યા છે
+1c vnd.com.sun.star.wiki%3Asend de મીડિયાવિકી સર્વર માં હાલનાં લેખક દસ્તાવેજમાં અપલોડ કરવા માટે File - Send - To MediaWiki ને પસંદ કરો.
+20 vnd.com.sun.star.wiki%3Aaboutbox 1ba Wiki Publisher ની મદદથી તમે મીડિયાવિકી સર્વરમાં તમારા હાલનાં લેખક લખાણ દસ્તાવેજ માં અપલોડ કરી શકાય છે. અપલોડ થાય પછી, બધા વિકી વપરાશકર્તાઓ વિકી પર તમારા દસ્તાવેજ ને વાંચી શકે છે.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 67 યાદી માંથી પસંદ થયેલ પ્રવેશોને દૂર કરો.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 21f નવા વિકી સર્વર ને ઉમેરવા માટે ઉમેરો પર ક્લિક કરો. પ્રવેશ ને પસંદ કરો અને ખાતા સુયોજનો માં ફેરફાર કરવા માટે ફેરફાર કરો પર ક્લિક કરો. પ્રવેશ ને પસંદ કરો અને યાદી માંથી પ્રવેશ ને દૂર કરવા માટે દૂર કરો પર ક્લિક કરો.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 97 પસંદ થયેલ પ્રવેશ માં ફેરફાર કરવા માટે મીડિયાવિકી ને ખોલો.
+20 vnd.com.sun.star.wiki%3Asettings 21f નવા વિકી સર્વર ને ઉમેરવા માટે ઉમેરો પર ક્લિક કરો. પ્રવેશ ને પસંદ કરો અને ખાતા સુયોજનો માં ફેરફાર કરવા માટે ફેરફાર કરો પર ક્લિક કરો. પ્રવેશ ને પસંદ કરો અને યાદી માંથી પ્રવેશ ને દૂર કરવા માટે દૂર કરો પર ક્લિક કરો.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 8e યાદી માં નવા પ્રવેશ ને ઉમેરવા માટે મીડિયાવિકી ને ખોલો.

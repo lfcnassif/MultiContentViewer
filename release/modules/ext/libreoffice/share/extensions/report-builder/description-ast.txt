@@ -1,0 +1,1 @@
+Usa'l creador d'informes pa crear informes de bases de datos con estilu. L'editor d'informes pue definir testeres y pies de grupu y páxina. Arriendes, los campos de cálculu tamién tán disponibles pa facer informes complexos de bases de datos.

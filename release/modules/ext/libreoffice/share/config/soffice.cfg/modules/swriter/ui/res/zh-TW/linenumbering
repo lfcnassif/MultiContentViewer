@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="characterstyle" i="label">字元樣式</e>
+ <e g="count" i="label">數目</e>
+ <e g="view" i="label">檢視</e>
+ <e g="positionstore" i="3">外</e>
+ <e g="positionstore" i="1">右</e>
+ <e g="format" i="label">格式</e>
+ <e g="position" i="label">位置</e>
+ <e g="every" i="label">每</e>
+ <e g="shownumbering" i="label">顯示編號</e>
+ <e g="positionstore" i="2">內</e>
+ <e g="positionstore" i="0">左</e>
+ <e g="lines" i="label">線條</e>
+ <e g="restarteverynewpage" i="label">每頁重新開始</e>
+ <e g="linesintextframes" i="label">文字框架內的行</e>
+ <e g="spacing" i="label">間隔</e>
+ <e g="intervallines" i="label">行</e>
+ <e g="interval" i="label">內部</e>
+ <e g="LineNumberingDialog" i="title">行編號</e>
+ <e g="blanklines" i="label">空行</e>
+ <e g="separator" i="label">分隔符</e>
+ <e g="text" i="label">文字</e>
+</t>

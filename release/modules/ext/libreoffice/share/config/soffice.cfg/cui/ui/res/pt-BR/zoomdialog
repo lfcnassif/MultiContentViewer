@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automático</e>
+ <e g="optimal" i="label">Ideal</e>
+ <e g="columns" i="label">Colunas</e>
+ <e g="bookmode" i="label">Modo de livro</e>
+ <e g="fitw" i="label">Ajustar à largura</e>
+ <e g="label1" i="label">Visualizar layout</e>
+ <e g="variable" i="label">Variável</e>
+ <e g="label2" i="label">Fator de zoom</e>
+ <e g="singlepage" i="label">Uma página</e>
+ <e g="ZoomDialog" i="title">Zoom e visualização do layout</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">Ajustar largura e altura</e>
+</t>

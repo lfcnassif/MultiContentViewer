@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="create" i="label">建立...</e>
+ <e g="macrosft" i="label">巨集</e>
+ <e g="delete" i="label">刪除...</e>
+ <e g="rename" i="label">重新命名...</e>
+ <e g="run" i="label">執行</e>
+ <e g="ScriptOrganizerDialog" i="title">%MACROLANG 巨集</e>
+</t>

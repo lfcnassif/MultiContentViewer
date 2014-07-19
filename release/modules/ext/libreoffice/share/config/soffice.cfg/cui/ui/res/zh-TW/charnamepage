@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="weststyleft-cjk" i="label">樣式</e>
+ <e g="label6" i="label">複合文字字型</e>
+ <e g="westsizeft-cjk" i="label">大小</e>
+ <e g="ctlstyleft" i="label">樣式</e>
+ <e g="westfontnameft-nocjk" i="label">字族</e>
+ <e g="label5" i="label">亞洲文字字型</e>
+ <e g="label4" i="label">西文字型</e>
+ <e g="eastsizeft" i="label">大小</e>
+ <e g="westfontnameft-cjk" i="label">字族</e>
+ <e g="westlangft-cjk" i="label">語言</e>
+ <e g="label19" i="label">預覽</e>
+ <e g="ctlfontnameft" i="label">字族</e>
+ <e g="eaststyleft" i="label">樣式</e>
+ <e g="ctlsizeft" i="label">大小</e>
+ <e g="weststyleft-nocjk" i="label">樣式</e>
+ <e g="eastlangft" i="label">語言</e>
+ <e g="eastfontnameft" i="label">字族</e>
+ <e g="ctllangft" i="label">語言</e>
+ <e g="label21" i="label">字型</e>
+ <e g="westlangft-nocjk" i="label">語言</e>
+ <e g="westsizeft-nocjk" i="label">大小</e>
+</t>

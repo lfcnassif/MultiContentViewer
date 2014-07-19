@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">첫번째 키</e>
+ <e g="typeft" i="label">색인</e>
+ <e g="phonetic1ft" i="label">Phonetic reading</e>
+ <e g="searchcasewordonlycb" i="label">Whole words only</e>
+ <e g="levelft" i="label">수준</e>
+ <e g="new" i="tooltip_text">새 사용자 정의 색인</e>
+ <e g="IndexEntryDialog" i="title">색인 항목 삽입</e>
+ <e g="mainentrycb" i="label">Main entry</e>
+ <e g="phonetic0ft" i="label">Phonetic reading</e>
+ <e g="searchcasesensitivecb" i="label">Match case</e>
+ <e g="key2ft" i="label">두번째 키</e>
+ <e g="label1" i="label">Selection</e>
+ <e g="applytoallcb" i="label">Apply to all similar texts</e>
+ <e g="insert" i="label">Insert</e>
+ <e g="phonetic2ft" i="label">Phonetic reading</e>
+ <e g="label3" i="label">Entry</e>
+</t>

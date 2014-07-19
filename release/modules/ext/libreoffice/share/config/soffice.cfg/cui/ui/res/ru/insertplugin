@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Файл / URL</e>
+ <e g="label2" i="label">Параметры</e>
+ <e g="InsertPluginDialog" i="title">Вставка подключаемого модуля</e>
+ <e g="urlbtn" i="label">Обзор...</e>
+</t>

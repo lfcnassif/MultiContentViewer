@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">Bearbeiten</e>
+ <e g="macrotoft" i="label">Makro speichern in</e>
+ <e g="existingmacrosft" i="label">Vorhandene Makros in:</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic Makros</e>
+ <e g="macrofromft" i="label">Makro aus</e>
+ <e g="libraryft1" i="label">Name des Makros</e>
+ <e g="newlibrary" i="label">Neue Bibliothek</e>
+ <e g="newmodule" i="label">Neues Modul</e>
+ <e g="organize" i="label">Verwalten...</e>
+ <e g="run" i="label">Ausführen</e>
+ <e g="assign" i="label">Zuweisen...</e>
+</t>

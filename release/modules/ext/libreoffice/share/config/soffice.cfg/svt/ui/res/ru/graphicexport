@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 - лучшее качество и наибольший размер файла.</e>
+ <e g="liststore2" i="3">точек</e>
+ <e g="level2rb" i="label">Уровень 2</e>
+ <e g="label17" i="label">Просмотр</e>
+ <e g="label2" i="label">Глубина цвета</e>
+ <e g="label10" i="label">1 - худшее качество и наименьший размер файла.</e>
+ <e g="label16" i="label">Кодировка</e>
+ <e g="label22" i="label">0 - наибольший размер файла и быстрая загрузка.</e>
+ <e g="label" i="label">Сжатие</e>
+ <e g="label1" i="label">Размер</e>
+ <e g="compressnone" i="label">Нет</e>
+ <e g="resolutionft" i="label">Разрешение</e>
+ <e g="liststore2" i="1">см</e>
+ <e g="label6" i="label">Высота</e>
+ <e g="liststore1" i="0">пикс./см</e>
+ <e g="label20" i="label">Сжатие</e>
+ <e g="liststore1" i="2">пикс./метр</e>
+ <e g="binarycb" i="label">Двоичное</e>
+ <e g="GraphicExportDialog" i="title"> Параметры</e>
+ <e g="textcb" i="label">Текст</e>
+ <e g="color1rb" i="label">Цвет</e>
+ <e g="liststore2" i="4">пикс.</e>
+ <e g="epsipreviewcb" i="label">Interchange (EPSI)</e>
+ <e g="label5" i="label">Ширина</e>
+ <e g="color2rb" i="label">Оттенки серого</e>
+ <e g="label19" i="label">Версия</e>
+ <e g="label4" i="label">Информация</e>
+ <e g="rlecb" i="label">Кодирование RLE</e>
+ <e g="labe" i="label">Объекты рисунков</e>
+ <e g="liststore2" i="0">дюймы</e>
+ <e g="label12" i="label">Режим</e>
+ <e g="liststore2" i="2">мм</e>
+ <e g="compresslzw" i="label">Кодировка LZW</e>
+ <e g="label3" i="label">Сжатие</e>
+ <e g="tiffpreviewcb" i="label">Image Preview (TIFF)</e>
+ <e g="savetransparencycb" i="label">Сохранить прозрачность</e>
+ <e g="level1rb" i="label">Уровень 1</e>
+ <e g="liststore1" i="1">пикс./дюйм</e>
+ <e g="label23" i="label">9 - наименьший размер файла и медленная загрузка.</e>
+ <e g="label18" i="label">Формат цвета</e>
+ <e g="interlacedcb" i="label">С чередованием</e>
+ <e g="label9" i="label">Качество</e>
+</t>

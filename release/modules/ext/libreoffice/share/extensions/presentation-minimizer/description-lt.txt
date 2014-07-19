@@ -1,0 +1,2 @@
+Pateikčių glaudinimo priemonė naudojama pateikties failo dydžiui sumažinti. Paveikslai suglaudinami, o nebereikalingi duomenys pašalinami.
+Pateikčių glaudinimo priemone galima optimizuoti paveikslų kokybę. Pateiktims, demonstruojamoms ekrane ar projektoriumi, nereikia tokios geros paveikslų kokybės, kaip spausdinamoms pateiktims.

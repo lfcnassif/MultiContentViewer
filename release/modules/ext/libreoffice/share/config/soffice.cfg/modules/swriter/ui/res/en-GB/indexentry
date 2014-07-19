@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">1st key</e>
+ <e g="typeft" i="label">Index</e>
+ <e g="phonetic1ft" i="label">Phonetic reading</e>
+ <e g="searchcasewordonlycb" i="label">Whole words only</e>
+ <e g="levelft" i="label">Level</e>
+ <e g="new" i="tooltip_text">New User-Defined Index</e>
+ <e g="IndexEntryDialog" i="title">Insert Index Entry</e>
+ <e g="mainentrycb" i="label">Main entry</e>
+ <e g="phonetic0ft" i="label">Phonetic reading</e>
+ <e g="searchcasesensitivecb" i="label">Match case</e>
+ <e g="key2ft" i="label">2nd key</e>
+ <e g="label1" i="label">Selection</e>
+ <e g="applytoallcb" i="label">Apply to all similar texts</e>
+ <e g="insert" i="label">Insert</e>
+ <e g="phonetic2ft" i="label">Phonetic reading</e>
+ <e g="label3" i="label">Entry</e>
+</t>

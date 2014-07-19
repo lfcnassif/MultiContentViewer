@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 87 Bifați această căsuță pentru a marca pagina încărcată ca fiind o modificare minoră a paginii deja existente cu același titlu.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 36 Introduceți un scurt sumar sau comentariu, opțional.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 128 Introduceți titlul articolului Wiki la care lucrați. Acesta este cel mai de sus antet al articolului dumneavoastră. Titlul unui articol nou trebuie să fie unic în acest Wiki. Dacă introduceți un titlu existent, articolul dumneavoastră va suprascrie articolul Wiki existent cu acest titlu.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 88 Selectează serverul MediaWiki pe care vrei să-ți publici documentul. Click pe Adăugare pentru adăugarea unui server nou în listă.
+22 vnd.com.sun.star.wiki%3AsendDialog 88 Selectează serverul MediaWiki pe care vrei să-ți publici documentul. Click pe Adăugare pentru adăugarea unui server nou în listă.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 7c Bifați această căsuță pentru a deschide navigatorul web de pe sistemul dumneavoastră și a arăta pagina Wiki creată.
+1f vnd.com.sun.star.wiki%3Aaccount 3f Introduceți URL-ul serverului MediaWiki, începînd cu http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox af Bifați pentru ca parola dumneavoastră să fie reținută între sesiuni. Parola generală trebuie să fie activată, accesați Unelte - Opțiuni - %PRODUCTNAME - Securitate.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 5d Introduceți parola cu care lucrați pe serverul MediaWiki. Lăsați gol pentru acces anonim.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 6b Introduceți numele dumneavoastră de utilizator al serverului MediaWiki. Lăsați gol pentru acces anonim.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3f Introduceți URL-ul serverului MediaWiki, începînd cu http://
+1c vnd.com.sun.star.wiki%3Asend 73 Selectați Fișier - Trimite - La MediaWiki pentru a încărca documentul curent din Writer pe un server MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox a7 Folosind Wiki Publisher puteți încărca texte direct din Writer pe un MediaWiki server. După încărcare toâi utilizatorii Wiki vă pot citi documentul încărcat.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 30 Îndepărtează articolul selectat de pe listă.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList eb Clic pe Adaugă pentru a adăuga un nou server Wiki.Selectați o poziție și faceți clic pe Editează pentru a edita setările contului.Selectați o poziție și faceți clic pe Îndepărtează pentru a elimina poziția de pe listă.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3e Deschide dialogul MediaWiki pentru a edita articolul selectat.
+20 vnd.com.sun.star.wiki%3Asettings eb Clic pe Adaugă pentru a adăuga un nou server Wiki.Selectați o poziție și faceți clic pe Editează pentru a edita setările contului.Selectați o poziție și faceți clic pe Îndepărtează pentru a elimina poziția de pe listă.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 49 Deschide dialogul MediaWiki pentru a adăuga încă un articol la listă.

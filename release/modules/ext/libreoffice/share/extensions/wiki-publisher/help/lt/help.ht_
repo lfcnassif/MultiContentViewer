@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 6a Check this box to mark the uploaded page as a minor edit of the already existing page with the same title.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 2f Įveskite santrauką ar komentarą (nebūtina).
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText ed Įveskite „Wiki“ įrašo pavadinimą. Tai bus pagrindinė jūsų įrašo antraštė. Kuriant naują įrašą, ji turi būti unikali šiame vikyje. Jei įvesite egzistuojantį pavadinimą, perrašysite ir egzistuojantį viki įrašą.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 8e Pasirinkite „MediaWiki“ serverį, kuriame norite publikuoti dokumentą. Jei norite pridėti naują serverį, spustelėkite „Pridėti“.
+22 vnd.com.sun.star.wiki%3AsendDialog 8e Pasirinkite „MediaWiki“ serverį, kuriame norite publikuoti dokumentą. Jei norite pridėti naują serverį, spustelėkite „Pridėti“.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 4f Check this box to open your system web browser and show the uploaded Wiki page.
+1f vnd.com.sun.star.wiki%3Aaccount 3a Enter the URL of a MediaWiki server, starting with http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 83 Enable to store your password between sessions. The master password must be enabled, see Tools - Options - %PRODUCTNAME - Security.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 4e Enter your password on the MediaWiki server. Leave empty for anonymous access.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 4f Enter your user name on the MediaWiki server. Leave empty for anonymous access.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3a Enter the URL of a MediaWiki server, starting with http://
+1c vnd.com.sun.star.wiki%3Asend 5e Choose File - Send - To MediaWiki to upload the current Writer document to a MediaWiki server.
+20 vnd.com.sun.star.wiki%3Aaboutbox a7 By using the Wiki Publisher you can upload your current Writer text document to a MediaWiki server. After uploading, all Wiki users can read your document on the Wiki.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 29 Removes the selected entry from the list.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList a2 Click Add to add a new Wiki server.Select an entry and click Edit to edit the account settings.Select an entry and click Remove to remove the entry from the list.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 36 Opens the MediaWiki dialog to edit the selected entry.
+20 vnd.com.sun.star.wiki%3Asettings a2 Click Add to add a new Wiki server.Select an entry and click Edit to edit the account settings.Select an entry and click Remove to remove the entry from the list.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 3a Opens the MediaWiki dialog to add a new entry to the list.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Aperçu</e>
+ <e g="label22" i="label">Espacement</e>
+ <e g="kerningft" i="label">par</e>
+ <e g="relativefontsize" i="label">Taille relative</e>
+ <e g="0deg" i="label">0 degré</e>
+ <e g="90deg" i="label">90 degrés</e>
+ <e g="superscript" i="label">Exposant</e>
+ <e g="normal" i="label">Normal</e>
+ <e g="270deg" i="label">270 degrés</e>
+ <e g="liststore1" i="0">Par défaut</e>
+ <e g="liststore1" i="1">Étendu</e>
+ <e g="liststore1" i="2">Condensé</e>
+ <e g="pairkerning" i="label">Paire de crénage</e>
+ <e g="label24" i="label">Échelle de largeur</e>
+ <e g="raiselower" i="label">Élever/abaisser de</e>
+ <e g="rotate" i="label">Rotation</e>
+ <e g="rotateandscale" i="label">Rotation / Échelle</e>
+ <e g="subscript" i="label">Indice</e>
+ <e g="fittoline" i="label">Adapter à la ligne</e>
+ <e g="automatic" i="label">Automatique</e>
+ <e g="label20" i="label">Position</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="characterstyle" i="label">Стиль символа</e>
+ <e g="count" i="label">Количество</e>
+ <e g="view" i="label">Вид</e>
+ <e g="positionstore" i="3">Снаружи</e>
+ <e g="positionstore" i="1">Справа</e>
+ <e g="format" i="label">Формат</e>
+ <e g="position" i="label">Положение</e>
+ <e g="every" i="label">Каждые</e>
+ <e g="shownumbering" i="label">Включить нумерацию</e>
+ <e g="positionstore" i="2">Внутри</e>
+ <e g="positionstore" i="0">Слева</e>
+ <e g="lines" i="label">Линии</e>
+ <e g="restarteverynewpage" i="label">На каждой странице заново</e>
+ <e g="linesintextframes" i="label">Строки во врезках</e>
+ <e g="spacing" i="label">Интервал</e>
+ <e g="intervallines" i="label">строк(и)</e>
+ <e g="interval" i="label">Интервал</e>
+ <e g="LineNumberingDialog" i="title">Нумерация строк</e>
+ <e g="blanklines" i="label">Пустые строки</e>
+ <e g="separator" i="label">Разделитель</e>
+ <e g="text" i="label">Текст</e>
+</t>

@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 5f Zaškrtněte toto pole, pokud je odesílaná stránka jen malou úpravou existující stránky.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 2f Můžete zadat krátký souhrn nebo komentář.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText d4 Zadejte nadpis svého Wiki článku. Pokud chcete vytvořit nový článek, nesmí existovat článek se stejným názvem. Pokud zadáte existující název, odeslaný soubor přepíše existující Wiki záznam.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 90 Zvolte server MediaWiki, na kterém chcete uveřejnit svůj dokument. Kliknutím na tlačítko Přidat můžete do seznamu přidat nový server.
+22 vnd.com.sun.star.wiki%3AsendDialog 90 Zvolte server MediaWiki, na kterém chcete uveřejnit svůj dokument. Kliknutím na tlačítko Přidat můžete do seznamu přidat nový server.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 61 Zaškrtněte toto pole, pokud chcete odeslanou Wiki stránku otevřít ve webovém prohlížeči.
+1f vnd.com.sun.star.wiki%3Aaccount 38 Zadejte URL serveru MediaWiki, začínající na http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 95 Umožňuje trvale uložit heslo. Musí být nastaveno hlavní heslo, to nastavíte v dialogu Nástroje - Možnosti... - %PRODUCTNAME - Zabezpečení.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 54 Zadejte své heslo na serveru MediaWiki. Pro anonymní přístup ponechte prázdné.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 68 Zadejte své uživatelské jméno na serveru MediaWiki. Pro anonymní přístup ponechte pole prázdné.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 38 Zadejte URL serveru MediaWiki, začínající na http://
+1c vnd.com.sun.star.wiki%3Asend 6a Chcete-li odeslat aktuální dokument Writeru na server MediaWiki, zvolte Soubor - Odeslat - Do MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox c8 Pomocí rozšíření Publikování na MediaWiki můžete odeslat aktuální dokument Writeru přímo na server MediaWiki. Poté si mohou váš článek přečíst všichni návštěvníci dané wiki.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 23 Odebere vybraný server ze seznamu.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList e1 Pro přidání nového Wiki serveru klikněte na tlačítko Přidat.Pro úpravu nastavení označte server a klikněte na tlačítko Upravit.Pro odebrání serveru ze seznamu označte server a klikněte na tlačítko Odebrat.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 38 Otevře dialog MediaWiki pro úpravu vybraného serveru.
+20 vnd.com.sun.star.wiki%3Asettings e1 Pro přidání nového Wiki serveru klikněte na tlačítko Přidat.Pro úpravu nastavení označte server a klikněte na tlačítko Upravit.Pro odebrání serveru ze seznamu označte server a klikněte na tlačítko Odebrat.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 43 Otevře dialog MediaWiki pro přidání nového serveru do seznamu.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Элемент</e>
+ <e g="label3" i="label">Имя</e>
+ <e g="label5" i="label">Сокращение</e>
+ <e g="fromdocument" i="label">Из содержимого документа</e>
+ <e g="label2" i="label">Автор</e>
+ <e g="insert" i="label">Вставить</e>
+ <e g="frombibliography" i="label">Из базы данных библиографии</e>
+ <e g="modify" i="label">Изменить</e>
+ <e g="BibliographyEntryDialog" i="title">Вставить библиографическую ссылку</e>
+</t>

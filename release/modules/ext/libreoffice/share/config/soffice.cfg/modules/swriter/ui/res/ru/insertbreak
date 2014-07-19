@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Стиль</e>
+ <e g="linerb" i="label">Перенос строки</e>
+ <e g="label1" i="label">Тип</e>
+ <e g="liststore1" i="0">[Нет]</e>
+ <e g="pagenumcb" i="label">Изменить номер страницы</e>
+ <e g="pagerb" i="label">Разрыв страницы</e>
+ <e g="BreakDialog" i="title">Вставить разрыв</e>
+ <e g="columnrb" i="label">Разрыв колонки</e>
+</t>

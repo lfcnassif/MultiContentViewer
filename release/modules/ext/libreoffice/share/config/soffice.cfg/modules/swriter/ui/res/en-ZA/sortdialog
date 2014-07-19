@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">Tabs</e>
+ <e g="columns" i="label">Columns</e>
+ <e g="label3" i="label">Direction</e>
+ <e g="up2" i="label">Ascending</e>
+ <e g="1" i="label">Sort criteria</e>
+ <e g="column" i="label">Column</e>
+ <e g="key3" i="label">Key 3</e>
+ <e g="character" i="label">Character </e>
+ <e g="down2" i="label">Descending</e>
+ <e g="matchcase" i="label">Match case</e>
+ <e g="label2" i="label">Setting</e>
+ <e g="up1" i="label">Ascending</e>
+ <e g="key2" i="label">Key 2</e>
+ <e g="down1" i="label">Descending</e>
+ <e g="rows" i="label">Rows</e>
+ <e g="label4" i="label">Separator</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">Key type</e>
+ <e g="up3" i="label">Ascending</e>
+ <e g="label1" i="label">Language</e>
+ <e g="key1" i="label">Key 1</e>
+ <e g="SortDialog" i="title">Sort</e>
+ <e g="order" i="label">Order</e>
+ <e g="down3" i="label">Descending</e>
+</t>

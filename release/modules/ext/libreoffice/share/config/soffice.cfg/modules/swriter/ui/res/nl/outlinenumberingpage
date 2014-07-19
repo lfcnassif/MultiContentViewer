@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">Na</e>
+ <e g="label7" i="label">Scheidingsteken</e>
+ <e g="label5" i="label">Tekenopmaakprofiel</e>
+ <e g="label3" i="label">Alineaopmaakprofiel</e>
+ <e g="label2" i="label">Nummering</e>
+ <e g="label8" i="label">Ervoor</e>
+ <e g="label4" i="label">Getal</e>
+ <e g="label10" i="label">Begin bij</e>
+ <e g="label1" i="label">Niveau</e>
+ <e g="sublevelsft" i="label">Subniveaus weergeven</e>
+</t>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Paragrafo</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">righe</e>
+ <e g="tabs" i="label">Tabulazioni</e>
+ <e g="label3" i="label">Le prime </e>
+ <e g="label1" i="label">Separatore nel testo</e>
+ <e g="headingcb" i="label">Intestazione</e>
+ <e g="bordercb" i="label">Bordo</e>
+ <e g="dontsplitcb" i="label">Non separare la tabella</e>
+ <e g="autofmt" i="label">Formattazione automatica...</e>
+ <e g="repeatheading" i="label">Ripeti intestazione</e>
+ <e g="keepcolumn" i="label">~Larghezza uguale per tutte le colonne</e>
+ <e g="ConvertTextTableDialog" i="title">Converti tabella in testo</e>
+ <e g="semicolons" i="label">Punto e virgola</e>
+ <e g="2" i="label">Opzioni</e>
+ <e g="other" i="label">Altro:</e>
+</t>

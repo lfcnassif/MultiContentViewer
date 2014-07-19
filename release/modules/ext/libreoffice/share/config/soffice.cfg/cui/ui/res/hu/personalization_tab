@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="background_label" i="label">Háttérkép</e>
+ <e g="own_background" i="label">Saját kép</e>
+ <e g="default_background" i="label">Előre telepített háttérkép (ha van)</e>
+ <e g="label1" i="label">Firefox Personak</e>
+ <e g="no_background" i="label">Egyszerű megjelenés háttérkép nélkül</e>
+ <e g="own_persona" i="label">Saját Persona</e>
+ <e g="select_background" i="label">Válasszon háttérképet</e>
+ <e g="no_persona" i="label">Egyszerű megjelenés, Persona használata nélkül</e>
+ <e g="default_persona" i="label">Előre telepített Persona (ha van)</e>
+ <e g="select_persona" i="label">Persona kiválasztása</e>
+</t>

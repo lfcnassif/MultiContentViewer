@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Размер</e>
+ <e g="grayscale" i="label">Оттенки серого</e>
+ <e g="tilesheet" i="label">Печать мозаикой</e>
+ <e g="fittoprintable" i="label">Подогнать по размеру страницы</e>
+ <e g="printname" i="label">Имя слайда</e>
+ <e g="printhidden" i="label">Скрытые страницы</e>
+ <e g="originalcolors" i="label">Исходный размер</e>
+ <e g="blackandwhite" i="label">Чёрно-белое</e>
+ <e g="distributeonmultiple" i="label">Печать плакатом</e>
+ <e g="printdatetime" i="label">Дата и время</e>
+ <e g="label4" i="label">Содержимое</e>
+ <e g="label5" i="label">Цвет</e>
+ <e g="originalsize" i="label">Исходный размер</e>
+</t>

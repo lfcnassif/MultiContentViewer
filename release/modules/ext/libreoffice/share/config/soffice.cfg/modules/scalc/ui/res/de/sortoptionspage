@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Sortierergebnis ausgeben nach:</e>
+ <e g="label6" i="label">Sprache</e>
+ <e g="algorithmft" i="label">Einstellungen</e>
+ <e g="naturalsort" i="label">Natürliche Sortierung aktivieren</e>
+ <e g="sortuser" i="label">Benutzerdefinierte Sortierreihenfolge</e>
+ <e g="header" i="label">Bereich enthält...</e>
+ <e g="topdown" i="label">Von oben nach _unten (Zeilen sortieren)</e>
+ <e g="case" i="label">Groß-/Kleinschreibung _berücksichtigen</e>
+ <e g="formats" i="label">Formate einschließen</e>
+ <e g="leftright" i="label">Von _links nach rechts (Spalten sortieren)</e>
+ <e g="label1" i="label">Richtung</e>
+</t>

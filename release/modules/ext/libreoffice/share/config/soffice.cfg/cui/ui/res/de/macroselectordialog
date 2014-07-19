@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">Wählen Sie zuerst die Bibliothek, die das gewünschte Makro enthält. Wählen Sie anschließend das Makro unter 'Name des Makros'.</e>
+ <e g="categoryft" i="label">Bereich</e>
+ <e g="helptoolbar" i="label">Um einen Befehl zu einer Symbolleiste hinzuzufügen, wählen Sie zuerst eine Kategorie und dann den Befehl. Ziehen Sie den Befehl in die Liste Befehle des Registers Symbolleisten im Dialog Anpassen.</e>
+ <e g="add" i="label">Hinzufügen</e>
+ <e g="label1" i="label">Beschreibung</e>
+ <e g="MacroSelectorDialog" i="title">Makro-Selektor</e>
+ <e g="macronameft" i="label">Name des Makros</e>
+ <e g="commandsft" i="label">Befehle</e>
+ <e g="libraryft" i="label">Bibliothek</e>
+</t>

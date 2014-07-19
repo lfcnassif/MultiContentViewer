@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Alternatives</e>
+ <e g="alternatives" i="label">label</e>
+ <e g="replace" i="label">바꾸기</e>
+ <e g="ThesaurusDialog" i="title">동의어 사전</e>
+ <e g="label1" i="label">Current word</e>
+ <e g="label3" i="label">바꾸기</e>
+</t>

@@ -1,0 +1,1 @@
+Bruk rapportbyggeren til å lage attraktive og moderne databaserapporter. Den fleksible rapportredigeringa kan angi gruppe- og sidetopptekst/gruppe- og sidebunntekst. I tillegg er beregningsfelter tilgjengelige for mer kompliserte databaserapporter.

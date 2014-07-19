@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Fájl</e>
+ <e g="linktofile" i="label">Csatolás fájlhoz</e>
+ <e g="InsertOLEObjectDialog" i="title">OLE-objektum beszúrása</e>
+ <e g="label1" i="label">Objektum típusa</e>
+ <e g="createfromfile" i="label">Létrehozás fájlból</e>
+ <e g="urlbtn" i="label">Keresés…</e>
+ <e g="createnew" i="label">Új létrehozása</e>
+</t>

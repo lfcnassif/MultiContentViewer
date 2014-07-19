@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">Dovete riavviare %PRODUCTNAME affinché l'ambiente di runtime Java selezionato possa funzionare correttamente.</e>
+ <e g="yes" i="label">Riavvia ora</e>
+ <e g="RestartDialog" i="title">Riavvia %PRODUCTNAME</e>
+ <e g="label" i="label">Volete riavviare %PRODUCTNAME ora?</e>
+ <e g="no" i="label">Riavvia più tardi</e>
+ <e g="reason_pdf" i="label">Dovete riavviare %PRODUCTNAME affinché le modifiche al formato di stampa predefinito abbiano effetto.</e>
+ <e g="reason_bibliography_install" i="label">Dovete riavviare %PRODUCTNAME affinché la bibliografia possa funzionare correttamente.</e>
+</t>

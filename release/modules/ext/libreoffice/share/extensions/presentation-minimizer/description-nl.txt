@@ -1,0 +1,3 @@
+De Minimaliseerder van presentaties wordt gebruikt om de bestandsgrootte van de huidige presentatie te beperken. Afbeeldingen worden gecomprimeerd en gegevens die niet meer nodig zijn worden verwijderd.
+De Minimaliseerder van presentaties kan de grootte en kwaliteit van een afbeelding optimaliseren. Presentaties, gemaakt voor gebruik op een scherm, vereisen niet dezelfde hoge kwaliteit als presentaties gemaakt om af te drukken.
+ 

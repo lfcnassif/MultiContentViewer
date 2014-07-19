@@ -1,0 +1,1 @@
+Bruk rapportbyggjaren til å lage attraktive og moderne databaserapportar. Den fleksible rapportredigeringa kan definere gruppe- og sidetopptekst/gruppe- og sidebotntekst. I tillegg er det også utrekningsfelt for meir kompliserte databaserapportar.

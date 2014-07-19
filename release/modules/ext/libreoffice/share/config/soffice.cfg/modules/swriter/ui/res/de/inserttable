@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Beschriftung</e>
+ <e g="ok" i="label">Einfügen</e>
+ <e g="headercb" i="label">Übe_rschrift</e>
+ <e g="bordercb" i="label">_Umrandung</e>
+ <e g="label1" i="label">Allgemein</e>
+ <e g="repeatcb" i="label">Kopfzeile  auf _neuen Seiten wiederholen</e>
+ <e g="dontsplitcb" i="label">Tabelle nicht an Seiten _umbrechen</e>
+ <e g="3" i="label">Spalten </e>
+ <e g="label2" i="label">Optionen</e>
+ <e g="InsertTableDialog" i="title">Tabelle einfügen</e>
+ <e g="4" i="label">_Zeilen</e>
+ <e g="repeatheaderafter" i="label">_Kopfzeilen</e>
+ <e g="autoformat" i="label">_AutoFormat</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">預覽</e>
+ <e g="label22" i="label">間距</e>
+ <e g="kerningft" i="label">距離</e>
+ <e g="relativefontsize" i="label">相對的字型大小</e>
+ <e g="0deg" i="label">0 度</e>
+ <e g="90deg" i="label">90 度</e>
+ <e g="superscript" i="label">上標</e>
+ <e g="normal" i="label">標準</e>
+ <e g="270deg" i="label">270 度</e>
+ <e g="liststore1" i="0">預設</e>
+ <e g="liststore1" i="1">擴展</e>
+ <e g="liststore1" i="2">壓縮</e>
+ <e g="pairkerning" i="label">字母對的字距微調</e>
+ <e g="label24" i="label">縮放寬度</e>
+ <e g="raiselower" i="label">上升/下降值</e>
+ <e g="rotate" i="label">旋轉</e>
+ <e g="rotateandscale" i="label">旋轉 / 縮放</e>
+ <e g="subscript" i="label">下標</e>
+ <e g="fittoline" i="label">符合行高</e>
+ <e g="automatic" i="label">自動</e>
+ <e g="label20" i="label">位置</e>
+</t>

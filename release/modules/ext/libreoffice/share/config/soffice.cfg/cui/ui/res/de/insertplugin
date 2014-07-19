@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Datei/URL</e>
+ <e g="label2" i="label">Optionen</e>
+ <e g="InsertPluginDialog" i="title">PlugIn einfügen</e>
+ <e g="urlbtn" i="label">Durchsuchen...</e>
+</t>

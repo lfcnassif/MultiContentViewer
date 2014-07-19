@@ -1,0 +1,2 @@
+El Minimizador de presentaciones se usa para reducir el tamaño del archivo de la presentación actual. Las imágenes se comprimirán, y se eliminarán los datos innecesarios.
+El Minimizador de presentaciones puede optimizar el tamaño de la calidad de imagen. Las presentaciones diseñadas para verse en pantalla o con proyector no requieren una calidad tan alta como la de las presentaciones diseñadas para imprimirse.

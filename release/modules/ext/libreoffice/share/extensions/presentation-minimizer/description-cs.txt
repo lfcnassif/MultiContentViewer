@@ -1,0 +1,2 @@
+Kompresor prezentací slouží ke zmenšení velikosti aktuálně otevřené prezentace. Dosáhne toho zkomprimováním obrázků a odstraněním nepoužitých dat.
+Kompresor prezentací může optimalizovat poměr kvality a velikosti obrázků. Prezentace určené pro zobrazení na obrazovce nebo promítání nevyžadují tak vysokou kvalitu, jako prezentace určené k tisku.

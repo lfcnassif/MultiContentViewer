@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">ラベル</e>
+ <e g="ok" i="label">挿入</e>
+ <e g="headercb" i="label">見出し(_D)</e>
+ <e g="bordercb" i="label">枠線(_B)</e>
+ <e g="label1" i="label">汎用</e>
+ <e g="repeatcb" i="label">新しいページで見出し行の繰り返し(_P)</e>
+ <e g="dontsplitcb" i="label">表を分割しない(_S)</e>
+ <e g="3" i="label">列</e>
+ <e g="label2" i="label">オプション</e>
+ <e g="InsertTableDialog" i="title">表の挿入</e>
+ <e g="4" i="label">行(_R)</e>
+ <e g="repeatheaderafter" i="label">見出しの行数(_W)</e>
+ <e g="autoformat" i="label">オートフォーマット(_F)</e>
+</t>

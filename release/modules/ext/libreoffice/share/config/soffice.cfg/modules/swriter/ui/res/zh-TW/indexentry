@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">第一個關鍵字</e>
+ <e g="typeft" i="label">目錄</e>
+ <e g="phonetic1ft" i="label">語音描述</e>
+ <e g="searchcasewordonlycb" i="label">只允許整個字詞</e>
+ <e g="levelft" i="label">級</e>
+ <e g="new" i="tooltip_text">新增使用者自訂目錄</e>
+ <e g="IndexEntryDialog" i="title">插入目錄條目</e>
+ <e g="mainentrycb" i="label">主條目</e>
+ <e g="phonetic0ft" i="label">語音描述</e>
+ <e g="searchcasesensitivecb" i="label">區分字母大小寫</e>
+ <e g="key2ft" i="label">第二個關鍵字</e>
+ <e g="label1" i="label">選取</e>
+ <e g="applytoallcb" i="label">套用至所有相似的文字</e>
+ <e g="insert" i="label">插入</e>
+ <e g="phonetic2ft" i="label">語音描述</e>
+ <e g="label3" i="label">條目</e>
+</t>

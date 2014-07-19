@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Largura</e>
+ <e g="label2" i="label">Coluna</e>
+ <e g="label1" i="label">Largura</e>
+ <e g="ColumnWidthDialog" i="title">Largura da coluna</e>
+</t>

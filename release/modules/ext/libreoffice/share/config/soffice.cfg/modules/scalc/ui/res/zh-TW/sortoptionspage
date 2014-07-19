@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">複製排序結果至：</e>
+ <e g="label6" i="label">語言</e>
+ <e g="algorithmft" i="label">選項</e>
+ <e g="naturalsort" i="label">啟用自然排序</e>
+ <e g="sortuser" i="label">自訂排序方式</e>
+ <e g="header" i="label">範圍包含...</e>
+ <e g="topdown" i="label">從頂至底 (排序列)(_T)</e>
+ <e g="case" i="label">區分字母大小寫(_S)</e>
+ <e g="formats" i="label">包含格式</e>
+ <e g="leftright" i="label">從左至右 (排序欄)(_E)</e>
+ <e g="label1" i="label">方向</e>
+</t>

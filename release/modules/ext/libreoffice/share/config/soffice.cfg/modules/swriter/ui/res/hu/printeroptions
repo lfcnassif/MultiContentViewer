@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="pictures" i="label">Képek és más grafikus objektumok</e>
+ <e g="formcontrols" i="label">Űrlapvezérlők</e>
+ <e g="autoblankpages" i="label">Automatikusan beszúrt üres oldalak nyomtatása</e>
+ <e g="pagebackground" i="label">Oldalháttér</e>
+ <e g="label6" i="label">Oldalak</e>
+ <e g="label4" i="label">Tartalom</e>
+ <e g="placeholders" i="label">Szövegek helyei</e>
+ <e g="label5" i="label">Szín</e>
+ <e g="textinblack" i="label">Szöveg nyomtatása feketén</e>
+ <e g="hiddentext" i="label">Rejtett szöveg</e>
+</t>

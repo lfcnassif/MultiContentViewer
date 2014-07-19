@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="characterstyle" i="label">Character Style</e>
+ <e g="count" i="label">Count</e>
+ <e g="view" i="label">View</e>
+ <e g="positionstore" i="3">Outer</e>
+ <e g="positionstore" i="1">Right</e>
+ <e g="format" i="label">Format</e>
+ <e g="position" i="label">Position</e>
+ <e g="every" i="label">Every</e>
+ <e g="shownumbering" i="label">Show numbering</e>
+ <e g="positionstore" i="2">Inner</e>
+ <e g="positionstore" i="0">Left</e>
+ <e g="lines" i="label">Lines</e>
+ <e g="restarteverynewpage" i="label">Restart every new page</e>
+ <e g="linesintextframes" i="label">Lines in text frames</e>
+ <e g="spacing" i="label">Spacing</e>
+ <e g="intervallines" i="label">lines</e>
+ <e g="interval" i="label">Interval</e>
+ <e g="LineNumberingDialog" i="title">Line Numbering</e>
+ <e g="blanklines" i="label">Blank lines</e>
+ <e g="separator" i="label">Separator</e>
+ <e g="text" i="label">Text</e>
+</t>

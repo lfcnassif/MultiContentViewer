@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Standaard</e>
+ <e g="heightlabel" i="label">Hoogte</e>
+ <e g="label2" i="label">Rand</e>
+ <e g="scrollbarauto" i="label">Automatisch</e>
+ <e g="label1" i="label">Schuifbalk</e>
+ <e g="label7" i="label">Inhoud</e>
+ <e g="borderon" i="label">Aan</e>
+ <e g="InsertFloatingFrameDialog" i="title">Eigenschappen voor zwevend frame</e>
+ <e g="buttonbrowse" i="label">Bladeren...</e>
+ <e g="label6" i="label">Naam</e>
+ <e g="widthlabel" i="label">Breedte</e>
+ <e g="scrollbaroff" i="label">Uit</e>
+ <e g="scrollbaron" i="label">Aan</e>
+ <e g="defaultheight" i="label">Standaard</e>
+ <e g="borderoff" i="label">Uit</e>
+ <e g="label3" i="label">Afstand tot inhoud</e>
+</t>

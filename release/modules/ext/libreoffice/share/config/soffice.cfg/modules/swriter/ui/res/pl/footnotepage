@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">Na dokument</e>
+ <e g="pos" i="label">Pozycja</e>
+ <e g="label3" i="label">Autonumeracja</e>
+ <e g="label18" i="label">Początek następnej strony</e>
+ <e g="label17" i="label">Koniec przypisu</e>
+ <e g="pagestyleft" i="label">Strona</e>
+ <e g="label6" i="label">Numeracja</e>
+ <e g="label16" i="label">Obszar przypisów dolnych</e>
+ <e g="label13" i="label">Style znaków</e>
+ <e g="pospagecb" i="label">Koniec strony</e>
+ <e g="label8" i="label">Przed</e>
+ <e g="label5" i="label">Tekst informujący o kontynuacji</e>
+ <e g="label15" i="label">Obszar tekstu</e>
+ <e g="label12" i="label">Style</e>
+ <e g="label7" i="label">Zliczanie</e>
+ <e g="label4" i="label">Akapit</e>
+ <e g="posdoccb" i="label">Koniec dokumentu</e>
+ <e g="liststore1" i="0">Na stronę</e>
+ <e g="label11" i="label">Po</e>
+ <e g="offset" i="label">Zacznij od</e>
+ <e g="liststore1" i="1">Na rozdział</e>
+</t>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">Edit</e>
+ <e g="macrotoft" i="label">Save macro in</e>
+ <e g="existingmacrosft" i="label">Existing macros in:</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic Macros</e>
+ <e g="macrofromft" i="label">Macro from</e>
+ <e g="libraryft1" i="label">Macro name</e>
+ <e g="newlibrary" i="label">New Library</e>
+ <e g="newmodule" i="label">New Module</e>
+ <e g="organize" i="label">Organiser...</e>
+ <e g="run" i="label">Run</e>
+ <e g="assign" i="label">Assign...</e>
+</t>

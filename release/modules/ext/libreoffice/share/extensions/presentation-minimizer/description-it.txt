@@ -1,0 +1,2 @@
+La Compressione presentazione (Presentation Minimizer) viene usata per ridurre la dimensione del file della presentazione in uso, comprimendo le immagini e rimuovendo i dati non più necessari.
+La Compressione presentazione può ottimizzare la dimensione di qualità dell'immagine. Le presentazioni progettate per schermo o proiettore non richiedono la stessa alta qualità delle presentazioni destinate alla stampa.

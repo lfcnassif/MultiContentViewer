@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">Другие символы...</e>
+ <e g="label29" i="label">Начальный символ</e>
+ <e g="liststore1" i="0">(Нет)</e>
+ <e g="label28" i="label">Обрамляющие символы</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">Набирать в две строки</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(Нет)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">Другие символы...</e>
+ <e g="label30" i="label">Конечный символ</e>
+ <e g="label2" i="label">С двух сторон</e>
+ <e g="label52" i="label">Просмотр</e>
+</t>

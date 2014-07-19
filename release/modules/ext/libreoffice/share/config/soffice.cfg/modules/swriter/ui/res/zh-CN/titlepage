@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">标题页面</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">插入新标题页</e>
+ <e g="label3" i="label">编辑页面属性</e>
+ <e g="label2" i="label">页码编号</e>
+ <e g="label1" i="label">作为标题页面</e>
+ <e g="label8" i="label">页</e>
+ <e g="label6" i="label">标题页面数</e>
+ <e g="label7" i="label">将标题页面置于</e>
+ <e g="CB_RESTART_NUMBERING" i="label">重置标题页以后的页码编号</e>
+ <e g="FT_PAGE_PAGES" i="label">页码</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">将已有页面转换为标题页面</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">设置标题页面第一页的页码</e>
+ <e g="RB_DOCUMENT_START" i="label">文档开头</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">编辑...</e>
+ <e g="RB_PAGE_START" i="label">页</e>
+ <e g="FT_PAGE_COUNT" i="label">页码</e>
+</t>

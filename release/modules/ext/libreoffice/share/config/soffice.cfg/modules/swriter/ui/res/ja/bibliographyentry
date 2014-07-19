@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">項目</e>
+ <e g="label3" i="label">タイトル</e>
+ <e g="label5" i="label">略称</e>
+ <e g="fromdocument" i="label">ドキュメントから</e>
+ <e g="label2" i="label">ユーザー</e>
+ <e g="insert" i="label">挿入</e>
+ <e g="frombibliography" i="label">参考文献データベースから</e>
+ <e g="modify" i="label">変更</e>
+ <e g="BibliographyEntryDialog" i="title">参考文献項目の挿入</e>
+</t>

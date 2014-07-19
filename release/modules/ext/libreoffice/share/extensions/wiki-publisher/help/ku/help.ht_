@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 70 Heke rûpela barkirî guherînekî bîçûk ya rûpelekî heyî bi eynî sernavê be, vê qutiyê nîşan bikin.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 30 Bi daxwaz, kurtasiyekî an şîrovekî têkevin.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText f4 Sernavê têketina Wiki ya xwe têkevin. Ev sernivîsa jor ya têketina we ya Wiki ye. Ji bo têketinekî nû, di vê Wiki de divê sernav yekane be. Heke hun sernavekî heyî têkevin, barkirina we dê li ser têketina Wiki ya heyî binivîse.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 9a Pêşkêşkera MediaWiki cihê ku hun daxwaza weşana belgeya xwe dikin hilbijêrin. Ji bo lêzêdekirina pêşkêşkerekî nû pêl Lê Zêde Bike bikin.
+22 vnd.com.sun.star.wiki%3AsendDialog 9a Pêşkêşkera MediaWiki cihê ku hun daxwaza weşana belgeya xwe dikin hilbijêrin. Ji bo lêzêdekirina pêşkêşkerekî nû pêl Lê Zêde Bike bikin.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 73 Ji bo vekirina geroka torê ya di pergala we de û nîşandana rûpela Wiki ya barkirî, vê qutiyê nîşan bikin.
+1f vnd.com.sun.star.wiki%3Aaccount 4c URLya pêşkêşkerekî MediaWiki têkevin, bila bi http:// re destpê bike.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 8e Tomarkirina nasnavê di navbera danişînan de çalak bikin. Makenasnav divê çalak be, binihêre Amûr - Vebijêrk - %PRODUCTNAME - Ewlehî.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 59 Di pêşkêşkera MediaWiki de nasnav têkevin. Ji bo gihîştina gekêrî vala bihêlin.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 64 Di pêşkêşkera MediaWiki de navê bikarhêner têkevin. Ji bo gihîştina gekêrî vala bihêlin.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 4c URLya pêşkêşkerekî MediaWiki têkevin, bila bi http:// re destpê bike.
+1c vnd.com.sun.star.wiki%3Asend 66 Ji bo barkirina belgeya Writer li pêşkêşkera MediaWiki, Pel - Bişîne - MediaWiki re hilbijêrin.
+20 vnd.com.sun.star.wiki%3Aaboutbox c1 Bi bikaranîna Wiki Publisher re hun dikarin belgeya nivîsa Writer bar bikin li pêşkêşkera MediaWiki. Piştî barkirinê, hemû bikarhênerên Wiki dikarin belgeya we di Wiki de bixwînin.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 2c Têketinên hilbijartî ji lîsteyê radike.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList f4 Ji bo lêzêdekirina pêşkêşkerekî nû ya Wiki pêl Lê Zêde Bike bikin.Têketinekî hilbijêrin û pêl Sererast Bike bikin û mîhengên hisabê sererast bikin.Têketinekî hilbijêrin û pêl Rake bikin û têketinê ji lîsteyê rakin.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 43 Ji bo sererastkirina têketina hilbijartî paceya MediaWiki vedike.
+20 vnd.com.sun.star.wiki%3Asettings f4 Ji bo lêzêdekirina pêşkêşkerekî nû ya Wiki pêl Lê Zêde Bike bikin.Têketinekî hilbijêrin û pêl Sererast Bike bikin û mîhengên hisabê sererast bikin.Têketinekî hilbijêrin û pêl Rake bikin û têketinê ji lîsteyê rakin.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 3a Ji bo lêzêdekirina têketinekî paceya MediaWiki vedike.

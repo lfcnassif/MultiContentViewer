@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">タイトルページ</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">新規タイトルページを挿入</e>
+ <e g="label3" i="label">ページのプロパティを編集</e>
+ <e g="label2" i="label">ページの番号付け</e>
+ <e g="label1" i="label">タイトルページを作成</e>
+ <e g="label8" i="label">ページ</e>
+ <e g="label6" i="label">タイトルページ数</e>
+ <e g="label7" i="label">タイトルページを置く</e>
+ <e g="CB_RESTART_NUMBERING" i="label">タイトルページの後でページ番号をリセット</e>
+ <e g="FT_PAGE_PAGES" i="label">ページ番号</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">既存のページをタイトルページに変換</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">最初のタイトルページのページ番号を設定</e>
+ <e g="RB_DOCUMENT_START" i="label">文書の開始</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">編集...</e>
+ <e g="RB_PAGE_START" i="label">ページ</e>
+ <e g="FT_PAGE_COUNT" i="label">ページ番号</e>
+</t>

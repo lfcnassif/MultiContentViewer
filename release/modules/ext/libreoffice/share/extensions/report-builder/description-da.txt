@@ -1,0 +1,1 @@
+Brug Report Builder til at lave smarte databaserapporter. Den fleksible rapporteditor kan definere grupper, kategorier, sidehoved og sidefod. Herudover er det muligt at beregne felter for at opnå mere komplekse databaserapporter.

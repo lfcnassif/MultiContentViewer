@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Автоматически</e>
+ <e g="label3" i="label">Параметры</e>
+ <e g="TextImportOptionsDialog" i="title">Параметры импорта</e>
+ <e g="custom" i="label">Вручную</e>
+ <e g="label2" i="label">Выберите язык для импорта</e>
+ <e g="convertdata" i="label">Распознавать особые числа (даты и т.п.)</e>
+</t>

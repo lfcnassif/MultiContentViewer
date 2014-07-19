@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Titelpagina's</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Nieuwe titelpagina's invoeren</e>
+ <e g="label3" i="label">Pagina-eigenschappen bewerken</e>
+ <e g="label2" i="label">Paginanummering</e>
+ <e g="label1" i="label">Titelpagina's maken</e>
+ <e g="label8" i="label">pagina's</e>
+ <e g="label6" i="label">Aantal titelpagina's</e>
+ <e g="label7" i="label">Titelpagina's plaatsen op</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Paginanummering resetten na titelpagina's</e>
+ <e g="FT_PAGE_PAGES" i="label">Paginanummer</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Bestaande pagina's converteren naar titelpagina's</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Paginanummer instellen voor de eerste pagina</e>
+ <e g="RB_DOCUMENT_START" i="label">Begin document</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Bewerken...</e>
+ <e g="RB_PAGE_START" i="label">Pagina</e>
+ <e g="FT_PAGE_COUNT" i="label">Paginanummer</e>
+</t>

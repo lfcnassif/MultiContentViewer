@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Paragraph</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">rows</e>
+ <e g="tabs" i="label">Tabs</e>
+ <e g="label3" i="label">The first </e>
+ <e g="label1" i="label">Separate text at</e>
+ <e g="headingcb" i="label">Heading</e>
+ <e g="bordercb" i="label">Border</e>
+ <e g="dontsplitcb" i="label">Don't split table</e>
+ <e g="autofmt" i="label">AutoFormat...</e>
+ <e g="repeatheading" i="label">Repeat heading</e>
+ <e g="keepcolumn" i="label">Equal width for all columns</e>
+ <e g="ConvertTextTableDialog" i="title">Convert Table to Text</e>
+ <e g="semicolons" i="label">Semicolons</e>
+ <e g="2" i="label">Options</e>
+ <e g="other" i="label">Other:</e>
+</t>

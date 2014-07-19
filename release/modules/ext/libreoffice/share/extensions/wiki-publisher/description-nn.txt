@@ -1,0 +1,1 @@
+Utvidinga «Publiser til MediaWiki» gjer det mogleg å bruke Writer for å lage Wiki-artiklar på MediaWiki-tenarar utan å ha kjennskap til syntaksen i kodespråket.

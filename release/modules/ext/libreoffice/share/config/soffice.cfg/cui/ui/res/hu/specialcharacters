@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">Karakterek száma:</e>
+ <e g="fontft" i="label">Betűkészlet</e>
+ <e g="SpecialCharactersDialog" i="title">Különleges karakterek</e>
+ <e g="subsetft" i="label">Részhalmaz</e>
+</t>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100は最高の品質で、ファイルサイズが大きいです。</e>
+ <e g="liststore2" i="3">ポイント</e>
+ <e g="level2rb" i="label">レベル 2</e>
+ <e g="label17" i="label">プレビュー</e>
+ <e g="label2" i="label">色深度</e>
+ <e g="label10" i="label">1は最低の品質で、ファイルサイズが小さいです。</e>
+ <e g="label16" i="label">エンコーディング</e>
+ <e g="label22" i="label">0はファイルサイズが大きく、読み込みが高速です。</e>
+ <e g="label" i="label">圧縮形式</e>
+ <e g="label1" i="label">サイズ</e>
+ <e g="compressnone" i="label">なし</e>
+ <e g="resolutionft" i="label">解像度</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">高さ</e>
+ <e g="liststore1" i="0">ピクセル/cm</e>
+ <e g="label20" i="label">圧縮形式</e>
+ <e g="liststore1" i="2">ピクセル/メートル</e>
+ <e g="binarycb" i="label">バイナリ</e>
+ <e g="GraphicExportDialog" i="title"> オプション</e>
+ <e g="textcb" i="label">テキスト</e>
+ <e g="color1rb" i="label">色</e>
+ <e g="liststore2" i="4">ピクセル</e>
+ <e g="epsipreviewcb" i="label">互換ファイル(EPSI)</e>
+ <e g="label5" i="label">幅</e>
+ <e g="color2rb" i="label">グレースケール</e>
+ <e g="label19" i="label">バージョン</e>
+ <e g="label4" i="label">情報</e>
+ <e g="rlecb" i="label">RLE エンコーディング</e>
+ <e g="labe" i="label">図形描画オブジェクト</e>
+ <e g="liststore2" i="0">インチ</e>
+ <e g="label12" i="label">モード</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">LZW エンコード</e>
+ <e g="label3" i="label">圧縮形式</e>
+ <e g="tiffpreviewcb" i="label">画像のプレビュー(TIFF)</e>
+ <e g="savetransparencycb" i="label">透過性を保存</e>
+ <e g="level1rb" i="label">レベル 1</e>
+ <e g="liststore1" i="1">ピクセル/インチ</e>
+ <e g="label23" i="label">9はファイルサイズが小さく、読み込みが低速です。</e>
+ <e g="label18" i="label">カラー形式</e>
+ <e g="interlacedcb" i="label">インターレース</e>
+ <e g="label9" i="label">品質</e>
+</t>

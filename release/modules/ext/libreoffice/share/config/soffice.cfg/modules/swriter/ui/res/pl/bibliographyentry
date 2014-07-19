@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Wpis</e>
+ <e g="label3" i="label">Tytuł</e>
+ <e g="label5" i="label">Nazwa krótka</e>
+ <e g="fromdocument" i="label">Na podstawie zawartości dokumentu</e>
+ <e g="label2" i="label">Autor</e>
+ <e g="insert" i="label">Wstaw</e>
+ <e g="frombibliography" i="label">Z bibliograficznej bazy danych</e>
+ <e g="modify" i="label">Modyfikuj</e>
+ <e g="BibliographyEntryDialog" i="title">Wstaw pozycję bibliograficzną</e>
+</t>

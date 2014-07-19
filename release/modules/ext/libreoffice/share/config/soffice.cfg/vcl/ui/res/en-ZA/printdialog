@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">All pages</e>
+ <e g="pagestxt" i="label">Pages</e>
+ <e g="label5" i="label">Printer</e>
+ <e g="label11" i="label">Print</e>
+ <e g="setup" i="label">Properties...</e>
+ <e g="label9" i="label">Comment:</e>
+ <e g="customlabel" i="label">custom</e>
+ <e g="liststore3" i="0">Automatic</e>
+ <e g="label15" i="label">Print</e>
+ <e g="label19" i="label">Order</e>
+ <e g="sheetmargintxt1" i="label">Margin</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">All sheets</e>
+ <e g="label2" i="label">Page Layout</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Landscape</e>
+ <e g="label6" i="label">Details</e>
+ <e g="label12" i="label">Slides per page</e>
+ <e g="label16" i="label">Comments</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">top to bottom, then left</e>
+ <e g="ordertxt" i="label">Order</e>
+ <e g="label3" i="label">Page sides</e>
+ <e g="pagespersheetbtn" i="label">Pages per sheet</e>
+ <e g="label7" i="label">Status:</e>
+ <e g="label13" i="label">Range and copies</e>
+ <e g="label17" i="label">Include</e>
+ <e g="printpages" i="label">Pages</e>
+ <e g="location" i="label">Place</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Print to file</e>
+ <e g="reverseorder" i="label">Print in reverse page order</e>
+ <e g="collate" i="label">Collate</e>
+ <e g="label10" i="label">Document</e>
+ <e g="liststore2" i="1">top to bottom, then right</e>
+ <e g="label8" i="label">Location:</e>
+ <e g="printselection" i="label">Selection</e>
+ <e g="PrintDialog" i="title">Print</e>
+ <e g="comment" i="label">Long printer name</e>
+ <e g="liststore1" i="6">Custom</e>
+ <e g="singleprintjob" i="label">Create single print jobs for collated output</e>
+ <e g="sheetmargintxt2" i="label">to sheet border</e>
+ <e g="by" i="label">by</e>
+ <e g="label1" i="label">General</e>
+ <e g="label20" i="label">Options</e>
+ <e g="liststore2" i="3">right to left, then down</e>
+ <e g="printpaperfromsetup" i="label">Use only paper tray from printer preferences</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Draw a border around each page</e>
+ <e g="fromwhich" i="label">From which print</e>
+ <e g="pagemargintxt1" i="label">Distance</e>
+ <e g="status" i="label">Default printer</e>
+ <e g="liststore2" i="0">left to right, then down</e>
+ <e g="printselectedsheets" i="label">Selected sheets</e>
+ <e g="label21" i="label">Options</e>
+ <e g="liststore3" i="1">Portrait</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Selected cells</e>
+ <e g="pagemargintxt2" i="label">between pages</e>
+ <e g="label14" i="label">Number of copies</e>
+ <e g="brochure" i="label">Brochure</e>
+ <e g="label18" i="label">Layout</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Orientation</e>
+</t>

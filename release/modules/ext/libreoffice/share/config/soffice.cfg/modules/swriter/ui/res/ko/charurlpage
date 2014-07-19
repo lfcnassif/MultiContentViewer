@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">Text</e>
+ <e g="label33" i="label">문자 스타일</e>
+ <e g="label34" i="label">방문한 링크</e>
+ <e g="label32" i="label">하이퍼링크</e>
+ <e g="urlpb" i="label">찾아보기...</e>
+ <e g="eventpb" i="label">Events...</e>
+ <e g="label39" i="label">Target frame</e>
+ <e g="label10" i="label">방문하지 않은 링크</e>
+ <e g="label37" i="label">Name</e>
+ <e g="label36" i="label">URL</e>
+</t>

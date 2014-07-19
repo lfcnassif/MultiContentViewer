@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automatisch</e>
+ <e g="optimal" i="label">Optimaal</e>
+ <e g="columns" i="label">Kolommen</e>
+ <e g="bookmode" i="label">Boekmodus</e>
+ <e g="fitw" i="label">Aanpassen aan breedte</e>
+ <e g="label1" i="label">Weergavelay-out</e>
+ <e g="variable" i="label">Variabele</e>
+ <e g="label2" i="label">Zoomfactor</e>
+ <e g="singlepage" i="label">Enkele pagina</e>
+ <e g="ZoomDialog" i="title">In-/uitzoomen &amp; weergavelay-out</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">Breedte en hoogte aanpassen</e>
+</t>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Predeterminado</e>
+ <e g="heightlabel" i="label">Altura</e>
+ <e g="label2" i="label">Borde</e>
+ <e g="scrollbarauto" i="label">Automático</e>
+ <e g="label1" i="label">Barra de desplazamiento</e>
+ <e g="label7" i="label">Contenido</e>
+ <e g="borderon" i="label">Activado</e>
+ <e g="InsertFloatingFrameDialog" i="title">Propiedades de marcos flotantes</e>
+ <e g="buttonbrowse" i="label">Examinar...</e>
+ <e g="label6" i="label">Nombre</e>
+ <e g="widthlabel" i="label">Anchura</e>
+ <e g="scrollbaroff" i="label">Desactivado</e>
+ <e g="scrollbaron" i="label">Activado</e>
+ <e g="defaultheight" i="label">Predeterminado</e>
+ <e g="borderoff" i="label">Desactivado</e>
+ <e g="label3" i="label">Espacio al contenido</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">每個文件</e>
+ <e g="pos" i="label">位置</e>
+ <e g="label3" i="label">自動編號</e>
+ <e g="label18" i="label">從續頁開始</e>
+ <e g="label17" i="label">註腳結尾</e>
+ <e g="pagestyleft" i="label">頁</e>
+ <e g="label6" i="label">編號</e>
+ <e g="label16" i="label">註腳範圍</e>
+ <e g="label13" i="label">字元樣式</e>
+ <e g="pospagecb" i="label">頁尾</e>
+ <e g="label8" i="label">之前</e>
+ <e g="label5" i="label">接續註明</e>
+ <e g="label15" i="label">文字區域</e>
+ <e g="label12" i="label">樣式</e>
+ <e g="label7" i="label">計數</e>
+ <e g="label4" i="label">段落</e>
+ <e g="posdoccb" i="label">文件尾端</e>
+ <e g="liststore1" i="0">每頁</e>
+ <e g="label11" i="label">之後</e>
+ <e g="offset" i="label">開始從</e>
+ <e g="liststore1" i="1">每章</e>
+</t>

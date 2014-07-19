@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="InsertRowColumnDialog" i="title">Zeile einfügen</e>
+ <e g="label2" i="label">Position</e>
+ <e g="insert_before" i="label">_Vor</e>
+ <e g="insert_after" i="label">_Nach</e>
+ <e g="label3" i="label">_Anzahl</e>
+ <e g="label1" i="label">Einfügen</e>
+</t>

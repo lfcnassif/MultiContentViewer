@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">1° criterio</e>
+ <e g="typeft" i="label">Indice</e>
+ <e g="phonetic1ft" i="label">Lettura fonetica</e>
+ <e g="searchcasewordonlycb" i="label">Solo parole intere</e>
+ <e g="levelft" i="label">Livello</e>
+ <e g="new" i="tooltip_text">Nuovo indice personalizzato</e>
+ <e g="IndexEntryDialog" i="title">Inserisci voce di indice</e>
+ <e g="mainentrycb" i="label">Voce principale</e>
+ <e g="phonetic0ft" i="label">Lettura fonetica</e>
+ <e g="searchcasesensitivecb" i="label">Maiuscole/minuscole</e>
+ <e g="key2ft" i="label">2° criterio</e>
+ <e g="label1" i="label">Selezione</e>
+ <e g="applytoallcb" i="label">Applica a tutti i testi simili</e>
+ <e g="insert" i="label">Inserisci</e>
+ <e g="phonetic2ft" i="label">Lettura fonetica</e>
+ <e g="label3" i="label">Voce</e>
+</t>

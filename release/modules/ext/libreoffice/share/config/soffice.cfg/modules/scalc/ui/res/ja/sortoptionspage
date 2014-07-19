@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">並べ替え結果の貼り付け先</e>
+ <e g="label6" i="label">言語</e>
+ <e g="algorithmft" i="label">オプション</e>
+ <e g="naturalsort" i="label">自然順の並べ替えを有効にする</e>
+ <e g="sortuser" i="label">順序の指定</e>
+ <e g="header" i="label">範囲が以下を含む...</e>
+ <e g="topdown" i="label">上から下へ(行の並べ替え)(_T)</e>
+ <e g="case" i="label">大/小文字を区別(_S)</e>
+ <e g="formats" i="label">書式を含む</e>
+ <e g="leftright" i="label">左から右へ(列の並べ替え)(_E)</e>
+ <e g="label1" i="label">方向</e>
+</t>

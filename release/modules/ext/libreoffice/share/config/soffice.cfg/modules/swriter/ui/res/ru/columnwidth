@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Ширина</e>
+ <e g="label2" i="label">Столбец</e>
+ <e g="label1" i="label">Ширина</e>
+ <e g="ColumnWidthDialog" i="title">Ширина столбца</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">Par document</e>
+ <e g="pos" i="label">Position</e>
+ <e g="label3" i="label">Numérotation automatique</e>
+ <e g="label18" i="label">Début de la page suivante</e>
+ <e g="label17" i="label">Fin de la note</e>
+ <e g="pagestyleft" i="label">Page</e>
+ <e g="label6" i="label">Numérotation</e>
+ <e g="label16" i="label">Zone de notes de bas de page</e>
+ <e g="label13" i="label">Styles de caractères</e>
+ <e g="pospagecb" i="label">Fin de page</e>
+ <e g="label8" i="label">Avant</e>
+ <e g="label5" i="label">Indication de suite</e>
+ <e g="label15" i="label">Zone de texte</e>
+ <e g="label12" i="label">Styles</e>
+ <e g="label7" i="label">Comptage</e>
+ <e g="label4" i="label">Paragraphe</e>
+ <e g="posdoccb" i="label">Fin du document</e>
+ <e g="liststore1" i="0">Par page</e>
+ <e g="label11" i="label">Après</e>
+ <e g="offset" i="label">Commencer avec</e>
+ <e g="liststore1" i="1">Par chapitre</e>
+</t>

@@ -1,0 +1,2 @@
+Presentasjonskrymperen brukes til å redusere filstørrelsen på den gjeldende presentasjonen. Bilder blir komprimert, og data som ikke lenger er nødvendig vil bli fjernet.
+Presentasjonskrymperen kan optimalisere bilder med tanke på størrelse og kvalitet. Presentasjoner utformet for skjermer eller framvisere krever ikke den samme høye kvaliteten som presentasjoner utformet for utskrift.

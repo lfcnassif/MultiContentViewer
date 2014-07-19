@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Entry</e>
+ <e g="label3" i="label">제목</e>
+ <e g="label5" i="label">짧은 이름</e>
+ <e g="fromdocument" i="label">From document content</e>
+ <e g="label2" i="label">작성자</e>
+ <e g="insert" i="label">Insert</e>
+ <e g="frombibliography" i="label">From bibliography database</e>
+ <e g="modify" i="label">수정</e>
+ <e g="BibliographyEntryDialog" i="title">참고 문헌 항목 삽입</e>
+</t>

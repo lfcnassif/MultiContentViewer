@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Aligned at</e>
+ <e g="num2align" i="label">Numbering Alignment</e>
+ <e g="liststore2" i="0">Tab stop</e>
+ <e g="liststore1" i="1">Centered</e>
+ <e g="indent" i="label">Indent</e>
+ <e g="numalign" i="label">Numbering alignment</e>
+ <e g="numberingwidth" i="label">Width of numbering</e>
+ <e g="3" i="label">Position and spacing</e>
+ <e g="liststore1" i="0">왼쪽</e>
+ <e g="liststore1" i="2">오른쪽</e>
+ <e g="numdist" i="label">Minimum space numbering &lt;-&gt; textlabel</e>
+ <e g="liststore2" i="2">Nothing</e>
+ <e g="1" i="label">수준</e>
+ <e g="liststore2" i="1">Space</e>
+ <e g="numfollowedby" i="label">Numbering followed by</e>
+ <e g="at" i="label">at</e>
+ <e g="relative" i="label">Relative</e>
+ <e g="indentat" i="label">Indent at</e>
+ <e g="standard" i="label">Default</e>
+</t>

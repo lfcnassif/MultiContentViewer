@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">Bewerken</e>
+ <e g="macrotoft" i="label">Macro opslaan in</e>
+ <e g="existingmacrosft" i="label">Bestaande macro's in:</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic-macro's</e>
+ <e g="macrofromft" i="label">Macro uit</e>
+ <e g="libraryft1" i="label">Macronaam</e>
+ <e g="newlibrary" i="label">Nieuwe bibliotheek</e>
+ <e g="newmodule" i="label">Nieuwe module</e>
+ <e g="organize" i="label">Beheren...</e>
+ <e g="run" i="label">Uitvoeren</e>
+ <e g="assign" i="label">Toewijzen...</e>
+</t>

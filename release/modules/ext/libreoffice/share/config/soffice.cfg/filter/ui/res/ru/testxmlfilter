@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">XSLT для экспорта</e>
+ <e g="label5" i="label">XSLT для импорта</e>
+ <e g="currentdocument" i="label">Текущий документ</e>
+ <e g="importbrowse" i="label">Обзор...</e>
+ <e g="label2" i="label">Импорт</e>
+ <e g="exportbrowse" i="label">Обзор...</e>
+ <e g="templateimport" i="label">Шаблон для импорта</e>
+ <e g="displaysource" i="label">Отображать источник</e>
+ <e g="TestXMLFilterDialog" i="title">Тестовый фильтр XML: %s</e>
+ <e g="label4" i="label">Преобразовать документ</e>
+ <e g="label6" i="label">Преобразовать файл</e>
+ <e g="label1" i="label">Экспорт</e>
+ <e g="recentfile" i="label">Последний файл</e>
+</t>

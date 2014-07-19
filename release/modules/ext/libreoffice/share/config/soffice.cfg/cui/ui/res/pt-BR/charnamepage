@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="weststyleft-cjk" i="label">Estilo</e>
+ <e g="label6" i="label">Fonte CTL</e>
+ <e g="westsizeft-cjk" i="label">Tamanho</e>
+ <e g="ctlstyleft" i="label">Estilo</e>
+ <e g="westfontnameft-nocjk" i="label">Família </e>
+ <e g="label5" i="label">Fonte de texto asiático</e>
+ <e g="label4" i="label">Fonte de texto ocidental</e>
+ <e g="eastsizeft" i="label">Tamanho</e>
+ <e g="westfontnameft-cjk" i="label">Família </e>
+ <e g="westlangft-cjk" i="label">Idioma</e>
+ <e g="label19" i="label">Visualizar</e>
+ <e g="ctlfontnameft" i="label">Família </e>
+ <e g="eaststyleft" i="label">Estilo</e>
+ <e g="ctlsizeft" i="label">Tamanho</e>
+ <e g="weststyleft-nocjk" i="label">Estilo</e>
+ <e g="eastlangft" i="label">Idioma</e>
+ <e g="eastfontnameft" i="label">Família </e>
+ <e g="ctllangft" i="label">Idioma</e>
+ <e g="label21" i="label">Fonte</e>
+ <e g="westlangft-nocjk" i="label">Idioma</e>
+ <e g="westsizeft-nocjk" i="label">Tamanho</e>
+</t>

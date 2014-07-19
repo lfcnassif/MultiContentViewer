@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="MajorVersion" i="label">Új főverzió</e>
+ <e g="label2" i="label">Megjegyzés a verzióhoz</e>
+ <e g="CheckinDialog" i="title">Beküldés</e>
+</t>

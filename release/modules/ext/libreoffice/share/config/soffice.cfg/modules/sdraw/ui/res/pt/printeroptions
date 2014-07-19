@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Tamanho</e>
+ <e g="grayscale" i="label">Escala de cinzentos</e>
+ <e g="tilesheet" i="label">Dividir folha de papel com páginas repetidas</e>
+ <e g="fittoprintable" i="label">Ajustar à área de impressão</e>
+ <e g="printname" i="label">Nome da página</e>
+ <e g="originalcolors" i="label">Tamanho original</e>
+ <e g="blackandwhite" i="label">Preto e branco</e>
+ <e g="printdatetime" i="label">Data e hora</e>
+ <e g="label4" i="label">Conteúdo</e>
+ <e g="distributeonmultiple" i="label">Distribuir por várias folhas de papel</e>
+ <e g="label5" i="label">Cor</e>
+ <e g="originalsize" i="label">Tamanho original</e>
+</t>

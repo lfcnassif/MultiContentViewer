@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">然后找到含有所需 Persona 主题的网页，复制您浏览器地址栏中该页面的地址，并将其粘贴到下面的输入框中。</e>
+ <e g="label1" i="label">请先访问 Firefox Personas (http://www.getpersonas.com)。找到喜欢并希望用于 LibreOffice 的 Persona 主题。</e>
+ <e g="label3" i="label">Persona 主题地址:</e>
+ <e g="visit_personas" i="label">访问 Firefox Personas</e>
+</t>

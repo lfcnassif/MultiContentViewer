@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">联机获取更多扩展...</e>
+ <e g="ExtensionManagerDialog" i="title">扩展管理器</e>
+ <e g="label1" i="label">扩展类型</e>
+ <e g="user" i="label">用户</e>
+ <e g="update" i="label">检查更新...</e>
+ <e g="shared" i="label">已共享</e>
+ <e g="add" i="label">添加...</e>
+ <e g="progressft" i="label">正在添加 %EXTENSION_NAME</e>
+ <e g="bundled" i="label">安装</e>
+</t>

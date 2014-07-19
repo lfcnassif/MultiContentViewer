@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">自動</e>
+ <e g="optimal" i="label">最適</e>
+ <e g="columns" i="label">段組み</e>
+ <e g="bookmode" i="label">ブックモード</e>
+ <e g="fitw" i="label">幅を合わせる</e>
+ <e g="label1" i="label">表示レイアウト</e>
+ <e g="variable" i="label">変数</e>
+ <e g="label2" i="label">ズーム率</e>
+ <e g="singlepage" i="label">単一ページ</e>
+ <e g="ZoomDialog" i="title">ズーム / 表示レイアウト</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">幅と高さを合わせる</e>
+</t>

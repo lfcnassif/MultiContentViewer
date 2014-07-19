@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">表の分割</e>
+ <e g="noheading" i="label">見出しなし</e>
+ <e g="copyheading" i="label">見出しのコピー</e>
+ <e g="customheading" i="label">ユーザー定義の見出し</e>
+ <e g="label1" i="label">モード</e>
+ <e g="customheadingapplystyle" i="label">スタイル付きユーザー定義の見出し</e>
+</t>

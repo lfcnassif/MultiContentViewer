@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">样式</e>
+ <e g="linerb" i="label">换行</e>
+ <e g="label1" i="label">类型</e>
+ <e g="liststore1" i="0">[无]</e>
+ <e g="pagenumcb" i="label">更改页码</e>
+ <e g="pagerb" i="label">换页</e>
+ <e g="BreakDialog" i="title">插入分隔符</e>
+ <e g="columnrb" i="label">换栏</e>
+</t>

@@ -1,0 +1,1 @@
+Este extensão faz parte do Calc e disponibiliza sistemas de resolução para otimizar os modelos de programação não linear.

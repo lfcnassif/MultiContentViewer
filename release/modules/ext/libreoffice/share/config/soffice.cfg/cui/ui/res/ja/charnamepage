@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="weststyleft-cjk" i="label">スタイル</e>
+ <e g="label6" i="label">複合文字言語用フォント</e>
+ <e g="westsizeft-cjk" i="label">サイズ</e>
+ <e g="ctlstyleft" i="label">スタイル</e>
+ <e g="westfontnameft-nocjk" i="label">ファミリー</e>
+ <e g="label5" i="label">アジア諸言語用フォント</e>
+ <e g="label4" i="label">西洋諸言語用フォント</e>
+ <e g="eastsizeft" i="label">サイズ</e>
+ <e g="westfontnameft-cjk" i="label">ファミリー</e>
+ <e g="westlangft-cjk" i="label">言語</e>
+ <e g="label19" i="label">プレビュー</e>
+ <e g="ctlfontnameft" i="label">ファミリー </e>
+ <e g="eaststyleft" i="label">スタイル</e>
+ <e g="ctlsizeft" i="label">サイズ</e>
+ <e g="weststyleft-nocjk" i="label">スタイル</e>
+ <e g="eastlangft" i="label">言語</e>
+ <e g="eastfontnameft" i="label">ファミリー</e>
+ <e g="ctllangft" i="label">言語</e>
+ <e g="label21" i="label">フォント</e>
+ <e g="westlangft-nocjk" i="label">言語</e>
+ <e g="westsizeft-nocjk" i="label">サイズ</e>
+</t>

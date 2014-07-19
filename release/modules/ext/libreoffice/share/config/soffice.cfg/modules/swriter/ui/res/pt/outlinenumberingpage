@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">Depois</e>
+ <e g="label7" i="label">Separador</e>
+ <e g="label5" i="label">Estilo de caracteres</e>
+ <e g="label3" i="label">Estilo de parágrafo</e>
+ <e g="label2" i="label">Numeração</e>
+ <e g="label8" i="label">Antes</e>
+ <e g="label4" i="label">Número</e>
+ <e g="label10" i="label">Inicia em</e>
+ <e g="label1" i="label">Nível</e>
+ <e g="sublevelsft" i="label">Mostrar subníveis</e>
+</t>

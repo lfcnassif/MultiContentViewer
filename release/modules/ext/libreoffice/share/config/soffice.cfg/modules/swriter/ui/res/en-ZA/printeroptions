@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="pictures" i="label">Pictures and other graphic objects</e>
+ <e g="formcontrols" i="label">Form controls</e>
+ <e g="autoblankpages" i="label">Print automatically inserted blank pages</e>
+ <e g="pagebackground" i="label">Page background</e>
+ <e g="label6" i="label">Pages</e>
+ <e g="label4" i="label">Contents</e>
+ <e g="placeholders" i="label">Text placeholders</e>
+ <e g="label5" i="label">Colour</e>
+ <e g="textinblack" i="label">Print text in black</e>
+ <e g="hiddentext" i="label">Hidden text</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="weststyleft-cjk" i="label">Style</e>
+ <e g="label6" i="label">CTL font</e>
+ <e g="westsizeft-cjk" i="label">Size</e>
+ <e g="ctlstyleft" i="label">Style</e>
+ <e g="westfontnameft-nocjk" i="label">Family </e>
+ <e g="label5" i="label">Asian text font</e>
+ <e g="label4" i="label">Western text font</e>
+ <e g="eastsizeft" i="label">Size</e>
+ <e g="westfontnameft-cjk" i="label">Family </e>
+ <e g="westlangft-cjk" i="label">Language</e>
+ <e g="label19" i="label">Preview</e>
+ <e g="ctlfontnameft" i="label">Family </e>
+ <e g="eaststyleft" i="label">Style</e>
+ <e g="ctlsizeft" i="label">Size</e>
+ <e g="weststyleft-nocjk" i="label">Style</e>
+ <e g="eastlangft" i="label">Language</e>
+ <e g="eastfontnameft" i="label">Family </e>
+ <e g="ctllangft" i="label">Language</e>
+ <e g="label21" i="label">Font</e>
+ <e g="westlangft-nocjk" i="label">Language</e>
+ <e g="westsizeft-nocjk" i="label">Size</e>
+</t>

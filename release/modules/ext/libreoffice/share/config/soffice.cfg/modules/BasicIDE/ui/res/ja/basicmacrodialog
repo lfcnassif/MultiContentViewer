@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">編集</e>
+ <e g="macrotoft" i="label">マクロの保存先</e>
+ <e g="existingmacrosft" i="label">マクロのある場所:</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic マクロ</e>
+ <e g="macrofromft" i="label">マクロの記録先</e>
+ <e g="libraryft1" i="label">マクロ名</e>
+ <e g="newlibrary" i="label">新規ライブラリ</e>
+ <e g="newmodule" i="label">新規モジュール</e>
+ <e g="organize" i="label">管理...</e>
+ <e g="run" i="label">実行</e>
+ <e g="assign" i="label">割り当て...</e>
+</t>

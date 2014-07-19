@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Alapértelmezett</e>
+ <e g="heightlabel" i="label">Magasság</e>
+ <e g="label2" i="label">Szegély</e>
+ <e g="scrollbarauto" i="label">Automatikus</e>
+ <e g="label1" i="label">Görgetősáv</e>
+ <e g="label7" i="label">Tartalom</e>
+ <e g="borderon" i="label">Be</e>
+ <e g="InsertFloatingFrameDialog" i="title">Úszó keret tulajdonságai</e>
+ <e g="buttonbrowse" i="label">Tallózás…</e>
+ <e g="label6" i="label">Név</e>
+ <e g="widthlabel" i="label">Szélesség</e>
+ <e g="scrollbaroff" i="label">Ki</e>
+ <e g="scrollbaron" i="label">Be</e>
+ <e g="defaultheight" i="label">Alapértelmezett</e>
+ <e g="borderoff" i="label">Ki</e>
+ <e g="label3" i="label">Belső margók</e>
+</t>

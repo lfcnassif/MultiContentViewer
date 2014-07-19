@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">Символы:</e>
+ <e g="fontft" i="label">Шрифт</e>
+ <e g="SpecialCharactersDialog" i="title">Выбор символа</e>
+ <e g="subsetft" i="label">Подмножество</e>
+</t>

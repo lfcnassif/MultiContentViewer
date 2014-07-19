@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Título</e>
+ <e g="overlinecolorft" i="label">Cor da sobrelinha</e>
+ <e g="liststore6" i="7">Traço (Negrito)</e>
+ <e g="liststore3" i="1">Ponto</e>
+ <e g="underlinecolorft" i="label">Cor do sublinhado</e>
+ <e g="label42" i="label">Opções</e>
+ <e g="liststore1" i="0">(Sem)</e>
+ <e g="individualwordscb" i="label">Palavras individuais</e>
+ <e g="label46" i="label">Sobrelinha</e>
+ <e g="liststore5" i="3">Negrito</e>
+ <e g="liststore6" i="14">Onda</e>
+ <e g="liststore6" i="10">Ponto Traço</e>
+ <e g="liststore6" i="0">(Sem)</e>
+ <e g="liststore1" i="2">Minúsculas</e>
+ <e g="liststore5" i="5">Com X</e>
+ <e g="liststore6" i="16">Onda dupla</e>
+ <e g="liststore3" i="4">Acento</e>
+ <e g="liststore6" i="6">Traço</e>
+ <e g="outlinecb" i="label">Contorno</e>
+ <e g="liststore4" i="1">Embaixo do texto</e>
+ <e g="fontcolorft" i="label">Cor da fonte</e>
+ <e g="liststore2" i="0">(Sem)</e>
+ <e g="liststore5" i="2">Duplo</e>
+ <e g="liststore6" i="13">Ponto Ponto Traço (Negrito)</e>
+ <e g="emphasisft" i="label">Marca de ênfase</e>
+ <e g="liststore6" i="3">Negrito</e>
+ <e g="reliefft" i="label">Relevo</e>
+ <e g="liststore2" i="2">Baixo relevo</e>
+ <e g="label50" i="label">Visualizar</e>
+ <e g="liststore6" i="15">Onda (Negrito)</e>
+ <e g="liststore6" i="9">Traço longo (Negrito)</e>
+ <e g="liststore6" i="5">Pontilhado (Negrito)</e>
+ <e g="liststore3" i="3">Disco</e>
+ <e g="liststore4" i="0">Em cima do texto</e>
+ <e g="liststore5" i="1">Simples</e>
+ <e g="label47" i="label">Tachado</e>
+ <e g="hiddencb" i="label">Oculto</e>
+ <e g="liststore6" i="12">Ponto Ponto Traço</e>
+ <e g="liststore6" i="2">Duplo</e>
+ <e g="liststore3" i="0">(Sem)</e>
+ <e g="liststore1" i="4">Caixa alta (versalete)</e>
+ <e g="shadowcb" i="label">Sombra</e>
+ <e g="liststore2" i="1">Alto relevo</e>
+ <e g="liststore6" i="8">Traço longo</e>
+ <e g="liststore3" i="2">Círculo</e>
+ <e g="liststore6" i="4">Pontilhado</e>
+ <e g="label48" i="label">Sublinhado</e>
+ <e g="blinkingcb" i="label">Intermitente</e>
+ <e g="liststore1" i="1">Maiúsculas</e>
+ <e g="positionft" i="label">Posição</e>
+ <e g="liststore5" i="4">Com /</e>
+ <e g="liststore5" i="0">(Sem)</e>
+ <e g="effectsft" i="label">Efeitos</e>
+ <e g="liststore6" i="11">Ponto Traço (Negrito)</e>
+ <e g="liststore6" i="1">Simples</e>
+</t>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+-->
+<description xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:d="http://openoffice.org/extensions/description/2006"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+  <display-name>
+    <name lang="en-US">Report Builder</name>
+        <name lang="af">Report Builder</name>
+        <name lang="am">መግለጫ ገንቢ</name>
+        <name lang="ar">بنّاء التقرير</name>
+        <name lang="as">সংবাদ নিৰ্মাতা</name>
+        <name lang="ast">Constructor d'informes</name>
+        <name lang="be">Report Builder</name>
+        <name lang="bg">Report Builder</name>
+        <name lang="bn">প্রতিবেদন বিল্ডার</name>
+        <name lang="bn-IN">রিপোর্ট বিল্ডার</name>
+        <name lang="bo">Report Builder</name>
+        <name lang="br">Saverez danevelloù</name>
+        <name lang="brx">Report Builder</name>
+        <name lang="bs">Report Builder</name>
+        <name lang="ca">Constructor d'informes</name>
+        <name lang="ca-XV">Constructor d'informes</name>
+        <name lang="cs">Návrhář sestav</name>
+        <name lang="cy">Adeiladu Adroddiad</name>
+        <name lang="da">Report Builder</name>
+        <name lang="de">Report Builder</name>
+        <name lang="dgo">Report Builder</name>
+        <name lang="dz">Report Builder</name>
+        <name lang="el">Κατασκευαστής αναφοράς</name>
+        <name lang="en-GB">Report Builder</name>
+        <name lang="en-ZA">Report Builder</name>
+        <name lang="eo">Raportilo</name>
+        <name lang="es">Diseñador de informes</name>
+        <name lang="et">Aruandekoostaja</name>
+        <name lang="eu">Txosten-diseinatzailea</name>
+        <name lang="fa">Report Builder</name>
+        <name lang="fi">Raportointityökalu</name>
+        <name lang="fr">Report Builder</name>
+        <name lang="ga">Tógálaí Tuairisce</name>
+        <name lang="gd">Cuidiche nan aithisgean</name>
+        <name lang="gl">Report Builder</name>
+        <name lang="gu">રિપોર્ટ બિલ્ડર</name>
+        <name lang="he">בונה דוחות</name>
+        <name lang="hi">रिपोर्ट बिल्डर</name>
+        <name lang="hr">Izrada izvještaja</name>
+        <name lang="hu">Jelentéstervező</name>
+        <name lang="id">Pembangun Laporan</name>
+        <name lang="is">Skýrslugerðartól</name>
+        <name lang="it">Report Builder</name>
+        <name lang="ja">レポートビルダー</name>
+        <name lang="ka">Report Builder</name>
+        <name lang="kk">Есептемелерді жасау</name>
+        <name lang="km">កម្មវិធី​បង្កើត​របាយការណ៍</name>
+        <name lang="kn">ವರದಿ ನಿರ್ಮಾಣಗಾರ</name>
+        <name lang="ko">보고서 만들기</name>
+        <name lang="kok">Report Builder</name>
+        <name lang="ks">Report Builder</name>
+        <name lang="ku">Report Builder</name>
+        <name lang="lb">Report Builder</name>
+        <name lang="lo">Report Builder</name>
+        <name lang="lt">Ataskaitų rengyklė</name>
+        <name lang="lv">Atskaišu veidotājs</name>
+        <name lang="mai">Report Builder</name>
+        <name lang="mk">Report Builder</name>
+        <name lang="ml">റിപോര്‍ട്ട് ബിള്‍ഡര്‍</name>
+        <name lang="mn">Report Builder</name>
+        <name lang="mni">Report Builder</name>
+        <name lang="mr">रिपोर्ट बिल्डर</name>
+        <name lang="my">Report Builder</name>
+        <name lang="nb">Rapportbygger</name>
+        <name lang="ne">प्रतिवेदन निर्माता</name>
+        <name lang="nl">Rapportontwerper</name>
+        <name lang="nn">Rapportbyggjar</name>
+        <name lang="nr">Report Builder</name>
+        <name lang="nso">Report Builder</name>
+        <name lang="oc">Creator de rapòrts</name>
+        <name lang="om">Hojjetaa Gabaasa</name>
+        <name lang="or">ବିବରଣୀ ନିର୍ମାତା</name>
+        <name lang="pa-IN">ਰਿਪੋਰਟ ਬਿਲਡਰ</name>
+        <name lang="pl">Konstruktor raportu</name>
+        <name lang="pt">Criador de relatórios</name>
+        <name lang="pt-BR">Gerador de relatórios</name>
+        <name lang="ro">Constructorul de Rapoarte</name>
+        <name lang="ru">Построитель отчётов</name>
+        <name lang="rw">Report Builder</name>
+        <name lang="sa-IN">Report Builder</name>
+        <name lang="sat">Report Builder</name>
+        <name lang="sd">Report Builder</name>
+        <name lang="sh">Graditelj izveštaja</name>
+        <name lang="si">Report Builder</name>
+        <name lang="sid">Report Builder</name>
+        <name lang="sk">Tvorca zostáv</name>
+        <name lang="sl">Oblikovalec poročil</name>
+        <name lang="sq">Report Builder</name>
+        <name lang="sr">Градитељ извештаја</name>
+        <name lang="ss">Report Builder</name>
+        <name lang="st">Report Builder</name>
+        <name lang="sv">Report Builder</name>
+        <name lang="sw-TZ">Report Builder</name>
+        <name lang="ta">அறிக்கை அமைப்பான்</name>
+        <name lang="te">రిపోర్ట్ బిల్డర్</name>
+        <name lang="tg">Report Builder</name>
+        <name lang="th">Report Builder</name>
+        <name lang="tn">Report Builder</name>
+        <name lang="tr">Rapor Oluşturucu</name>
+        <name lang="ts">Report Builder</name>
+        <name lang="tt">Report Builder</name>
+        <name lang="ug">دوكلات ياسىغۇچ</name>
+        <name lang="uk">Генератор звітів</name>
+        <name lang="uz">Report Builder</name>
+        <name lang="ve">Report Builder</name>
+        <name lang="vi">Trình xây dựng báo cáo</name>
+        <name lang="xh">Report Builder</name>
+        <name lang="zh-CN">报告建立器</name>
+        <name lang="zh-TW">報表建置器</name>
+        <name lang="zu">Report Builder</name>
+  </display-name>
+  <version value="1.2.3"/>
+  <identifier value="com.sun.reportdesigner"/>
+  <dependencies>
+    <OpenOffice.org-minimal-version value="3.2" d:name="OpenOffice.org 3.2"/>
+  </dependencies>
+  <publisher>
+    <name xlink:href="http://www.documentfoundation.org" lang="en-US">The Document Foundation</name>
+  </publisher>
+  <icon>
+    <default xlink:href="images/extension_32.png" />
+  </icon>
+  <extension-description>
+    <src xlink:href="description-en-US.txt" lang="en-US" />
+        <src xlink:href="description-af.txt" lang="af" />
+        <src xlink:href="description-am.txt" lang="am" />
+        <src xlink:href="description-ar.txt" lang="ar" />
+        <src xlink:href="description-as.txt" lang="as" />
+        <src xlink:href="description-ast.txt" lang="ast" />
+        <src xlink:href="description-be.txt" lang="be" />
+        <src xlink:href="description-bg.txt" lang="bg" />
+        <src xlink:href="description-bn.txt" lang="bn" />
+        <src xlink:href="description-bn-IN.txt" lang="bn-IN" />
+        <src xlink:href="description-bo.txt" lang="bo" />
+        <src xlink:href="description-br.txt" lang="br" />
+        <src xlink:href="description-brx.txt" lang="brx" />
+        <src xlink:href="description-bs.txt" lang="bs" />
+        <src xlink:href="description-ca.txt" lang="ca" />
+        <src xlink:href="description-ca-XV.txt" lang="ca-XV" />
+        <src xlink:href="description-cs.txt" lang="cs" />
+        <src xlink:href="description-cy.txt" lang="cy" />
+        <src xlink:href="description-da.txt" lang="da" />
+        <src xlink:href="description-de.txt" lang="de" />
+        <src xlink:href="description-dgo.txt" lang="dgo" />
+        <src xlink:href="description-dz.txt" lang="dz" />
+        <src xlink:href="description-el.txt" lang="el" />
+        <src xlink:href="description-en-GB.txt" lang="en-GB" />
+        <src xlink:href="description-en-ZA.txt" lang="en-ZA" />
+        <src xlink:href="description-eo.txt" lang="eo" />
+        <src xlink:href="description-es.txt" lang="es" />
+        <src xlink:href="description-et.txt" lang="et" />
+        <src xlink:href="description-eu.txt" lang="eu" />
+        <src xlink:href="description-fa.txt" lang="fa" />
+        <src xlink:href="description-fi.txt" lang="fi" />
+        <src xlink:href="description-fr.txt" lang="fr" />
+        <src xlink:href="description-ga.txt" lang="ga" />
+        <src xlink:href="description-gd.txt" lang="gd" />
+        <src xlink:href="description-gl.txt" lang="gl" />
+        <src xlink:href="description-gu.txt" lang="gu" />
+        <src xlink:href="description-he.txt" lang="he" />
+        <src xlink:href="description-hi.txt" lang="hi" />
+        <src xlink:href="description-hr.txt" lang="hr" />
+        <src xlink:href="description-hu.txt" lang="hu" />
+        <src xlink:href="description-id.txt" lang="id" />
+        <src xlink:href="description-is.txt" lang="is" />
+        <src xlink:href="description-it.txt" lang="it" />
+        <src xlink:href="description-ja.txt" lang="ja" />
+        <src xlink:href="description-ka.txt" lang="ka" />
+        <src xlink:href="description-kk.txt" lang="kk" />
+        <src xlink:href="description-km.txt" lang="km" />
+        <src xlink:href="description-kn.txt" lang="kn" />
+        <src xlink:href="description-ko.txt" lang="ko" />
+        <src xlink:href="description-kok.txt" lang="kok" />
+        <src xlink:href="description-ks.txt" lang="ks" />
+        <src xlink:href="description-ku.txt" lang="ku" />
+        <src xlink:href="description-lb.txt" lang="lb" />
+        <src xlink:href="description-lo.txt" lang="lo" />
+        <src xlink:href="description-lt.txt" lang="lt" />
+        <src xlink:href="description-lv.txt" lang="lv" />
+        <src xlink:href="description-mai.txt" lang="mai" />
+        <src xlink:href="description-mk.txt" lang="mk" />
+        <src xlink:href="description-ml.txt" lang="ml" />
+        <src xlink:href="description-mn.txt" lang="mn" />
+        <src xlink:href="description-mni.txt" lang="mni" />
+        <src xlink:href="description-mr.txt" lang="mr" />
+        <src xlink:href="description-my.txt" lang="my" />
+        <src xlink:href="description-nb.txt" lang="nb" />
+        <src xlink:href="description-ne.txt" lang="ne" />
+        <src xlink:href="description-nl.txt" lang="nl" />
+        <src xlink:href="description-nn.txt" lang="nn" />
+        <src xlink:href="description-nr.txt" lang="nr" />
+        <src xlink:href="description-nso.txt" lang="nso" />
+        <src xlink:href="description-oc.txt" lang="oc" />
+        <src xlink:href="description-om.txt" lang="om" />
+        <src xlink:href="description-or.txt" lang="or" />
+        <src xlink:href="description-pa-IN.txt" lang="pa-IN" />
+        <src xlink:href="description-pl.txt" lang="pl" />
+        <src xlink:href="description-pt.txt" lang="pt" />
+        <src xlink:href="description-pt-BR.txt" lang="pt-BR" />
+        <src xlink:href="description-ro.txt" lang="ro" />
+        <src xlink:href="description-ru.txt" lang="ru" />
+        <src xlink:href="description-rw.txt" lang="rw" />
+        <src xlink:href="description-sa-IN.txt" lang="sa-IN" />
+        <src xlink:href="description-sat.txt" lang="sat" />
+        <src xlink:href="description-sd.txt" lang="sd" />
+        <src xlink:href="description-sh.txt" lang="sh" />
+        <src xlink:href="description-si.txt" lang="si" />
+        <src xlink:href="description-sid.txt" lang="sid" />
+        <src xlink:href="description-sk.txt" lang="sk" />
+        <src xlink:href="description-sl.txt" lang="sl" />
+        <src xlink:href="description-sq.txt" lang="sq" />
+        <src xlink:href="description-sr.txt" lang="sr" />
+        <src xlink:href="description-ss.txt" lang="ss" />
+        <src xlink:href="description-st.txt" lang="st" />
+        <src xlink:href="description-sv.txt" lang="sv" />
+        <src xlink:href="description-sw-TZ.txt" lang="sw-TZ" />
+        <src xlink:href="description-ta.txt" lang="ta" />
+        <src xlink:href="description-te.txt" lang="te" />
+        <src xlink:href="description-tg.txt" lang="tg" />
+        <src xlink:href="description-th.txt" lang="th" />
+        <src xlink:href="description-tn.txt" lang="tn" />
+        <src xlink:href="description-tr.txt" lang="tr" />
+        <src xlink:href="description-ts.txt" lang="ts" />
+        <src xlink:href="description-tt.txt" lang="tt" />
+        <src xlink:href="description-ug.txt" lang="ug" />
+        <src xlink:href="description-uk.txt" lang="uk" />
+        <src xlink:href="description-uz.txt" lang="uz" />
+        <src xlink:href="description-ve.txt" lang="ve" />
+        <src xlink:href="description-vi.txt" lang="vi" />
+        <src xlink:href="description-xh.txt" lang="xh" />
+        <src xlink:href="description-zh-CN.txt" lang="zh-CN" />
+        <src xlink:href="description-zh-TW.txt" lang="zh-TW" />
+        <src xlink:href="description-zu.txt" lang="zu" />
+  </extension-description>
+</description>
+

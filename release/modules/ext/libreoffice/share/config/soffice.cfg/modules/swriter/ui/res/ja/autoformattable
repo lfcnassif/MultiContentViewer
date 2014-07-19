@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">配置</e>
+ <e g="fontcb" i="label">フォント</e>
+ <e g="label2" i="label">書式設定</e>
+ <e g="bordercb" i="label">外枠</e>
+ <e g="AutoFormatTableDialog" i="title">オートフォーマット</e>
+ <e g="patterncb" i="label">パターン</e>
+ <e g="numformatcb" i="label">数の書式</e>
+ <e g="rename" i="label">名前の変更</e>
+ <e g="label1" i="label">書式</e>
+</t>

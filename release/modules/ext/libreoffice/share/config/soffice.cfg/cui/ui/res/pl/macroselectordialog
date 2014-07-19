@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">Wskaż bibliotekę, która zawiera potrzebne makro. Następnie w części 'Nazwa makra' wybierz to makro.</e>
+ <e g="categoryft" i="label">Kategoria</e>
+ <e g="helptoolbar" i="label">Aby dodać polecenie do paska narzędzi, wybierz kategorię i polecenie. Następnie przeciągnij polecenie do okna dialogowego Dostosuj, karty Menu, listy Polecenia.</e>
+ <e g="add" i="label">Dodaj</e>
+ <e g="label1" i="label">Opis</e>
+ <e g="MacroSelectorDialog" i="title">Wybór makra</e>
+ <e g="macronameft" i="label">Nazwa makra</e>
+ <e g="commandsft" i="label">Polecenia</e>
+ <e g="libraryft" i="label">Biblioteka</e>
+</t>

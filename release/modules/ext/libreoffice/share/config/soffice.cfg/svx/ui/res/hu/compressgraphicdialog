@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="checkbox-reduce-resolution" i="label">Képfelbontás csökkentése</e>
+ <e g="label6" i="label">Minőség:</e>
+ <e g="label8" i="label">Megjelenési méret:</e>
+ <e g="label10" i="label">Új kapacitás:</e>
+ <e g="label2" i="label">Szélesség:</e>
+ <e g="interpolation-method-store" i="3">Lanczos</e>
+ <e g="label12" i="label">px</e>
+ <e g="label5" i="label">Tömörítés:</e>
+ <e g="radio-lossless" i="label">Veszteségmentes tömörítés</e>
+ <e g="label14" i="label">DPI</e>
+ <e g="label7" i="label">Eredeti méret:</e>
+ <e g="interpolation-method-store" i="1">Bilineáris</e>
+ <e g="label9" i="label">Képkapacitás:</e>
+ <e g="interpolation-method-store" i="2">Bikubikus</e>
+ <e g="label1" i="label">Képinformációk</e>
+ <e g="calculate" i="label">Számítás</e>
+ <e g="label11" i="label">Interpoláció:</e>
+ <e g="interpolation-method-store" i="0">Nincs</e>
+ <e g="label4" i="label">Felbontás:</e>
+ <e g="label3" i="label">Magasság:</e>
+ <e g="label13" i="label">px</e>
+ <e g="radio-jpeg" i="label">JPEG-tömörítés</e>
+</t>

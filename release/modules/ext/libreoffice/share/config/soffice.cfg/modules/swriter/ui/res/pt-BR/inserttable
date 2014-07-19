@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Rótulo</e>
+ <e g="ok" i="label">Inserir</e>
+ <e g="headercb" i="label">Tít_ulo</e>
+ <e g="bordercb" i="label">_Borda</e>
+ <e g="label1" i="label">Geral</e>
+ <e g="repeatcb" i="label">Repetir linhas de título nas novas _páginas</e>
+ <e g="dontsplitcb" i="label">Não _dividir tabela entre páginas</e>
+ <e g="3" i="label">Colunas </e>
+ <e g="label2" i="label">Opções</e>
+ <e g="InsertTableDialog" i="title">Inserir tabela</e>
+ <e g="4" i="label">_Linhas</e>
+ <e g="repeatheaderafter" i="label">Lin_has de título</e>
+ <e g="autoformat" i="label">Auto_formatar</e>
+</t>

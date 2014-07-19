@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Numeracja</e>
+ <e g="character" i="label">Znak</e>
+ <e g="label2" i="label">Typ</e>
+ <e g="InsertFootnoteDialog" i="title">Wstaw przypis dolny/końcowy</e>
+ <e g="endnote" i="label">Przypis końcowy</e>
+ <e g="choosecharacter" i="label">Wybierz ...</e>
+ <e g="automatic" i="label">Automatyczny</e>
+ <e g="footnote" i="label">Przypis dolny</e>
+</t>

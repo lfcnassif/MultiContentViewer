@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Имя</e>
+ <e g="overlinecolorft" i="label">Цвет надчёркивания</e>
+ <e g="liststore6" i="7">Штрих (жирный)</e>
+ <e g="liststore3" i="1">Точка</e>
+ <e g="underlinecolorft" i="label">Цвет подчёркивания</e>
+ <e g="label42" i="label">Параметры</e>
+ <e g="liststore1" i="0">(нет)</e>
+ <e g="individualwordscb" i="label">Только слова</e>
+ <e g="label46" i="label">Надчёркивание</e>
+ <e g="liststore5" i="3">Полужирный</e>
+ <e g="liststore6" i="14">Волна</e>
+ <e g="liststore6" i="10">Штрихпунктир</e>
+ <e g="liststore6" i="0">(нет)</e>
+ <e g="liststore1" i="2">Строчные</e>
+ <e g="liststore5" i="5">Символом: X</e>
+ <e g="liststore6" i="16">Двойная волна</e>
+ <e g="liststore3" i="4">Акцент</e>
+ <e g="liststore6" i="6">Штрих</e>
+ <e g="outlinecb" i="label">Структура</e>
+ <e g="liststore4" i="1">Под текстом</e>
+ <e g="fontcolorft" i="label">Цвет шрифта</e>
+ <e g="liststore2" i="0">(нет)</e>
+ <e g="liststore5" i="2">Двойной</e>
+ <e g="liststore6" i="13">Штрихпунктир с 2 точками (жирный)</e>
+ <e g="emphasisft" i="label">Метка выделения</e>
+ <e g="liststore6" i="3">Полужирный</e>
+ <e g="reliefft" i="label">Рельеф</e>
+ <e g="liststore2" i="2">Утопленный</e>
+ <e g="label50" i="label">Просмотр</e>
+ <e g="liststore6" i="15">Волна (жирная)</e>
+ <e g="liststore6" i="9">Длинный штрих (жирный)</e>
+ <e g="liststore6" i="5">Пунктир (жирный)</e>
+ <e g="liststore3" i="3">Диск</e>
+ <e g="liststore4" i="0">Над текстом</e>
+ <e g="liststore5" i="1">Одинарный</e>
+ <e g="label47" i="label">Зачёркивание</e>
+ <e g="hiddencb" i="label">Скрытый</e>
+ <e g="liststore6" i="12">Штрихпунктир с 2 точками</e>
+ <e g="liststore6" i="2">Двойной</e>
+ <e g="liststore3" i="0">(нет)</e>
+ <e g="liststore1" i="4">Капитель</e>
+ <e g="shadowcb" i="label">Тень</e>
+ <e g="liststore2" i="1">Приподнятый</e>
+ <e g="liststore6" i="8">Длинный штрих</e>
+ <e g="liststore3" i="2">Круг</e>
+ <e g="liststore6" i="4">Пунктир</e>
+ <e g="label48" i="label">Подчёркивание</e>
+ <e g="blinkingcb" i="label">Мигание</e>
+ <e g="liststore1" i="1">Прописные буквы</e>
+ <e g="positionft" i="label">Положение</e>
+ <e g="liststore5" i="4">Символом: /</e>
+ <e g="liststore5" i="0">(нет)</e>
+ <e g="effectsft" i="label">Эффекты</e>
+ <e g="liststore6" i="11">Штрихпунктир (жирный)</e>
+ <e g="liststore6" i="1">Одинарный</e>
+</t>

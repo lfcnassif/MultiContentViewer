@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">Podziel tabelę</e>
+ <e g="noheading" i="label">Bez nagłówka</e>
+ <e g="copyheading" i="label">Kopiuj nagłówek</e>
+ <e g="customheading" i="label">Nagłówek niestandardowy</e>
+ <e g="label1" i="label">Tryb</e>
+ <e g="customheadingapplystyle" i="label">Nagłówek niestandardowy (zastosuj styl)</e>
+</t>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">エクスポート用 XSLT</e>
+ <e g="label5" i="label">インポート用 XSLT</e>
+ <e g="currentdocument" i="label">現在のドキュメント</e>
+ <e g="importbrowse" i="label">閲覧...</e>
+ <e g="label2" i="label">インポート</e>
+ <e g="exportbrowse" i="label">閲覧...</e>
+ <e g="templateimport" i="label">インポート用テンプレート</e>
+ <e g="displaysource" i="label">ソーステキストの表示</e>
+ <e g="TestXMLFilterDialog" i="title">XML フィルターを試す: %s</e>
+ <e g="label4" i="label">ドキュメントの変換</e>
+ <e g="label6" i="label">ファイルの変換</e>
+ <e g="label1" i="label">エクスポート</e>
+ <e g="recentfile" i="label">最近のファイル</e>
+</t>

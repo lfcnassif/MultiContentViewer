@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="pictures" i="label">Afbeeldingen en andere grafische objecten</e>
+ <e g="formcontrols" i="label">Besturingselementen voor formulieren</e>
+ <e g="autoblankpages" i="label">Lege ingevoegde pagina's automatisch afdrukken</e>
+ <e g="pagebackground" i="label">Pagina-achtergrond</e>
+ <e g="label6" i="label">Pagina's</e>
+ <e g="label4" i="label">Inhoud</e>
+ <e g="placeholders" i="label">Tijdelijke aanduidingen voor tekst</e>
+ <e g="label5" i="label">Kleur</e>
+ <e g="textinblack" i="label">Tekst in zwart afdrukken</e>
+ <e g="hiddentext" i="label">Verborgen tekst</e>
+</t>

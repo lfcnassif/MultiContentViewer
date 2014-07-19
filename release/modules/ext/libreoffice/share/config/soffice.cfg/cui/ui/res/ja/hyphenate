@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="ok" i="label">ハイフネーション</e>
+ <e g="label1" i="label">単語</e>
+ <e g="hyphall" i="label">すべて挿入</e>
+ <e g="continue" i="label">スキップ</e>
+ <e g="HyphenateDialog" i="title">ハイフネーション</e>
+</t>

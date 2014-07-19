@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">檔案</e>
+ <e g="linktofile" i="label">連結至檔案</e>
+ <e g="InsertOLEObjectDialog" i="title">插入 OLE 物件</e>
+ <e g="label1" i="label">物件類型</e>
+ <e g="createfromfile" i="label">從檔案建立</e>
+ <e g="urlbtn" i="label">搜尋...</e>
+ <e g="createnew" i="label">新建</e>
+</t>

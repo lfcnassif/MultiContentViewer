@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Title</e>
+ <e g="overlinecolorft" i="label">Overline color</e>
+ <e g="liststore6" i="7">Dash (Bold)</e>
+ <e g="liststore3" i="1">Dot</e>
+ <e g="underlinecolorft" i="label">Underline Color</e>
+ <e g="label42" i="label">Options</e>
+ <e g="liststore1" i="0">(Without)</e>
+ <e g="individualwordscb" i="label">Individual words</e>
+ <e g="label46" i="label">Overlining</e>
+ <e g="liststore5" i="3">Bold</e>
+ <e g="liststore6" i="14">Wave</e>
+ <e g="liststore6" i="10">Dot Dash</e>
+ <e g="liststore6" i="0">(Without)</e>
+ <e g="liststore1" i="2">Lowercase</e>
+ <e g="liststore5" i="5">With X</e>
+ <e g="liststore6" i="16">Double Wave</e>
+ <e g="liststore3" i="4">Accent</e>
+ <e g="liststore6" i="6">Dash</e>
+ <e g="outlinecb" i="label">Outline</e>
+ <e g="liststore4" i="1">Below text</e>
+ <e g="fontcolorft" i="label">Font colour</e>
+ <e g="liststore2" i="0">(Without)</e>
+ <e g="liststore5" i="2">Double</e>
+ <e g="liststore6" i="13">Dot Dot Dash (Bold)</e>
+ <e g="emphasisft" i="label">Emphasis mark</e>
+ <e g="liststore6" i="3">Bold</e>
+ <e g="reliefft" i="label">Relief</e>
+ <e g="liststore2" i="2">Engraved</e>
+ <e g="label50" i="label">Preview</e>
+ <e g="liststore6" i="15">Wave (Bold)</e>
+ <e g="liststore6" i="9">Long Dash (Bold)</e>
+ <e g="liststore6" i="5">Dotted (Bold)</e>
+ <e g="liststore3" i="3">Disc</e>
+ <e g="liststore4" i="0">Above text</e>
+ <e g="liststore5" i="1">Single</e>
+ <e g="label47" i="label">Strikethrough</e>
+ <e g="hiddencb" i="label">Hidden</e>
+ <e g="liststore6" i="12">Dot Dot Dash</e>
+ <e g="liststore6" i="2">Double</e>
+ <e g="liststore3" i="0">(Without)</e>
+ <e g="liststore1" i="4">Small capitals</e>
+ <e g="shadowcb" i="label">Shadow</e>
+ <e g="liststore2" i="1">Embossed</e>
+ <e g="liststore6" i="8">Long Dash</e>
+ <e g="liststore3" i="2">Circle</e>
+ <e g="liststore6" i="4">Dotted</e>
+ <e g="label48" i="label">Underlining</e>
+ <e g="blinkingcb" i="label">Blinking</e>
+ <e g="liststore1" i="1">Capitals</e>
+ <e g="positionft" i="label">Position</e>
+ <e g="liststore5" i="4">With /</e>
+ <e g="liststore5" i="0">(Without)</e>
+ <e g="effectsft" i="label">Effects</e>
+ <e g="liststore6" i="11">Dot Dash (Bold)</e>
+ <e g="liststore6" i="1">Single</e>
+</t>

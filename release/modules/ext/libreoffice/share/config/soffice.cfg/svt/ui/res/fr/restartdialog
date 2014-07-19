@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">%PRODUCTNAME doit être redémarré pour que l'environnement Java sélectionné fonctionne correctement.</e>
+ <e g="yes" i="label">Redémarrer maintenant</e>
+ <e g="RestartDialog" i="title">Redémarrer %PRODUCTNAME</e>
+ <e g="label" i="label">Voulez-vous redémarrer %PRODUCTNAME maintenant ?</e>
+ <e g="no" i="label">Redémarrer ultérieurement</e>
+ <e g="reason_pdf" i="label">%PRODUCTNAME doit être redémarré pour que la modification du format de la tâche d'impression par défaut soit prise en compte.</e>
+ <e g="reason_bibliography_install" i="label">Pour que la bibliographie fonctionne correctement, %PRODUCTNAME doit être redémarré.</e>
+</t>

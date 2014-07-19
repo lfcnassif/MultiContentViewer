@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automatic</e>
+ <e g="optimal" i="label">최적</e>
+ <e g="columns" i="label">단</e>
+ <e g="bookmode" i="label">Book mode</e>
+ <e g="fitw" i="label">Fit width</e>
+ <e g="label1" i="label">레이아웃 보기</e>
+ <e g="variable" i="label">Variable</e>
+ <e g="label2" i="label">확대/축소</e>
+ <e g="singlepage" i="label">Single page</e>
+ <e g="ZoomDialog" i="title">확대/축소 및 레이아웃 보기</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">Fit width and height</e>
+</t>

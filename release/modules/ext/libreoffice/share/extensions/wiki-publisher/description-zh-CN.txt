@@ -1,0 +1,1 @@
+Wiki 发布器允许在 MediaWiki 服务器上创建 Wiki 文章，而无需了解 MediaWiki 标记语言的语法。可在 Writer 中透明地发布新的或现有文档到特定 wiki 页面。

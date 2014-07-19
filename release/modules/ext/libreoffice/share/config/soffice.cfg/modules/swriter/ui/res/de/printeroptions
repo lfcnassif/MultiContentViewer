@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="pictures" i="label">Bilder und andere grafische Objekte</e>
+ <e g="formcontrols" i="label">Steuerelemente</e>
+ <e g="autoblankpages" i="label">Automatisch eingefügte Leerseiten drucken</e>
+ <e g="pagebackground" i="label">Seitenhintergrund</e>
+ <e g="label6" i="label">Seiten</e>
+ <e g="label4" i="label">Inhalt</e>
+ <e g="placeholders" i="label">Text Platzhalter</e>
+ <e g="label5" i="label">Farbe</e>
+ <e g="textinblack" i="label">Text Schwarz drucken</e>
+ <e g="hiddentext" i="label">Versteckter Text</e>
+</t>

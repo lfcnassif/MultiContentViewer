@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<components xmlns="http://openoffice.org/2010/uno-components"><component loader="com.sun.star.loader.SharedLibrary" prefix="pptminimizer" uri="./SunPresentationMinimizer.uno.dll"><implementation name="com.sun.star.comp.PPPOptimizerImp"><service name="com.sun.star.comp.PPPOptimizer"/></implementation><implementation name="com.sun.star.comp.SunPresentationMinimizerImp"><service name="com.sun.star.comp.SunPresentationMinimizer"/></implementation></component></components>

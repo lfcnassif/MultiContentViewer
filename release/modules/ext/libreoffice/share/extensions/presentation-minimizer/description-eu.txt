@@ -1,0 +1,2 @@
+Aurkezpenaren fitxategi-tamaina txikitzeko erabiltzen da Aurkezpen-minimizatzailea. Irudiak konprimatuko dira, ta beharrezko ez diren datuak kenduko dira.
+Irudien kalitate eta tamaina optimizatu ditzake Aurkezpen-minimizatzaileak. Pantaila edo proiektoretarako diseinatutako aurkezpenek ez dute inprimatzeko diseinatutako aurkezpenen kalitate bera behar.

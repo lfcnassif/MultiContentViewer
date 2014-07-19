@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Dimensioni</e>
+ <e g="grayscale" i="label">Toni di grigio</e>
+ <e g="tilesheet" i="label">Fogli affiancati con diapositive ripetute</e>
+ <e g="fittoprintable" i="label">Adatta alla pagina da stampare</e>
+ <e g="printname" i="label">Nome diapositiva</e>
+ <e g="printhidden" i="label">Pagine nascoste</e>
+ <e g="originalcolors" i="label">Dimensione originale</e>
+ <e g="blackandwhite" i="label">Bianco e nero</e>
+ <e g="distributeonmultiple" i="label">Distribuisci su più fogli</e>
+ <e g="printdatetime" i="label">Data e ora</e>
+ <e g="label4" i="label">Contenuto</e>
+ <e g="label5" i="label">Colore</e>
+ <e g="originalsize" i="label">Dimensione originale</e>
+</t>

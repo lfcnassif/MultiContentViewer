@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">%PRODUCTNAME moet opnieuw worden gestart om de geselecteerde Java runtime environment juist te laten werken.</e>
+ <e g="yes" i="label">Nu herstarten</e>
+ <e g="RestartDialog" i="title">%PRODUCTNAME heropstarten</e>
+ <e g="label" i="label">Wenst u %PRODUCTNAME nu opnieuw op te starten?</e>
+ <e g="no" i="label">Later herstarten</e>
+ <e g="reason_pdf" i="label">%PRODUCTNAME moet opnieuw worden gestart om de aangepaste standaard printeropmaak juist te laten werken.</e>
+ <e g="reason_bibliography_install" i="label">%PRODUCTNAME moet opnieuw worden gestart om de bibliografie juist te laten werken.</e>
+</t>

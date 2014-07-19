@@ -1,0 +1,2 @@
+O Presentation Minimizer serve para reducir o tamaño das súas presentacións. As imaxes  comprimiranse e os datos innecesarios eliminaranse.
+O Presentation Minimizer pode optimizar a calidade da imaxe. Resulta útil porque as presentacións para seren exibidas nunha pantalla ou proxector non requiren a mesma calidade que as imaxes para impresión.

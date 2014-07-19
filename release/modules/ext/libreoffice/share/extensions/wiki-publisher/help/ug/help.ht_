@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck c0 بۇ رامكا تاللانسا يۈكلەنگەن بەت نۆۋەتتىكى ئوخشاش ماۋزۇدىكى بەتنىڭ قوشۇمچە تەھرىرى قىلىپ بەلگە قويۇلىدۇ.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 66 تاللاشچان قىسقىچە مۇھىم مەزمۇن ياكى ئىزاھاتنى كىرگۈزۈڭ
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 18d Wikiتۈرىنىڭ ماۋزۇسىنى كىرگۈزۈڭ. بۇ Wiki تۈرىنىڭ چوققا ماۋزۇسى. يېڭى تۈرگە نىسبەتەن ماۋزۇ چوقۇم مەزكۇر Wiki دا بىردىنبىر بولۇشى لازىم. ئەگەر كىرگۈزگەن ماۋزۇ مەۋجۇد بولسا سىزنىڭ يۈكلىگىنىڭىز ئەسلىدىكى Wiki تۈرىنى قاپلىۋېتىدۇ.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList c2 پۈتۈك ئېلان قىلىدىغان MediaWiki مۇلازىمىتىرىنى تاللاڭ. «قوش»نى چېكىپ تىزىملىككە يېڭى مۇلازىمىتىر قوشالايسىز.
+22 vnd.com.sun.star.wiki%3AsendDialog c2 پۈتۈك ئېلان قىلىدىغان MediaWiki مۇلازىمىتىرىنى تاللاڭ. «قوش»نى چېكىپ تىزىملىككە يېڭى مۇلازىمىتىر قوشالايسىز.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 9d بۇ رامكا تاللانسا سىستېمىدىكى توركۆرگۈنى ئاچىدۇ ھەمدە يۈكلەنگەن Wiki بېتىنى كۆرسىتىدۇ.
+1f vnd.com.sun.star.wiki%3Aaccount 69 http://بىلەن باشلانغان MediaWiki مۇلازىمىتىر ئادرېسىنى كىرگۈزۈڭ
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox f1 سۆزلىشىش جەريانىدا  ئىم ساقلاشنى قوزغىتىلىدۇ. چوقۇم ئاساسىي ئىمنى قوزغىتىش لازىم، قورال-تاللانما-%PRODUCTNAME-بىخەتەرلىكتىن پايدىلىنىڭ.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 8c MediaWikiمۇلازىمىتىرىدىكى ئىمنى كىرگۈزۈڭ. بوش قالدۇرۇلسا ئاتسىز زىيارەت قىلىدۇ.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField a9 MediaWikiمۇلازىمىتىرىدىكى ئىشلەتكۈچى ئاتىڭىزنى كىرگۈزۈڭ. بوش قالدۇرۇلسا ئاتسىز زىيارەت قىلىدۇ.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 69 http://بىلەن باشلانغان MediaWiki مۇلازىمىتىر ئادرېسىنى كىرگۈزۈڭ
+1c vnd.com.sun.star.wiki%3Asend 86 تاللا ھۆججەت-يوللا- MediaWiki نۆۋەتتىكى پۈتۈك MediaWiki مۇلازىمىتىرىغا يوللىنىدۇ.
+20 vnd.com.sun.star.wiki%3Aaboutbox 118 Wiki Publisher ئىشلىتىپ نۆۋەتتىكىWriter تېكست پۈتۈكىنى MediaWiki مۇلازىمىتىرىغا يۈكلىيەلەيسىز، يۈكلىگەندىن كېيىن بارلىق Wiki ئىشلەتكۈچىلىرى پۈتۈكىڭىزنى ئوقۇيالايدۇ.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 46 تىزىملىكتىن تاللانغان تۈر ئۆچۈرۈلىدۇ.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 12b قوش چېكىلسە يېڭى Wikiمۇلازىمىتىرى قوشۇلىدۇ تۈرنى تاللاپ تەھرىر چېكىلسە ھېسابات تەڭشىكىنى تەھرىرلەشكە بولىدۇتۈرنى تاللاپ ئۆچۈر چېكىلسە تىزىملىكتىن تۈر ئۆچۈرۈلىدۇ.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 6c MediaWiki سۆزلىشىش رامكىسىنى ئېچىپ تاللانغان تۈر تەھرىرلىنىدۇ.
+20 vnd.com.sun.star.wiki%3Asettings 12b قوش چېكىلسە يېڭى Wikiمۇلازىمىتىرى قوشۇلىدۇ تۈرنى تاللاپ تەھرىر چېكىلسە ھېسابات تەڭشىكىنى تەھرىرلەشكە بولىدۇتۈرنى تاللاپ ئۆچۈر چېكىلسە تىزىملىكتىن تۈر ئۆچۈرۈلىدۇ.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 56 MediaWiki سۆزلىشىش رامكىسىنى ئېچىپ يېڭى تۈر قوشىدۇ.

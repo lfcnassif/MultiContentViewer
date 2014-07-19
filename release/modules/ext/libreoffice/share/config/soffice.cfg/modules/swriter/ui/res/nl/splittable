@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">Tabel splitsen</e>
+ <e g="noheading" i="label">Geen kop</e>
+ <e g="copyheading" i="label">Kop kopiëren</e>
+ <e g="customheading" i="label">Eigen kop</e>
+ <e g="label1" i="label">Modus</e>
+ <e g="customheadingapplystyle" i="label">Eigen kop, met opmaakprofiel</e>
+</t>

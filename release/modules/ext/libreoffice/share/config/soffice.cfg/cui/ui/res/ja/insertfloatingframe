@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">既定値</e>
+ <e g="heightlabel" i="label">高さ</e>
+ <e g="label2" i="label">枠</e>
+ <e g="scrollbarauto" i="label">自動</e>
+ <e g="label1" i="label">スクロールバー</e>
+ <e g="label7" i="label">内容</e>
+ <e g="borderon" i="label">オン</e>
+ <e g="InsertFloatingFrameDialog" i="title">フレームのプロパティ</e>
+ <e g="buttonbrowse" i="label">参照...</e>
+ <e g="label6" i="label">名前</e>
+ <e g="widthlabel" i="label">幅</e>
+ <e g="scrollbaroff" i="label">オフ</e>
+ <e g="scrollbaron" i="label">オン</e>
+ <e g="defaultheight" i="label">既定値</e>
+ <e g="borderoff" i="label">オフ</e>
+ <e g="label3" i="label">内容までの間隔</e>
+</t>

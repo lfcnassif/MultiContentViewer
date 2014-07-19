@@ -1,0 +1,1 @@
+Ataskaitų rengykle galima kurti elegantiškas, išvaizdžias duomenų bazių ataskaitas. Funkcionali rengyklė leidžia nurodyti grupių ir puslapių antraštes bei poraštes. Be to, sudėtingoms duomenų bazių ataskaitoms rengti galima naudoti skaičiavimų laukus.

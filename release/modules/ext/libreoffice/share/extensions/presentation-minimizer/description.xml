@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+<description
+
+    xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dep="http://openoffice.org/extensions/description/2006">
+
+    <identifier value="com.sun.star.PresentationMinimizer-windows_x86"/>
+
+    <dependencies>
+        <OpenOffice.org-minimal-version value="2.3" dep:name="OpenOffice.org 2.3"/>
+    </dependencies>
+
+    <version value="1.0.4"/>
+
+    <platform value="windows_x86"/>
+
+    <publisher>
+        <name xlink:href="http://www.documentfoundation.org" lang="en-US">The Document Foundation</name>
+    </publisher>
+
+    <display-name>
+        <name lang="en-US">Presentation Minimizer</name>
+        <name lang="af">Presentation Minimizer</name>
+        <name lang="am">የማቅረቢያ ማሳነሻ</name>
+        <name lang="ar">مُصغِّر العرض التقديمي</name>
+        <name lang="as">প্ৰদৰ্শন কমাওতা</name>
+        <name lang="ast">Minimizador de Presentaciones</name>
+        <name lang="be">Памяншальнік прэзентацый</name>
+        <name lang="bg">Presentation Minimizer</name>
+        <name lang="bn">Presentation Minimizer</name>
+        <name lang="bn-IN">Presentation Minimizer</name>
+        <name lang="bo">Presentation Minimizer</name>
+        <name lang="br">Meziant bihanaat ar ginnigadenn</name>
+        <name lang="brx">Presentation Minimizer</name>
+        <name lang="bs">Sun minimizator prezentacija</name>
+        <name lang="ca">Minimitzador de presentacions</name>
+        <name lang="ca-XV">Minimitzador de presentacions</name>
+        <name lang="cs">Kompresor prezentací</name>
+        <name lang="cy">Lleihau Cyflwyniadau</name>
+        <name lang="da">Præsentationsminimering</name>
+        <name lang="de">Presentation Minimizer</name>
+        <name lang="dgo">Presentation Minimizer</name>
+        <name lang="dz">Presentation Minimizer</name>
+        <name lang="el">Ελαχιστοποίηση παρουσίασης</name>
+        <name lang="en-GB">Presentation Minimizer</name>
+        <name lang="en-ZA">Presentation Minimizer</name>
+        <name lang="eo">Prezentila Minimumigilo</name>
+        <name lang="es">Minimizador de presentaciones</name>
+        <name lang="et">Esitluste minimeerija</name>
+        <name lang="eu">Aurkezpen-minimizatzailea</name>
+        <name lang="fa">ارائه کمینه کننده</name>
+        <name lang="fi">Esitysten koon minimointi</name>
+        <name lang="fr">Presentation Minimizer</name>
+        <name lang="ga">Íoslaghdaitheoir Láithreoireachta</name>
+        <name lang="gd">Lùghdaichear nan taisbeanadh</name>
+        <name lang="gl">Presentation Minimizer</name>
+        <name lang="gu">Oracle Presentation Minimizer</name>
+        <name lang="he">ממזער המצגות</name>
+        <name lang="hi">सन प्रस्तुति न्यूनीकारक</name>
+        <name lang="hr">Presentation Minimizer</name>
+        <name lang="hu">Bemutatóméret-csökkentő</name>
+        <name lang="id">Peminimal Presentasi Sun</name>
+        <name lang="is">Kynningasmækkari</name>
+        <name lang="it">Compressione presentazione</name>
+        <name lang="ja">Presentation Minimizer</name>
+        <name lang="ka">Presentation Minimizer</name>
+        <name lang="kk">Presentation Minimizer</name>
+        <name lang="km">កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា</name>
+        <name lang="kn">Oracle ಪ್ರಸೆಂಟೇಶನ್‌ ಅನ್ನು ಕುಗ್ಗಿಸುವವ</name>
+        <name lang="ko">Presentation Minimizer</name>
+        <name lang="kok">Presentation Minimizer</name>
+        <name lang="ks">Presentation Minimizer</name>
+        <name lang="ku">Oracle Biçûkerê Pêşkêşiyê</name>
+        <name lang="lb">Presentation Minimizer</name>
+        <name lang="lo">Presentation Minimizer</name>
+        <name lang="lt">Pateikčių glaudinimo priemonė</name>
+        <name lang="lv">Prezentāciju samazinātājs</name>
+        <name lang="mai">Presentation Minimizer</name>
+        <name lang="mk">Минимизатор на презентација од Sun</name>
+        <name lang="ml">പ്രസന്റേഷന്‍ മിനിമൈസര്‍</name>
+        <name lang="mn">Presentation Minimizer</name>
+        <name lang="mni">Presentation Minimizer</name>
+        <name lang="mr">प्रेजेंटेशन मिनिमाइजर</name>
+        <name lang="my">Sun Presentation Minimizer</name>
+        <name lang="nb">Presentasjonskrymper </name>
+        <name lang="ne">Presentation Minimizer</name>
+        <name lang="nl">Minimaliseren van presentaties</name>
+        <name lang="nn">Suns presentasjonskrympar</name>
+        <name lang="nr">Presentation Minimizer</name>
+        <name lang="nso">Presentation Minimizer</name>
+        <name lang="oc">Presentation Minimizer</name>
+        <name lang="om">Gadeessaa Dhiheessaa Sun</name>
+        <name lang="or">Oracle ଉପସ୍ଥାପନା କ୍ଷୁଦ୍ରକର୍ତ୍ତା</name>
+        <name lang="pa-IN">ਪਰਿਜੈਟੇਸ਼ਨ ਮਿੰਨੀਮਾਈਜ਼ਰ</name>
+        <name lang="pl">Minimizer Prezentacji</name>
+        <name lang="pt">Compactador de apresentações</name>
+        <name lang="pt-BR">Presentation Minimizer</name>
+        <name lang="ro">Minimizorul de prezentări de la Sun</name>
+        <name lang="ru">Presentation Minimizer</name>
+        <name lang="rw">Presentation Minimizer</name>
+        <name lang="sa-IN">Presentation Minimizer</name>
+        <name lang="sat">Presentation Minimizer</name>
+        <name lang="sd">Presentation Minimizer</name>
+        <name lang="sh">Umanjivač prezentacije</name>
+        <name lang="si">Sun Presentation Minimizer</name>
+        <name lang="sid">Shiqote ajishaancho</name>
+        <name lang="sk">Minimalizátor prezentácií</name>
+        <name lang="sl">Stiskalnica predstavitev</name>
+        <name lang="sq">Modifiko objektin e prezentimit '$'</name>
+        <name lang="sr">Умањивач презентације</name>
+        <name lang="ss">Presentation Minimizer</name>
+        <name lang="st">Presentation Minimizer</name>
+        <name lang="sv">Presentationskomprimerare</name>
+        <name lang="sw-TZ">Presentation Minimizer</name>
+        <name lang="ta">விளக்கக்காட்சி சிறிதாக்கி</name>
+        <name lang="te">Presentation Minimizer</name>
+        <name lang="tg">Presentation Minimizer</name>
+        <name lang="th">ตัวลดขนาดงานนำเสนอ</name>
+        <name lang="tn">Presentation Minimizer</name>
+        <name lang="tr">Sunum Küçültücü</name>
+        <name lang="ts">Presentation Minimizer</name>
+        <name lang="tt">Presentation Minimizer</name>
+        <name lang="ug">كۆرسەتمە كىچىكلەشتۈرگۈچ</name>
+        <name lang="uk">Стискання презентації</name>
+        <name lang="uz">Sun Presentation Minimizer</name>
+        <name lang="ve">Presentation Minimizer</name>
+        <name lang="vi">Làm nhỏ trình chiếu</name>
+        <name lang="xh">Presentation Minimizer</name>
+        <name lang="zh-CN">演示文稿最小化器</name>
+        <name lang="zh-TW">簡報縮小器</name>
+        <name lang="zu">Presentation Minimizer</name>
+    </display-name>
+
+    <icon>
+      <default xlink:href="bitmaps/extension_32.png" />
+    </icon>
+
+    <extension-description>
+      <src xlink:href="description-en-US.txt" lang="en-US" />
+        <src xlink:href="description-af.txt" lang="af" />
+        <src xlink:href="description-am.txt" lang="am" />
+        <src xlink:href="description-ar.txt" lang="ar" />
+        <src xlink:href="description-as.txt" lang="as" />
+        <src xlink:href="description-ast.txt" lang="ast" />
+        <src xlink:href="description-be.txt" lang="be" />
+        <src xlink:href="description-bg.txt" lang="bg" />
+        <src xlink:href="description-bn.txt" lang="bn" />
+        <src xlink:href="description-bn-IN.txt" lang="bn-IN" />
+        <src xlink:href="description-bo.txt" lang="bo" />
+        <src xlink:href="description-br.txt" lang="br" />
+        <src xlink:href="description-brx.txt" lang="brx" />
+        <src xlink:href="description-bs.txt" lang="bs" />
+        <src xlink:href="description-ca.txt" lang="ca" />
+        <src xlink:href="description-ca-XV.txt" lang="ca-XV" />
+        <src xlink:href="description-cs.txt" lang="cs" />
+        <src xlink:href="description-cy.txt" lang="cy" />
+        <src xlink:href="description-da.txt" lang="da" />
+        <src xlink:href="description-de.txt" lang="de" />
+        <src xlink:href="description-dgo.txt" lang="dgo" />
+        <src xlink:href="description-dz.txt" lang="dz" />
+        <src xlink:href="description-el.txt" lang="el" />
+        <src xlink:href="description-en-GB.txt" lang="en-GB" />
+        <src xlink:href="description-en-ZA.txt" lang="en-ZA" />
+        <src xlink:href="description-eo.txt" lang="eo" />
+        <src xlink:href="description-es.txt" lang="es" />
+        <src xlink:href="description-et.txt" lang="et" />
+        <src xlink:href="description-eu.txt" lang="eu" />
+        <src xlink:href="description-fa.txt" lang="fa" />
+        <src xlink:href="description-fi.txt" lang="fi" />
+        <src xlink:href="description-fr.txt" lang="fr" />
+        <src xlink:href="description-ga.txt" lang="ga" />
+        <src xlink:href="description-gd.txt" lang="gd" />
+        <src xlink:href="description-gl.txt" lang="gl" />
+        <src xlink:href="description-gu.txt" lang="gu" />
+        <src xlink:href="description-he.txt" lang="he" />
+        <src xlink:href="description-hi.txt" lang="hi" />
+        <src xlink:href="description-hr.txt" lang="hr" />
+        <src xlink:href="description-hu.txt" lang="hu" />
+        <src xlink:href="description-id.txt" lang="id" />
+        <src xlink:href="description-is.txt" lang="is" />
+        <src xlink:href="description-it.txt" lang="it" />
+        <src xlink:href="description-ja.txt" lang="ja" />
+        <src xlink:href="description-ka.txt" lang="ka" />
+        <src xlink:href="description-kk.txt" lang="kk" />
+        <src xlink:href="description-km.txt" lang="km" />
+        <src xlink:href="description-kn.txt" lang="kn" />
+        <src xlink:href="description-ko.txt" lang="ko" />
+        <src xlink:href="description-kok.txt" lang="kok" />
+        <src xlink:href="description-ks.txt" lang="ks" />
+        <src xlink:href="description-ku.txt" lang="ku" />
+        <src xlink:href="description-lb.txt" lang="lb" />
+        <src xlink:href="description-lo.txt" lang="lo" />
+        <src xlink:href="description-lt.txt" lang="lt" />
+        <src xlink:href="description-lv.txt" lang="lv" />
+        <src xlink:href="description-mai.txt" lang="mai" />
+        <src xlink:href="description-mk.txt" lang="mk" />
+        <src xlink:href="description-ml.txt" lang="ml" />
+        <src xlink:href="description-mn.txt" lang="mn" />
+        <src xlink:href="description-mni.txt" lang="mni" />
+        <src xlink:href="description-mr.txt" lang="mr" />
+        <src xlink:href="description-my.txt" lang="my" />
+        <src xlink:href="description-nb.txt" lang="nb" />
+        <src xlink:href="description-ne.txt" lang="ne" />
+        <src xlink:href="description-nl.txt" lang="nl" />
+        <src xlink:href="description-nn.txt" lang="nn" />
+        <src xlink:href="description-nr.txt" lang="nr" />
+        <src xlink:href="description-nso.txt" lang="nso" />
+        <src xlink:href="description-oc.txt" lang="oc" />
+        <src xlink:href="description-om.txt" lang="om" />
+        <src xlink:href="description-or.txt" lang="or" />
+        <src xlink:href="description-pa-IN.txt" lang="pa-IN" />
+        <src xlink:href="description-pl.txt" lang="pl" />
+        <src xlink:href="description-pt.txt" lang="pt" />
+        <src xlink:href="description-pt-BR.txt" lang="pt-BR" />
+        <src xlink:href="description-ro.txt" lang="ro" />
+        <src xlink:href="description-ru.txt" lang="ru" />
+        <src xlink:href="description-rw.txt" lang="rw" />
+        <src xlink:href="description-sa-IN.txt" lang="sa-IN" />
+        <src xlink:href="description-sat.txt" lang="sat" />
+        <src xlink:href="description-sd.txt" lang="sd" />
+        <src xlink:href="description-sh.txt" lang="sh" />
+        <src xlink:href="description-si.txt" lang="si" />
+        <src xlink:href="description-sid.txt" lang="sid" />
+        <src xlink:href="description-sk.txt" lang="sk" />
+        <src xlink:href="description-sl.txt" lang="sl" />
+        <src xlink:href="description-sq.txt" lang="sq" />
+        <src xlink:href="description-sr.txt" lang="sr" />
+        <src xlink:href="description-ss.txt" lang="ss" />
+        <src xlink:href="description-st.txt" lang="st" />
+        <src xlink:href="description-sv.txt" lang="sv" />
+        <src xlink:href="description-sw-TZ.txt" lang="sw-TZ" />
+        <src xlink:href="description-ta.txt" lang="ta" />
+        <src xlink:href="description-te.txt" lang="te" />
+        <src xlink:href="description-tg.txt" lang="tg" />
+        <src xlink:href="description-th.txt" lang="th" />
+        <src xlink:href="description-tn.txt" lang="tn" />
+        <src xlink:href="description-tr.txt" lang="tr" />
+        <src xlink:href="description-ts.txt" lang="ts" />
+        <src xlink:href="description-tt.txt" lang="tt" />
+        <src xlink:href="description-ug.txt" lang="ug" />
+        <src xlink:href="description-uk.txt" lang="uk" />
+        <src xlink:href="description-uz.txt" lang="uz" />
+        <src xlink:href="description-ve.txt" lang="ve" />
+        <src xlink:href="description-vi.txt" lang="vi" />
+        <src xlink:href="description-xh.txt" lang="xh" />
+        <src xlink:href="description-zh-CN.txt" lang="zh-CN" />
+        <src xlink:href="description-zh-TW.txt" lang="zh-TW" />
+        <src xlink:href="description-zu.txt" lang="zu" />
+    </extension-description>
+
+</description>

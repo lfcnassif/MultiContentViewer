@@ -1,0 +1,1 @@
+Rapor Oluşturucu kullanarak biçimli ve güzel görünümlü veritabanı raporları oluşturabilirsiniz. Esnek rapor düzenleyicisi, grup ve sayfa başlıkları tanımlayabileceğiniz gibi grup ve sayfa alt bilgileri de tanımlayabilirsiniz. Buna ek olarak, hesaplama alanları karmaşık veritabanı raporlarını başarıyla oluşturmanız için kullanılabilir.

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="ok" i="label">Couper les mots</e>
+ <e g="label1" i="label">Mot</e>
+ <e g="hyphall" i="label">Couper tous les mots</e>
+ <e g="continue" i="label">Sauter</e>
+ <e g="HyphenateDialog" i="title">Coupure des mots</e>
+</t>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">编辑</e>
+ <e g="macrotoft" i="label">另存宏的位置</e>
+ <e g="existingmacrosft" i="label">现有的宏：</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic 宏</e>
+ <e g="macrofromft" i="label">宏的来源</e>
+ <e g="libraryft1" i="label">宏的名称</e>
+ <e g="newlibrary" i="label">新建库</e>
+ <e g="newmodule" i="label">新建模块</e>
+ <e g="organize" i="label">管理器...</e>
+ <e g="run" i="label">运行</e>
+ <e g="assign" i="label">分配...</e>
+</t>

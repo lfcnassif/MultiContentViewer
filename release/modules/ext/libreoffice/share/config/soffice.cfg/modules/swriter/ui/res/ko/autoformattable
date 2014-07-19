@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">맞춤</e>
+ <e g="fontcb" i="label">글꼴</e>
+ <e g="label2" i="label">서식</e>
+ <e g="bordercb" i="label">테두리</e>
+ <e g="AutoFormatTableDialog" i="title">자동 서식</e>
+ <e g="patterncb" i="label">패턴</e>
+ <e g="numformatcb" i="label">Number format</e>
+ <e g="rename" i="label">이름 바꾸기</e>
+ <e g="label1" i="label">Format</e>
+</t>

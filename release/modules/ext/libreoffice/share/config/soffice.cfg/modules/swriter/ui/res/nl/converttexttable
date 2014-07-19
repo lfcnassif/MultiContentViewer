@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Alinea</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">rijen</e>
+ <e g="tabs" i="label">Tabs</e>
+ <e g="label3" i="label">De eerste</e>
+ <e g="label1" i="label">Scheidingsteken in tekst</e>
+ <e g="headingcb" i="label">Kop</e>
+ <e g="bordercb" i="label">Rand</e>
+ <e g="dontsplitcb" i="label">Tabel niet splitsen</e>
+ <e g="autofmt" i="label">AutoOpmaak...</e>
+ <e g="repeatheading" i="label">Kop herhalen</e>
+ <e g="keepcolumn" i="label">Alle kolommen dezelfde breedte</e>
+ <e g="ConvertTextTableDialog" i="title">Tabel naar tekst converteren</e>
+ <e g="semicolons" i="label">Puntkomma's</e>
+ <e g="2" i="label">Opties</e>
+ <e g="other" i="label">Overige:</e>
+</t>

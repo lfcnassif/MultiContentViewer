@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">Tabs</e>
+ <e g="columns" i="label">단</e>
+ <e g="label3" i="label">방향</e>
+ <e g="up2" i="label">Ascending</e>
+ <e g="1" i="label">정렬 기준</e>
+ <e g="column" i="label">Column</e>
+ <e g="key3" i="label">Key 3</e>
+ <e g="character" i="label">Character </e>
+ <e g="down2" i="label">Descending</e>
+ <e g="matchcase" i="label">Match case</e>
+ <e g="label2" i="label">설정</e>
+ <e g="up1" i="label">Ascending</e>
+ <e g="key2" i="label">Key 2</e>
+ <e g="down1" i="label">Descending</e>
+ <e g="rows" i="label">행</e>
+ <e g="label4" i="label">Separator</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">키 유형</e>
+ <e g="up3" i="label">Ascending</e>
+ <e g="label1" i="label">언어</e>
+ <e g="key1" i="label">Key 1</e>
+ <e g="SortDialog" i="title">정렬</e>
+ <e g="order" i="label">순서</e>
+ <e g="down3" i="label">Descending</e>
+</t>

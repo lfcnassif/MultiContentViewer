@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck c6 Ижил гарчигтай хуудасны бяцхан өөрчлөлтийг сервер рүү илгээхийн тул энэ тэмдэглэх талбарыг идэвхжүүлнэ үү.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 5f Та боломжтой бол нэг дүгнэлт эсвэл тайлбар хийнэ үү.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 193 Та Вики бичлэгийнхээ гарчгийг өгнө үү. Энэ таны  бичлэгийн үндсэн гарчиг болно. Шинэ бичлэгийн хувьд энэ Викид өмнө нь байхгүй гарчгийг өгөх ёстой. Хэрэв та хэдийнэ оршин буй гарчиг өгвөл тэр оршин байгаа бичлэгийг дарна.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList cd Өөрийн баримтаа нийтлэхийг хүсч буй МедиаВики серверээ сонгоно уу. Нэмэх-ийг дарж жагсаалтад шинэ сервер нэмнэ.
+22 vnd.com.sun.star.wiki%3AsendDialog cd Өөрийн баримтаа нийтлэхийг хүсч буй МедиаВики серверээ сонгоно уу. Нэмэх-ийг дарж жагсаалтад шинэ сервер нэмнэ.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck b8 Энэ хайрцгийг хэрээслэвэл таны системийн вэб толилуурыг нээн, өргөж өгөгдсөн Вики хуудсыг харуулна.
+1f vnd.com.sun.star.wiki%3Aaccount 6c http:// ээр эхэлсэн МедиаВики серверийн хаягийг (URL) оруулна уу
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox f2 Нууц үг тогтмол хадгалах бол идэвхжүүлнэ үү. Мастер нууц үг өгөгдөх ёстой ба, Хэрэгсэл - Тохиргоо - StarOffice/OpenOffice.org - Хамгаалалт үзнэ үү.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 96 МедиаВики сервер дэх өөрийн нууц үгээ оруулна уу. Нуугдмал эрхээр бол хоосон орхи.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField a8 МедиаВики сервер дэх өөрийн хэрэглэгчийн нэрээ оруулна уу. Нуугдмал эрхээр бол хоосон орхи.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 6c http:// ээр эхэлсэн МедиаВики серверийн хаягийг (URL) оруулна уу
+1c vnd.com.sun.star.wiki%3Asend af Файл - Илгээх - МедиаВики рүүг сонгож идэвхтэй буй Бичээч баримтыг МедиаВики сервер рүү илгээнэ.
+20 vnd.com.sun.star.wiki%3Aaboutbox 128 Wiki Publisher-г хэрэглэснээр та идэвхтэй Бичээчийн бичвэр баримтыг МедиаВики серверт тавьж болно. Тавьсны дараа Викигийн бүх хэрэглэгч таны баримтыг унших боломжтой.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 4c Сонгогдсон оруулгыг жагсаалтаас устгана.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 136 Нэмэх ийг дарж шинэ Вики сервер нэмнэ.Оруулгыг сонгоод Засах ыг дарвал бүртгэлийн тохиргоог засварлана. Жагсаалтаас оруулгыг устгах бол, оруулгыг сонгоод Устгах ыг дар.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 68 Сонгогдсон бичлэгийг засахдаа МэдиаВики диалогыг нээнэ.
+20 vnd.com.sun.star.wiki%3Asettings 136 Нэмэх ийг дарж шинэ Вики сервер нэмнэ.Оруулгыг сонгоод Засах ыг дарвал бүртгэлийн тохиргоог засварлана. Жагсаалтаас оруулгыг устгах бол, оруулгыг сонгоод Устгах ыг дар.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 6b Жагсаалтад шинэ бичлэг нэмэхдээ МедиаВики диалогыг нээнэ.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Tamaño</e>
+ <e g="grayscale" i="label">Escala de grises</e>
+ <e g="tilesheet" i="label">Páginas como mosaicos con diapositivas repetidas</e>
+ <e g="fittoprintable" i="label">Ajustar a la zona de impresión</e>
+ <e g="printname" i="label">Nombre de la diapositiva</e>
+ <e g="printhidden" i="label">Páginas ocultas</e>
+ <e g="originalcolors" i="label">Tamaño original</e>
+ <e g="blackandwhite" i="label">Blanco y negro</e>
+ <e g="distributeonmultiple" i="label">Distribuir en varias hojas de papel</e>
+ <e g="printdatetime" i="label">Fecha y hora</e>
+ <e g="label4" i="label">Contenido</e>
+ <e g="label5" i="label">Color</e>
+ <e g="originalsize" i="label">Tamaño original</e>
+</t>

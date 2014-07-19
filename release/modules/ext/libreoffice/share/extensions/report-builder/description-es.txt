@@ -1,0 +1,1 @@
+Use el diseñador de informes para crear informes de bases de datos estilizados y elegantes. El flexible editor de informes puede definir encabezados y pies de grupo y de página. Además, los campos de cálculo están disponibles para llevar a cabo informes complejos de base de datos.

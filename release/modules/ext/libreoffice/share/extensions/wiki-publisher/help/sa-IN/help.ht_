@@ -1,0 +1,8 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 12e समानशीर्षकेन सह पूर्वमेव विद्यमानपृष्ठस्य गौणसम्पादनम् इव अप्लोडड् पृष्ठं चिह्नितुम् इमां पेटिकां परीक्षस्व।
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 2b Enter an optional short summary or comment.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 229 तव विकि निवेशनस्य शीर्षकं निवेशय।तव विकि निवेशनस्य ऊर्ध्वशीर्षकः।नूतननिवेशनाय, अस्मिन् विकि मध्ये शीर्षकः अद्वितीयः भवितव्यः।त्वं विद्यमानशीर्षकं निवेशयति चेत्, तव अप्लोड् विद्यमाननिवेशनं आलेखिष्यति।
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 150 त्वं तव लेख्यपत्रं यत्र प्रकाशयितुम् इच्छसि तत्र मीडिया विकि सर्वर् वृणु।सूच्यै नूतनसर्वर् सङ्कलयितुं सङ्कलनं क्लिक् कुरु।
+22 vnd.com.sun.star.wiki%3AsendDialog 150 त्वं तव लेख्यपत्रं यत्र प्रकाशयितुम् इच्छसि तत्र मीडिया विकि सर्वर् वृणु।सूच्यै नूतनसर्वर् सङ्कलयितुं सङ्कलनं क्लिक् कुरु।
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck ff तव सिस्टम् वेब् ब्रौसर् उद्घाटितुं तथा अप्लोडड् विकिपृष्ठं दर्शितुं च इमां पेटिकां परीक्षस्व।
+1f vnd.com.sun.star.wiki%3Aaccount 3a Enter the URL of a MediaWiki server, starting with http://
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3a Enter the URL of a MediaWiki server, starting with http://

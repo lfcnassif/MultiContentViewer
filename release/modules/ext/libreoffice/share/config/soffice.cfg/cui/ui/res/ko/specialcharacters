@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">문자:</e>
+ <e g="fontft" i="label">Font</e>
+ <e g="SpecialCharactersDialog" i="title">특수문자</e>
+ <e g="subsetft" i="label">부분 집합</e>
+</t>

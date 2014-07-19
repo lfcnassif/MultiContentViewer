@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 8a selezionate questa casella per contrassegnare la pagina caricata come modifica secondaria della pagina già presente con lo stesso titolo.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 34 Potete digitare un commento o una breve descrizione.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText fa Digitate il titolo della vostra voce wiki. Questa è l'intestazione superiore della voce wiki. Per ciascuna nuova voce del wiki il titolo deve essere univoco. Se digitate un titolo esistente, il caricamento sovrascriverà la voce wiki corrispondente.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 85 Selezionate il server MediaWiki dove volete pubblicare il documento. Fate clic su Aggiungi per aggiungere un nuovo server all'elenco.
+22 vnd.com.sun.star.wiki%3AsendDialog 85 Selezionate il server MediaWiki dove volete pubblicare il documento. Fate clic su Aggiungi per aggiungere un nuovo server all'elenco.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 6f selezionate questa casella per aprire il vostro browser web predefinito e visualizzare la pagina wiki caricata.
+1f vnd.com.sun.star.wiki%3Aaccount 3b Digitate l'URL di un server MediaWiki iniziando con http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox a7 Attiva la memorizzazione della password tra una sessione e l'altra. Verificate in Strumenti - Opzioni - %PRODUCTNAME - Sicurezza che la password principale sia attiva.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 57 Digitate la vostra password sul server MediaWiki. Lasciate vuoto per l'accesso anonimo.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 5a Digitate il vostro nome utente sul server MediaWiki. Lasciate vuoto per l'accesso anonimo.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3b Digitate l'URL di un server MediaWiki iniziando con http://
+1c vnd.com.sun.star.wiki%3Asend 63 Per caricare il documento Writer attivo nel server MediaWiki, scegliete File - Invia - A MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox b0 Utilizzando Wiki Publisher potete caricare su un server MediaWiki il vostro documento Writer. Dopo il caricamento, tutti gli utenti wiki potranno leggere il documento nel wiki.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 28 Rimuove la voce selezionata dall'elenco.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList de Per aggiungere un nuovo server wiki, fate clic su aggiungi.Per modificare le impostazioni dell'account, selezionate una voce e fate clic su Modifica.Per eliminare una voce dall'elenco, selezionatela e fate clic su rimuovi.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 4d Apre la finestra di dialogo MediaWiki per la modifica della voce selezionata.
+20 vnd.com.sun.star.wiki%3Asettings de Per aggiungere un nuovo server wiki, fate clic su aggiungi.Per modificare le impostazioni dell'account, selezionate una voce e fate clic su Modifica.Per eliminare una voce dall'elenco, selezionatela e fate clic su rimuovi.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 4e Apre la finestra di dialogo MediaWiki per l'aggiunta di nuova voce all'elenco.

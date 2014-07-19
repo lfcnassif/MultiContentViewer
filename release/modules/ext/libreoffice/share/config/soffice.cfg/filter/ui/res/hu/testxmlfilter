@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Exportáló XSLT</e>
+ <e g="label5" i="label">Importáló XSLT</e>
+ <e g="currentdocument" i="label">Jelenlegi dokumentum</e>
+ <e g="importbrowse" i="label">Tallózás…</e>
+ <e g="label2" i="label">Importálás</e>
+ <e g="exportbrowse" i="label">Tallózás…</e>
+ <e g="templateimport" i="label">Importáló sablon</e>
+ <e g="displaysource" i="label">Forrás megjelenítése</e>
+ <e g="TestXMLFilterDialog" i="title">XML-szűrő tesztelése: %s</e>
+ <e g="label4" i="label">Dokumentum átalakítása</e>
+ <e g="label6" i="label">Fájl átalakítása</e>
+ <e g="label1" i="label">Exportálás</e>
+ <e g="recentfile" i="label">Legutóbbi fájl</e>
+</t>

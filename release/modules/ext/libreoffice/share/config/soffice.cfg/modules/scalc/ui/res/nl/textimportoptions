@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automatisch</e>
+ <e g="label3" i="label">Opties</e>
+ <e g="TextImportOptionsDialog" i="title">Importeer opties</e>
+ <e g="custom" i="label">Aangepast</e>
+ <e g="label2" i="label">Selecteer de taal die gebruikt moet worden voor importeren</e>
+ <e g="convertdata" i="label">Detecteer speciale getallen (zoals datums).</e>
+</t>

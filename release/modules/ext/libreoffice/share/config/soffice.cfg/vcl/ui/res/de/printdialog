@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">Alle Seiten</e>
+ <e g="pagestxt" i="label">Seiten</e>
+ <e g="label5" i="label">Drucker</e>
+ <e g="label11" i="label">Ausdruck</e>
+ <e g="setup" i="label">Eigenschaften...</e>
+ <e g="label9" i="label">Kommentar:</e>
+ <e g="customlabel" i="label">Benutzerdefiniert</e>
+ <e g="liststore3" i="0">Automatisch</e>
+ <e g="label15" i="label">Ausdruck</e>
+ <e g="label19" i="label">Reihenfolge</e>
+ <e g="sheetmargintxt1" i="label">Rand</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">Alle Tabellen</e>
+ <e g="label2" i="label">Seitenlayout</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Querformat</e>
+ <e g="label6" i="label">Details</e>
+ <e g="label12" i="label">Folien pro Seite</e>
+ <e g="label16" i="label">Kommentar</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">von oben nach unten, dann nach links</e>
+ <e g="ordertxt" i="label">Reihenfolge</e>
+ <e g="label3" i="label">Seitenränder</e>
+ <e g="pagespersheetbtn" i="label">Seiten pro Blatt</e>
+ <e g="label7" i="label">Status:</e>
+ <e g="label13" i="label">Bereich und Kopien</e>
+ <e g="label17" i="label">Einschließen</e>
+ <e g="printpages" i="label">Seiten</e>
+ <e g="location" i="label">Orte</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Drucken in Datei</e>
+ <e g="reverseorder" i="label">In umgekehrter Reihenfolge drucken</e>
+ <e g="collate" i="label">Sortieren</e>
+ <e g="label10" i="label">Dokument</e>
+ <e g="liststore2" i="1">von oben nach unten, dann nach rechts</e>
+ <e g="label8" i="label">Speicherort: </e>
+ <e g="printselection" i="label">Auswahl</e>
+ <e g="PrintDialog" i="title">Ausdruck</e>
+ <e g="comment" i="label">Langer Druckername</e>
+ <e g="liststore1" i="6">Benutzerdefiniert</e>
+ <e g="singleprintjob" i="label">Einzelne Druckaufträge für sortierte Ausgabe erzeugen</e>
+ <e g="sheetmargintxt2" i="label">zum Blattrand</e>
+ <e g="by" i="label">zu</e>
+ <e g="label1" i="label">Allgemein</e>
+ <e g="label20" i="label">Optionen</e>
+ <e g="liststore2" i="3">von rechts nach links, dann nach unten</e>
+ <e g="printpaperfromsetup" i="label">Nur den Papierschacht der Druckereinstellungen benutzen</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Einen Rahmen um jede Seite zeichnen</e>
+ <e g="fromwhich" i="label">​​Druckbereich</e>
+ <e g="pagemargintxt1" i="label">Abstand</e>
+ <e g="status" i="label">Standarddrucker</e>
+ <e g="liststore2" i="0">von links nach rechts, dann nach unten</e>
+ <e g="printselectedsheets" i="label">Ausgewählte Tabellen</e>
+ <e g="label21" i="label">Optionen</e>
+ <e g="liststore3" i="1">Hochformat</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Ausgewählte Zellen</e>
+ <e g="pagemargintxt2" i="label">zwischen Seiten</e>
+ <e g="label14" i="label">Exemplare</e>
+ <e g="brochure" i="label">Broschüre</e>
+ <e g="label18" i="label">Layout</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Ausrichtung</e>
+</t>

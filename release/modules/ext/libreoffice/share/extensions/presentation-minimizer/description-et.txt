@@ -1,0 +1,2 @@
+Esitluste minimeerimise laiendust saab kasutada esitluse failisuuruse vähendamiseks. Pildid pakitakse kokku ja andmed, mida enam ei vajata, eemaldatakse.
+Esitluste minimeerija võib optimeerida piltide suuruse-kvaliteedi suhet: ekraanil või projektori abil näidatavates esitlustes pole vaja sama kõrget pildikvaliteeti kui printimiseks mõeldud esitlustes.

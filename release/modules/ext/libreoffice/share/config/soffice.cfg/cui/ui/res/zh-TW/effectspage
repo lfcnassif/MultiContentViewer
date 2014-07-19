@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">標題</e>
+ <e g="overlinecolorft" i="label">頂線色彩</e>
+ <e g="liststore6" i="7">虛線 (粗體)</e>
+ <e g="liststore3" i="1">點</e>
+ <e g="underlinecolorft" i="label">底線色彩</e>
+ <e g="label42" i="label">選項</e>
+ <e g="liststore1" i="0">(無)</e>
+ <e g="individualwordscb" i="label">個別字詞</e>
+ <e g="label46" i="label">頂線</e>
+ <e g="liststore5" i="3">粗體</e>
+ <e g="liststore6" i="14">波浪線</e>
+ <e g="liststore6" i="10">點虛線</e>
+ <e g="liststore6" i="0">(無)</e>
+ <e g="liststore1" i="2">小寫字母</e>
+ <e g="liststore5" i="5">有 X</e>
+ <e g="liststore6" i="16">雙波浪線</e>
+ <e g="liststore3" i="4">重音符號</e>
+ <e g="liststore6" i="6">虛線</e>
+ <e g="outlinecb" i="label">大綱</e>
+ <e g="liststore4" i="1">文字之下</e>
+ <e g="fontcolorft" i="label">字型色彩</e>
+ <e g="liststore2" i="0">(無)</e>
+ <e g="liststore5" i="2">雙線</e>
+ <e g="liststore6" i="13">雙點虛線 (粗體)</e>
+ <e g="emphasisft" i="label">重音符號</e>
+ <e g="liststore6" i="3">粗體</e>
+ <e g="reliefft" i="label">浮雕</e>
+ <e g="liststore2" i="2">雕刻</e>
+ <e g="label50" i="label">預覽</e>
+ <e g="liststore6" i="15">波浪線 (粗體)</e>
+ <e g="liststore6" i="9">長虛線 (粗體)</e>
+ <e g="liststore6" i="5">點線 (粗體)</e>
+ <e g="liststore3" i="3">大圓點</e>
+ <e g="liststore4" i="0">文字之上</e>
+ <e g="liststore5" i="1">單線</e>
+ <e g="label47" i="label">刪除線</e>
+ <e g="hiddencb" i="label">隱藏</e>
+ <e g="liststore6" i="12">雙點虛線</e>
+ <e g="liststore6" i="2">雙線</e>
+ <e g="liststore3" i="0">(無)</e>
+ <e g="liststore1" i="4">小型大寫字母</e>
+ <e g="shadowcb" i="label">陰影</e>
+ <e g="liststore2" i="1">浮凸</e>
+ <e g="liststore6" i="8">長虛線</e>
+ <e g="liststore3" i="2">圓圈</e>
+ <e g="liststore6" i="4">點線</e>
+ <e g="label48" i="label">底線</e>
+ <e g="blinkingcb" i="label">閃動</e>
+ <e g="liststore1" i="1">大寫字母</e>
+ <e g="positionft" i="label">位置</e>
+ <e g="liststore5" i="4">有 /</e>
+ <e g="liststore5" i="0">(無)</e>
+ <e g="effectsft" i="label">效果</e>
+ <e g="liststore6" i="11">點虛線 (粗體)</e>
+ <e g="liststore6" i="1">單線</e>
+</t>

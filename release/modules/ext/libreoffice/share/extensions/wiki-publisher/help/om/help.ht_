@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 53 Fuula dura ol fe'amee jiru akka xinnuma gulaalameetti ibsuuf saanduqa kana filadhu.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 2a Yoo feete golba gabaabaa ykn yaada galchi.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText fa Mataduree galfata Wiki keetii galchi. Kunis mataduree isa gubbaa galfata Wiki keetiti. Galfata haaraaf, matadurichi galfata Wiki kanaaf addayyaa ta'uu qaba. Yoo mata duree dura jiru galchite, olfe'iinsi kee galfata Wiki dura jiru irratti barreeffama.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 77 Kaadimaa MiidiyaaWiki galmee kee irratti maxxansuu barbaaddu filadhu. Kaadimaa haaraa tarretti dabaluuf Dabali cuqaasi.
+22 vnd.com.sun.star.wiki%3AsendDialog 77 Kaadimaa MiidiyaaWiki galmee kee irratti maxxansuu barbaaddu filadhu. Kaadimaa haaraa tarretti dabaluuf Dabali cuqaasi.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 67 Fuula Wiki olfe'ame iyyaafataa sirna keetii irratti bantee ilaaluu yoo barbaadde saanduqa kana filadhu.
+1f vnd.com.sun.star.wiki%3Aaccount 30 URL kaadimaa MiidiyaaWiki http://n eegalu galchi
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 9b Iggtni kee gidduu turtiiwwaniitti akka kuufamu dandeessisi. Iggitni hundataan dandeessifamuu qaba, Meeshaalee - Dirqalaalee - %PRODUCTNAME - Ittisa ilaali.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 56 Iggita kee kan kaadimaa MiidiyaaWiki irraa galchi. Gahiinsa maqadhableef duwaa dhiisi.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 60 Maqaa fayyadamaa kee kan kaadimaa MiidiyaaWiki irraa galchi. Gahiinsa maqadhableef duwaa dhiisi.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 30 URL kaadimaa MiidiyaaWiki http://n eegalu galchi
+1c vnd.com.sun.star.wiki%3Asend 6a Galmee Barreessaa kee ammaa gara kaadimaa miidiyaawiki ol fe'uuf Faayilii - Ergi - Gara MiidiyaaWiki fili.
+20 vnd.com.sun.star.wiki%3Aaboutbox ba Wiki Publisher fayyadamuun galmee Barreessaa kee ammaa gara kaadimaa miidiyaawiki olfe'achuu dandeessa. Erga ol feetee booda, fayyadamtootni wiki marti galmee Wikirrtti dubbisuu danda'u.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 25 Galfata filatame tarree keessaa haqa.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList b4 Kaadimaa haaraa ida'uf Ida'i cuqaasi.Qindaa'ina eenyummeessa gulaaluuf, galfata barbaaddu filii Gulaali cuqaasi.Galfata tarree keessaa balleessuuf galfaticha filiitii Haqi cuqaasi.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3c Qaaqa MiidiyaaWiki galfata filatame gulaaluuf gargaaru bana.
+20 vnd.com.sun.star.wiki%3Asettings b4 Kaadimaa haaraa ida'uf Ida'i cuqaasi.Qindaa'ina eenyummeessa gulaaluuf, galfata barbaaddu filii Gulaali cuqaasi.Galfata tarree keessaa balleessuuf galfaticha filiitii Haqi cuqaasi.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 41 Qaaqa MiidiyaaWiki galfata haaraa tarretti dabluuf gargaaru bana.

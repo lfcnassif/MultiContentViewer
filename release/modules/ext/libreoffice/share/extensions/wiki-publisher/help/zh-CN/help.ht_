@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 51 选中此框可将上载的页面标记为现有同标题页面的次要编辑。
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 27 输入可选的简短摘要或注释。
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText cc 输入 Wiki 条目的标题。这是 Wiki 条目的顶端标题。对于新条目，标题必须在此 Wiki 中唯一。如果输入的标题已经存在，您的上载将会覆盖现有的 Wiki 条目。
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 6b 选择用于发布文档的 MediaWiki 服务器。单击“添加”可向列表中添加新的服务器。
+22 vnd.com.sun.star.wiki%3AsendDialog 6b 选择用于发布文档的 MediaWiki 服务器。单击“添加”可向列表中添加新的服务器。
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 56 选中此框可打开您的系统 Web 浏览器，并显示已上载的 Wiki 页面。
+1f vnd.com.sun.star.wiki%3Aaccount 33 输入以 http:// 开头的 MediaWiki 服务器 URL
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 6f 启用会话期间密码保存。必须启用主密码，请参见工具 - 选项 - %PRODUCTNAME - 安全性。
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 4d 输入您的 MediaWiki 服务器密码。保留为空可进行匿名访问。
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 50 输入您的 MediaWiki 服务器用户名。保留为空可进行匿名访问。
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 33 输入以 http:// 开头的 MediaWiki 服务器 URL
+1c vnd.com.sun.star.wiki%3Asend 69 选择文件 - 发送 - 发送至 MediaWiki 可将当前的 Writer 文档上载至 MediaWiki 服务器。
+20 vnd.com.sun.star.wiki%3Aaboutbox ac 使用 Wiki Publisher，您可以将当前的 Writer 文本文档上载至 MediaWiki 服务器。上载之后，所有 Wiki 用户都可以在 Wiki 中阅读您的文档。
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 24 从列表中删除选定的条目。
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList ab 单击“添加”可添加新的 Wiki 服务器。选择条目并单击“编辑”可编辑帐户设置。选择条目并单击“删除”可从列表中删除条目。
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 35 打开 MediaWiki 对话框以编辑选定的条目。
+20 vnd.com.sun.star.wiki%3Asettings ab 单击“添加”可添加新的 Wiki 服务器。选择条目并单击“编辑”可编辑帐户设置。选择条目并单击“删除”可从列表中删除条目。
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 3b 打开 MediaWiki 对话框以向列表中添加新条目。

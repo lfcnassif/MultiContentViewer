@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="ok" i="label">Hifenizar</e>
+ <e g="label1" i="label">Palavras</e>
+ <e g="hyphall" i="label">Hifenizar tudo</e>
+ <e g="continue" i="label">Ignorar</e>
+ <e g="HyphenateDialog" i="title">Hifenização</e>
+</t>

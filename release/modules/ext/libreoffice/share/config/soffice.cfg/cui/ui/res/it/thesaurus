@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Alternative</e>
+ <e g="alternatives" i="label">etichetta</e>
+ <e g="replace" i="label">Sostituisci</e>
+ <e g="ThesaurusDialog" i="title">Sinonimi</e>
+ <e g="label1" i="label">Parola corrente</e>
+ <e g="label3" i="label">Sostituisci con</e>
+</t>

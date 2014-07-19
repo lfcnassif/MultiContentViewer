@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">Automatische nummering</e>
+ <e g="offset" i="label">Begin bij</e>
+ <e g="pagestyleft" i="label">Pagina</e>
+ <e g="label29" i="label">Tekenopmaakprofielen</e>
+ <e g="label22" i="label">Ervoor</e>
+ <e g="label27" i="label">Tekstgebied</e>
+ <e g="label19" i="label">Nummering</e>
+ <e g="label25" i="label">Na</e>
+ <e g="label20" i="label">Alinea</e>
+ <e g="label28" i="label">Eindnotengebied</e>
+ <e g="label23" i="label">Opmaakprofielen</e>
+</t>

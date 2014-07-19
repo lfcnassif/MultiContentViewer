@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">Characters:</e>
+ <e g="fontft" i="label">Font</e>
+ <e g="SpecialCharactersDialog" i="title">Special Characters</e>
+ <e g="subsetft" i="label">Subset</e>
+</t>

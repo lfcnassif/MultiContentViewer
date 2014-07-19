@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automatikus</e>
+ <e g="optimal" i="label">Optimális</e>
+ <e g="columns" i="label">Hasábok</e>
+ <e g="bookmode" i="label">Könyv mód</e>
+ <e g="fitw" i="label">Az oldal széltében beleférjen az ablakba</e>
+ <e g="label1" i="label">Képernyőn elrendezés</e>
+ <e g="variable" i="label">Változó</e>
+ <e g="label2" i="label">Nagyítás mértéke</e>
+ <e g="singlepage" i="label">Egyetlen oldal</e>
+ <e g="ZoomDialog" i="title">Nagyítás és képernyőn elrendezés</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">Szélesség és magasság igazítása</e>
+</t>

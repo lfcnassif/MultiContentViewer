@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Woorden</e>
+ <e g="label3" i="label">Lettertekens exclusief spaties</e>
+ <e g="label9" i="label">Selectie</e>
+ <e g="WordCountDialog" i="title">Woorden tellen</e>
+ <e g="cjkcharsft" i="label">Aziatische tekens en Koreaanse lettergrepen</e>
+ <e g="label10" i="label">Document</e>
+ <e g="label2" i="label">Lettertekens inclusief spaties</e>
+</t>

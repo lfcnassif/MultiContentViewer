@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="pictures" i="label">Imagens e outros objetos gráficos</e>
+ <e g="formcontrols" i="label">Controlos de formulário</e>
+ <e g="autoblankpages" i="label">Imprimir automaticamente páginas em branco</e>
+ <e g="pagebackground" i="label">Fundo da página</e>
+ <e g="label6" i="label">Páginas</e>
+ <e g="label4" i="label">Conteúdo</e>
+ <e g="placeholders" i="label">Marcadores de texto</e>
+ <e g="label5" i="label">Cor</e>
+ <e g="textinblack" i="label">Imprimir texto a preto</e>
+ <e g="hiddentext" i="label">Texto oculto</e>
+</t>

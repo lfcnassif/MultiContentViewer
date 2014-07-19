@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Выравнивание</e>
+ <e g="num2align" i="label">Выравнивание нумерации</e>
+ <e g="liststore2" i="0">Шаг табуляции</e>
+ <e g="liststore1" i="1">По центру</e>
+ <e g="indent" i="label">Отступ</e>
+ <e g="numalign" i="label">Выравнивание нумерации</e>
+ <e g="numberingwidth" i="label">Ширина нумерации</e>
+ <e g="3" i="label">Положение и интервал</e>
+ <e g="liststore1" i="0">По левому краю</e>
+ <e g="liststore1" i="2">По правому краю</e>
+ <e g="numdist" i="label">Минимальное расстояние номер &lt;-&gt; текст</e>
+ <e g="liststore2" i="2">Ничего</e>
+ <e g="1" i="label">Уровень</e>
+ <e g="liststore2" i="1">Пробел</e>
+ <e g="numfollowedby" i="label">После нумерации</e>
+ <e g="at" i="label">в</e>
+ <e g="relative" i="label">Относительно</e>
+ <e g="indentat" i="label">Начало отступа</e>
+ <e g="standard" i="label">По умолчанию</e>
+</t>

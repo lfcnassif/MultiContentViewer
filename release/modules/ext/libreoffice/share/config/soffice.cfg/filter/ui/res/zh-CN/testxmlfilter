@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">导出 XSLT</e>
+ <e g="label5" i="label">导入 XSLT</e>
+ <e g="currentdocument" i="label">当前文档</e>
+ <e g="importbrowse" i="label">浏览...</e>
+ <e g="label2" i="label">导入</e>
+ <e g="exportbrowse" i="label">浏览...</e>
+ <e g="templateimport" i="label">导入模板</e>
+ <e g="displaysource" i="label">显示源码</e>
+ <e g="TestXMLFilterDialog" i="title">测试 XML 筛选器: %s</e>
+ <e g="label4" i="label">转换文档</e>
+ <e g="label6" i="label">转换文件</e>
+ <e g="label1" i="label">导出</e>
+ <e g="recentfile" i="label">最近文件</e>
+</t>

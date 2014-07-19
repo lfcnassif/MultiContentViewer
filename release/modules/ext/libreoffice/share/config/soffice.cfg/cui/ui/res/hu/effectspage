@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Cím</e>
+ <e g="overlinecolorft" i="label">Felülvonás színe</e>
+ <e g="liststore6" i="7">Szaggatott (vastag)</e>
+ <e g="liststore3" i="1">Pont</e>
+ <e g="underlinecolorft" i="label">Aláhúzás színe</e>
+ <e g="label42" i="label">Beállítások</e>
+ <e g="liststore1" i="0">(nincs)</e>
+ <e g="individualwordscb" i="label">Különálló szavak</e>
+ <e g="label46" i="label">Felülvonás</e>
+ <e g="liststore5" i="3">Félkövér</e>
+ <e g="liststore6" i="14">Hullámzás</e>
+ <e g="liststore6" i="10">Pont-vonás</e>
+ <e g="liststore6" i="0">(nincs)</e>
+ <e g="liststore1" i="2">Kisbetű</e>
+ <e g="liststore5" i="5">X-szel</e>
+ <e g="liststore6" i="16">Dupla hullámos</e>
+ <e g="liststore3" i="4">Ékezet</e>
+ <e g="liststore6" i="6">Szaggatott</e>
+ <e g="outlinecb" i="label">Vázlat</e>
+ <e g="liststore4" i="1">Szöveg alatt</e>
+ <e g="fontcolorft" i="label">Betűszín</e>
+ <e g="liststore2" i="0">(nincs)</e>
+ <e g="liststore5" i="2">Dupla</e>
+ <e g="liststore6" i="13">Pont-pont-vonás (vastag)</e>
+ <e g="emphasisft" i="label">Hangsúlyjel</e>
+ <e g="liststore6" i="3">Félkövér</e>
+ <e g="reliefft" i="label">Kiemelés</e>
+ <e g="liststore2" i="2">Bevésett</e>
+ <e g="label50" i="label">Előnézet</e>
+ <e g="liststore6" i="15">Hullámos (vastag)</e>
+ <e g="liststore6" i="9">Hosszú szaggatott (vastag)</e>
+ <e g="liststore6" i="5">Pontozott (vastag)</e>
+ <e g="liststore3" i="3">Lemez</e>
+ <e g="liststore4" i="0">Szöveg felett</e>
+ <e g="liststore5" i="1">Egyszeres</e>
+ <e g="label47" i="label">Áthúzott</e>
+ <e g="hiddencb" i="label">Rejtett</e>
+ <e g="liststore6" i="12">Pont-pont-vonás</e>
+ <e g="liststore6" i="2">Dupla</e>
+ <e g="liststore3" i="0">(nincs)</e>
+ <e g="liststore1" i="4">Kiskapitális</e>
+ <e g="shadowcb" i="label">Árnyékolt</e>
+ <e g="liststore2" i="1">Kiemelt</e>
+ <e g="liststore6" i="8">Hosszú szaggatott</e>
+ <e g="liststore3" i="2">Kör alakú összecsukódás</e>
+ <e g="liststore6" i="4">Pontozott</e>
+ <e g="label48" i="label">Aláhúzás</e>
+ <e g="blinkingcb" i="label">Villogás</e>
+ <e g="liststore1" i="1">Nagybetűs</e>
+ <e g="positionft" i="label">Pozíció</e>
+ <e g="liststore5" i="4">/ jellel</e>
+ <e g="liststore5" i="0">(nincs)</e>
+ <e g="effectsft" i="label">Hatások</e>
+ <e g="liststore6" i="11">Pont-vonás (vastag)</e>
+ <e g="liststore6" i="1">Egyszeres</e>
+</t>

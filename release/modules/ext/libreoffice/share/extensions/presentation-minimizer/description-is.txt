@@ -1,0 +1,2 @@
+Kynningasmækkarinn er notaður til að minnka skráastærð þeirrar skyggnukynningar sem verið er að vinna með. Myndefni er þjappað og þau gögn sem ekki er lengur þörf fyrir verða fjarlægð.
+Kynningasmækkarinn getur bestað stærð og gæði myndefnis. Kynningar sem ætlaðar eru fyrir skjái eða skjávarpa krefjast ekki sömu gæða og kynningar sem ætlaðar eru til prentunar.

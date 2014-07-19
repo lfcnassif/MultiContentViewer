@@ -1,0 +1,2 @@
+Minimizer Prezentacji służy do zmniejszenia rozmiaru pliku z bieżącej prezentacji. Obrazy będą kompresowane, a dane, które nie są już potrzebne będą usuwane.
+Minimizer Prezentacji może zoptymalizować jakość obrazu. Prezentacje przeznaczone na ekran lub projektor nie wymagają tak wysokiej jakości, jak prezentacje przeznaczone do druku.

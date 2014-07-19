@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">単語</e>
+ <e g="label3" i="label">スペースを除く文字数:</e>
+ <e g="label9" i="label">選択</e>
+ <e g="WordCountDialog" i="title">文字カウント</e>
+ <e g="cjkcharsft" i="label">アジア文字と韓国語の音節</e>
+ <e g="label10" i="label">ドキュメント</e>
+ <e g="label2" i="label">スペースを含めた文字数</e>
+</t>

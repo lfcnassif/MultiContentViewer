@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Preview</e>
+ <e g="label22" i="label">Spacing</e>
+ <e g="kerningft" i="label">by</e>
+ <e g="relativefontsize" i="label">Relative font size</e>
+ <e g="0deg" i="label">0 degrees</e>
+ <e g="90deg" i="label">90 degrees</e>
+ <e g="superscript" i="label">Superscript</e>
+ <e g="normal" i="label">Normal</e>
+ <e g="270deg" i="label">270 degrees</e>
+ <e g="liststore1" i="0">Default</e>
+ <e g="liststore1" i="1">Expanded</e>
+ <e g="liststore1" i="2">Condensed</e>
+ <e g="pairkerning" i="label">Pair kerning</e>
+ <e g="label24" i="label">Scale width</e>
+ <e g="raiselower" i="label">Raise/lower by</e>
+ <e g="rotate" i="label">Rotation</e>
+ <e g="rotateandscale" i="label">Rotation / Scaling</e>
+ <e g="subscript" i="label">Subscript</e>
+ <e g="fittoline" i="label">Fit to line</e>
+ <e g="automatic" i="label">Automatic</e>
+ <e g="label20" i="label">Position</e>
+</t>

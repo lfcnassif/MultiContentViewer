@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:package="org.openoffice.TypeDetection" oor:name="Types">
+  <node oor:name="Types">
+    <node oor:name="StarBaseReport" oor:op="replace">
+      <prop oor:name="DetectService">
+        <value>com.sun.star.comp.report.ORptTypeDetection</value>
+      </prop>
+      <prop oor:name="URLPattern">
+        <value>private:factory/sreport*</value>
+      </prop>
+      <prop oor:name="Extensions">
+        <value>orp</value>
+      </prop>
+      <prop oor:name="MediaType">
+        <value>application/vnd.sun.xml.report</value>
+      </prop>
+      <prop oor:name="Preferred">
+        <value>false</value>
+      </prop>
+      <prop oor:name="PreferredFilter">
+        <value>StarOffice XML (Base) Report</value>
+      </prop>
+      <prop oor:name="UIName">
+        <value xml:lang="en-US">OpenDocument Database Report</value>
+      	<value xml:lang="af">OpenDocument-databasisverslag</value>
+      	<value xml:lang="am">OpenDocument Database Report</value>
+      	<value xml:lang="ar">تقرير قاعدة بيانات OpenDocument</value>
+      	<value xml:lang="as">OpenDocument ডাটাবেইচ সংবাদ</value>
+      	<value xml:lang="ast">OpenDocument Informe de Base de datos</value>
+      	<value xml:lang="be">OpenDocument Database Report</value>
+      	<value xml:lang="bg">Справка за база от данни на OpenDocument</value>
+      	<value xml:lang="bn">OpenDocument ডাটাবেস প্রতিবেদন</value>
+      	<value xml:lang="bn-IN">OpenDocument ডাটাবেস প্রতিবেদন</value>
+      	<value xml:lang="bo">OpenDocument Database Report</value>
+      	<value xml:lang="br">Danevell ur stlennvon mod OpenDocument</value>
+      	<value xml:lang="brx">OpenDocument Database Report</value>
+      	<value xml:lang="bs">OpenDocument Database izvještaj</value>
+      	<value xml:lang="ca">Informe de base de dades OpenDocument</value>
+      	<value xml:lang="ca-XV">Informe de base de dades OpenDocument</value>
+      	<value xml:lang="cs">Sestava OpenDocument Database</value>
+      	<value xml:lang="cy">Adroddiad Cronfa Ddata OpenDocument</value>
+      	<value xml:lang="da">OpenDocument-databaserapport</value>
+      	<value xml:lang="de">OpenDocument Datenbankbericht</value>
+      	<value xml:lang="dgo">OpenDocument Database Report</value>
+      	<value xml:lang="dz">OpenDocument Database Report</value>
+      	<value xml:lang="el">Αναφορά βάσης δεδομένων OpenDocument</value>
+      	<value xml:lang="en-GB">OpenDocument Database Report</value>
+      	<value xml:lang="en-ZA">OpenDocument Database Report</value>
+      	<value xml:lang="eo">Datumbaza raporto de OpenDocument</value>
+      	<value xml:lang="es">OpenDocument Reporte de Base de datos</value>
+      	<value xml:lang="et">OpenDocument-andmebaasi aruanne</value>
+      	<value xml:lang="eu">OpenDocument datu-baseen txostena</value>
+      	<value xml:lang="fa">گزارش پایگاه داده مستندات آزاد</value>
+      	<value xml:lang="fi">OpenDocument-tietokantaraportti</value>
+      	<value xml:lang="fr">Rapport de base de données OpenDocument</value>
+      	<value xml:lang="ga">Tuairisc Bhunachair Sonraí OpenDocument</value>
+      	<value xml:lang="gd">Aithisg stòr-dàta OpenDocument</value>
+      	<value xml:lang="gl">Informe de base de datos de OpenDocument</value>
+      	<value xml:lang="gu">OpenDocument ડેટાબેઝ અહેવાલ</value>
+      	<value xml:lang="he">דוח OpenDocument Database</value>
+      	<value xml:lang="hi">ओपनडॉक्यूमेंट डेटाबेस रिपोर्ट</value>
+      	<value xml:lang="hr">OpenDocument izvještaj baze</value>
+      	<value xml:lang="hu">OpenDocument-adatbázisjelentés</value>
+      	<value xml:lang="id">Laporan Basis Data OpenDocument</value>
+      	<value xml:lang="is">OpenDocument gagnagrunnsskýrsla</value>
+      	<value xml:lang="it">Rapporto di database OpenDocument</value>
+      	<value xml:lang="ja">OpenDocument データベースレポート</value>
+      	<value xml:lang="ka">OpenDocument Database Report</value>
+      	<value xml:lang="kk">OpenDocument дерекқорының есептемесі</value>
+      	<value xml:lang="km">របាយការណ៍​មូលដ្ឋាន​ទិន្នន័យ OpenDocument</value>
+      	<value xml:lang="kn">OpenDocument ದತ್ತಸಂಚಯದ ವರದಿ</value>
+      	<value xml:lang="ko">오픈도큐먼트 데이터베이스 보고서</value>
+      	<value xml:lang="kok">OpenDocument Database Report</value>
+      	<value xml:lang="ks">OpenDocument Database Report</value>
+      	<value xml:lang="ku">OpenDocument Rapora Danageh</value>
+      	<value xml:lang="lb">OpenDocument Database Report</value>
+      	<value xml:lang="lo">OpenDocument Database Report</value>
+      	<value xml:lang="lt">„OpenDocument“ duomenų bazės ataskaita</value>
+      	<value xml:lang="lv">OpenDocument datubāzes atskaite</value>
+      	<value xml:lang="mai">OpenDocument Database Report</value>
+      	<value xml:lang="mk">OpenDocument извештај за база на податоци </value>
+      	<value xml:lang="ml">OpenDocument ഡേറ്റാബെയിസ് റിപ്പോര്‍ട്ട്</value>
+      	<value xml:lang="mn">OpenDocument Database Report</value>
+      	<value xml:lang="mni">OpenDocument Database Report</value>
+      	<value xml:lang="mr">OpenDocument डाटाबेस अहवाल</value>
+      	<value xml:lang="my">OpenDocument ဒေတာဘေ့စ် သတင်းပို့ချက်</value>
+      	<value xml:lang="nb">OpenDocument-databaserapport</value>
+      	<value xml:lang="ne">OpenDocument डाटाबेस प्रतिवेदन</value>
+      	<value xml:lang="nl">OpenDocument Databaserapport</value>
+      	<value xml:lang="nn">OpenDocument-databaserapport</value>
+      	<value xml:lang="nr">OpenDocument Database Report</value>
+      	<value xml:lang="nso">OpenDocument Database Report</value>
+      	<value xml:lang="oc">Rapòrt de banca de donadas OpenDocument</value>
+      	<value xml:lang="om">Gabaasaa Kuusdeetaa OpenDocument</value>
+      	<value xml:lang="or">OpenDocument ତଥ୍ୟାଧାର ବିବରଣୀ</value>
+      	<value xml:lang="pa-IN">ਓਪਨਡੌਕੂਮੈਂਟ ਡਾਟਾਬੇਸ ਰਿਪੋਰਟ</value>
+      	<value xml:lang="pl">Raport bazy danych w formacie OpenDocument</value>
+      	<value xml:lang="pt">Relatório da base de dados OpenDocument</value>
+      	<value xml:lang="pt-BR">Relatório de banco de dados OpenDocument</value>
+      	<value xml:lang="ro">Raport bază de date OpenDocument</value>
+      	<value xml:lang="ru">Отчёт базы данных OpenDocument</value>
+      	<value xml:lang="rw">OpenDocument Database Report</value>
+      	<value xml:lang="sa-IN">OpenDocument Database Report</value>
+      	<value xml:lang="sat">OpenDocument Database Report</value>
+      	<value xml:lang="sd">OpenDocument Database Report</value>
+      	<value xml:lang="sh">Izveštaj ODF baze podataka</value>
+      	<value xml:lang="si">OpenDocument දත්තමූල වාර්ථා</value>
+      	<value xml:lang="sid">OpenDocument Database Report</value>
+      	<value xml:lang="sk">OpenDocument Databázová správa</value>
+      	<value xml:lang="sl">Poročilo zbirke podatkov OpenDocument</value>
+      	<value xml:lang="sq">Raporto si ~E-mail...</value>
+      	<value xml:lang="sr">Извештај ОДФ базе података</value>
+      	<value xml:lang="ss">OpenDocument Database Report</value>
+      	<value xml:lang="st">OpenDocument Database Report</value>
+      	<value xml:lang="sv">OpenDocument-databasrapport</value>
+      	<value xml:lang="sw-TZ">OpenDocument Database Report</value>
+      	<value xml:lang="ta">OpenDocument தரவுத்தள அறிக்கை</value>
+      	<value xml:lang="te">ఓపెన్‌డాక్యుమెంట్ డాటాబేస్ నివేదిక</value>
+      	<value xml:lang="tg">OpenDocument Database Report</value>
+      	<value xml:lang="th">OpenDocument Database Report</value>
+      	<value xml:lang="tn">OpenDocument Database Report</value>
+      	<value xml:lang="tr">OpenDocument Veritabanı Raporu</value>
+      	<value xml:lang="ts">OpenDocument Database Report</value>
+      	<value xml:lang="tt">OpenDocument Database Report</value>
+      	<value xml:lang="ug">OpenDocument ساندان مەلۇمات جەدۋىلى</value>
+      	<value xml:lang="uk">Звіт бази даних OpenDocument</value>
+      	<value xml:lang="uz">OpenDocument ma&apos;lumot vazasi hisoboti</value>
+      	<value xml:lang="ve">OpenDocument Database Report</value>
+      	<value xml:lang="vi">Báo cáo cơ sở dữ liệu OpenDocument </value>
+      	<value xml:lang="xh">OpenDocument Database Report</value>
+      	<value xml:lang="zh-CN">OpenDocument 数据库报表</value>
+      	<value xml:lang="zh-TW">OpenDocument 資料庫報表</value>
+      	<value xml:lang="zu">OpenDocument Database Report</value>
+      </prop>
+      <prop oor:name="ClipboardFormat">
+        <value>StarBaseReport 9.0</value>
+      </prop>
+    </node>
+    <node oor:name="StarBaseReportChart" oor:op="replace">
+      <prop oor:name="DetectService"/>
+      <prop oor:name="URLPattern">
+        <value></value>
+      </prop>
+      <prop oor:name="Extensions">
+        <value>odc</value>
+      </prop>
+      <prop oor:name="MediaType">
+        <value>application/vnd.sun.xml.report.chart</value>
+      </prop>
+      <prop oor:name="Preferred">
+        <value>false</value>
+      </prop>
+      <prop oor:name="PreferredFilter">
+        <value>StarOffice XML (Base) Report Chart</value>
+      </prop>
+      <prop oor:name="UIName">
+        <value xml:lang="en-US">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="af">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="am">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="ar">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="as">StarOffice XML (ভিত্তিয়) সংবাদ ৰেখাচিত্ৰ ৯</value>
+      	<value xml:lang="ast">StarOffice XML (Base) Informe Gráficu 9</value>
+      	<value xml:lang="be">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="bg">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="bn">StarOffice XML (বেস) প্রতিবেদন চার্ট ৯</value>
+      	<value xml:lang="bn-IN">StarOffice XML (বেস) প্রতিবেদন চার্ট ৯</value>
+      	<value xml:lang="bo">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="br">Danevell Diervad 9 mod StarOffice XML (Base) </value>
+      	<value xml:lang="brx">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="bs">StarOffice XML (Base) izvještaj grafikon 9</value>
+      	<value xml:lang="ca">Diagrama d&apos;informe de l&apos;StarOffice XML (Base) 9</value>
+      	<value xml:lang="ca-XV">Diagrama d&apos;informe de l&apos;StarOffice XML (Base) 9</value>
+      	<value xml:lang="cs">Graf sestavy StarOffice XML (Base) 9</value>
+      	<value xml:lang="cy">Siart Adrodd 9 Star Office XML (Base)</value>
+      	<value xml:lang="da">StarOffice XML (Base)-rapportdiagram 9</value>
+      	<value xml:lang="de">StarOffice XML (Base) Berichtsdiagramm 9</value>
+      	<value xml:lang="dgo">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="dz">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="el">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="en-GB">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="en-ZA">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="eo">StarOffice XML (Datumbazo) Raporta Diagramo 9</value>
+      	<value xml:lang="es">StarOffice XML (Base) Reporte Gráfico 9</value>
+      	<value xml:lang="et">StarOffice XML (Base) aruande diagramm 9</value>
+      	<value xml:lang="eu">StarOffice XML (Base) txosten-diagrama 9</value>
+      	<value xml:lang="fa">نمودار گزارش اکس.ام.ال. 9 استارآفیس (پایگاه داده)</value>
+      	<value xml:lang="fi">StarOffice XML (Base) -raporttikaavio 9</value>
+      	<value xml:lang="fr">Rapport Chart 9 StarOffice XML (Base)</value>
+      	<value xml:lang="ga">Cairt Tuairisce 9 StarOffice XML (Base)</value>
+      	<value xml:lang="gd">Cairt aithisg 9 StarOffice XML (Base)</value>
+      	<value xml:lang="gl">Gráfico de informe 9 de StarOffice XML (Base)</value>
+      	<value xml:lang="gu">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="he">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="hi">स्टारऑफिस XML (बेस) रिपोर्ट चार्ट 9</value>
+      	<value xml:lang="hr">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="hu">StarOffice XML (Base) jelentésdiagram 9</value>
+      	<value xml:lang="id">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="is">StarOffice XML (Base) skýrslugraf 9</value>
+      	<value xml:lang="it">Rapporto grafico 9 StarOffice XML (Base)</value>
+      	<value xml:lang="ja">StarOffice XML (Base) レポートグラフ 9</value>
+      	<value xml:lang="ka">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="kk">StarOffice XML (Base) 9 есептеме диаграммасы</value>
+      	<value xml:lang="km">គំនូស​តាង​របាយការណ៍ StarOffice XML (Base)</value>
+      	<value xml:lang="kn">StarOffice XML (Base) ವರದಿಯ ನಕ್ಷೆ 9</value>
+      	<value xml:lang="ko">StarOffice XML (Base) 보고서 차트 9</value>
+      	<value xml:lang="kok">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="ks">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="ku">StarOffice XML (Bingeh) Xanxanka Raporê 9</value>
+      	<value xml:lang="lb">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="lo">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="lt">„StarOffice“ XML (Base) ataskaitos diagrama 9</value>
+      	<value xml:lang="lv">StarOffice XML (Base) atskaites diagramma 9</value>
+      	<value xml:lang="mai">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="mk">StarOffice XML (Base) Извештај графикон 9</value>
+      	<value xml:lang="ml">സ്റ്റാര്‍ഓഫീസ് എക്സ്എംഎല്‍  (ബെയിസ്) റിപോര്‍ട്ട് ചാര്‍ട്ട് 9</value>
+      	<value xml:lang="mn">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="mni">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="mr">StarOffice XML (बेस्) अहवाल कोष्टक 9</value>
+      	<value xml:lang="my">StarOffice XML (အခြေခံ) သတင်းပို့ကားချပ်</value>
+      	<value xml:lang="nb">StarOffice XML (Base) 9-rapportdiagram</value>
+      	<value xml:lang="ne">StarOffice XML (Base) प्रतिवेदन चार्ट 9</value>
+      	<value xml:lang="nl">StarOffice XML (Base) Diagramrapport 9</value>
+      	<value xml:lang="nn">StarOffice XML (Base) 9-rapportdiagram</value>
+      	<value xml:lang="nr">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="nso">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="oc">Rapòrt Chart 9 StarOffice XML (Base)</value>
+      	<value xml:lang="om">Taattoo Gabaasaa 9 StarOffice XML (Base)</value>
+      	<value xml:lang="or">StarOffice XML (Base) ବିବରଣୀ ଚାର୍ଟ 9</value>
+      	<value xml:lang="pa-IN">StarOffice XML (ਬੇਸ) ਰਿਪੋਰਟ ਚਾਰਟ 9</value>
+      	<value xml:lang="pl">Wykres raportu programu StarOffice (Base) 9 w formacie XML</value>
+      	<value xml:lang="pt">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="pt-BR">Gráfico de relatório XML (Base) do StarOffice 9</value>
+      	<value xml:lang="ro">Diagramă de raport 9 StarOffice XML (Base)</value>
+      	<value xml:lang="ru">Отчёт-диаграмма StarOffice XML (Base) 9</value>
+      	<value xml:lang="rw">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="sa-IN">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="sat">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="sd">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="sh">StarOffice XML (Baza) grafik u izveštaju 9</value>
+      	<value xml:lang="si">StarOffice XML (Base) වාර්ථා ප්‍රස්තාරය 9</value>
+      	<value xml:lang="sid">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="sk">StarOffice XML (Base) Správa graf 9</value>
+      	<value xml:lang="sl">Poročilo StarOffice XML (Base) Chart 9</value>
+      	<value xml:lang="sq">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="sr">StarOffice XML (База) график у извештају 9</value>
+      	<value xml:lang="ss">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="st">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="sv">StarOffice XML-rapport (Base): diagram 9</value>
+      	<value xml:lang="sw-TZ">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="ta">StarOffice XML (Base) அறிக்கை விளக்கப்படம் 9</value>
+      	<value xml:lang="te">స్టార్ ఆఫీస్  XML (ఆధార) నివేదిక చార్టు 9</value>
+      	<value xml:lang="tg">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="th">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="tn">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="tr">StarOffice XML (Base) Rapor Çizelgesi 9</value>
+      	<value xml:lang="ts">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="tt">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="ug">StarOffice XML (Base) مەلۇمات جەدۋەل دىئاگرامما 9</value>
+      	<value xml:lang="uk">Звіт-діаграма 9 StarOffice XML (Base)</value>
+      	<value xml:lang="uz">StarOffice XML (Base) hisoboti Chart 9</value>
+      	<value xml:lang="ve">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="vi">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="xh">StarOffice XML (Base) Report Chart 9</value>
+      	<value xml:lang="zh-CN">StarSuite XML (Base) 报表图表 9</value>
+      	<value xml:lang="zh-TW">StarOffice XML (Base) 報表圖表 9</value>
+      	<value xml:lang="zu">StarOffice XML (Base) Report Chart 9</value>
+      </prop>
+      <prop oor:name="ClipboardFormat">
+        <value>StarOffice XML (Base) Report Chart 9</value>
+      </prop>
+    </node>
+  </node>
+</oor:component-data>

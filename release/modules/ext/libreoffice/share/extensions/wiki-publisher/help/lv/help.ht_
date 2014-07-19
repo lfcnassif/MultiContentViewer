@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 8f Atzīmējiet šo lodziņu, lai atzīmētu augšupielādēto lapu kā mazsvarīgas izmaiņas jau eksistējošai lapai ar tādu pašu virsrakstu.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 2e Varat ievadīt īsu apkopojumu vai komentāru.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText f4 Ievadiet sava Wiki ieraksta virsrakstu. Šis ir augšējais virsraksts jūsu Wiki ierakstā. Jauna ieraksta virsrakstam ir jābūt unikālam. Ja ievadīsiet eksistējošu virsrakstu, augšupielādētais raksts pārrakstīs esošo Wiki ierakstu.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 81 Izvēlieties MediaWiki serveri, kurā vēlaties publicēt savu dokumentu. Spiediet 'Pievienot', lai pievienotu serveri sarakstam.
+22 vnd.com.sun.star.wiki%3AsendDialog 81 Izvēlieties MediaWiki serveri, kurā vēlaties publicēt savu dokumentu. Spiediet 'Pievienot', lai pievienotu serveri sarakstam.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 75 Atzīmējiet šo lodziņu, lai atvērtu savu sistēmas tīmekļa pārlūku un parādītu augšupielādēto Wiki lapu.
+1f vnd.com.sun.star.wiki%3Aaccount 35 Ievadiet MediaWiki servera URL, tas sākas ar http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 90 Ieslēdziet, lai saglabātu paroli starp sesijām. Galvenajai parolei it jābūt aktivētai, skatiet Rīki - Opcijas - %PRODUCTNAME - Drošība.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 48 Ievadiet paroli MediaWiki serverim. Atstājiet tukšu anonīmai pieejai.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 58 Ievadiet savu lietotājvārdu uz MediaWiki servera. Atstājiet tukšu anonīmai pieejai.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 35 Ievadiet MediaWiki servera URL, tas sākas ar http://
+1c vnd.com.sun.star.wiki%3Asend 71 Izvēlieties Datne - Sūtīt - Uz MediaWiki, lai augšupielādētu tekošo Writer dokumentu uz MediaWiki servera.
+20 vnd.com.sun.star.wiki%3Aaboutbox ca Izmantojot Wiki Publisher jūs varat augšupielādēt pašreizējo Writer teksta dokumentu uz MediaWiki serveri. Pēc augšupielādēšanas, visi Wiki lietotāji varēs izlasīt jūsu dokumentu uz Wiki.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 27 Izņem izvēlēto ierakstu no saraksta.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList db Spiediet 'Pievienot', lai pievienotu jaunu Wiki serveri. Izvēlieties ierakstu un spiediet 'Rediģēt', lai rediģētu konta iestatījumus. Izvēlieties ierakstu un spiediet 'Izņemt', lai izņemtu ierakstu no saraksta.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3c Atver MediaWiki dialogu, lai rediģētu izvēlēto ierakstu.
+20 vnd.com.sun.star.wiki%3Asettings db Spiediet 'Pievienot', lai pievienotu jaunu Wiki serveri. Izvēlieties ierakstu un spiediet 'Rediģēt', lai rediģētu konta iestatījumus. Izvēlieties ierakstu un spiediet 'Izņemt', lai izņemtu ierakstu no saraksta.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 41 Atver MediaWiki dialogu, lai pievienotu jaunu ierakstu sarakstam.

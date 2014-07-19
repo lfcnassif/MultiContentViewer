@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:package="org.openoffice.TypeDetection" oor:name="Filter">
+  <node oor:name="Filters">
+    <node oor:name="StarOffice XML (Base) Report" oor:op="replace" oor:finalized="false" oor:mandatory="false">
+      <prop oor:name="Flags">
+        <value>IMPORT EXPORT OWN DEFAULT 3RDPARTYFILTER NOTINFILEDIALOG NOTINCHOOSER</value>
+      </prop>
+      <prop oor:name="UIComponent"/>
+      <prop oor:name="FilterService"/>
+      <prop oor:name="UserData"/>
+      <prop oor:name="FileFormatVersion">
+        <value>6800</value>
+      </prop>
+      <prop oor:name="Type">
+        <value>StarBaseReport</value>
+      </prop>
+      <prop oor:name="TemplateName"/>
+      <prop oor:name="DocumentService">
+        <value>com.sun.star.report.ReportDefinition</value>
+      </prop>
+      <prop oor:name="UIName">
+        <value xml:lang="en-US">ODF Database Report</value>
+      	<value xml:lang="af">ODF-databasisverslag</value>
+      	<value xml:lang="am">ODF Database Report</value>
+      	<value xml:lang="ar">تقرير قاعدة بيانات ODF</value>
+      	<value xml:lang="as">ODF ডাটাবেইচ সংবাদ</value>
+      	<value xml:lang="ast">Informe de Database ODF</value>
+      	<value xml:lang="be">ODF Database Report</value>
+      	<value xml:lang="bg">ODF - справка за база от данни</value>
+      	<value xml:lang="bn">ODF ডাটাবেস প্রতিবেদন</value>
+      	<value xml:lang="bn-IN">ODF ডাটাবেস প্রতিবেদন</value>
+      	<value xml:lang="bo">ODF Database Report</value>
+      	<value xml:lang="br">Danevell ur stlennvon mod ODF</value>
+      	<value xml:lang="brx">ODF Database Report</value>
+      	<value xml:lang="bs">ODF Database izvještaj</value>
+      	<value xml:lang="ca">Informe de base de dades ODF</value>
+      	<value xml:lang="ca-XV">Informe de base de dades ODF</value>
+      	<value xml:lang="cs">Databázová sestava ODF</value>
+      	<value xml:lang="cy">Adroddiad Cronfa Ddata ODF</value>
+      	<value xml:lang="da">ODF-databaserapport</value>
+      	<value xml:lang="de">ODF Datenbankbericht</value>
+      	<value xml:lang="dgo">ODF Database Report</value>
+      	<value xml:lang="dz">ODF Database Report</value>
+      	<value xml:lang="el">Αναφορά βάσης δεδομένων ODF</value>
+      	<value xml:lang="en-GB">ODF Database Report</value>
+      	<value xml:lang="en-ZA">ODF Database Report</value>
+      	<value xml:lang="eo">Datumbaza Raporto de ODF</value>
+      	<value xml:lang="es">Reporte de Database ODF</value>
+      	<value xml:lang="et">ODF-andmebaasi aruanne</value>
+      	<value xml:lang="eu">ODF datu-basearen txostena</value>
+      	<value xml:lang="fa">گزارش پایگاه داده ODF</value>
+      	<value xml:lang="fi">ODF-tietokantaraportti</value>
+      	<value xml:lang="fr">Rapport de base de données ODF</value>
+      	<value xml:lang="ga">Tuairisc Bhunachair Sonraí ODF</value>
+      	<value xml:lang="gd">Aithisg stòr-dàta ODF</value>
+      	<value xml:lang="gl">Informe de base de datos ODF</value>
+      	<value xml:lang="gu">ODF ડેટાબેઝ અહેવાલ</value>
+      	<value xml:lang="he">דוח ODF Database</value>
+      	<value xml:lang="hi">ODF डेटाबेस रिपोर्ट</value>
+      	<value xml:lang="hr">ODF izvješće iz baze</value>
+      	<value xml:lang="hu">ODF-adatbázisjelentés</value>
+      	<value xml:lang="id">Laporan Basis Data ODF</value>
+      	<value xml:lang="is">ODF gagnagrunnsskýrsla</value>
+      	<value xml:lang="it">Rapporto di database ODF</value>
+      	<value xml:lang="ja">ODF データベースレポート</value>
+      	<value xml:lang="ka">ODF Database Report</value>
+      	<value xml:lang="kk">ODF дерекқорының есептемесі</value>
+      	<value xml:lang="km">របាយការណ៍​មូលដ្ឋាន​ទិន្នន័យ ODF</value>
+      	<value xml:lang="kn">ODF ದತ್ತಸಂಚಯದ ವರದಿ</value>
+      	<value xml:lang="ko">ODF 데이터베이스 보고서</value>
+      	<value xml:lang="kok">ODF Database Report</value>
+      	<value xml:lang="ks">ODF Database Report</value>
+      	<value xml:lang="ku">ODF Rapora Danageh</value>
+      	<value xml:lang="lb">ODF Database Report</value>
+      	<value xml:lang="lo">ODF Database Report</value>
+      	<value xml:lang="lt">ODF duomenų bazės ataskaita</value>
+      	<value xml:lang="lv">ODF datubāzes atskaite</value>
+      	<value xml:lang="mai">ODF Database Report</value>
+      	<value xml:lang="mk">ODF извештај за база на податоци </value>
+      	<value xml:lang="ml">ODF ഡേറ്റാബെയിസ് റിപ്പോര്‍ട്ട്</value>
+      	<value xml:lang="mn">ODF Database Report</value>
+      	<value xml:lang="mni">ODF Database Report</value>
+      	<value xml:lang="mr">ODF डाटाबेस अहवाल</value>
+      	<value xml:lang="my">ODF ဒေတာဘေ့စ် သတင်းပို့ချက်</value>
+      	<value xml:lang="nb">ODF-databaserapport</value>
+      	<value xml:lang="ne">ODF डाटाबेस प्रतिवेदन</value>
+      	<value xml:lang="nl">ODF Databaserapport</value>
+      	<value xml:lang="nn">ODF-databaserapport</value>
+      	<value xml:lang="nr">ODF Database Report</value>
+      	<value xml:lang="nso">ODF Database Report</value>
+      	<value xml:lang="oc">Rapòrt de banca de donadas ODF</value>
+      	<value xml:lang="om">Gabaasaa Kuusdeetaa ODF</value>
+      	<value xml:lang="or">ODF ତଥ୍ୟାଧାର ବିବରଣୀ</value>
+      	<value xml:lang="pa-IN">ODF ਡਾਟਾਬੇਸ ਰਿਪੋਰਟ</value>
+      	<value xml:lang="pl">Raport bazy danych w formacie OpenDocument</value>
+      	<value xml:lang="pt">Relatório da base de dados ODF</value>
+      	<value xml:lang="pt-BR">Relatório de banco de dados ODF</value>
+      	<value xml:lang="ro">Raport de bază de date ODF</value>
+      	<value xml:lang="ru">Отчёт базы данных ODF</value>
+      	<value xml:lang="rw">ODF Database Report</value>
+      	<value xml:lang="sa-IN">ODF Database Report</value>
+      	<value xml:lang="sat">ODF Database Report</value>
+      	<value xml:lang="sd">ODF Database Report</value>
+      	<value xml:lang="sh">Izveštaj ODF baze</value>
+      	<value xml:lang="si">ODF දත්තමූල වාර්ථාව</value>
+      	<value xml:lang="sid">ODF Database Report</value>
+      	<value xml:lang="sk">ODF Databázová správa</value>
+      	<value xml:lang="sl">Poročilo zbirke podatkov ODF</value>
+      	<value xml:lang="sq">Raporto si ~E-mail...</value>
+      	<value xml:lang="sr">Извештај ОДФ базе</value>
+      	<value xml:lang="ss">ODF Database Report</value>
+      	<value xml:lang="st">ODF Database Report</value>
+      	<value xml:lang="sv">ODF-databasrapport</value>
+      	<value xml:lang="sw-TZ">ODF Database Report</value>
+      	<value xml:lang="ta">ODF தரவுத்தள அறிக்கை</value>
+      	<value xml:lang="te">ODF డాటాబేస్ నివేదిక</value>
+      	<value xml:lang="tg">ODF Database Report</value>
+      	<value xml:lang="th">ODF Database Report</value>
+      	<value xml:lang="tn">ODF Database Report</value>
+      	<value xml:lang="tr">ODF Veritabanı Raporu</value>
+      	<value xml:lang="ts">ODF Database Report</value>
+      	<value xml:lang="tt">ODF Database Report</value>
+      	<value xml:lang="ug">ODF ساندان دوكلاتى</value>
+      	<value xml:lang="uk">Звіт бази даних ODF</value>
+      	<value xml:lang="uz">ODF ma&apos;lumot bazasi hisoboti</value>
+      	<value xml:lang="ve">ODF Database Report</value>
+      	<value xml:lang="vi">Báo cáo cơ sở dữ liệu ODF</value>
+      	<value xml:lang="xh">ODF Database Report</value>
+      	<value xml:lang="zh-CN">ODF 数据库报表</value>
+      	<value xml:lang="zh-TW">ODF 資料庫報表</value>
+      	<value xml:lang="zu">ODF Database Report</value>
+      </prop>
+    </node>
+
+    <node oor:name="StarOffice XML (Base) Report Chart" oor:op="replace" oor:finalized="false" oor:mandatory="false">
+      <prop oor:name="Flags">
+        <value>IMPORT EXPORT OWN DEFAULT NOTINFILEDIALOG NOTINCHOOSER</value>
+      </prop>
+      <prop oor:name="UIComponent"/>
+      <prop oor:name="FilterService">
+        <value>com.sun.star.comp.chart2.report.XMLFilter</value>
+      </prop>
+      <prop oor:name="UserData"/>
+      <prop oor:name="FileFormatVersion">
+        <value>6800</value>
+      </prop>
+      <prop oor:name="Type">
+        <value>StarBaseReportChart</value>
+      </prop>
+      <prop oor:name="TemplateName"/>
+      <prop oor:name="DocumentService">
+        <value>com.sun.star.chart2.ChartDocument</value>
+      </prop>
+      <prop oor:name="UIName">
+        <value xml:lang="en-US">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="af">%productname% %formatversion%-verslaggrafiek</value>
+      	<value xml:lang="am">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="ar">%productname% مخطط تقرير %formatversion%</value>
+      	<value xml:lang="as">%productname% %formatversion% সংবাদ ৰেখাচিত্ৰ</value>
+      	<value xml:lang="ast">%productname% %formatversion% Gráficu d&apos;informe</value>
+      	<value xml:lang="be">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="bg">Диаграма за справка на %productname% %formatversion%</value>
+      	<value xml:lang="bn">%productname% %formatversion% প্রতিবেদন চার্ট</value>
+      	<value xml:lang="bn-IN">%productname% %formatversion% প্রতিবেদন চার্ট</value>
+      	<value xml:lang="bo">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="br">Danevell Diervad %productname% %formatversion%</value>
+      	<value xml:lang="brx">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="bs">%productname% %formatversion% izvještaj grafikon</value>
+      	<value xml:lang="ca">Diagrama d&apos;informe del %productname% %formatversion%</value>
+      	<value xml:lang="ca-XV">Diagrama d&apos;informe del %productname% %formatversion%</value>
+      	<value xml:lang="cs">Graf sestavy %productname% %formatversion%</value>
+      	<value xml:lang="cy">Adroddiad Siart %productname% %formatversion%</value>
+      	<value xml:lang="da">%productname% %formatversion%-rapportdiagram</value>
+      	<value xml:lang="de">%productname% %formatversion% Berichtsdiagramm</value>
+      	<value xml:lang="dgo">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="dz">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="el">Διάγραμμα αναφοράς %productname% %formatversion%</value>
+      	<value xml:lang="en-GB">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="en-ZA">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="eo">Raportdiagramo de %productname% %formatversion%</value>
+      	<value xml:lang="es">%productname% %formatversion% Gráfico de Reporte</value>
+      	<value xml:lang="et">%productname% %formatversion% aruande diagramm</value>
+      	<value xml:lang="eu">%productname% %formatversion% txosten-diagrama</value>
+      	<value xml:lang="fa">نمودار گزارش %productname% %formatversion%</value>
+      	<value xml:lang="fi">%productname% %formatversion% -raporttikaavio</value>
+      	<value xml:lang="fr">Rapport Diagramme %productname% %formatversion%</value>
+      	<value xml:lang="ga">Cairt Tuairisce %productname% %formatversion%</value>
+      	<value xml:lang="gd">Cairt aithisg %productname% %formatversion%</value>
+      	<value xml:lang="gl">Gráfica de informe de %productname% %formatversion%</value>
+      	<value xml:lang="gu">%productname% %formatversion% અહેવાલ આલેખ</value>
+      	<value xml:lang="he">דוח תרשים של %productname% %formatversion%</value>
+      	<value xml:lang="hi">%productname% %formatversion% रिपोर्ट चार्ट</value>
+      	<value xml:lang="hr">%productname% %formatversion% Graf izvješća</value>
+      	<value xml:lang="hu">%productname% %formatversion% jelentésdiagram</value>
+      	<value xml:lang="id">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="is">%productname% %formatversion% skýrslugraf</value>
+      	<value xml:lang="it">Rapporto grafico %productname% %formatversion%</value>
+      	<value xml:lang="ja">%productname% %formatversion% レポートグラフ</value>
+      	<value xml:lang="ka">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="kk">%productname% %formatversion% есептеме диаграммасы</value>
+      	<value xml:lang="km">គំនូស​តាង​របាយការណ៍ %productname% %formatversion%</value>
+      	<value xml:lang="kn">%productname% %formatversion% ವರದಿಯ ನಕ್ಷೆ</value>
+      	<value xml:lang="ko">%productname% %formatversion% 보고서 차트</value>
+      	<value xml:lang="kok">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="ks">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="ku">%productname% %formatversion% Xanxanka Raporê</value>
+      	<value xml:lang="lb">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="lo">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="lt">„%productname% %formatversion%“ ataskaitos diagrama</value>
+      	<value xml:lang="lv">%productname% %formatversion% atskaites diagramma</value>
+      	<value xml:lang="mai">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="mk">%productname% %formatversion% графикон за извештај</value>
+      	<value xml:lang="ml">%productname% %formatversion% റിപ്പോര്‍ട്ട് ചാര്‍ട്ട്</value>
+      	<value xml:lang="mn">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="mni">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="mr">%productname% %formatversion% अहवाल कोष्टक</value>
+      	<value xml:lang="my">%productname% %formatversion% သတင်းပို့ ကားချပ်</value>
+      	<value xml:lang="nb">%productname% %formatversion%-rapportdiagram</value>
+      	<value xml:lang="ne">%productname% %formatversion% प्रतिवेदन चार्ट </value>
+      	<value xml:lang="nl">%productname% %formatversion% Diagramrapport</value>
+      	<value xml:lang="nn">%productname% %formatversion%-rapportdiagram</value>
+      	<value xml:lang="nr">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="nso">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="oc">Diagrama de rapòrt %productname% %formatversion%</value>
+      	<value xml:lang="om">Taattoo Gabaasaa %productname% %formatversion%</value>
+      	<value xml:lang="or">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="pa-IN">%productname% %formatversion% ਰਿਪੋਰਟ ਚਾਰਟ</value>
+      	<value xml:lang="pl">%productname% Wykres raportu w formacie %formatversion%</value>
+      	<value xml:lang="pt">Gráfico do relatório do %productname% %formatversion%</value>
+      	<value xml:lang="pt-BR">Gráfico de relatório do %productname% %formatversion%</value>
+      	<value xml:lang="ro">Diagramă de raport %productname% %formatversion%</value>
+      	<value xml:lang="ru">Отчёт-диаграмма %productname% %formatversion%</value>
+      	<value xml:lang="rw">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="sa-IN">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="sat">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="sd">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="sh">%productname% %formatversion% grafik u izveštaju</value>
+      	<value xml:lang="si">%productname% %formatversion% වාර්ථා ප්‍රස්තාර</value>
+      	<value xml:lang="sid">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="sk">%productname% %formatversion% Správa graf</value>
+      	<value xml:lang="sl">Grafikon poročila %productname% %formatversion%</value>
+      	<value xml:lang="sq">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="sr">%productname% %formatversion% график у извештају</value>
+      	<value xml:lang="ss">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="st">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="sv">%productname% %formatversion% Rapportdiagram</value>
+      	<value xml:lang="sw-TZ">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="ta">%productname% %formatversion% அறிக்கை வரைபடம்</value>
+      	<value xml:lang="te">%productname% %formatversion% నివేదిక చార్టు</value>
+      	<value xml:lang="tg">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="th">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="tn">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="tr">%productname% %formatversion% Rapor Çizelgesi</value>
+      	<value xml:lang="ts">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="tt">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="ug">%productname% %formatversion% مەلۇمات دىئاگرامما</value>
+      	<value xml:lang="uk">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="uz">%productname% %formatversion% hisobot diagramma</value>
+      	<value xml:lang="ve">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="vi">Bản báo cáo %productname% %formatversion% </value>
+      	<value xml:lang="xh">%productname% %formatversion% Report Chart</value>
+      	<value xml:lang="zh-CN">%productname% %formatversion% 报表图表</value>
+      	<value xml:lang="zh-TW">%productname% %formatversion% 報表圖表</value>
+      	<value xml:lang="zu">%productname% %formatversion% Report Chart</value>
+      </prop>
+    </node>
+  </node>
+</oor:component-data>

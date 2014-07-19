@@ -1,0 +1,1 @@
+Esta extensión intégrase dentro do Calc e ofrece un novo motor Solver para optimización de modelos de programación non linear.

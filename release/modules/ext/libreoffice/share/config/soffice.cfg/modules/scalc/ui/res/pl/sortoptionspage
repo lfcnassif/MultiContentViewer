@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Skopiuj wyniki sortowania do:</e>
+ <e g="label6" i="label">Język</e>
+ <e g="algorithmft" i="label">Opcje</e>
+ <e g="naturalsort" i="label">Włącz sortowanie naturalne</e>
+ <e g="sortuser" i="label">Niestandardowy kierunek sortowania</e>
+ <e g="header" i="label">Zakres zawiera...</e>
+ <e g="topdown" i="label">Z góry do dołu (sor_tuje wiersze)</e>
+ <e g="case" i="label">Uwzględnij wielkość liter</e>
+ <e g="formats" i="label">Dołącz formaty</e>
+ <e g="leftright" i="label">Z l_ewej do prawej (sortuje kolumny)</e>
+ <e g="label1" i="label">Kierunek</e>
+</t>

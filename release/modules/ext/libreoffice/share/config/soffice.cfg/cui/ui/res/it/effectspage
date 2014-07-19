@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Titolo</e>
+ <e g="overlinecolorft" i="label">Colore della sopralineatura</e>
+ <e g="liststore6" i="7">Tratto (grassetto)</e>
+ <e g="liststore3" i="1">Punto</e>
+ <e g="underlinecolorft" i="label">Colore sottolineatura</e>
+ <e g="label42" i="label">Opzioni</e>
+ <e g="liststore1" i="0">(Senza)</e>
+ <e g="individualwordscb" i="label">Solo parole</e>
+ <e g="label46" i="label">Sopralineatura</e>
+ <e g="liststore5" i="3">Grassetto</e>
+ <e g="liststore6" i="14">Onda</e>
+ <e g="liststore6" i="10">Punto tratto</e>
+ <e g="liststore6" i="0">(Senza)</e>
+ <e g="liststore1" i="2">Minuscole</e>
+ <e g="liststore5" i="5">Con X</e>
+ <e g="liststore6" i="16">Ondulato doppio</e>
+ <e g="liststore3" i="4">Accento</e>
+ <e g="liststore6" i="6">Tratto</e>
+ <e g="outlinecb" i="label">Contorno</e>
+ <e g="liststore4" i="1">Sotto il testo</e>
+ <e g="fontcolorft" i="label">Colore carattere</e>
+ <e g="liststore2" i="0">(Senza)</e>
+ <e g="liststore5" i="2">Doppia</e>
+ <e g="liststore6" i="13">Punto punto tratto (grassetto)</e>
+ <e g="emphasisft" i="label">Punti esclamativi</e>
+ <e g="liststore6" i="3">Grassetto</e>
+ <e g="reliefft" i="label">Rilievo</e>
+ <e g="liststore2" i="2">Inciso</e>
+ <e g="label50" i="label">Anteprima</e>
+ <e g="liststore6" i="15">Ondulato (grassetto)</e>
+ <e g="liststore6" i="9">Tratto lungo (grassetto)</e>
+ <e g="liststore6" i="5">Punto (grassetto)</e>
+ <e g="liststore3" i="3">Disco</e>
+ <e g="liststore4" i="0">Sopra il testo</e>
+ <e g="liststore5" i="1">Singola</e>
+ <e g="label47" i="label">Barrato</e>
+ <e g="hiddencb" i="label">Nascosto</e>
+ <e g="liststore6" i="12">Punto punto tratto</e>
+ <e g="liststore6" i="2">Doppia</e>
+ <e g="liststore3" i="0">(Senza)</e>
+ <e g="liststore1" i="4">Maiuscoletto</e>
+ <e g="shadowcb" i="label">Ombra</e>
+ <e g="liststore2" i="1">In rilievo</e>
+ <e g="liststore6" i="8">Tratto lungo</e>
+ <e g="liststore3" i="2">Cerchio</e>
+ <e g="liststore6" i="4">Punto</e>
+ <e g="label48" i="label">Sottolineato</e>
+ <e g="blinkingcb" i="label">Lampeggiante</e>
+ <e g="liststore1" i="1">Maiuscole</e>
+ <e g="positionft" i="label">Posizione</e>
+ <e g="liststore5" i="4">Con /</e>
+ <e g="liststore5" i="0">(Senza)</e>
+ <e g="effectsft" i="label">Effetti</e>
+ <e g="liststore6" i="11">Punto tratto (grassetto)</e>
+ <e g="liststore6" i="1">Singola</e>
+</t>

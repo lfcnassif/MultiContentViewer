@@ -1,0 +1,1 @@
+Usate Report Builder per creare rapporti di database eleganti e di effetto. L'editor dei rapporti è configurabile, può definire sia gruppi, sia piè di pagina e in più mette a disposizione campi per calcoli allo scopo di ottenere rapporti di database complessi.

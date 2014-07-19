@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Plik</e>
+ <e g="linktofile" i="label">Łącze do pliku</e>
+ <e g="InsertOLEObjectDialog" i="title">Wstaw obiekt OLE</e>
+ <e g="label1" i="label">Typ obiektu</e>
+ <e g="createfromfile" i="label">Utwórz z pliku</e>
+ <e g="urlbtn" i="label">Szukaj ...</e>
+ <e g="createnew" i="label">Utwórz nowy</e>
+</t>

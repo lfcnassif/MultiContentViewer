@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 entspricht höchster Qualität bei größter Dateigröße.</e>
+ <e g="liststore2" i="3">Punkt</e>
+ <e g="level2rb" i="label">Ebene 2</e>
+ <e g="label17" i="label">Vorschau</e>
+ <e g="label2" i="label">Farbtiefe</e>
+ <e g="label10" i="label">1 entsprichst geringster Qualität bei kleinster Dateigröße.</e>
+ <e g="label16" i="label">Kodierung</e>
+ <e g="label22" i="label">0 entspricht größter Dateigröße und schnellster Ladezeit.</e>
+ <e g="label" i="label">Kompression</e>
+ <e g="label1" i="label">Größe</e>
+ <e g="compressnone" i="label">Keine</e>
+ <e g="resolutionft" i="label">Auflösung</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Höhe</e>
+ <e g="liststore1" i="0">Pixel/cm</e>
+ <e g="label20" i="label">Kompression</e>
+ <e g="liststore1" i="2">Pixel/Meter</e>
+ <e g="binarycb" i="label">Binär</e>
+ <e g="GraphicExportDialog" i="title"> Optionen</e>
+ <e g="textcb" i="label">Text</e>
+ <e g="color1rb" i="label">Farbe</e>
+ <e g="liststore2" i="4">Pixel</e>
+ <e g="epsipreviewcb" i="label">Interchange (EPSI)</e>
+ <e g="label5" i="label">Breite</e>
+ <e g="color2rb" i="label">Graustufen</e>
+ <e g="label19" i="label">Version</e>
+ <e g="label4" i="label">Dokumentinfo</e>
+ <e g="rlecb" i="label">RLE-Kodierung</e>
+ <e g="labe" i="label">Zeichenobjekte</e>
+ <e g="liststore2" i="0">Zoll</e>
+ <e g="label12" i="label">Modus</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">LZW Kodierung</e>
+ <e g="label3" i="label">Kompression</e>
+ <e g="tiffpreviewcb" i="label">Vorschaubild (TIFF)</e>
+ <e g="savetransparencycb" i="label">Transparenz speichern</e>
+ <e g="level1rb" i="label">Ebene 1</e>
+ <e g="liststore1" i="1">Pixel/Zoll</e>
+ <e g="label23" i="label">9 entsprichte kleinster Dateigröße und langsamstem Laden.</e>
+ <e g="label18" i="label">Farb Format</e>
+ <e g="interlacedcb" i="label">Interlaced</e>
+ <e g="label9" i="label">Qualität</e>
+</t>

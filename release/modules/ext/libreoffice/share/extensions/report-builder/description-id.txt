@@ -1,0 +1,1 @@
+Gunakan Pembangun Laporan untuk membuat laporan basis data yang bergaya dan berpenampilan menarik. Penyunting laporan yang fleksibel dapat mendefinisikan tajuk grup dan halaman serta kaki grup dan halaman. Sebagai tambahan, ruas perhitungan tersedia untuk menyelesaikan laporan basis data yang rumit.

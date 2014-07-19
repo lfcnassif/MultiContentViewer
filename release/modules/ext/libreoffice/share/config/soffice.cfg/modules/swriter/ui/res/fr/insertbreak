@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Style</e>
+ <e g="linerb" i="label">Saut de ligne</e>
+ <e g="label1" i="label">Type</e>
+ <e g="liststore1" i="0">[Aucun(e)]</e>
+ <e g="pagenumcb" i="label">Modifier le numéro de page</e>
+ <e g="pagerb" i="label">Saut de page</e>
+ <e g="BreakDialog" i="title">Insérer un saut</e>
+ <e g="columnrb" i="label">Saut de colonne</e>
+</t>

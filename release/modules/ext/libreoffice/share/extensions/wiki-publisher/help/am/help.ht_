@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck c0 በዚህ ሳጥን ውስጥ ምልክት ያድርጉ የሚጫነው ገጽ አነስተኛ እርማት ለመሆኑ በተመሳሳይ አርእስት ቀደም ብሎ ለነበረ ገጽ
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 53 አጭር ማጠቃለያ ወይንም አስተያየት ያስገቡ በምርጫ
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 1a7 ዊኪ ላይ ማስገባት የሚፈልጉትን አርእስት ያስገቡ ፡ ይህ በዊኪ ላይ ከላይ በኩል የሚቀመጠው ለአዲስ አርእስት ማስገቢያ ነው ፡ አርእስቱ ልዩ እና አዲስ መሆን አለበት ፡ ቀደም ብሎ የነበረ አርእስት ካስገቡ የሚጭኑት በነበረው የዊኪ አርእስት ላይ ደርቦ ይጽፈበታል
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList da ይምረጡ የ MediaWiki ሰርቨር የእርስዎን ሰነድ ማተም የሚፈልጉበትን ፡ ይጫኑ መጨመሪያ የሚለውን አዲስ ሰርቨር ወደ ዝርዝሩ ውስጥ ለመጨመር
+22 vnd.com.sun.star.wiki%3AsendDialog da ይምረጡ የ MediaWiki ሰርቨር የእርስዎን ሰነድ ማተም የሚፈልጉበትን ፡ ይጫኑ መጨመሪያ የሚለውን አዲስ ሰርቨር ወደ ዝርዝሩ ውስጥ ለመጨመር
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck a3 በዚህ ሳጥን ውስጥ ምልክት ያድርጉ የስርአቱን ዌብ መቃኛ ለመክፈት እና የተጫነውን የዊኪ ገጽ ለማየት
+1f vnd.com.sun.star.wiki%3Aaccount 45 ያስገቡ URL የ MediaWiki server, በማስጀመር በ http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 104 ያስችሉ የመግቢያ ቃል ማስቀመጥ በክፍለ ጊዜዎች መሀከል ፡ ዋናውን የመግቢያ ቃል ማሳቻል አለብዎት ፡ ይህን ይመልከቱ መሳሪያዎች - ምርጫዎች - %PRODUCTNAME - ደህንነት.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 7d ለ MediaWiki server የመግቢያ ቃል ያስገቡ ፡ ስም እንዳይታይ ከፈለጉ ባዶውን ይተውት
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 7d በ MediaWiki server የተጠቃሚ ስም ያስገቡ ፡ ስም እንዳይታይ ከፈለጉ ባዶውን ይተውት
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 45 ያስገቡ URL የ MediaWiki server, በማስጀመር በ http://
+1c vnd.com.sun.star.wiki%3Asend 8b ይምረጡ ፋይል - መላኪያ - ወደ MediaWiki የጻፉትን የጽሁፍ ሰነድ ወደ MediaWiki ሰርቨር ለመጫን.
+20 vnd.com.sun.star.wiki%3Aaboutbox 11d ዊኪ አታሚን በመጠቀም አሁን የጻፉትን የጽሁፍ ሰነድ ወደ MediaWiki ሰርቨር መጫን ይችላሉ ፡ ጭነው ሲጨርሱ ሁሉም የዊኪ ተጠቃሚዎች እርስዎ የጫኑትን ሰነድ በዊኪ ላይ ማንበብ ይችላሉ
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 3f ከዝርዝር ውስጥ የተመረጠውን ማስወገጃ
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 145 ይጫኑ አዲስ የዊኪ ሰርቨር ለመጨመር ማስገቢያ ይምረጡ እና ይጫኑ ማረሚያ የሚለውን ለማረም የ account ማሰናጃዎችን ማስገቢያ ይምረጡ እና ማስወግጃ የሚለውን ይጫኑ ማስገቢያውን ከዝርዝር ውስጥ ለማስወገድ
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 57 መክፈቻ የ MediaWiki ንግግር የመረጡትን ማስገቢያ ለማረም
+20 vnd.com.sun.star.wiki%3Asettings 145 ይጫኑ አዲስ የዊኪ ሰርቨር ለመጨመር ማስገቢያ ይምረጡ እና ይጫኑ ማረሚያ የሚለውን ለማረም የ account ማሰናጃዎችን ማስገቢያ ይምረጡ እና ማስወግጃ የሚለውን ይጫኑ ማስገቢያውን ከዝርዝር ውስጥ ለማስወገድ
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 6f መክፈቻ የ MediaWiki ንግግር አዲስ ማስገቢያ ለመጨመር ወደ ዝርዝሩ ውስጥ

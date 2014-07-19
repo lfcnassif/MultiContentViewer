@@ -1,0 +1,2 @@
+Presentacion Minimizer es utilizat per reduire la talha de fichièr de la presentacion activa. Los imatges seràn compressats e las donadas que son las mai utilas seràn suprimidas.
+ Presentation Minimizer pòt optimizar la talha de qualitat dels imatges. Las presentacions creadas per l'ecran o lo projector necessitan pas lo meteis nivèl de qualitat que las presentacions creadas per l'estampatge.

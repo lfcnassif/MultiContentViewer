@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 é a qualidade máxima e o maior tamanho de ficheiro.</e>
+ <e g="liststore2" i="3">pontos</e>
+ <e g="level2rb" i="label">Nível 2</e>
+ <e g="label17" i="label">Visualizar</e>
+ <e g="label2" i="label">Profundidade de cor</e>
+ <e g="label10" i="label">1 é a qualidade mínima e o menor tamanho de ficheiro.</e>
+ <e g="label16" i="label">Codificação</e>
+ <e g="label22" i="label">0 é o maior tamanho de ficheiro e carregamento mais rápido.</e>
+ <e g="label" i="label">Compressão</e>
+ <e g="label1" i="label">Tamanho</e>
+ <e g="compressnone" i="label">Nenhum</e>
+ <e g="resolutionft" i="label">Resolução</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Altura</e>
+ <e g="liststore1" i="0">pixeis/cm</e>
+ <e g="label20" i="label">Compressão</e>
+ <e g="liststore1" i="2">pixeis/metro</e>
+ <e g="binarycb" i="label">Binário</e>
+ <e g="GraphicExportDialog" i="title"> Opções</e>
+ <e g="textcb" i="label">Texto</e>
+ <e g="color1rb" i="label">Cor</e>
+ <e g="liststore2" i="4">pixeis</e>
+ <e g="epsipreviewcb" i="label">Intercâmbio (EPSI)</e>
+ <e g="label5" i="label">Largura</e>
+ <e g="color2rb" i="label">Escala de cinzentos</e>
+ <e g="label19" i="label">Versão</e>
+ <e g="label4" i="label">Informações</e>
+ <e g="rlecb" i="label">Codificação RLE</e>
+ <e g="labe" i="label">Objetos de desenho</e>
+ <e g="liststore2" i="0">polegadas</e>
+ <e g="label12" i="label">Modo</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">Codificação LZW</e>
+ <e g="label3" i="label">Compressão</e>
+ <e g="tiffpreviewcb" i="label">Visualização de imagem (TIFF)</e>
+ <e g="savetransparencycb" i="label">Guardar transparência</e>
+ <e g="level1rb" i="label">Nível 1</e>
+ <e g="liststore1" i="1">pixeis/polegada</e>
+ <e g="label23" i="label">9 é o menor tamanho de ficheiro e carregamento mais lento.</e>
+ <e g="label18" i="label">Formato de cor</e>
+ <e g="interlacedcb" i="label">Entrelaçado</e>
+ <e g="label9" i="label">Qualidade</e>
+</t>

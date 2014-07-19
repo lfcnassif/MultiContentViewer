@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Grootte</e>
+ <e g="grayscale" i="label">Grijswaarden</e>
+ <e g="tilesheet" i="label">Tegelblad van papier met herhalende pagina's</e>
+ <e g="fittoprintable" i="label">Aanpassen aan afdrukbare pagina</e>
+ <e g="printname" i="label">Paginanaam</e>
+ <e g="originalcolors" i="label">Oorspronkelijke grootte</e>
+ <e g="blackandwhite" i="label">Zwart-wit</e>
+ <e g="printdatetime" i="label">Datum en tijd</e>
+ <e g="label4" i="label">Inhoud</e>
+ <e g="distributeonmultiple" i="label">Verdeel over meerdere bladen papier</e>
+ <e g="label5" i="label">Kleur</e>
+ <e g="originalsize" i="label">Oorspronkelijke grootte</e>
+</t>

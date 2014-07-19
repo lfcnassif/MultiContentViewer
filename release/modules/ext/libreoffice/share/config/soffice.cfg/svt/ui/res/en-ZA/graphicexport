@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 is maximum Quality and biggest file size.</e>
+ <e g="liststore2" i="3">points</e>
+ <e g="level2rb" i="label">Level 2</e>
+ <e g="label17" i="label">Preview</e>
+ <e g="label2" i="label">Colour Depth</e>
+ <e g="label10" i="label">1 is minimum Quality and smallest file size.</e>
+ <e g="label16" i="label">Encoding</e>
+ <e g="label22" i="label">0 is biggest file size and fastest loading.</e>
+ <e g="label" i="label">Compression</e>
+ <e g="label1" i="label">Size</e>
+ <e g="compressnone" i="label">None</e>
+ <e g="resolutionft" i="label">Resolution</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Height</e>
+ <e g="liststore1" i="0">pixels/cm</e>
+ <e g="label20" i="label">Compression</e>
+ <e g="liststore1" i="2">pixels/metre</e>
+ <e g="binarycb" i="label">Binary</e>
+ <e g="GraphicExportDialog" i="title"> Options</e>
+ <e g="textcb" i="label">Text</e>
+ <e g="color1rb" i="label">Colour</e>
+ <e g="liststore2" i="4">pixels</e>
+ <e g="epsipreviewcb" i="label">Interchange (EPSI)</e>
+ <e g="label5" i="label">Width</e>
+ <e g="color2rb" i="label">Greyscale</e>
+ <e g="label19" i="label">Version</e>
+ <e g="label4" i="label">Information</e>
+ <e g="rlecb" i="label">RLE Encoding</e>
+ <e g="labe" i="label">Drawing Objects</e>
+ <e g="liststore2" i="0">inches</e>
+ <e g="label12" i="label">Mode</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">LZW encoding</e>
+ <e g="label3" i="label">Compression</e>
+ <e g="tiffpreviewcb" i="label">Image Preview (TIFF)</e>
+ <e g="savetransparencycb" i="label">Save transparency</e>
+ <e g="level1rb" i="label">Level 1</e>
+ <e g="liststore1" i="1">pixels/inch</e>
+ <e g="label23" i="label">9 is smallest file size and slowest loading.</e>
+ <e g="label18" i="label">Colour format</e>
+ <e g="interlacedcb" i="label">Interlaced</e>
+ <e g="label9" i="label">Quality</e>
+</t>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="pictures" i="label">图片及其他图形对象</e>
+ <e g="formcontrols" i="label">表单控件</e>
+ <e g="autoblankpages" i="label">打印自动插入的空白页</e>
+ <e g="pagebackground" i="label">页面背景</e>
+ <e g="label6" i="label">页</e>
+ <e g="label4" i="label">内容</e>
+ <e g="placeholders" i="label">文字占位符</e>
+ <e g="label5" i="label">颜色</e>
+ <e g="textinblack" i="label">使用黑色打印文字</e>
+ <e g="hiddentext" i="label">隐藏的文字</e>
+</t>

@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 79 marqueu esta casella per indicar que la pàgina pujada és una edició menor de la pàgina existent amb el mateix títol.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 2e Introduïu un resum o comentari curt opcional.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText ff Introduïu el títol de l'entrada Wiki. Este és l'encapçalament principal de l'entrada. Per a una entrada nova, cal que el títol siga únic a esta Wiki. Si introduïu un títol existent, esta pujada sobreescriurà l'entrada Wiki que ja té este títol.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 78 Seleccioneu el servidor MediaWiki on voleu publicar el document. Feu clic a Afig per afegir un servidor nou a la llista.
+22 vnd.com.sun.star.wiki%3AsendDialog 78 Seleccioneu el servidor MediaWiki on voleu publicar el document. Feu clic a Afig per afegir un servidor nou a la llista.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 5d marqueu esta casella per obrir el navegador web del sistema i mostrar la pàgina Wiki pujada.
+1f vnd.com.sun.star.wiki%3Aaccount 40 Introduïu l'URL d'un servidor MediaWiki, començant amb http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox a6 Habiliteu-ho per emmagatzemar la vostra contrasenya entre sessions. Cal habilitar prèviament la contrasenya mestra, vegeu Eines - Opcions - %PRODUCTNAME - Seguretat.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 69 Introduïu la vostra contrasenya per al servidor MediaWiki. Deixeu-ho en blanc per fer un accés anònim.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 63 Introduïu el nom d'usuari per al servidor MediaWiki. Deixeu-ho en blanc per fer un accés anònim.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 40 Introduïu l'URL d'un servidor MediaWiki, començant amb http://
+1c vnd.com.sun.star.wiki%3Asend 63 Trieu Fitxer - Envia - A MediaWiki per pujar el document actual del Writer a un servidor MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox c1 Amb l'extensió Wiki Publisher podeu pujar el document de text del Writer a un servidor MediaWiki. Després de pujar-lo, tots els usuaris de la Wiki podran llegir el document a la mateixa Wiki.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 2e Suprimeix l'entrada seleccionada de la llista.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList d4 Feu clic a Afig per afegir un servidor Wiki nou.Seleccioneu una entrada i feu clic a Edita per editar els paràmetres del compte.Seleccioneu una entrada i feu clic a Suprimeix per eliminar l'entrada de la llista.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3c Obri el diàleg MediaWiki per editar l'entrada seleccionada.
+20 vnd.com.sun.star.wiki%3Asettings d4 Feu clic a Afig per afegir un servidor Wiki nou.Seleccioneu una entrada i feu clic a Edita per editar els paràmetres del compte.Seleccioneu una entrada i feu clic a Suprimeix per eliminar l'entrada de la llista.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 42 Obri el diàleg MediaWiki per afegir una entrada nova a la llista.

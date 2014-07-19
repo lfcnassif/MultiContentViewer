@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">Все страницы</e>
+ <e g="pagestxt" i="label">Страницы</e>
+ <e g="label5" i="label">Принтер</e>
+ <e g="label11" i="label">Печать</e>
+ <e g="setup" i="label">Свойства...</e>
+ <e g="label9" i="label">Примечание:</e>
+ <e g="customlabel" i="label">Настроить</e>
+ <e g="liststore3" i="0">Автоматически</e>
+ <e g="label15" i="label">Печать</e>
+ <e g="label19" i="label">Порядок</e>
+ <e g="sheetmargintxt1" i="label">Поле</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">Все листы</e>
+ <e g="label2" i="label">Макет страницы</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Альбомная</e>
+ <e g="label6" i="label">Детали</e>
+ <e g="label12" i="label">Слайдов на страницу</e>
+ <e g="label16" i="label">Примечания</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">сверху вниз, затем налево</e>
+ <e g="ordertxt" i="label">Порядок</e>
+ <e g="label3" i="label">Страницы</e>
+ <e g="pagespersheetbtn" i="label">Страниц на лист</e>
+ <e g="label7" i="label">Статус:</e>
+ <e g="label13" i="label">Область печати и копии</e>
+ <e g="label17" i="label">Вывести</e>
+ <e g="printpages" i="label">Страницы</e>
+ <e g="location" i="label">Место</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Печатать в файл</e>
+ <e g="reverseorder" i="label">В обратном порядке</e>
+ <e g="collate" i="label">Упорядочить</e>
+ <e g="label10" i="label">Документ</e>
+ <e g="liststore2" i="1">сверху вниз, затем направо</e>
+ <e g="label8" i="label">Расположение:</e>
+ <e g="printselection" i="label">Выбор</e>
+ <e g="PrintDialog" i="title">Печать</e>
+ <e g="comment" i="label">Имя принтера</e>
+ <e g="liststore1" i="6">Настроить:</e>
+ <e g="singleprintjob" i="label">Отдельное задание печати для каждой копии</e>
+ <e g="sheetmargintxt2" i="label">от края страницы</e>
+ <e g="by" i="label">по</e>
+ <e g="label1" i="label">Общие</e>
+ <e g="label20" i="label">Настройки</e>
+ <e g="liststore2" i="3">справа налево, затем вниз</e>
+ <e g="printpaperfromsetup" i="label">Подача бумаги согласно настройкам принтера</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Рисовать рамку вокруг каждой страницы</e>
+ <e g="fromwhich" i="label">Печатать</e>
+ <e g="pagemargintxt1" i="label">Интервал</e>
+ <e g="status" i="label">Принтер по умолчанию</e>
+ <e g="liststore2" i="0">слева направо, затем вниз</e>
+ <e g="printselectedsheets" i="label">Выбранные листы</e>
+ <e g="label21" i="label">Настройки</e>
+ <e g="liststore3" i="1">Книжная</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Выделенные ячейки</e>
+ <e g="pagemargintxt2" i="label">между страницами</e>
+ <e g="label14" i="label">Количество копий</e>
+ <e g="brochure" i="label">~Брошюра</e>
+ <e g="label18" i="label">Разметка</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Ориентация</e>
+</t>

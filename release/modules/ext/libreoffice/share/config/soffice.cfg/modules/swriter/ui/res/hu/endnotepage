@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">Automatikus számozás</e>
+ <e g="offset" i="label">Kezdőérték</e>
+ <e g="pagestyleft" i="label">Oldal</e>
+ <e g="label29" i="label">Karakterstílusok</e>
+ <e g="label22" i="label">Előtte</e>
+ <e g="label27" i="label">Szövegtörzsben</e>
+ <e g="label19" i="label">Számozás</e>
+ <e g="label25" i="label">Utána</e>
+ <e g="label20" i="label">Bekezdés</e>
+ <e g="label28" i="label">Végjegyzetben</e>
+ <e g="label23" i="label">Stílusok</e>
+</t>

@@ -1,0 +1,1 @@
+Veido stilīgas, profesionālas datubāžu atskaites ar atskaišu veidotāju. Elastīgais atskaišu redaktors var definēt grupu un lapu galvenes, kā arī grupu un lapu kājenes un pat ir pieejami aprēķinu lauki, lai iegūtu kompleksas datubāžu atskaites.

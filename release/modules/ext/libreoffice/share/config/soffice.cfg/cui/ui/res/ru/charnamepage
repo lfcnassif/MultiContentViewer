@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="weststyleft-cjk" i="label">Стиль</e>
+ <e g="label6" i="label">Шрифт для сложных систем письменности</e>
+ <e g="westsizeft-cjk" i="label">Кегль</e>
+ <e g="ctlstyleft" i="label">Стиль</e>
+ <e g="westfontnameft-nocjk" i="label">Семейство</e>
+ <e g="label5" i="label">Шрифт восточно-азиатского текста</e>
+ <e g="label4" i="label">Шрифт западного текста</e>
+ <e g="eastsizeft" i="label">Кегль</e>
+ <e g="westfontnameft-cjk" i="label">Семейство</e>
+ <e g="westlangft-cjk" i="label">Язык</e>
+ <e g="label19" i="label">Просмотр</e>
+ <e g="ctlfontnameft" i="label">Семейство</e>
+ <e g="eaststyleft" i="label">Стиль</e>
+ <e g="ctlsizeft" i="label">Кегль</e>
+ <e g="weststyleft-nocjk" i="label">Стиль</e>
+ <e g="eastlangft" i="label">Язык</e>
+ <e g="eastfontnameft" i="label">Семейство</e>
+ <e g="ctllangft" i="label">Язык</e>
+ <e g="label21" i="label">Шрифт</e>
+ <e g="westlangft-nocjk" i="label">Язык</e>
+ <e g="westsizeft-nocjk" i="label">Кегль</e>
+</t>

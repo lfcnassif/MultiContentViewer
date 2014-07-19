@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">その他の文字...</e>
+ <e g="label29" i="label">開く記号</e>
+ <e g="liststore1" i="0">(なし)</e>
+ <e g="label28" i="label">かっこ記号</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">1行を2行使いにする</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(なし)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">その他の文字...</e>
+ <e g="label30" i="label">閉じる記号</e>
+ <e g="label2" i="label">2行使い</e>
+ <e g="label52" i="label">プレビュー</e>
+</t>

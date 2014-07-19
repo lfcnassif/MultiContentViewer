@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">모든 페이지</e>
+ <e g="pagestxt" i="label">Pages</e>
+ <e g="label5" i="label">프린터</e>
+ <e g="label11" i="label">Print</e>
+ <e g="setup" i="label">속성...</e>
+ <e g="label9" i="label">설명: </e>
+ <e g="customlabel" i="label">custom</e>
+ <e g="liststore3" i="0">자동</e>
+ <e g="label15" i="label">Print</e>
+ <e g="label19" i="label">Order</e>
+ <e g="sheetmargintxt1" i="label">여백</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">모든 시트</e>
+ <e g="label2" i="label">페이지 레이아웃</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Landscape</e>
+ <e g="label6" i="label">상세</e>
+ <e g="label12" i="label">페이지당 슬라이드</e>
+ <e g="label16" i="label">설명</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">위쪽에서 아래쪽으로, 그리고 왼쪽으로</e>
+ <e g="ordertxt" i="label">Order</e>
+ <e g="label3" i="label">양쪽 페이지</e>
+ <e g="pagespersheetbtn" i="label">Pages per sheet</e>
+ <e g="label7" i="label">상태:</e>
+ <e g="label13" i="label">범위와 사본</e>
+ <e g="label17" i="label">Include</e>
+ <e g="printpages" i="label">페이지</e>
+ <e g="location" i="label">위치</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">파일로 인쇄</e>
+ <e g="reverseorder" i="label">페이지 역순으로 인쇄</e>
+ <e g="collate" i="label">한 부씩 인쇄</e>
+ <e g="label10" i="label">문서</e>
+ <e g="liststore2" i="1">위쪽에서 아래쪽으로, 그리고 오른쪽으로</e>
+ <e g="label8" i="label">위치: </e>
+ <e g="printselection" i="label">선택</e>
+ <e g="PrintDialog" i="title">Print</e>
+ <e g="comment" i="label">프린터 전체 이름</e>
+ <e g="liststore1" i="6">사용자 정의</e>
+ <e g="singleprintjob" i="label">한 부씩 인쇄에 대해 단일 인쇄 작업 생성</e>
+ <e g="sheetmargintxt2" i="label">(시트 테두리까지)</e>
+ <e g="by" i="label">간격</e>
+ <e g="label1" i="label">일반</e>
+ <e g="label20" i="label">Options</e>
+ <e g="liststore2" i="3">오른쪽에서 왼쪽으로, 그리고 아래쪽으로</e>
+ <e g="printpaperfromsetup" i="label">Use only paper tray from printer preferences</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">각 페이지에 경계선 그리기</e>
+ <e g="fromwhich" i="label">영역 인쇄</e>
+ <e g="pagemargintxt1" i="label">간격</e>
+ <e g="status" i="label">기본 프린터</e>
+ <e g="liststore2" i="0">왼쪽에서 오른쪽으로, 그리고 아래쪽으로</e>
+ <e g="printselectedsheets" i="label">선택한 시트</e>
+ <e g="label21" i="label">Options</e>
+ <e g="liststore3" i="1">Portrait</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">선택한 셀</e>
+ <e g="pagemargintxt2" i="label">(페이지 간)</e>
+ <e g="label14" i="label">사본 수</e>
+ <e g="brochure" i="label">브로슈어</e>
+ <e g="label18" i="label">레이아웃</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Orientation</e>
+</t>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">大小</e>
+ <e g="grayscale" i="label">灰階</e>
+ <e g="tilesheet" i="label">在紙上平鋪重複的投影片</e>
+ <e g="fittoprintable" i="label">符合可列印頁面大小</e>
+ <e g="printname" i="label">投影片名稱</e>
+ <e g="printhidden" i="label">隱藏的頁面</e>
+ <e g="originalcolors" i="label">原始大小</e>
+ <e g="blackandwhite" i="label">黑白</e>
+ <e g="distributeonmultiple" i="label">分散到多張紙上</e>
+ <e g="printdatetime" i="label">日期和時間</e>
+ <e g="label4" i="label">內容</e>
+ <e g="label5" i="label">色彩</e>
+ <e g="originalsize" i="label">原始大小</e>
+</t>

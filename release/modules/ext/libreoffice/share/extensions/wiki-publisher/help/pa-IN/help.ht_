@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 135 ਇਹ ਬਾਕਸ ਦੀ ਚੋਣ ਕਰੋ, ਜੇ ਤੁਸੀਂ ਅੱਪਲੋਡ ਕੀਤੇ ਪੇਜ਼ ਲਈ ਕੀਤੀ ਸੋਧ ਨੂੰ ਉਸੇ ਨਾਂ ਦੇ ਮੌਜੂਦ ਪੇਜ਼ 'ਚ ਸੰਖੇਪ ਜੇਹੀ ਸੋਧ ਦਰਸਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ।
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 5f ਚੋਣਵੀ ਸੰਖੇਪ ਜਾਣਕਾਰੀ ਜਾਂ ਟਿੱਪਣੀ ਦਿਓ।
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 1fa ਵਿਕਿ ਐਟਰੀ ਲਈ ਸਿਰਲੇਖ ਭਰੋ। ਇਹ ਤੁਹਾਡੀ ਵਿਕਿ ਐਟਰੀ ਲਈ ਉੱਚਾ ਹੈਡਿਗ ਹੈ। ਨਵੀ ਐਟਰੀ ਲਈ, ਵਿਕਿ ਉਤੇ ਸਿਰਲੇਖ ਯੂਨਿਕ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਜੇਕਰ ਤੁਸੀ ਮੌਜੁਦਾ ਸਿਰਲੇਖ ਭਰਦੇ ਹੋ, ਤੁਹਾਡਾ ਅਪਲੌਡ ਮੌਜੁਦਾ ਐਟਰੀ ਨੂੰ ਉਵਰਰਾਇਟ ਕਰ ਦੇਵੇਗਾ।
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 103 ਮੀਡਿਆ-ਵਿਕਿ ਸਰਵਰ ਚੁਣੋ ਜਿੱਥੇ ਤੁਸੀ ਦਸਤਾਵੇਜ ਪਬਲਿਸ ਕਰਨਾ ਚਾਹੁਦੇ ਹੋ। ਲਿਸਟ ਵਿਵ ਨਵਾ ਸਰਵਰ ਜੋੜਨ ਲਈ Add ਬਟਨ ਦਬਾਉ।
+22 vnd.com.sun.star.wiki%3AsendDialog 103 ਮੀਡਿਆ-ਵਿਕਿ ਸਰਵਰ ਚੁਣੋ ਜਿੱਥੇ ਤੁਸੀ ਦਸਤਾਵੇਜ ਪਬਲਿਸ ਕਰਨਾ ਚਾਹੁਦੇ ਹੋ। ਲਿਸਟ ਵਿਵ ਨਵਾ ਸਰਵਰ ਜੋੜਨ ਲਈ Add ਬਟਨ ਦਬਾਉ।
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 111 ਇਹ ਬਾਕਸ ਦੀ ਚੋਣ ਕਰੋ, ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਸਿਸਟਮ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਨੂੰ ਖੋਲ੍ਹ ਕੇ ਅੱਪਲੋਡ ਕੀਤਾ ਵਿਕਿ ਪੇਜ਼ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ।
+1f vnd.com.sun.star.wiki%3Aaccount 73 ਮੀਡਿਆ-ਵਿਕਿ ਸਰਵਰ ਲਈ http:// ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦਾ URL ਦਿਓ।
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 122 ਸ਼ੈਸ਼ਨਾਂ ਵਿੱਚ ਆਪਣਾ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਯੋਗ ਕਰੋ। ਮਾਸਟਰ ਪਾਸਵਰਡ ਚਾਲੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਟੂਲ - ਚੋਣਾਂ - %PRODUCTNAME- ਸੁਰੱਖਿਆ ਵੇਖੋ।
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField b2 ਮੀਡਿਆਵਿਕਿ ਸਰਵਰ ਉੱਤੇ ਆਪਣਾ ਪਾਸਵਰਡ ਦਿਓ। ਅਗਿਆਤ (anonymous) ਵਰਤੋਂ ਲਈ ਖਾਲੀ ਛੱਡੋ।
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField b9 ਮੀਡਿਆਵਿਕਿ ਸਰਵਰ ਉੱਤੇ ਆਪਣਾ ਯੂਜ਼ਰ ਨਾਂ ਦਿਓ। ਅਗਿਆਤ (anonymous) ਵਰਤੋਂ ਲਈ ਖਾਲੀ ਛੱਡੋ।
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 73 ਮੀਡਿਆ-ਵਿਕਿ ਸਰਵਰ ਲਈ http:// ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦਾ URL ਦਿਓ।
+1c vnd.com.sun.star.wiki%3Asend 11c Choose ਫਾਇਲ - ਭੇਜੋ- ਮੀਡਿਆ-ਵਿਕਿ ਉੱਤੇ ਭੇਜੋ ਦੀ ਚੋਣ ਮੌਜੂਦਾ ਰਾਇਟਰ ਡੌਕੂਮੈਂਟ ਨੂੰ ਮੀਡਿਆ-ਵਿਕਿ ਸਰਵਰ ਉੱਤੇ ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਚੁਣੋ।
+20 vnd.com.sun.star.wiki%3Aaboutbox 1ca ਤੁਸੀ ਮੌਜੁਦਾ ਲਿੱਖਣ ਵਾਲਾ ਟੈਕਸਟ ਦਸਤਾਬੇਜ਼ ਵਿੱਕੀ ਪਬਲਿਸਰ ਦੀ ਵਰਤੋ ਨਾਲ ਮੀਡਿਆ ਵਿੱਕੀ ਸਰਵਰ ਤੇ ਅੱਪਲੌਡ ਕਰ ਸਕਦੇ ਹੋ। ਅੱਪਲੌਡ ਕਰਨ ਤੋ ਬਾਅਦ ਸਾਰੇ ਵਿੱਕੀ ਯੂਜ਼ਰ ਤੁਹਾਡੇ ਦਸਤਾਵੇਜ ਵਿੱਕੀ ਤੋ ਪੱੜ ਸਕਦੇ ਜਨ।
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 5f ਲਿਸਟ ਵਿਚੋਂ ਚੁਣੀਆਂ ਐਂਟਰੀਆਂ ਨੂੰ ਹਟਾਓ।
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 129 ਨਵਾ ਵਿੱਕੀ ਸਰਵਰ ਜੋੜਨ ਲਈ ਦਬਾਉ।Select an entry and click Edit to edit the account settings.ਇਕ ਐਂਟਰੀ  ਚੁਣੋ ਅਤੇ ਲਿਸਟ ਵਿੱਚੋ ਹਟਾਉਣ ਲਈ ਹਟਾਉਣ ਵਾਲੇ ਬਟਨ ਨੂੰ ਦਬਾਉ।
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 75 ਚੁਣੀ ਐਂਟਰੀ ਸੋਧਣ ਲਈ ਮੀਡਿਆਵਿਕਿ ਡਾਈਲਾਗ ਖੋਲ੍ਹੋ।
+20 vnd.com.sun.star.wiki%3Asettings 129 ਨਵਾ ਵਿੱਕੀ ਸਰਵਰ ਜੋੜਨ ਲਈ ਦਬਾਉ।Select an entry and click Edit to edit the account settings.ਇਕ ਐਂਟਰੀ  ਚੁਣੋ ਅਤੇ ਲਿਸਟ ਵਿੱਚੋ ਹਟਾਉਣ ਲਈ ਹਟਾਉਣ ਵਾਲੇ ਬਟਨ ਨੂੰ ਦਬਾਉ।
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 92 ਲਿਸਟ 'ਚ ਨਵੀਂ ਐਂਟਰੀ ਜੋੜਨ ਲਈ  ਮੀਡਿਆਵਿਕਿ ਡਾਈਲਾਗ ਖੋਲ੍ਹਦਾ ਹੈ।

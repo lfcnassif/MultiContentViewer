@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">Po</e>
+ <e g="label7" i="label">Separator</e>
+ <e g="label5" i="label">Styl znaku</e>
+ <e g="label3" i="label">Styl akapitu</e>
+ <e g="label2" i="label">Numeracja</e>
+ <e g="label8" i="label">Przed</e>
+ <e g="label4" i="label">Liczba</e>
+ <e g="label10" i="label">Zacznij od</e>
+ <e g="label1" i="label">Poziom</e>
+ <e g="sublevelsft" i="label">Pokaż podpoziomy</e>
+</t>

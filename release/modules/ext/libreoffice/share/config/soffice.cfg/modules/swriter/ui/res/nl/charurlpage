@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">Tekst</e>
+ <e g="label33" i="label">Tekenopmaakprofielen</e>
+ <e g="label34" i="label">Bezochte koppelingen</e>
+ <e g="label32" i="label">Hyperlink</e>
+ <e g="urlpb" i="label">Bladeren...</e>
+ <e g="eventpb" i="label">Gebeurtenissen...</e>
+ <e g="label39" i="label">Doelframe</e>
+ <e g="label10" i="label">Niet-bezochte koppelingen</e>
+ <e g="label37" i="label">Naam</e>
+ <e g="label36" i="label">URL</e>
+</t>

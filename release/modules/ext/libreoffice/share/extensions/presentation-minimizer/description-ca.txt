@@ -1,0 +1,2 @@
+El Minimitzador de presentacions s'utilitza per a reduïr la mida de la presentació actual. Les imatges es comprimiran, i les dades que ja no es necessiten, s'eliminaran.
+El Minimitzador de presentacions pot optimitzar la qualitat i la mida de les imatges. Les presentacions que estan dissenyades per mostar-se a un pantalla o projector no requereixen la mateixa qualitat que les presentacions que estan dissenyades per a la impremta.

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">Tekens:</e>
+ <e g="fontft" i="label">Lettertype</e>
+ <e g="SpecialCharactersDialog" i="title">Speciale tekens</e>
+ <e g="subsetft" i="label">Deelverzameling</e>
+</t>

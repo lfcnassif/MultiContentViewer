@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">候補</e>
+ <e g="alternatives" i="label">ラベル</e>
+ <e g="replace" i="label">置換</e>
+ <e g="ThesaurusDialog" i="title">類義語辞典</e>
+ <e g="label1" i="label">この単語</e>
+ <e g="label3" i="label">置換候補</e>
+</t>

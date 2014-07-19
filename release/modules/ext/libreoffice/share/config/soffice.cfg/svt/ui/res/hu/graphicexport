@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 a maximális minőség és legnagyobb fájlméret</e>
+ <e g="liststore2" i="3">pont</e>
+ <e g="level2rb" i="label">2. szint</e>
+ <e g="label17" i="label">Előnézet</e>
+ <e g="label2" i="label">Színmélység</e>
+ <e g="label10" i="label">1 a minimális minőség és legkisebb fájlméret</e>
+ <e g="label16" i="label">Kódolás</e>
+ <e g="label22" i="label">0 a legnagyobb fájlméret és a leggyorsabb betöltés</e>
+ <e g="label" i="label">Tömörítés</e>
+ <e g="label1" i="label">Méret</e>
+ <e g="compressnone" i="label">Semmi</e>
+ <e g="resolutionft" i="label">Felbontás</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Magasság</e>
+ <e g="liststore1" i="0">képpont/cm</e>
+ <e g="label20" i="label">Tömörítés</e>
+ <e g="liststore1" i="2">képpont/méter</e>
+ <e g="binarycb" i="label">Bináris</e>
+ <e g="GraphicExportDialog" i="title"> Beállítások</e>
+ <e g="textcb" i="label">Szöveg</e>
+ <e g="color1rb" i="label">Szín</e>
+ <e g="liststore2" i="4">képpont</e>
+ <e g="epsipreviewcb" i="label">Adatcsere (EPSI)</e>
+ <e g="label5" i="label">Szélesség</e>
+ <e g="color2rb" i="label">Szürkeárnyalatos</e>
+ <e g="label19" i="label">Verzió</e>
+ <e g="label4" i="label">Információ</e>
+ <e g="rlecb" i="label">RLE-kódolás</e>
+ <e g="labe" i="label">Rajzobjektumok</e>
+ <e g="liststore2" i="0">hüvelyk</e>
+ <e g="label12" i="label">Mód</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">LZW-kódolás</e>
+ <e g="label3" i="label">Tömörítés</e>
+ <e g="tiffpreviewcb" i="label">Előnézeti kép (TIFF)</e>
+ <e g="savetransparencycb" i="label">Átlátszóság mentése</e>
+ <e g="level1rb" i="label">1. szint</e>
+ <e g="liststore1" i="1">képpont/hüvelyk</e>
+ <e g="label23" i="label">9 a legkisebb fájlméret és a leglassabb betöltés</e>
+ <e g="label18" i="label">Színformátum</e>
+ <e g="interlacedcb" i="label">Váltottsoros</e>
+ <e g="label9" i="label">Minőség</e>
+</t>

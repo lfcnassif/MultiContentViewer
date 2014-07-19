@@ -1,0 +1,1 @@
+Cu Report Builder, puteți crea rapoarte stilizate, frumoase din bazele de date existente. În editorul flexibil de rapoarte se pot edita atât antetele cât și subsolurile pagini și a grupurilor. Sunt disponibili și câmpuri de calcul, pentru a crea raporturi sofisticate de pe bazele de date.

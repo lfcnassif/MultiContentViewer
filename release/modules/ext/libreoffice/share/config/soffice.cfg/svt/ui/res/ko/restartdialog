@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">For the selected Java runtime environment to work properly, %PRODUCTNAME must be restarted.</e>
+ <e g="yes" i="label">Restart now</e>
+ <e g="RestartDialog" i="title">Restart %PRODUCTNAME</e>
+ <e g="label" i="label">Do you want to restart %PRODUCTNAME now?</e>
+ <e g="no" i="label">Restart later</e>
+ <e g="reason_pdf" i="label">For the modified default print job format to take effect, %PRODUCTNAME must be restarted.</e>
+ <e g="reason_bibliography_install" i="label">For the bibliography to work properly, %PRODUCTNAME must be restarted.</e>
+</t>

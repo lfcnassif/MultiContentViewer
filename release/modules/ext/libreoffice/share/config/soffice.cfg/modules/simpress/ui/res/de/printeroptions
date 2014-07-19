@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Größe</e>
+ <e g="grayscale" i="label">Graustufen</e>
+ <e g="tilesheet" i="label">Druckseite mit wiederholten Folien füllen</e>
+ <e g="fittoprintable" i="label">In druckbaren Bereich einpassen</e>
+ <e g="printname" i="label">Folienname</e>
+ <e g="printhidden" i="label">Ausgeblendete Folien</e>
+ <e g="originalcolors" i="label">Originalgröße</e>
+ <e g="blackandwhite" i="label">Schwarzweiß</e>
+ <e g="distributeonmultiple" i="label">Auf mehrere Druckseiten verteilen</e>
+ <e g="printdatetime" i="label">Datum und Uhrzeit</e>
+ <e g="label4" i="label">Inhalt</e>
+ <e g="label5" i="label">Farbe</e>
+ <e g="originalsize" i="label">Originalgröße</e>
+</t>

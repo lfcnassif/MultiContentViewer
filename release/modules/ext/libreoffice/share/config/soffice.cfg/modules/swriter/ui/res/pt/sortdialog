@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">Tabulações</e>
+ <e g="columns" i="label">Colunas</e>
+ <e g="label3" i="label">Orientação</e>
+ <e g="up2" i="label">Ascendente</e>
+ <e g="1" i="label">Critérios de ordenação</e>
+ <e g="column" i="label">Coluna</e>
+ <e g="key3" i="label">Chave 3</e>
+ <e g="character" i="label">Carácter</e>
+ <e g="down2" i="label">Descendente</e>
+ <e g="matchcase" i="label">Diferenciar maiúsculas e minúsculas</e>
+ <e g="label2" i="label">Definição</e>
+ <e g="up1" i="label">Ascendente</e>
+ <e g="key2" i="label">Chave 2</e>
+ <e g="down1" i="label">Descendente</e>
+ <e g="rows" i="label">Linhas</e>
+ <e g="label4" i="label">Separador</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">Tipo de chave</e>
+ <e g="up3" i="label">Ascendente</e>
+ <e g="label1" i="label">Idioma</e>
+ <e g="key1" i="label">Chave 1</e>
+ <e g="SortDialog" i="title">Ordenar</e>
+ <e g="order" i="label">Ordem</e>
+ <e g="down3" i="label">Descendente</e>
+</t>

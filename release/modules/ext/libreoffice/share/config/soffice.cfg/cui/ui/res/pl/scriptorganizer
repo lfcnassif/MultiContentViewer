@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="create" i="label">Utwórz...</e>
+ <e g="macrosft" i="label">Makra</e>
+ <e g="delete" i="label">Usuń...</e>
+ <e g="rename" i="label">Zmień nazwę...</e>
+ <e g="run" i="label">Uruchom</e>
+ <e g="ScriptOrganizerDialog" i="title">Makra %MACROLANG</e>
+</t>

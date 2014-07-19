@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Alternativas</e>
+ <e g="alternatives" i="label">rótulo</e>
+ <e g="replace" i="label">Substituir</e>
+ <e g="ThesaurusDialog" i="title">Dicionário de sinônimos</e>
+ <e g="label1" i="label">Palavra atual</e>
+ <e g="label3" i="label">Substituir por</e>
+</t>

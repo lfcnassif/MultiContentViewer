@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Kopieer dan het adres uit het adresbalk van uw webbrowser en plak het in het onderstaand invoerveld.</e>
+ <e g="label1" i="label">Bezoek eerst Firefox Personas (http://www.getpersonas.com). Vind een Persona die u leuk vindt en wilt kiezen voor LibreOffice.</e>
+ <e g="label3" i="label">Persona adres:</e>
+ <e g="visit_personas" i="label">Bezoek Firefox Personas</e>
+</t>

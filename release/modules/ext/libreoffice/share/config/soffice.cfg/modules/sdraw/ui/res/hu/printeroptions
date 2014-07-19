@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Méret</e>
+ <e g="grayscale" i="label">Szürkeárnyalatos</e>
+ <e g="tilesheet" i="label">Oldalak mozaikelrendezése a papírlapon</e>
+ <e g="fittoprintable" i="label">Igazítás az oldal méretéhez</e>
+ <e g="printname" i="label">Oldalnév</e>
+ <e g="originalcolors" i="label">Eredeti méret</e>
+ <e g="blackandwhite" i="label">Fekete-fehér</e>
+ <e g="printdatetime" i="label">Dátum és idő</e>
+ <e g="label4" i="label">Tartalom</e>
+ <e g="distributeonmultiple" i="label">Elosztás több papírlapra</e>
+ <e g="label5" i="label">Szín</e>
+ <e g="originalsize" i="label">Eredeti méret</e>
+</t>

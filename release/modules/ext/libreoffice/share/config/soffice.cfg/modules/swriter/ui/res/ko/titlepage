@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Title Page</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">새 제목 페이지 삽입</e>
+ <e g="label3" i="label">페이지 속성 편집</e>
+ <e g="label2" i="label">페이지 번호 붙이기</e>
+ <e g="label1" i="label">제목 페이지 만들기</e>
+ <e g="label8" i="label">페이지</e>
+ <e g="label6" i="label">제목 페이지 수</e>
+ <e g="label7" i="label">다음 위치에 제목 페이지 놓기</e>
+ <e g="CB_RESTART_NUMBERING" i="label">제목 페이지 이후에 페이지 번호 초기화</e>
+ <e g="FT_PAGE_PAGES" i="label">Page number</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Converting existing pages to title pages</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">첫 번째 제목 페이지에 대한 페이지 번호 설정</e>
+ <e g="RB_DOCUMENT_START" i="label">문서 시작</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">편집...</e>
+ <e g="RB_PAGE_START" i="label">Page</e>
+ <e g="FT_PAGE_COUNT" i="label">Page number</e>
+</t>

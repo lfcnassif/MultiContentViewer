@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automático</e>
+ <e g="optimal" i="label">Óptimo</e>
+ <e g="columns" i="label">Columnas</e>
+ <e g="bookmode" i="label">Modo libro</e>
+ <e g="fitw" i="label">Ajustar a anchura</e>
+ <e g="label1" i="label">Vista de diseño</e>
+ <e g="variable" i="label">Variable</e>
+ <e g="label2" i="label">Factor de escala</e>
+ <e g="singlepage" i="label">Página sencilla</e>
+ <e g="ZoomDialog" i="title">Diseño de vista y escala</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">Ajustar anchura y altura</e>
+</t>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Entrada</e>
+ <e g="label3" i="label">Título</e>
+ <e g="label5" i="label">Abreviatura</e>
+ <e g="fromdocument" i="label">Del contenido del documento</e>
+ <e g="label2" i="label">Autor</e>
+ <e g="insert" i="label">Insertar</e>
+ <e g="frombibliography" i="label">De la base de datos bibliográfica</e>
+ <e g="modify" i="label">Modificar</e>
+ <e g="BibliographyEntryDialog" i="title">Insertar entrada de bibliografía</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">每个文档</e>
+ <e g="pos" i="label">位置</e>
+ <e g="label3" i="label">自动编号</e>
+ <e g="label18" i="label">下页开头</e>
+ <e g="label17" i="label">脚注结束</e>
+ <e g="pagestyleft" i="label">页</e>
+ <e g="label6" i="label">编号</e>
+ <e g="label16" i="label">脚注区域</e>
+ <e g="label13" i="label">字符样式</e>
+ <e g="pospagecb" i="label">页尾</e>
+ <e g="label8" i="label">之前</e>
+ <e g="label5" i="label">接续注明</e>
+ <e g="label15" i="label">文字区域</e>
+ <e g="label12" i="label">样式</e>
+ <e g="label7" i="label">计数</e>
+ <e g="label4" i="label">段落</e>
+ <e g="posdoccb" i="label">文档末尾</e>
+ <e g="liststore1" i="0">每页</e>
+ <e g="label11" i="label">之后</e>
+ <e g="offset" i="label">开始于</e>
+ <e g="liststore1" i="1">每章</e>
+</t>

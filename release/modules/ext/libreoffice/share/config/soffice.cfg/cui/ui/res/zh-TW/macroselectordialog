@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">選取包含所要之巨集的程式庫。然後於 [巨集名稱] 之下選取巨集。</e>
+ <e g="categoryft" i="label">分類</e>
+ <e g="helptoolbar" i="label">若要將指令加入工具列，請先選取分類再選取指令。然後將指令拖曳至 [自訂] 對話方塊中 [工具列] 標籤頁的 [指令] 清單。</e>
+ <e g="add" i="label">加入</e>
+ <e g="label1" i="label">描述說明</e>
+ <e g="MacroSelectorDialog" i="title">巨集選擇器</e>
+ <e g="macronameft" i="label">巨集名稱</e>
+ <e g="commandsft" i="label">指令</e>
+ <e g="libraryft" i="label">函式庫</e>
+</t>

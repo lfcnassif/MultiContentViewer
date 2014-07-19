@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">Выберите библиотеку, которая содержит нужный макрос. Затем выберите макрос в поле «Имя макроса».</e>
+ <e g="categoryft" i="label">Категория</e>
+ <e g="helptoolbar" i="label">Чтобы добавить команду на панель инструментов, выберите категорию, а затем команду. После этого перетащите команду на нужное место на соответствующей панели инструментов.</e>
+ <e g="add" i="label">Добавить</e>
+ <e g="label1" i="label">Описание</e>
+ <e g="MacroSelectorDialog" i="title">Выбор макроса</e>
+ <e g="macronameft" i="label">Имя макроса</e>
+ <e g="commandsft" i="label">Команды</e>
+ <e g="libraryft" i="label">Библиотека</e>
+</t>

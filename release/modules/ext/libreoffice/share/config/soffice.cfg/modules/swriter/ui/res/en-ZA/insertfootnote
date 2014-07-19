@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Numbering</e>
+ <e g="character" i="label">Character</e>
+ <e g="label2" i="label">Type</e>
+ <e g="InsertFootnoteDialog" i="title">Insert Footnote/Endnote</e>
+ <e g="endnote" i="label">Endnote</e>
+ <e g="choosecharacter" i="label">Choose ...</e>
+ <e g="automatic" i="label">Automatic</e>
+ <e g="footnote" i="label">Footnote</e>
+</t>

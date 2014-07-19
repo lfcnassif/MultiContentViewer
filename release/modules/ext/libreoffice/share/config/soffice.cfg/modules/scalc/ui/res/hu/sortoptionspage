@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">A rendezés eredményét ide másolja:</e>
+ <e g="label6" i="label">Nyelv</e>
+ <e g="algorithmft" i="label">Beállítások</e>
+ <e g="naturalsort" i="label">Természetes rendezési sorrend</e>
+ <e g="sortuser" i="label">Egyéni rendezési sorrend</e>
+ <e g="header" i="label">Tartomány tartalmazza...</e>
+ <e g="topdown" i="label">_Felülről lefelé (sorok rendezése)</e>
+ <e g="case" i="label">Kis- és _nagybetű</e>
+ <e g="formats" i="label">Formátummal együtt</e>
+ <e g="leftright" i="label">_Balról jobbra (oszlopok rendezése)</e>
+ <e g="label1" i="label">Irány</e>
+</t>

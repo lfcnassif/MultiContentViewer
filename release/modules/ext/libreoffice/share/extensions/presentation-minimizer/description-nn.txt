@@ -1,0 +1,2 @@
+Presentasjonskrymparen blir brukt for å redusere filstorleiken på den gjeldande presentasjonen. Bilete blir komprimerte og unødvendige data blir fjerna.
+Presentasjonskrymparen kan optimalisere bilete med tanke på storleik og kvalitet. Presentasjonar laga for skjerm eller dataprojektor krev ikkje same høge kvalitet som presentasjonar som skal skrivast ut.

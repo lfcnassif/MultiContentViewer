@@ -1,0 +1,2 @@
+Umanjivač prezentacije se koristi da smanjite veličinu datoteke sa prezentacijom. Slike će biti  kompresovane, a podaci koji više nisu potrebni će biti uklonjeni.
+Umanjivač prezentacije može da optimizuje veličinu slika. Prezentacije napravljene za prikaz na ekranu ili projektoru ne zahtevaju visok kvalitet kao prezentacije koje će biti odštampane.

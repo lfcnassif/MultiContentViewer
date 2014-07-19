@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">对齐</e>
+ <e g="fontcb" i="label">字体</e>
+ <e g="label2" i="label">格式化</e>
+ <e g="bordercb" i="label">边框</e>
+ <e g="AutoFormatTableDialog" i="title">自动格式</e>
+ <e g="patterncb" i="label">图案</e>
+ <e g="numformatcb" i="label">数字格式</e>
+ <e g="rename" i="label">重命名</e>
+ <e g="label1" i="label">格式</e>
+</t>

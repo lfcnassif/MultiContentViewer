@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Predefinita</e>
+ <e g="heightlabel" i="label">Altezza</e>
+ <e g="label2" i="label">Bordo</e>
+ <e g="scrollbarauto" i="label">Automatico</e>
+ <e g="label1" i="label">Barra di scorrimento</e>
+ <e g="label7" i="label">Contenuto</e>
+ <e g="borderon" i="label">On</e>
+ <e g="InsertFloatingFrameDialog" i="title">Proprietà cornice</e>
+ <e g="buttonbrowse" i="label">Sfoglia...</e>
+ <e g="label6" i="label">Nome</e>
+ <e g="widthlabel" i="label">Larghezza</e>
+ <e g="scrollbaroff" i="label">Off</e>
+ <e g="scrollbaron" i="label">On</e>
+ <e g="defaultheight" i="label">Predefinita</e>
+ <e g="borderoff" i="label">Off</e>
+ <e g="label3" i="label">Distanza dal contenuto</e>
+</t>

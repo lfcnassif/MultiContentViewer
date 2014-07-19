@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Estilo</e>
+ <e g="linerb" i="label">Quebra de linha</e>
+ <e g="label1" i="label">Tipo</e>
+ <e g="liststore1" i="0">[Nenhum]</e>
+ <e g="pagenumcb" i="label">Alterar número da página</e>
+ <e g="pagerb" i="label">Quebra de página</e>
+ <e g="BreakDialog" i="title">Inserir quebra</e>
+ <e g="columnrb" i="label">Quebra de coluna</e>
+</t>

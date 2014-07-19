@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">Separa tabella</e>
+ <e g="noheading" i="label">Senza intestazione</e>
+ <e g="copyheading" i="label">Copia intestazione</e>
+ <e g="customheading" i="label">Intestazione personalizzata</e>
+ <e g="label1" i="label">Modo</e>
+ <e g="customheadingapplystyle" i="label">Intestazione personalizzata (applica lo stile)</e>
+</t>

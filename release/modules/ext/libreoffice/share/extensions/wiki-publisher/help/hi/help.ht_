@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 12b समान शीर्षक के साथ किसी मौजूदा पृष्ठ के गौण संपादन के रूप में अपलोडेड पृष्ठ चिह्नित करने के लिए इस बाक्स को जाँचें.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 82 वैकल्पिक संक्षिप्त सारांश या टिप्पणी दाखिल करें.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 271 अपनी विकी प्रविष्टि का शीर्षक दाखिल करें. यह आपकी विकी प्रविष्टि का ऊपरी शीर्षक है. नई प्रविष्टि के लिए, शीर्षक को इस विकी पर जरूर अद्वितीय होना चाहिए. यदि आप अपनी मौजूदा फ़ाइल दाखिल करते हैं आपका अपलोड मौजूदा विकी प्रविष्टि के ऊपर लिख देगा.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 149 मीडियाविकी सर्वर को चुनें जहाँ आप अपना दस्तावेज़ प्रकाशित करना चाहते हैं. सूची में नया सर्वर जोड़ने के लिए जोड़ें क्लिक करें.
+22 vnd.com.sun.star.wiki%3AsendDialog 149 मीडियाविकी सर्वर को चुनें जहाँ आप अपना दस्तावेज़ प्रकाशित करना चाहते हैं. सूची में नया सर्वर जोड़ने के लिए जोड़ें क्लिक करें.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck f5 अपने तंत्र के वेब ब्राउजर को खोलने के लिए इस बाक्स को जाँचें और अपलोड किए विकी पृष्ठ को दिखाएँ.
+1f vnd.com.sun.star.wiki%3Aaccount 80 मीडियाविकी सर्वर का URL दाखिल करें, http:// से शुरू होकर
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 15a सत्र के मध्य अपने कूटशब्द जमा करने के लिए सक्रिय करें. मुख्य कूटशब्द जरूर सक्रिय किया जाना चाहिए, देखें औज़ार - विकल्प - %PRODUCTNAME - सुरक्षा.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField cb मीडियाविकी सर्वर पर अपना कूटशब्द दाखिल करें. बेनामी पहुँच के लिए खाली छोड़ें.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField d8 मीडियाविकी सर्वर पर अपना उपयोक्ता नाम दाखिल करें. बेनामी पहुँच के लिए खाली छोड़ें.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 80 मीडियाविकी सर्वर का URL दाखिल करें, http:// से शुरू होकर
+1c vnd.com.sun.star.wiki%3Asend ff चुनें फ़ाइल - भेजें - MediaWiki में मौजूदा राइटर दस्तावेज़ को किसी मीडियाविकी सर्वर पर अपलोड करने के लिए.
+20 vnd.com.sun.star.wiki%3Aaboutbox 1a4 Wiki Publisher के प्रयोग से आप अपने मौजूदा लेखक पाठ दस्तावेज़ को MediaWiki सर्वर में अपलोड कर सकते हैं. अपलोडिंग के बाद, सभी विकी उपयोक्ता विकी पर आपके दस्तावेज़ को पढ़ सकते हैं.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 5b सूची से चुनी गई प्रविष्टि हटाता है.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 1fc नया विकी सर्वर जोड़ने के लिए जोड़े क्लिक करें.एक प्रविष्टि चुनें और खाता सेटिंग संपादित करने के लिए संपादन पर क्लिक करें.एक प्रविष्टि चुनें और सूची से प्रविष्टि हटाने के लिए हटाएँ को क्लिक करें.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton bd सूची में चयनित प्रविष्टि संपादित करने के लिए मीडियाविकी संवाद खोलता है.
+20 vnd.com.sun.star.wiki%3Asettings 1fc नया विकी सर्वर जोड़ने के लिए जोड़े क्लिक करें.एक प्रविष्टि चुनें और खाता सेटिंग संपादित करने के लिए संपादन पर क्लिक करें.एक प्रविष्टि चुनें और सूची से प्रविष्टि हटाने के लिए हटाएँ को क्लिक करें.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton a7 सूची में नया प्रविष्टि जोड़ने के लिए मीडियाविकी संवाद खोलता है.

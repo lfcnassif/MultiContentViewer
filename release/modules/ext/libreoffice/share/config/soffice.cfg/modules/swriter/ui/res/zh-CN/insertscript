@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="text" i="label">文本</e>
+ <e g="InsertScriptDialog" i="title">插入脚本</e>
+ <e g="scripttype" i="text">JavaScript</e>
+ <e g="label1" i="label">脚本类型</e>
+ <e g="url" i="label">URL</e>
+ <e g="browse" i="label">浏览 ...</e>
+</t>

@@ -1,0 +1,1 @@
+A Jelentéstervezővel stílusos, jól kinéző adatbázis-jelentéseket hozhat létre. A rugalmas jelentésszerkesztőben definiálhatók a csoport- és oldalfejlécek, valamint -láblécek. Számolómezők is rendelkezésre állnak összetett adatbázis-jelentések készítéséhez.

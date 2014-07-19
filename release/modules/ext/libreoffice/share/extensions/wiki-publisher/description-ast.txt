@@ -1,0 +1,1 @@
+L'editor Wiki permite crear artículos Wiki nos sirvidores de MediaWiki, ensin tener que conocer la sintaxis del llinguaxe de marcáu de MediaWiki. Espubliza los documentos nuevos y esistentes de forma tresparente col escritor a una páxina wiki.

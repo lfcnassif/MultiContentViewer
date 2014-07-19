@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">더 많은 확장 가져오기...</e>
+ <e g="ExtensionManagerDialog" i="title">확장 관리자</e>
+ <e g="label1" i="label">확장 타입</e>
+ <e g="user" i="label">사용자</e>
+ <e g="update" i="label">업데이트 확인(~U)...</e>
+ <e g="shared" i="label">공유(~S)</e>
+ <e g="add" i="label">추가...</e>
+ <e g="progressft" i="label">%EXTENSION_NAME 추가 중</e>
+ <e g="bundled" i="label">설치(~I)</e>
+</t>

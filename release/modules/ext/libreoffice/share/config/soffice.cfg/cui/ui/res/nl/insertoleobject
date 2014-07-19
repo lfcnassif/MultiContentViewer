@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Bestand</e>
+ <e g="linktofile" i="label">Koppelen aan bestand</e>
+ <e g="InsertOLEObjectDialog" i="title">OLE-object invoegen</e>
+ <e g="label1" i="label">Objecttype</e>
+ <e g="createfromfile" i="label">Uit bestand aanmaken</e>
+ <e g="urlbtn" i="label">Zoeken…</e>
+ <e g="createnew" i="label">Nieuwe aanmaken</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">Por documento</e>
+ <e g="pos" i="label">Posição</e>
+ <e g="label3" i="label">Autonumeração</e>
+ <e g="label18" i="label">Início da próxima página</e>
+ <e g="label17" i="label">Final da nota do rodapé</e>
+ <e g="pagestyleft" i="label">Página</e>
+ <e g="label6" i="label">Numeração</e>
+ <e g="label16" i="label">Área da nota de rodapé</e>
+ <e g="label13" i="label">Estilos de caractere</e>
+ <e g="pospagecb" i="label">Fim de página</e>
+ <e g="label8" i="label">Antes</e>
+ <e g="label5" i="label">Aviso de continuação</e>
+ <e g="label15" i="label">Área de texto</e>
+ <e g="label12" i="label">Estilos</e>
+ <e g="label7" i="label">Contagem</e>
+ <e g="label4" i="label">Parágrafo</e>
+ <e g="posdoccb" i="label">Fim do documento</e>
+ <e g="liststore1" i="0">Por página</e>
+ <e g="label11" i="label">Depois</e>
+ <e g="offset" i="label">Iniciar em</e>
+ <e g="liststore1" i="1">Por capítulo</e>
+</t>

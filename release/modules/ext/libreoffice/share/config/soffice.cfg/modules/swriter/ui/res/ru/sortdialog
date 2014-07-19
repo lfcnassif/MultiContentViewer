@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">Табуляция</e>
+ <e g="columns" i="label">Столбцы</e>
+ <e g="label3" i="label">Направление</e>
+ <e g="up2" i="label">По возрастанию</e>
+ <e g="1" i="label">Порядок сортировки</e>
+ <e g="column" i="label">Столбец</e>
+ <e g="key3" i="label">Ключ ~3</e>
+ <e g="character" i="label">Символ</e>
+ <e g="down2" i="label">По убыванию</e>
+ <e g="matchcase" i="label">Учитывать регистр</e>
+ <e g="label2" i="label">Настройка</e>
+ <e g="up1" i="label">По возрастанию</e>
+ <e g="key2" i="label">Ключ ~2</e>
+ <e g="down1" i="label">По убыванию</e>
+ <e g="rows" i="label">Строки</e>
+ <e g="label4" i="label">Разделитель</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">Тип ключа</e>
+ <e g="up3" i="label">По возрастанию</e>
+ <e g="label1" i="label">Язык</e>
+ <e g="key1" i="label">Ключ ~1</e>
+ <e g="SortDialog" i="title">Сортировка</e>
+ <e g="order" i="label">Порядок</e>
+ <e g="down3" i="label">По убыванию</e>
+</t>

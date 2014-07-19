@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">Igazítás</e>
+ <e g="fontcb" i="label">Betűkészlet</e>
+ <e g="label2" i="label">Formázás</e>
+ <e g="bordercb" i="label">Szegélyek</e>
+ <e g="AutoFormatTableDialog" i="title">Automatikus formázás</e>
+ <e g="patterncb" i="label">Mintázat</e>
+ <e g="numformatcb" i="label">Számformátum</e>
+ <e g="rename" i="label">Átnevezés</e>
+ <e g="label1" i="label">Formátum</e>
+</t>

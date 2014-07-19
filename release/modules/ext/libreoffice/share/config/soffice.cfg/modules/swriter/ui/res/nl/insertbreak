@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Opmaakprofiel</e>
+ <e g="linerb" i="label">Regeleinde</e>
+ <e g="label1" i="label">Type</e>
+ <e g="liststore1" i="0">[Geen]</e>
+ <e g="pagenumcb" i="label">Paginanummer wijzigen</e>
+ <e g="pagerb" i="label">Pagina-einde</e>
+ <e g="BreakDialog" i="title">Einde invoegen</e>
+ <e g="columnrb" i="label">Kolomeinde</e>
+</t>

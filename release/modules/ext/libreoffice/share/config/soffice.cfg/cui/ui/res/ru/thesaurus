@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Варианты</e>
+ <e g="alternatives" i="label">надпись</e>
+ <e g="replace" i="label">Заменить</e>
+ <e g="ThesaurusDialog" i="title">Тезаурус</e>
+ <e g="label1" i="label">Текущее слово:</e>
+ <e g="label3" i="label">Заменить на</e>
+</t>

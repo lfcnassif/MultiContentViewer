@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">Pierwszy klucz</e>
+ <e g="typeft" i="label">Indeks</e>
+ <e g="phonetic1ft" i="label">Czytanie fonetyczne</e>
+ <e g="searchcasewordonlycb" i="label">Tylko całe wyrazy</e>
+ <e g="levelft" i="label">Poziom</e>
+ <e g="new" i="tooltip_text">Nowy indeks użytkownika</e>
+ <e g="IndexEntryDialog" i="title">Wstaw wpis indeksu</e>
+ <e g="mainentrycb" i="label">Wpis główny</e>
+ <e g="phonetic0ft" i="label">Czytanie fonetyczne</e>
+ <e g="searchcasesensitivecb" i="label">Uwzględniaj wielkość liter</e>
+ <e g="key2ft" i="label">Drugi klucz</e>
+ <e g="label1" i="label">Zaznaczenie</e>
+ <e g="applytoallcb" i="label">Zastosuj do wszystkich podobnych tekstów</e>
+ <e g="insert" i="label">Wstaw</e>
+ <e g="phonetic2ft" i="label">Czytanie fonetyczne</e>
+ <e g="label3" i="label">Wpis</e>
+</t>

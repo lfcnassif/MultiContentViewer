@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">원하는 매크로를 포함하는 라이브러리를 선택합니다. 그런 다음 [매크로 이름] 아래에서 매크로를 선택합니다.</e>
+ <e g="categoryft" i="label">범주</e>
+ <e g="helptoolbar" i="label">도구 모음에 명령을 추가하려면 범주를 선택한 다음 명령을 선택합니다. 그런 다음 [사용자 정의] 대화 상자의 [도구 모음] 탭 페이지에 있는 [명령] 목록으로 명령을 끕니다.</e>
+ <e g="add" i="label">Add</e>
+ <e g="label1" i="label">설명</e>
+ <e g="MacroSelectorDialog" i="title">매크로 선택기</e>
+ <e g="macronameft" i="label">매크로 이름</e>
+ <e g="commandsft" i="label">명령</e>
+ <e g="libraryft" i="label">라이브러리</e>
+</t>

@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 8b Centang kotak ini untuk menandai halaman yang dikirim sebagai hasil suntingan minor terhadap halaman yang telah ada dengan judul yang sama.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 3a Masukkan deskripsi singkat atau komentar apabila diingini.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText ea Masukkan judul dari entri Wiki Anda. Ini adalah tajuk utama dari entri Wiki Anda. Untuk entri baru, judul harus unik pada Wiki. Jika Anda memasukkan judul yang sudah ada, dokumen yang Anda kirim akan menimpa entri Wiki yang sudah ada.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 80 Pilih server MediaWiki di mana Anda hendak mempublikasikan dokumen Anda. Pilih Tambah untuk menambahkan server baru pada daftar.
+22 vnd.com.sun.star.wiki%3AsendDialog 80 Pilih server MediaWiki di mana Anda hendak mempublikasikan dokumen Anda. Pilih Tambah untuk menambahkan server baru pada daftar.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 6a Centang kotak ini untuk membuka penelusur web di sistem Anda untuk menampilkan halaman Wiki yang diunggah.
+1f vnd.com.sun.star.wiki%3Aaccount 35 Masukkan URL server MediaWiki, dimulai dengan http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 7d Aktifkan untuk menyimpan sandi Anda antarsesi. Sandi utama harus diaktifkan, lihat Perkakas - Opsi - %PRODUCTNAME - Keamanan.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 4d Masukkan sandi Anda pada server MediaWiki. Biarkan kosong untuk akses anonim.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 55 Masukkan nama pengguna Anda pada server MediaWiki. Biarkan kosong untuk akses anonim.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 35 Masukkan URL server MediaWiki, dimulai dengan http://
+1c vnd.com.sun.star.wiki%3Asend 5b Pilih Berkas - Kirim - Ke MediaWiki untuk mengirim dokumen Writer Anda ke server MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox a2 Dengan menggunakan Wiki Publisher Anda dapat mengirim dokumen teks Writer Anda ke server MediaWiki, sehingga seluruh pengguna Wiki dapat membaca dokumen tersebut.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 29 Menghapus entri yang dipilih dari daftar.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList a8 Klik Tambah untuk menambahkan server Wiki baru.Pilih entri dan klik Sunting untuk mengubah pengaturan akun.Pilih entri dan klik Hapus untuk menghapus entri dari daftar.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3d Membuka dialog MediaWiki untuk menyunting entri yang dipilih.
+20 vnd.com.sun.star.wiki%3Asettings a8 Klik Tambah untuk menambahkan server Wiki baru.Pilih entri dan klik Sunting untuk mengubah pengaturan akun.Pilih entri dan klik Hapus untuk menghapus entri dari daftar.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 3f Membuka dialog MediaWiki untuk menambah entri baru pada daftar.

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">Tabs</e>
+ <e g="columns" i="label">Kolommen</e>
+ <e g="label3" i="label">Richting</e>
+ <e g="up2" i="label">Oplopend</e>
+ <e g="1" i="label">Sorteercriteria</e>
+ <e g="column" i="label">Kolom</e>
+ <e g="key3" i="label">Sleutel 3</e>
+ <e g="character" i="label">Teken</e>
+ <e g="down2" i="label">Aflopend</e>
+ <e g="matchcase" i="label">Hoofdletters/kleine letters respecteren</e>
+ <e g="label2" i="label">Hoofd-/kleine letters</e>
+ <e g="up1" i="label">Oplopend</e>
+ <e g="key2" i="label">Sleutel 2</e>
+ <e g="down1" i="label">Aflopend</e>
+ <e g="rows" i="label">Rijen</e>
+ <e g="label4" i="label">Scheidingsteken</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">Sleuteltype</e>
+ <e g="up3" i="label">Oplopend</e>
+ <e g="label1" i="label">Taal</e>
+ <e g="key1" i="label">Sleutel 1</e>
+ <e g="SortDialog" i="title">Sorteren</e>
+ <e g="order" i="label">Volgorde</e>
+ <e g="down3" i="label">Aflopend</e>
+</t>

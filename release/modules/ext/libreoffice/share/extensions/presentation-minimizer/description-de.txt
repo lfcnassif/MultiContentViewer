@@ -1,0 +1,2 @@
+Der Presentation Minimizer wird verwendet, um die Dateigröße der aktuellen Präsentation zu reduzieren. Bilder werden komprimiert und Daten, die nicht mehr benötigt wird, werden entfernt.
+Der Presentation Minimizer kann die Bildqualität für die benötigte Größe optimieren. Präsentationen, die für Bildschirme oder Projektoren konzipiert sind, erfordern nicht die gleiche hohe Qualität wie Präsentationen, die für den Druck vorgesehen sind.

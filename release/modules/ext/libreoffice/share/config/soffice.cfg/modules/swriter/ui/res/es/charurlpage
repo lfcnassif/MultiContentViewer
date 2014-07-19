@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">Texto</e>
+ <e g="label33" i="label">Estilos de carácter</e>
+ <e g="label34" i="label">Enlaces visitados</e>
+ <e g="label32" i="label">Hiperenlace</e>
+ <e g="urlpb" i="label">Examinar...</e>
+ <e g="eventpb" i="label">Eventos...</e>
+ <e g="label39" i="label">Marco de destino</e>
+ <e g="label10" i="label">Enlaces no visitados</e>
+ <e g="label37" i="label">Nombre</e>
+ <e g="label36" i="label">URL</e>
+</t>

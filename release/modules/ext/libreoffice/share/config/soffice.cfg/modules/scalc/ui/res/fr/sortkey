@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="down" i="label">_Décroissant</e>
+ <e g="sortft" i="label">Clé de tri</e>
+ <e g="up" i="label">_Croissant</e>
+</t>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Nella barra degli indirizzi del vostro browser web, copiate quindi negli appunti l'indirizzo della pagina che contiene Persona e incollatela nell'area di immissione sottostante.</e>
+ <e g="label1" i="label">Visitate prima Firefox Personas (http://www.getpersonas.com). Cercate una Persona che vi piace, da usare con LibreOffice.</e>
+ <e g="label3" i="label">Indirizzo Persona:</e>
+ <e g="visit_personas" i="label">Visita Firefox Personas</e>
+</t>

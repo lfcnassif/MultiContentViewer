@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 indica la qualità massima e la dimensione più grande del file.</e>
+ <e g="liststore2" i="3">punti</e>
+ <e g="level2rb" i="label">Livello 2</e>
+ <e g="label17" i="label">Anteprima</e>
+ <e g="label2" i="label">Profondità cromatica</e>
+ <e g="label10" i="label">1 indica la qualità minima e la dimensione più piccola del file.</e>
+ <e g="label16" i="label">Codifica</e>
+ <e g="label22" i="label">0 indica la dimensione più grande del file e il caricamento più veloce.</e>
+ <e g="label" i="label">Compressione</e>
+ <e g="label1" i="label">Dimensioni</e>
+ <e g="compressnone" i="label">Nessuno</e>
+ <e g="resolutionft" i="label">Risoluzione</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Altezza</e>
+ <e g="liststore1" i="0">pixel/cm</e>
+ <e g="label20" i="label">Compressione</e>
+ <e g="liststore1" i="2">pixel/metro</e>
+ <e g="binarycb" i="label">Binario</e>
+ <e g="GraphicExportDialog" i="title"> Opzioni</e>
+ <e g="textcb" i="label">Testo</e>
+ <e g="color1rb" i="label">Colore</e>
+ <e g="liststore2" i="4">pixel</e>
+ <e g="epsipreviewcb" i="label">Interchange (EPSI)</e>
+ <e g="label5" i="label">Larghezza</e>
+ <e g="color2rb" i="label">Toni di grigio</e>
+ <e g="label19" i="label">Versione</e>
+ <e g="label4" i="label">Informazioni</e>
+ <e g="rlecb" i="label">Codifica RLE</e>
+ <e g="labe" i="label">Oggetti di disegno</e>
+ <e g="liststore2" i="0">pollici</e>
+ <e g="label12" i="label">Modo</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">Codifica LZW</e>
+ <e g="label3" i="label">Compressione</e>
+ <e g="tiffpreviewcb" i="label">Anteprima immagine (TIFF)</e>
+ <e g="savetransparencycb" i="label">Salva trasparenza</e>
+ <e g="level1rb" i="label">Livello 1</e>
+ <e g="liststore1" i="1">pixel/pollice</e>
+ <e g="label23" i="label">9 indica la dimensione più piccola del file e il caricamento più lento.</e>
+ <e g="label18" i="label">Formato colore</e>
+ <e g="interlacedcb" i="label">Interlacciato</e>
+ <e g="label9" i="label">Qualità</e>
+</t>

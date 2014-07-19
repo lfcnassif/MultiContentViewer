@@ -1,0 +1,2 @@
+Presentation Minimizer tối thiểu hóa cỡ của trình chiếu bằng cách nén ảnh, bỏ dữ liệu không dùng.
+Presentation Minimizer có thể tối ưu hóa cỡ ảnh, thích hợp với trình chiếu bằng màn hình máy tính, máy chiếu không đòi hỏi chất lượng cao.

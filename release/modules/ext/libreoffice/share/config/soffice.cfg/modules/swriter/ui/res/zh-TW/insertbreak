@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Style</e>
+ <e g="linerb" i="label">斷行</e>
+ <e g="label1" i="label">類型</e>
+ <e g="liststore1" i="0">[無]</e>
+ <e g="pagenumcb" i="label">變更頁碼</e>
+ <e g="pagerb" i="label">斷頁</e>
+ <e g="BreakDialog" i="title">插入中斷符</e>
+ <e g="columnrb" i="label">斷欄</e>
+</t>

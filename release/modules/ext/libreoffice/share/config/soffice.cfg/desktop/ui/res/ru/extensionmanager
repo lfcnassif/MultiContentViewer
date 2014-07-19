@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">Расширения в Интернете...</e>
+ <e g="ExtensionManagerDialog" i="title">Управление расширениями</e>
+ <e g="label1" i="label">Тип расширения</e>
+ <e g="user" i="label">Пользователь</e>
+ <e g="update" i="label">Проверка обновлений...</e>
+ <e g="shared" i="label">Общее</e>
+ <e g="add" i="label">Добавить...</e>
+ <e g="progressft" i="label">Добавление %EXTENSION_NAME</e>
+ <e g="bundled" i="label">Установка</e>
+</t>

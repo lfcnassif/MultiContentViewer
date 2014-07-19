@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="delete" i="label">_Törlés...</e>
+ <e g="test" i="label">XSLT-k _tesztelése...</e>
+ <e g="XMLFilterSettingsDialog" i="title">XML-szűrő beállításai</e>
+ <e g="save" i="label">_Mentés csomagként...</e>
+ <e g="open" i="label">_Csomag megnyitása...</e>
+ <e g="edit" i="label">_Szerkesztés...</e>
+ <e g="new" i="label">Ú_j...</e>
+</t>

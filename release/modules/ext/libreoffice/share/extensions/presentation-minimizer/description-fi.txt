@@ -1,0 +1,1 @@
+Esitysten koon minimointi pienentää diaesityksen tiedostokokoa. Esityksessä olevat kuvat pakataan ja tarpeeton tieto, joka ei näy esityksessä, poistetaan. Esityksen koon minimointi voi myös muuttaa kuvien pakkaustasoa. Esitykset, joita on tarkoitus seurata näytöltä tai valkokankaalta, eivät tarvitse yhtä laadukkaita kuvia kuin tulostettavaksi tarkoitetut esitykset.

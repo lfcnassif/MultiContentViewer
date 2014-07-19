@@ -1,0 +1,2 @@
+Præsentationsminimering bruges til at reducere filstørrelsen for den aktuelle præsentation. Billeder komprimeres, og data, der ikke længere er brug for, bliver fjernet.
+Præsentationsminimering kan optimere billedstørrelse i forhold til kvaliteten. Præsentationer, som er udviklet til visning på skærmen eller vha. projektor, forudsætter ikke den samme billedkvalitet som præsentationer, der er designet til udskrivning.

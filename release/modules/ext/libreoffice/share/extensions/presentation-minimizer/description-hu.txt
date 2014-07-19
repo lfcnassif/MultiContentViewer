@@ -1,0 +1,2 @@
+A Bemutatóméret-csökkentő segítségével az éppen szerkesztett bemutató fájlmérete csökkenthető. A képeket tömöríti, és a már nem szükséges adatokat törli.
+A Bemutatóméret-csökkentő képes optimalizálni a képminőséget. A képernyőre vagy projektorra szánt bemutatókban felesleges ugyanolyan nagy képfelbontást használni, mint a nyomtatásra szánt bemutatók esetén.

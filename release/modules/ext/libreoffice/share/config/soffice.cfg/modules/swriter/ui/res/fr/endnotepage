@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">Numérotation automatique</e>
+ <e g="offset" i="label">Commencer avec</e>
+ <e g="pagestyleft" i="label">Page</e>
+ <e g="label29" i="label">Styles de caractères</e>
+ <e g="label22" i="label">Avant</e>
+ <e g="label27" i="label">Zone de texte</e>
+ <e g="label19" i="label">Numérotation</e>
+ <e g="label25" i="label">Après</e>
+ <e g="label20" i="label">Paragraphe</e>
+ <e g="label28" i="label">Zone de la note</e>
+ <e g="label23" i="label">Styles</e>
+</t>

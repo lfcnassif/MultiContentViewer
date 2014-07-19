@@ -1,0 +1,2 @@
+Presentationskomprimeraren används för att minska storleken på den aktuella presentationen. Bilder komprimeras och onödiga data tas bort.
+Presentationskomprimeraren kan optimera en bildkvaliteten beroende på visningsmedium, presentationer för visning på bildskärm eller projektor kräver inte samma höga kvalitet som vid utskrift.

@@ -1,0 +1,1 @@
+Użyj Konstruktora raportu do tworzenia stylowych, eleganckich raportów baz danych. Elastyczny edytor raportów może definiować grupy i główki stron, jak również grupy i stopki stron. Dodatkowo, pola wyliczeń umożliwiają realizację złożonych raportów baz danych.

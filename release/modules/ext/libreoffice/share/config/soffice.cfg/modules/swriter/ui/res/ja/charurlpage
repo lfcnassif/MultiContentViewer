@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">テキスト</e>
+ <e g="label33" i="label">文字スタイル</e>
+ <e g="label34" i="label">訪問したリンク</e>
+ <e g="label32" i="label">ハイパーリンク</e>
+ <e g="urlpb" i="label">検索...</e>
+ <e g="eventpb" i="label">イベント...</e>
+ <e g="label39" i="label">フレーム</e>
+ <e g="label10" i="label">訪問していないリンク</e>
+ <e g="label37" i="label">名前</e>
+ <e g="label36" i="label">URL</e>
+</t>

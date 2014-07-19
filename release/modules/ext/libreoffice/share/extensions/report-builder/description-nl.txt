@@ -1,0 +1,1 @@
+Gebruik de Rapportontwerper om gestyleerde, goed uitziende database-rapporten te maken. De flexibele rapportbewerker kan zowel groeps- en paginakopteksten als groeps- en paginavoetteksten definiëren. Extra berekeningsvelden zijn beschikbaar om complexe database-rapporten tot stand te brengen.

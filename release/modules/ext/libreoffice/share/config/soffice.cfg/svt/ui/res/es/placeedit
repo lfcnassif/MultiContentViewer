@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">Ruta</e>
+ <e g="label12" i="label">Detalles del servidor</e>
+ <e g="liststore1" i="4">CMIS</e>
+ <e g="liststore1" i="2">SSH</e>
+ <e g="liststore1" i="0">WebDAV</e>
+ <e g="pathLabel" i="label">Ruta</e>
+ <e g="label15" i="label">Detalles del usuario</e>
+ <e g="repositoryLabel" i="label">Repositorio</e>
+ <e g="label16" i="label">Iniciar sesión</e>
+ <e g="label1" i="label">Nombre</e>
+ <e g="liststore1" i="3">Recurso compartido de Windows</e>
+ <e g="liststore1" i="1">FTP</e>
+ <e g="label2" i="label">Tipo</e>
+ <e g="portLabel" i="label">Puerto</e>
+ <e g="label3" i="label">Tipo del servidor</e>
+ <e g="hostLabel" i="label">Máquina</e>
+ <e g="label4" i="label">Detalles del servidor</e>
+ <e g="bindingLabel" i="label">URL vinculante</e>
+ <e g="label5" i="label">Ruta</e>
+ <e g="webdavs" i="label">WebDAV seguro (HTTPS)</e>
+ <e g="label8" i="label">Detalles del servidor</e>
+ <e g="label10" i="label">Compartir</e>
+ <e g="label9" i="label">Máquina</e>
+</t>

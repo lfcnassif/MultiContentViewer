@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="create" i="label">Létrehozás...</e>
+ <e g="macrosft" i="label">Makrók</e>
+ <e g="delete" i="label">Törlés...</e>
+ <e g="rename" i="label">Átnevezés…</e>
+ <e g="run" i="label">Futtatás</e>
+ <e g="ScriptOrganizerDialog" i="title">%MACROLANG-makrók</e>
+</t>

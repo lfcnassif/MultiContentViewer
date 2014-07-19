@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Titel</e>
+ <e g="overlinecolorft" i="label">Farbe</e>
+ <e g="liststore6" i="7">Strich fett</e>
+ <e g="liststore3" i="1">Punkt</e>
+ <e g="underlinecolorft" i="label">Farbe</e>
+ <e g="label42" i="label">Optionen</e>
+ <e g="liststore1" i="0">(Ohne)</e>
+ <e g="individualwordscb" i="label">Wortweise</e>
+ <e g="label46" i="label">Überstreichung</e>
+ <e g="liststore5" i="3">Fett</e>
+ <e g="liststore6" i="14">Welle</e>
+ <e g="liststore6" i="10">Punkt Strich</e>
+ <e g="liststore6" i="0">(Ohne)</e>
+ <e g="liststore1" i="2">Gemeine</e>
+ <e g="liststore5" i="5">Mit X</e>
+ <e g="liststore6" i="16">Welle doppelt</e>
+ <e g="liststore3" i="4">Akzent</e>
+ <e g="liststore6" i="6">Strich</e>
+ <e g="outlinecb" i="label">Kontur</e>
+ <e g="liststore4" i="1">Unter Text</e>
+ <e g="fontcolorft" i="label">Schriftfarbe</e>
+ <e g="liststore2" i="0">(Ohne)</e>
+ <e g="liststore5" i="2">Doppelt</e>
+ <e g="liststore6" i="13">Punkt Punkt Strich fett</e>
+ <e g="emphasisft" i="label">Betonungszeichen</e>
+ <e g="liststore6" i="3">Fett</e>
+ <e g="reliefft" i="label">Relief</e>
+ <e g="liststore2" i="2">Vertieft</e>
+ <e g="label50" i="label">Vorschau</e>
+ <e g="liststore6" i="15">Welle fett</e>
+ <e g="liststore6" i="9">Strich lang fett</e>
+ <e g="liststore6" i="5">Punktiert fett</e>
+ <e g="liststore3" i="3">Scheibe</e>
+ <e g="liststore4" i="0">Über Text</e>
+ <e g="liststore5" i="1">Einfach</e>
+ <e g="label47" i="label">Durchstreichung</e>
+ <e g="hiddencb" i="label">Ausgeblendet</e>
+ <e g="liststore6" i="12">Punkt Punkt Strich</e>
+ <e g="liststore6" i="2">Doppelt</e>
+ <e g="liststore3" i="0">(Ohne)</e>
+ <e g="liststore1" i="4">Kapitälchen</e>
+ <e g="shadowcb" i="label">Schatten</e>
+ <e g="liststore2" i="1">Erhaben</e>
+ <e g="liststore6" i="8">Strich lang</e>
+ <e g="liststore3" i="2">Kreis</e>
+ <e g="liststore6" i="4">Punktiert</e>
+ <e g="label48" i="label">Unterstreichung</e>
+ <e g="blinkingcb" i="label">Blinkend</e>
+ <e g="liststore1" i="1">Großbuchstaben</e>
+ <e g="positionft" i="label">Position</e>
+ <e g="liststore5" i="4">Mit /</e>
+ <e g="liststore5" i="0">(Ohne)</e>
+ <e g="effectsft" i="label">Effekte</e>
+ <e g="liststore6" i="11">Punkt Strich fett</e>
+ <e g="liststore6" i="1">Einfach</e>
+</t>

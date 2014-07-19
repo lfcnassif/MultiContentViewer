@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">Edit</e>
+ <e g="macrotoft" i="label">매크로 저장 위치</e>
+ <e g="existingmacrosft" i="label">기존 매크로 위치:</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic 매크로</e>
+ <e g="macrofromft" i="label">매크로 위치</e>
+ <e g="libraryft1" i="label">매크로 이름</e>
+ <e g="newlibrary" i="label">New Library</e>
+ <e g="newmodule" i="label">New Module</e>
+ <e g="organize" i="label">Organizer...</e>
+ <e g="run" i="label">실행</e>
+ <e g="assign" i="label">Assign...</e>
+</t>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">Для работы выбранного окружения Java %PRODUCTNAME должен быть перезапущен.</e>
+ <e g="yes" i="label">Перезапустить сейчас</e>
+ <e g="RestartDialog" i="title">Перезапустить %PRODUCTNAME</e>
+ <e g="label" i="label">Перезапустить %PRODUCTNAME сейчас?</e>
+ <e g="no" i="label">Перезапустить позже</e>
+ <e g="reason_pdf" i="label">Для вступления в силу изменений формата задания печати %PRODUCTNAME должен быть перезапущен.</e>
+ <e g="reason_bibliography_install" i="label">Для корректной работы библиографии %PRODUCTNAME должен быть перезапущен.</e>
+</t>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Folha de rosto</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Inserir novas folhas de rosto</e>
+ <e g="label3" i="label">Editar propriedades da página</e>
+ <e g="label2" i="label">Numeração de página</e>
+ <e g="label1" i="label">Criar folhas de rosto</e>
+ <e g="label8" i="label">página(s)</e>
+ <e g="label6" i="label">Número de páginas</e>
+ <e g="label7" i="label">Colocar folhas de rosto</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Reiniciar numeração após as folhas de rosto</e>
+ <e g="FT_PAGE_PAGES" i="label">Número de página</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Converter páginas existentes em folhas de rosto</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Definir número da primeira folha de rosto</e>
+ <e g="RB_DOCUMENT_START" i="label">Início do documento</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Editar...</e>
+ <e g="RB_PAGE_START" i="label">Página</e>
+ <e g="FT_PAGE_COUNT" i="label">Número de página</e>
+</t>

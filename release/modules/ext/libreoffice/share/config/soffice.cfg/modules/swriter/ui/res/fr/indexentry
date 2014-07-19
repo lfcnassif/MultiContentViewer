@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">Clé 1</e>
+ <e g="typeft" i="label">Index</e>
+ <e g="phonetic1ft" i="label">Lecture phonétique</e>
+ <e g="searchcasewordonlycb" i="label">Uniquement les mots entiers</e>
+ <e g="levelft" i="label">Niveau</e>
+ <e g="new" i="tooltip_text">Definir un nouvel index personnalisé</e>
+ <e g="IndexEntryDialog" i="title">Insertion d'une entrée d'index</e>
+ <e g="mainentrycb" i="label">Entrée principale</e>
+ <e g="phonetic0ft" i="label">Lecture phonétique</e>
+ <e g="searchcasesensitivecb" i="label">Respecter la casse</e>
+ <e g="key2ft" i="label">Clé 2</e>
+ <e g="label1" i="label">Sélection</e>
+ <e g="applytoallcb" i="label">Appliquer à tous les textes similaires</e>
+ <e g="insert" i="label">Insérer</e>
+ <e g="phonetic2ft" i="label">Lecture phonétique</e>
+ <e g="label3" i="label">Entrée</e>
+</t>

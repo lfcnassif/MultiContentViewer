@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="fittopage" i="label">Igazítás az oldal méretéhez</e>
+ <e g="scaling" i="label">Méretezés</e>
+ <e g="borders" i="label">Szegélyek</e>
+ <e g="formulatext" i="label">Képlet szövege</e>
+ <e g="label4" i="label">Tartalom</e>
+ <e g="label5" i="label">Méret</e>
+ <e g="originalsize" i="label">Eredeti méret</e>
+ <e g="title" i="label">Cím</e>
+</t>

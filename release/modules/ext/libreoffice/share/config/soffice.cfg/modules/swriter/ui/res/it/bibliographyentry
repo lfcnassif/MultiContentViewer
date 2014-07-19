@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Voce</e>
+ <e g="label3" i="label">Titolo</e>
+ <e g="label5" i="label">Abbreviazione</e>
+ <e g="fromdocument" i="label">Dal contenuto del documento</e>
+ <e g="label2" i="label">Autore</e>
+ <e g="insert" i="label">Inserisci</e>
+ <e g="frombibliography" i="label">Dal database bibliografico</e>
+ <e g="modify" i="label">Modifica</e>
+ <e g="BibliographyEntryDialog" i="title">Inserisci voce bibliografica</e>
+</t>

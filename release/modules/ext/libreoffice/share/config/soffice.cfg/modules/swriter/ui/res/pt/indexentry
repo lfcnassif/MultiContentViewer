@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">1.ª chave</e>
+ <e g="typeft" i="label">Índice</e>
+ <e g="phonetic1ft" i="label">Leitura fonética</e>
+ <e g="searchcasewordonlycb" i="label">Só palavras completas</e>
+ <e g="levelft" i="label">Nível</e>
+ <e g="new" i="tooltip_text">Novo índice definido pelo utilizador</e>
+ <e g="IndexEntryDialog" i="title">Inserir entrada de índice</e>
+ <e g="mainentrycb" i="label">Entrada principal</e>
+ <e g="phonetic0ft" i="label">Leitura fonética</e>
+ <e g="searchcasesensitivecb" i="label">Diferencia maiúsculas e minúsculas</e>
+ <e g="key2ft" i="label">2.ª chave</e>
+ <e g="label1" i="label">Seleção</e>
+ <e g="applytoallcb" i="label">Aplicar a todos os textos semelhantes</e>
+ <e g="insert" i="label">Inserir</e>
+ <e g="phonetic2ft" i="label">Leitura fonética</e>
+ <e g="label3" i="label">Entrada</e>
+</t>

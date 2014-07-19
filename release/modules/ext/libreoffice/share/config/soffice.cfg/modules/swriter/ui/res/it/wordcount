@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Parole</e>
+ <e g="label3" i="label">Caratteri, spazi esclusi</e>
+ <e g="label9" i="label">Selezione</e>
+ <e g="WordCountDialog" i="title">Conteggio parole</e>
+ <e g="cjkcharsft" i="label">Caratteri asiatici e sillabe coreane</e>
+ <e g="label10" i="label">Documento</e>
+ <e g="label2" i="label">Caratteri, spazi inclusi</e>
+</t>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Puis, dans la barre de navigation du navigateur Web, copiez l'adresse de la page qui contient le Persona dans le presse-papiers, et collez-la dans le champ de saisie ci-dessous.</e>
+ <e g="label1" i="label">Visitez d'abord Firefox Personas (http://www.getpersonas.com). Trouvez un Persona qui vous convient et souhaitez choisir pour LibreOffice.</e>
+ <e g="label3" i="label">Adresse du Persona :</e>
+ <e g="visit_personas" i="label">Visiter Firefox Personas</e>
+</t>

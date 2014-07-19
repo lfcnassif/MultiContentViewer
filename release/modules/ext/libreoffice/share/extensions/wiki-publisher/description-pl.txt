@@ -1,0 +1,1 @@
+WikiPubliszer umożliwia tworzenie artykułów Wiki na serwerach MediaWiki bez konieczności zagłębiania się w składnię języka znaczników MediaWiki. Publikuj nowe i edytuj istniejące dokumenty bezpośrednio z Writera na stronę wiki.

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">Toutes les pages</e>
+ <e g="pagestxt" i="label">Pages</e>
+ <e g="label5" i="label">Imprimante</e>
+ <e g="label11" i="label">Imprimer</e>
+ <e g="setup" i="label">Propriétés...</e>
+ <e g="label9" i="label">Commentaire :</e>
+ <e g="customlabel" i="label">personnaliser</e>
+ <e g="liststore3" i="0">Automatique</e>
+ <e g="label15" i="label">Imprimer</e>
+ <e g="label19" i="label">Ordre</e>
+ <e g="sheetmargintxt1" i="label">Marge</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">Toutes les feuilles</e>
+ <e g="label2" i="label">Mise en page</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Paysage</e>
+ <e g="label6" i="label">Détails</e>
+ <e g="label12" i="label">Diapos par page</e>
+ <e g="label16" i="label">Commentaires</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">de haut en bas, puis à gauche</e>
+ <e g="ordertxt" i="label">Ordre</e>
+ <e g="label3" i="label">Côtés des pages</e>
+ <e g="pagespersheetbtn" i="label">Pages par feuille</e>
+ <e g="label7" i="label">Statut :</e>
+ <e g="label13" i="label">Plage et exemplaires</e>
+ <e g="label17" i="label">Inclure</e>
+ <e g="printpages" i="label">Pages</e>
+ <e g="location" i="label">Emplacement</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Imprimer dans un fichier</e>
+ <e g="reverseorder" i="label">Imprimer dans l'ordre inverse</e>
+ <e g="collate" i="label">Assembler</e>
+ <e g="label10" i="label">Document</e>
+ <e g="liststore2" i="1">de bas en haut, puis à droite</e>
+ <e g="label8" i="label">Emplacement :</e>
+ <e g="printselection" i="label">Sélection</e>
+ <e g="PrintDialog" i="title">Imprimer</e>
+ <e g="comment" i="label">Nom d'imprimante complet</e>
+ <e g="liststore1" i="6">Personnaliser</e>
+ <e g="singleprintjob" i="label">Créer des tâches d'impression uniques pour les sorties assemblées</e>
+ <e g="sheetmargintxt2" i="label">du bord de la feuille</e>
+ <e g="by" i="label">par</e>
+ <e g="label1" i="label">Général</e>
+ <e g="label20" i="label">Options</e>
+ <e g="liststore2" i="3">de droite à gauche, puis vers le bas</e>
+ <e g="printpaperfromsetup" i="label">Utiliser le bac d'alimentation suivant les préférences de l'imprimante</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Dessiner une bordure autour de chaque page</e>
+ <e g="fromwhich" i="label">Dont imprimer</e>
+ <e g="pagemargintxt1" i="label">Distance</e>
+ <e g="status" i="label">Imprimante par défaut</e>
+ <e g="liststore2" i="0">de gauche à droite, puis en bas</e>
+ <e g="printselectedsheets" i="label">Feuilles sélectionnées</e>
+ <e g="label21" i="label">Options</e>
+ <e g="liststore3" i="1">Portrait</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Cellules sélectionnées</e>
+ <e g="pagemargintxt2" i="label">entre les pages</e>
+ <e g="label14" i="label">Nombre d'exemplaires</e>
+ <e g="brochure" i="label">Brochure</e>
+ <e g="label18" i="label">Mise en page</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Orientation</e>
+</t>

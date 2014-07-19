@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">Caractères :</e>
+ <e g="fontft" i="label">Police</e>
+ <e g="SpecialCharactersDialog" i="title">Caractères spéciaux</e>
+ <e g="subsetft" i="label">Sous-ensemble</e>
+</t>

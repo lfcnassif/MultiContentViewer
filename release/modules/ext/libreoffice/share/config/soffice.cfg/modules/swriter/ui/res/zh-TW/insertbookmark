@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="InsertBookmarkDialog" i="title">插入書籤</e>
+ <e g="delete" i="label">刪除</e>
+</t>

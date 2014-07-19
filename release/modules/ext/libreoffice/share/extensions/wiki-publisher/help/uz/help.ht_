@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 5c Shunday nomli mavjud sahifani kichik oʻzgarish sifatida belgilash uchun bu yerni belgilang.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 17 Bu yerga izoh kiriting.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 9f Wiki maqolangiz sarlavhasini kiriting. Yangi maqola uchun sarlavha boshqa boʻlishi kerak. Agar mavjud sarlavha kiritilsa, eski Wiki maqolasi ustidan yoziladi.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 77 Hujjat chop etiladigan MediaWiki serverini tanlang. Roʻyxatga yangi server qoʻshish uchun Qoʻshish tugmasini bosing.
+22 vnd.com.sun.star.wiki%3AsendDialog 77 Hujjat chop etiladigan MediaWiki serverini tanlang. Roʻyxatga yangi server qoʻshish uchun Qoʻshish tugmasini bosing.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 56 Joʻnatilgan Wiki sahifalarini tizim veb brauzerida koʻrish uchun bu yerni belgilang.
+1f vnd.com.sun.star.wiki%3Aaccount 3a Enter the URL of a MediaWiki server, starting with http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 83 Enable to store your password between sessions. The master password must be enabled, see Tools - Options - %PRODUCTNAME - Security.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 4e Enter your password on the MediaWiki server. Leave empty for anonymous access.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 4f Enter your user name on the MediaWiki server. Leave empty for anonymous access.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3a Enter the URL of a MediaWiki server, starting with http://
+1c vnd.com.sun.star.wiki%3Asend 70 Joriy Writer hujjatini MediaWiki serveriga joylashtirish uchun Fayl - Joʻnatish - MediaWiki'ga bandini tanlang.
+20 vnd.com.sun.star.wiki%3Aaboutbox b3 Wiki Publisher yordamida Writer matn hujjatini MediaWiki serveriga joylashtirishingiz mumkin. Hujjat joylashtirilgandan keyin uni barcha Wiki foydalanuvchilari oʻqishlari mumkin.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 30 Roʻyxatdan tanlangan elementni  olib tashlaydi.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList e8 Wiki server qoʻshish uchu Qoʻshish tugmasini bosing.Elementni tanlang va hisob moslamalarini oʻzgartirish uchun Tahrirlash tugmasini bosing.Elementni roʻyxatdan olib tashlash uchun, uni tanlang va Olib tashlash tugmasini bosing.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 40 Tanlangan elementni tahrirlash uchun MediaWiki dialogini ochadi.
+20 vnd.com.sun.star.wiki%3Asettings e8 Wiki server qoʻshish uchu Qoʻshish tugmasini bosing.Elementni tanlang va hisob moslamalarini oʻzgartirish uchun Tahrirlash tugmasini bosing.Elementni roʻyxatdan olib tashlash uchun, uni tanlang va Olib tashlash tugmasini bosing.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 42 Roʻyxatga yangi yozuv qoʻshish uchun MediaWiki dialogini ochadi.

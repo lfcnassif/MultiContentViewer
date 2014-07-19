@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">Válassza ki azt a programkönyvtárat, amely a kívánt makrót tartalmazza. Ezek után válassza ki a makrót a „Makró neve” listából.</e>
+ <e g="categoryft" i="label">Kategória</e>
+ <e g="helptoolbar" i="label">Eszköztárhoz történő parancshozzáadáshoz válasszon ki egy kategóriát, majd a parancsot. A parancsokat húzza át Testreszabás párbeszédablak Eszköztárak lapjának Parancsok listájába.</e>
+ <e g="add" i="label">Hozzáadás</e>
+ <e g="label1" i="label">Leírás</e>
+ <e g="MacroSelectorDialog" i="title">Makróválasztó</e>
+ <e g="macronameft" i="label">Makró neve</e>
+ <e g="commandsft" i="label">Parancsok</e>
+ <e g="libraryft" i="label">Gyűjtemény</e>
+</t>

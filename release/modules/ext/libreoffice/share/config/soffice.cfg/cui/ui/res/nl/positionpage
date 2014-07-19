@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Voorbeeld</e>
+ <e g="label22" i="label">Afstand</e>
+ <e g="kerningft" i="label">door</e>
+ <e g="relativefontsize" i="label">Relatieve grootte lettertype</e>
+ <e g="0deg" i="label">0 graden</e>
+ <e g="90deg" i="label">90 graden</e>
+ <e g="superscript" i="label">Superscript</e>
+ <e g="normal" i="label">Normaal</e>
+ <e g="270deg" i="label">270 graden</e>
+ <e g="liststore1" i="0">Standaard</e>
+ <e g="liststore1" i="1">Verbreed</e>
+ <e g="liststore1" i="2">Versmald</e>
+ <e g="pairkerning" i="label">Kerning voor paren</e>
+ <e g="label24" i="label">Breedte schalen</e>
+ <e g="raiselower" i="label">Verhogen/verlagen met</e>
+ <e g="rotate" i="label">Rotatie</e>
+ <e g="rotateandscale" i="label">Rotatie / schaling</e>
+ <e g="subscript" i="label">Subscript</e>
+ <e g="fittoline" i="label">Aanpassen aan regel</e>
+ <e g="automatic" i="label">Automatisch</e>
+ <e g="label20" i="label">Positie</e>
+</t>

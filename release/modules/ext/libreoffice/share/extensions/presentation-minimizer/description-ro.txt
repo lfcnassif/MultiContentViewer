@@ -1,0 +1,2 @@
+Presentation Minimizer este utilizat pentru a reduce mărimea prezentației curente. Imaginile vor fi comprimate, și datele de care nu sunt nevoie vor fi șterse.
+Presentation Minimizer va putea optimiza calitatea imaginii. La prezentările prezentate pe ecrane sau cu retroproiector nu este necesar să folosiți rezoluți atât de mari cât la prezentări imprimate.

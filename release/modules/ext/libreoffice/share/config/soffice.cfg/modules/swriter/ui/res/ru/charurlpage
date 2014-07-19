@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">Текст</e>
+ <e g="label33" i="label">Стили символа</e>
+ <e g="label34" i="label">Посещённые ссылки</e>
+ <e g="label32" i="label">Гиперссылка</e>
+ <e g="urlpb" i="label">Обзор...</e>
+ <e g="eventpb" i="label">События...</e>
+ <e g="label39" i="label">Фрейм</e>
+ <e g="label10" i="label">Непосещённые ссылки</e>
+ <e g="label37" i="label">Название</e>
+ <e g="label36" i="label">URL</e>
+</t>

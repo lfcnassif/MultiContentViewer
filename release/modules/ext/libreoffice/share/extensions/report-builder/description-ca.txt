@@ -1,0 +1,1 @@
+Utilitzeu el Constructor d'informes per crear informes de bases de dades elegants i amb estil. El flexible editor d'informes pot definir capçaleres de grup i de pàgina i també peus de pàgina de pàgina i grup. També hi ha camps de càlcul disponibles per tal de fer informes de bases de dades complexos.

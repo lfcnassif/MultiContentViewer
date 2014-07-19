@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">Selecione a biblioteca que contém a macro pretendida. Em seguida, selecione a macro em &quot;Nome da macro&quot;.</e>
+ <e g="categoryft" i="label">Categoria</e>
+ <e g="helptoolbar" i="label">Para adicionar um comando a uma barra de ferramentas, selecione a categoria e, em seguida, o comando. Depois, arraste o comando para a lista de comandos no separador Barras de ferramentas na caixa de diálogo Personalizar.</e>
+ <e g="add" i="label">Adicionar</e>
+ <e g="label1" i="label">Descrição</e>
+ <e g="MacroSelectorDialog" i="title">Seletor de macros</e>
+ <e g="macronameft" i="label">Nome da macro</e>
+ <e g="commandsft" i="label">Comandos</e>
+ <e g="libraryft" i="label">Biblioteca</e>
+</t>

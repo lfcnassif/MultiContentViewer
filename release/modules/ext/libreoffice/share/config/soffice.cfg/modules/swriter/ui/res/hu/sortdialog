@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">Tabulátorok</e>
+ <e g="columns" i="label">Hasábok</e>
+ <e g="label3" i="label">Irány</e>
+ <e g="up2" i="label">Növekvő</e>
+ <e g="1" i="label">Rendezési elv</e>
+ <e g="column" i="label">Oszlop</e>
+ <e g="key3" i="label">3. kulcs</e>
+ <e g="character" i="label">Karakter </e>
+ <e g="down2" i="label">Csökkenő</e>
+ <e g="matchcase" i="label">Kis- és nagybetű különbözik</e>
+ <e g="label2" i="label">Beállítás</e>
+ <e g="up1" i="label">Növekvő</e>
+ <e g="key2" i="label">2. kulcs</e>
+ <e g="down1" i="label">Csökkenő</e>
+ <e g="rows" i="label">Sorok</e>
+ <e g="label4" i="label">Elválasztó</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">Kulcs típusa</e>
+ <e g="up3" i="label">Növekvő</e>
+ <e g="label1" i="label">Nyelv</e>
+ <e g="key1" i="label">1. kulcs</e>
+ <e g="SortDialog" i="title">Rendezés</e>
+ <e g="order" i="label">Rendezés</e>
+ <e g="down3" i="label">Csökkenő</e>
+</t>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Wörter</e>
+ <e g="label3" i="label">Zeichen ohne Leerzeichen</e>
+ <e g="label9" i="label">Auswahl</e>
+ <e g="WordCountDialog" i="title">Wortzählung</e>
+ <e g="cjkcharsft" i="label">Asiatische Zeichen und koreanische Silben</e>
+ <e g="label10" i="label">Dokument</e>
+ <e g="label2" i="label">Zeichen einschließlich Leerzeichen</e>
+</t>

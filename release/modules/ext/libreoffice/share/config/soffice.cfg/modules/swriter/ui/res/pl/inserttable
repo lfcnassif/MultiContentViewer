@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Nazwa</e>
+ <e g="ok" i="label">Wstaw</e>
+ <e g="headercb" i="label">Nagłówek</e>
+ <e g="bordercb" i="label">_Krawędź</e>
+ <e g="label1" i="label">Ogólne</e>
+ <e g="repeatcb" i="label">Powtarzaj wiersze nagłówkowe na nowych stronach</e>
+ <e g="dontsplitcb" i="label">Nie dziel tabeli na strony</e>
+ <e g="3" i="label">Kolumny </e>
+ <e g="label2" i="label">Opcje</e>
+ <e g="InsertTableDialog" i="title">Wstaw tabelę</e>
+ <e g="4" i="label">Wie_rsze</e>
+ <e g="repeatheaderafter" i="label">Wiersze nagłó_wkowe</e>
+ <e g="autoformat" i="label">Auto_formatuj</e>
+</t>

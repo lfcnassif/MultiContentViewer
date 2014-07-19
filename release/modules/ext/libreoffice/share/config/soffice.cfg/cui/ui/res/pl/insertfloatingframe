@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Domyślny</e>
+ <e g="heightlabel" i="label">Wysokość</e>
+ <e g="label2" i="label">Krawędź</e>
+ <e g="scrollbarauto" i="label">Automatycznie</e>
+ <e g="label1" i="label">Pasek przewijania</e>
+ <e g="label7" i="label">Zawartość</e>
+ <e g="borderon" i="label">Włącz</e>
+ <e g="InsertFloatingFrameDialog" i="title">Właściwości ramki przestawnej</e>
+ <e g="buttonbrowse" i="label">Przeglądaj...</e>
+ <e g="label6" i="label">Nazwa</e>
+ <e g="widthlabel" i="label">Szerokość</e>
+ <e g="scrollbaroff" i="label">Wyłącz</e>
+ <e g="scrollbaron" i="label">Włącz</e>
+ <e g="defaultheight" i="label">Domyślny</e>
+ <e g="borderoff" i="label">Wyłącz</e>
+ <e g="label3" i="label">Odstęp od zawartości</e>
+</t>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Sorteerresultaten kopiëren naar:</e>
+ <e g="label6" i="label">Taal</e>
+ <e g="algorithmft" i="label">Opties</e>
+ <e g="naturalsort" i="label">Natuurlijke sortering inschakelen</e>
+ <e g="sortuser" i="label">Door gebruiker gedefinieerde sorteervolgorde</e>
+ <e g="header" i="label">Reeks bevat...</e>
+ <e g="topdown" i="label">_Van boven naar beneden (rijen sorteren)</e>
+ <e g="case" i="label">Hoofdletter _gevoelig</e>
+ <e g="formats" i="label">Opmaak opnemen</e>
+ <e g="leftright" i="label">Van L_inks naar rechts (kolommen sorteren)</e>
+ <e g="label1" i="label">Richting</e>
+</t>

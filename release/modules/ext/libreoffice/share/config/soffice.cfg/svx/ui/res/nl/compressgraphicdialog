@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="checkbox-reduce-resolution" i="label">Afbeeldingsresolutie verminderen</e>
+ <e g="label6" i="label">Kwaliteit:</e>
+ <e g="label8" i="label">Weergavegrootte:</e>
+ <e g="label10" i="label">Nieuwe capaciteit:</e>
+ <e g="label2" i="label">Breedte:</e>
+ <e g="interpolation-method-store" i="3">Lanczos</e>
+ <e g="label12" i="label">px</e>
+ <e g="label5" i="label">Compressie:</e>
+ <e g="radio-lossless" i="label">Compressie zonder verlies</e>
+ <e g="label14" i="label">PPI</e>
+ <e g="label7" i="label">Oorspronkelijke grootte:</e>
+ <e g="interpolation-method-store" i="1">Bi-lineair</e>
+ <e g="label9" i="label">Afbeeldingscapaciteit:</e>
+ <e g="interpolation-method-store" i="2">Bi-kubisch</e>
+ <e g="label1" i="label">Afbeeldingsinformatie</e>
+ <e g="calculate" i="label">Berekenen</e>
+ <e g="label11" i="label">Interpolatie:</e>
+ <e g="interpolation-method-store" i="0">Geen</e>
+ <e g="label4" i="label">Resolutie:</e>
+ <e g="label3" i="label">Hoogte:</e>
+ <e g="label13" i="label">px</e>
+ <e g="radio-jpeg" i="label">JPEG compressie</e>
+</t>

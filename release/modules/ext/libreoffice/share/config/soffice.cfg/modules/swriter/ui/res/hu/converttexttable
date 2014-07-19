@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Bekezdés</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">sor</e>
+ <e g="tabs" i="label">Tabulátorok</e>
+ <e g="label3" i="label">Az első </e>
+ <e g="label1" i="label">Szöveg elválasztása a következőnél</e>
+ <e g="headingcb" i="label">Címsor</e>
+ <e g="bordercb" i="label">Szegély</e>
+ <e g="dontsplitcb" i="label">Táblázat egyben tartása</e>
+ <e g="autofmt" i="label">Automatikus formázás…</e>
+ <e g="repeatheading" i="label">Fejléc ismétlése</e>
+ <e g="keepcolumn" i="label">Összes oszlop azonos méretű</e>
+ <e g="ConvertTextTableDialog" i="title">Táblázat átalakítása szöveggé</e>
+ <e g="semicolons" i="label">Pontosvesszők</e>
+ <e g="2" i="label">Beállítások</e>
+ <e g="other" i="label">Egyéb:</e>
+</t>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Копировать результат в:</e>
+ <e g="label6" i="label">Язык</e>
+ <e g="algorithmft" i="label">Параметры</e>
+ <e g="naturalsort" i="label">Включить естественную сортировку</e>
+ <e g="sortuser" i="label">Порядок сортировки, определённый пользователем</e>
+ <e g="header" i="label">Диапазон содержит...</e>
+ <e g="topdown" i="label">Сверху вниз (сортировка строк)</e>
+ <e g="case" i="label">Учитывать регистр</e>
+ <e g="formats" i="label">Включая форматы</e>
+ <e g="leftright" i="label">Слева направо (сортировка столбцов)</e>
+ <e g="label1" i="label">Направление</e>
+</t>

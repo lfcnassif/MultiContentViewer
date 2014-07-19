@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="ok" i="label">斷字</e>
+ <e g="label1" i="label">單字</e>
+ <e g="hyphall" i="label">全部斷字(~A)</e>
+ <e g="continue" i="label">略過</e>
+ <e g="HyphenateDialog" i="title">斷字處理</e>
+</t>

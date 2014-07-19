@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Címlap</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Új címlapok beszúrása</e>
+ <e g="label3" i="label">Oldaltulajdonságok szerkesztése</e>
+ <e g="label2" i="label">Oldalszámozás</e>
+ <e g="label1" i="label">Címlapok készítése</e>
+ <e g="label8" i="label">oldal</e>
+ <e g="label6" i="label">Címlapok száma</e>
+ <e g="label7" i="label">Címlapok elhelyezése</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Oldalszámozás újrakezdése címlapok után</e>
+ <e g="FT_PAGE_PAGES" i="label">Oldalszám</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Meglévő oldalak címlappá alakítása</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Az első címlap oldalszámának beállítása</e>
+ <e g="RB_DOCUMENT_START" i="label">Dokumentum eleje</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Szerkesztés...</e>
+ <e g="RB_PAGE_START" i="label">Oldal</e>
+ <e g="FT_PAGE_COUNT" i="label">Oldalszám</e>
+</t>

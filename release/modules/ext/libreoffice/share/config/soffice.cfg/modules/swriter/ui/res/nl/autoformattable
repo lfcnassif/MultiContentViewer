@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">Uitlijning</e>
+ <e g="fontcb" i="label">Lettertype</e>
+ <e g="label2" i="label">Opmaak</e>
+ <e g="bordercb" i="label">Randen</e>
+ <e g="AutoFormatTableDialog" i="title">AutoOpmaak</e>
+ <e g="patterncb" i="label">Patroon</e>
+ <e g="numformatcb" i="label">Getalnotatie</e>
+ <e g="rename" i="label">Naam wijzigen</e>
+ <e g="label1" i="label">Opmaak</e>
+</t>

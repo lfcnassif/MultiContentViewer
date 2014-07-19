@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="ok" i="label">Elválasztás</e>
+ <e g="label1" i="label">Szó</e>
+ <e g="hyphall" i="label">Elválasztás mindenhol</e>
+ <e g="continue" i="label">Kihagyás</e>
+ <e g="HyphenateDialog" i="title">Elválasztás</e>
+</t>

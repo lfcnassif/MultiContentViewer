@@ -1,0 +1,1 @@
+Aruandekoostajaga saab luua stiilseid, targa ilmega andmebaasi aruandeid. Paindliku aruanderedaktoriga saab määrata rühma ja lehe päised ja jalused. Lisaks on keerukate andmebaasiaruannete jaoks saadaval arvutusväljad.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Слова</e>
+ <e g="label3" i="label">Символов без пробелов:</e>
+ <e g="label9" i="label">Выбор</e>
+ <e g="WordCountDialog" i="title">Количество слов</e>
+ <e g="cjkcharsft" i="label">Азиатские символы и корейские слоги</e>
+ <e g="label10" i="label">Документ</e>
+ <e g="label2" i="label">Символов с пробелами:</e>
+</t>

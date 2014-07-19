@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">線上取得更多擴充套件...</e>
+ <e g="ExtensionManagerDialog" i="title">擴充套件管理員</e>
+ <e g="label1" i="label">擴充套件的類型</e>
+ <e g="user" i="label">使用者</e>
+ <e g="update" i="label">檢查更新...</e>
+ <e g="shared" i="label">共享</e>
+ <e g="add" i="label">加入...</e>
+ <e g="progressft" i="label">正在加入 %EXTENSION_NAME</e>
+ <e g="bundled" i="label">安裝</e>
+</t>

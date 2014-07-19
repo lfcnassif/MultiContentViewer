@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Anteprima</e>
+ <e g="label22" i="label">Distanza</e>
+ <e g="kerningft" i="label">da</e>
+ <e g="relativefontsize" i="label">Dim. caratt. relativa</e>
+ <e g="0deg" i="label">0 gradi</e>
+ <e g="90deg" i="label">90 gradi</e>
+ <e g="superscript" i="label">Apice</e>
+ <e g="normal" i="label">Normale</e>
+ <e g="270deg" i="label">270 gradi</e>
+ <e g="liststore1" i="0">Predefinita</e>
+ <e g="liststore1" i="1">Espanso</e>
+ <e g="liststore1" i="2">Condensato</e>
+ <e g="pairkerning" i="label">Crenatura a coppia</e>
+ <e g="label24" i="label">Larghezza scala</e>
+ <e g="raiselower" i="label">Aumenta/riduci di</e>
+ <e g="rotate" i="label">Rotazione</e>
+ <e g="rotateandscale" i="label">Rotazione / Scala</e>
+ <e g="subscript" i="label">Pedice</e>
+ <e g="fittoline" i="label">Adatta alla riga</e>
+ <e g="automatic" i="label">Automatico</e>
+ <e g="label20" i="label">Posizione</e>
+</t>

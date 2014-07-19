@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Абзац</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">строки</e>
+ <e g="tabs" i="label">Табуляция</e>
+ <e g="label3" i="label">Первое</e>
+ <e g="label1" i="label">Разделитель текста</e>
+ <e g="headingcb" i="label">Заголовок</e>
+ <e g="bordercb" i="label">Обрамление</e>
+ <e g="dontsplitcb" i="label">Не разбивать таблицу</e>
+ <e g="autofmt" i="label">Автоформат...</e>
+ <e g="repeatheading" i="label">Повторять заголовок</e>
+ <e g="keepcolumn" i="label">Одинаковая ширина всех столбцов</e>
+ <e g="ConvertTextTableDialog" i="title">Преобразовать таблицу в текст</e>
+ <e g="semicolons" i="label">Точка с запятой</e>
+ <e g="2" i="label">Свойства</e>
+ <e g="other" i="label">Другой:</e>
+</t>

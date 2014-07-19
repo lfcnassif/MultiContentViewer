@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="create" i="label">创建...</e>
+ <e g="macrosft" i="label">宏</e>
+ <e g="delete" i="label">删除...</e>
+ <e g="rename" i="label">重命名...</e>
+ <e g="run" i="label">运行</e>
+ <e g="ScriptOrganizerDialog" i="title">%MACROLANG 宏</e>
+</t>

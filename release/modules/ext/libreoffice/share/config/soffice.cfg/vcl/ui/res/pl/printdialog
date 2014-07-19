@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">Wszystkie strony</e>
+ <e g="pagestxt" i="label">Strony</e>
+ <e g="label5" i="label">Drukarka</e>
+ <e g="label11" i="label">Drukuj</e>
+ <e g="setup" i="label">Właściwości...</e>
+ <e g="label9" i="label">Komentarz:</e>
+ <e g="customlabel" i="label">niestandardowy</e>
+ <e g="liststore3" i="0">Automatycznie</e>
+ <e g="label15" i="label">Drukuj</e>
+ <e g="label19" i="label">Kolejność</e>
+ <e g="sheetmargintxt1" i="label">Margines</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">Wszystkie arkusze</e>
+ <e g="label2" i="label">Układ strony</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Poziomo</e>
+ <e g="label6" i="label">Szczegóły</e>
+ <e g="label12" i="label">Slajdów na stronę</e>
+ <e g="label16" i="label">Komentarze</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">od góry do dołu, następnie w lewo</e>
+ <e g="ordertxt" i="label">Kolejność</e>
+ <e g="label3" i="label">Strony arkusza papieru</e>
+ <e g="pagespersheetbtn" i="label">Stron na arkusz</e>
+ <e g="label7" i="label">Stan:</e>
+ <e g="label13" i="label">Zakres i liczba kopii</e>
+ <e g="label17" i="label">Uwzględnij</e>
+ <e g="printpages" i="label">Strony</e>
+ <e g="location" i="label">Miejsce</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Drukuj do pliku</e>
+ <e g="reverseorder" i="label">Drukuj strony w odwrotnej kolejności</e>
+ <e g="collate" i="label">Sortuj</e>
+ <e g="label10" i="label">Dokument</e>
+ <e g="liststore2" i="1">od góry do dołu, następnie w prawo</e>
+ <e g="label8" i="label">Lokalizacja:</e>
+ <e g="printselection" i="label">Zaznaczenie</e>
+ <e g="PrintDialog" i="title">Drukuj</e>
+ <e g="comment" i="label">Długa nazwa drukarki</e>
+ <e g="liststore1" i="6">Niestandardowy</e>
+ <e g="singleprintjob" i="label">Utwórz pojedyncze zadania drukowania dla wydruku sortowanego</e>
+ <e g="sheetmargintxt2" i="label">do krawędzi arkusza</e>
+ <e g="by" i="label">przez</e>
+ <e g="label1" i="label">Ogólne</e>
+ <e g="label20" i="label">Opcje</e>
+ <e g="liststore2" i="3">od lewej do prawej, następnie w dół</e>
+ <e g="printpaperfromsetup" i="label">Użyj wyłącznie zasobnika papieru wybranego w preferencjach drukarki</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Rysuj krawędź wokół każdej strony</e>
+ <e g="fromwhich" i="label">Od których wydruk</e>
+ <e g="pagemargintxt1" i="label">Abstand</e>
+ <e g="status" i="label">Drukarka domyślna</e>
+ <e g="liststore2" i="0">od lewej do prawej, następnie w dół</e>
+ <e g="printselectedsheets" i="label">Zaznaczone arkusze</e>
+ <e g="label21" i="label">Opcje</e>
+ <e g="liststore3" i="1">Pionowo</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Zaznaczone komórki</e>
+ <e g="pagemargintxt2" i="label">między stronami</e>
+ <e g="label14" i="label">Liczba kopii</e>
+ <e g="brochure" i="label">Broszura</e>
+ <e g="label18" i="label">Układ</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Orientacja</e>
+</t>

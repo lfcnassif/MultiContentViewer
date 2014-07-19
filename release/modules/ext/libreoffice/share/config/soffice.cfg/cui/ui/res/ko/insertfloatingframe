@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Default</e>
+ <e g="heightlabel" i="label">높이</e>
+ <e g="label2" i="label">테두리</e>
+ <e g="scrollbarauto" i="label">Automatic</e>
+ <e g="label1" i="label">스크롤 막대</e>
+ <e g="label7" i="label">내용</e>
+ <e g="borderon" i="label">On</e>
+ <e g="InsertFloatingFrameDialog" i="title">부동 프레임 등록 정보</e>
+ <e g="buttonbrowse" i="label">Browse...</e>
+ <e g="label6" i="label">이름</e>
+ <e g="widthlabel" i="label">너비</e>
+ <e g="scrollbaroff" i="label">Off</e>
+ <e g="scrollbaron" i="label">On</e>
+ <e g="defaultheight" i="label">Default</e>
+ <e g="borderoff" i="label">Off</e>
+ <e g="label3" i="label">Spacing to contents</e>
+</t>

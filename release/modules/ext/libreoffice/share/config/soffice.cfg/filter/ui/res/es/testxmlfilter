@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">XSLT para exportación</e>
+ <e g="label5" i="label">XSLT para importación</e>
+ <e g="currentdocument" i="label">Documento actual</e>
+ <e g="importbrowse" i="label">Examinar...</e>
+ <e g="label2" i="label">Importar</e>
+ <e g="exportbrowse" i="label">Examinar...</e>
+ <e g="templateimport" i="label">Plantilla para importación</e>
+ <e g="displaysource" i="label">Mostrar el origen</e>
+ <e g="TestXMLFilterDialog" i="title">Probar filtro XML: %s</e>
+ <e g="label4" i="label">Transformar documento</e>
+ <e g="label6" i="label">Transformar archivo</e>
+ <e g="label1" i="label">Exportar</e>
+ <e g="recentfile" i="label">Archivo reciente</e>
+</t>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">Выравнивание</e>
+ <e g="fontcb" i="label">Шрифт</e>
+ <e g="label2" i="label">Форматирование</e>
+ <e g="bordercb" i="label">Обрамление</e>
+ <e g="AutoFormatTableDialog" i="title">Автоформат</e>
+ <e g="patterncb" i="label">Орнамент</e>
+ <e g="numformatcb" i="label">Числовой формат</e>
+ <e g="rename" i="label">Переименовать</e>
+ <e g="label1" i="label">Формат</e>
+</t>

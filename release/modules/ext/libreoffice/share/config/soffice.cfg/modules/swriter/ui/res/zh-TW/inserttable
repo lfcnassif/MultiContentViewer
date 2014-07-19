@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">標籤</e>
+ <e g="ok" i="label">插入</e>
+ <e g="headercb" i="label">標題(_D)</e>
+ <e g="bordercb" i="label">邊框(_B)</e>
+ <e g="label1" i="label">通用</e>
+ <e g="repeatcb" i="label">新頁重複標題列(_P)</e>
+ <e g="dontsplitcb" i="label">表格不要跨頁切分(_S)</e>
+ <e g="3" i="label">欄 </e>
+ <e g="label2" i="label">選項</e>
+ <e g="InsertTableDialog" i="title">插入表格</e>
+ <e g="4" i="label">列(_R)</e>
+ <e g="repeatheaderafter" i="label">標題列(_W)</e>
+ <e g="autoformat" i="label">自動格式(_F)</e>
+</t>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 daje maksymalną Jakość i największy rozmiar pliku.</e>
+ <e g="liststore2" i="3">punkt</e>
+ <e g="level2rb" i="label">Poziom 2</e>
+ <e g="label17" i="label">Podgląd</e>
+ <e g="label2" i="label">Głębia koloru</e>
+ <e g="label10" i="label">1 daje minimalną Jakość i najmniejszy rozmiar pliku.</e>
+ <e g="label16" i="label">Kodowanie</e>
+ <e g="label22" i="label">0 daje największy rozmiar pliku i najszybsze ładowanie.</e>
+ <e g="label" i="label">Kompresja</e>
+ <e g="label1" i="label">Rozmiar</e>
+ <e g="compressnone" i="label">Brak</e>
+ <e g="resolutionft" i="label">Rozdzielczość</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Wysokość</e>
+ <e g="liststore1" i="0">px/cm</e>
+ <e g="label20" i="label">Kompresja</e>
+ <e g="liststore1" i="2">px/metr</e>
+ <e g="binarycb" i="label">Binarnie</e>
+ <e g="GraphicExportDialog" i="title"> Opcje</e>
+ <e g="textcb" i="label">Tekst</e>
+ <e g="color1rb" i="label">Kolor</e>
+ <e g="liststore2" i="4">piksel</e>
+ <e g="epsipreviewcb" i="label">Wymiana (EPSI)</e>
+ <e g="label5" i="label">Szerokość</e>
+ <e g="color2rb" i="label">Odcienie szarości</e>
+ <e g="label19" i="label">Wersja</e>
+ <e g="label4" i="label">Informacja</e>
+ <e g="rlecb" i="label">Kodowanie RLE</e>
+ <e g="labe" i="label">Obiekty rysunkowe</e>
+ <e g="liststore2" i="0">cali</e>
+ <e g="label12" i="label">Tryb</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">Kodowanie LZW</e>
+ <e g="label3" i="label">Kompresja</e>
+ <e g="tiffpreviewcb" i="label">Podgląd obrazu (TIFF)</e>
+ <e g="savetransparencycb" i="label">Zapisz przezroczystość</e>
+ <e g="level1rb" i="label">Poziom 1</e>
+ <e g="liststore1" i="1">px/cal</e>
+ <e g="label23" i="label">9 daje najmniejszy rozmiar pliku i najwolniejsze ładowanie.</e>
+ <e g="label18" i="label">Format koloru</e>
+ <e g="interlacedcb" i="label">Z przeplotem</e>
+ <e g="label9" i="label">Jakość</e>
+</t>

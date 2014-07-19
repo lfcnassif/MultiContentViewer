@@ -1,0 +1,1 @@
+Utilisez le Report Builder pour créer des rapports de base de données stylés et d'apparence agréable. L'éditeur de rapport permet de définir des groupes et des en-têtes de page ansi que des groupes et des pieds de page. De plus, il est possible de calculer les champs afin de réaliser des rapports de base de données complexes.

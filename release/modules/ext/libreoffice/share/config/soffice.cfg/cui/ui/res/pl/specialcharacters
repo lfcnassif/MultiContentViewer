@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">Znaki:</e>
+ <e g="fontft" i="label">Czcionka</e>
+ <e g="SpecialCharactersDialog" i="title">Znaki specjalne</e>
+ <e g="subsetft" i="label">Podzbiór</e>
+</t>

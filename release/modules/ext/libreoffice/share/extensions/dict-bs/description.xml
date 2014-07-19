@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="2013.01.22" />
+    <identifier value="org.libreoffice.bs.hunspell.dictionaries" />
+    <display-name>
+        <name lang="en-US">Bosnian spelling dictionary</name>
+        <name lang="af">Bosnian spelling dictionary</name>
+        <name lang="am">Bosnian spelling dictionary</name>
+        <name lang="ar">قاموس التهجئة البوسني</name>
+        <name lang="as">বচনিয়ান বানান শব্দকোষ</name>
+        <name lang="ast">Diccionariu ortográficu pal bosniu</name>
+        <name lang="be">Bosnian spelling dictionary</name>
+        <name lang="bg">Босненски правописен речник</name>
+        <name lang="bn">Bosnian spelling dictionary</name>
+        <name lang="bn-IN">Bosnian spelling dictionary</name>
+        <name lang="bo">Bosnian spelling dictionary</name>
+        <name lang="br">Geriadur ar reizhskrivadur evit ar bosnianeg</name>
+        <name lang="brx">Bosnian spelling dictionary</name>
+        <name lang="bs">Bosnian spelling dictionary</name>
+        <name lang="ca">Bosnià: corrector ortogràfic</name>
+        <name lang="ca-XV">Bosnià: corrector ortogràfic</name>
+        <name lang="cs">Bosenský slovník pro kontrolu pravopisu</name>
+        <name lang="cy">Geiriadur sillafu Bosnieg</name>
+        <name lang="da">Bosnisk ordbog til stavekontrol</name>
+        <name lang="de">Bosnisches Wörterbuch für Rechtschreibprüfung</name>
+        <name lang="dgo">Bosnian spelling dictionary</name>
+        <name lang="dz">Bosnian spelling dictionary</name>
+        <name lang="el">Βοσνιακό ορθογραφικό λεξικό</name>
+        <name lang="en-GB">Bosnian spelling dictionary</name>
+        <name lang="en-ZA">Bosnian spelling dictionary</name>
+        <name lang="eo">Literumado por la bosnia</name>
+        <name lang="es">Diccionario ortográfico para el bosnio</name>
+        <name lang="et">Bosnia keele õigekirjakontrolli sõnastik</name>
+        <name lang="eu">Bosnian spelling dictionary</name>
+        <name lang="fa">Bosnian spelling dictionary</name>
+        <name lang="fi">Bosnian oikolukusanasto</name>
+        <name lang="fr">Dictionnaire orthographique bosniaque</name>
+        <name lang="ga">Bosnian spelling dictionary</name>
+        <name lang="gd">Faclair litreachaidh airson na Bosnaise</name>
+        <name lang="gl">Corrector ortográfico do bosníaco</name>
+        <name lang="gu">બોસ્નિયન જોડણી ચકાસણી શબ્દકોષ</name>
+        <name lang="he">מילון בדיקת איות בבוסנית</name>
+        <name lang="hi">बोस्नियाई वर्तनी शब्दकोश</name>
+        <name lang="hr">Pravopisni rječnik bošnjačkog jezika</name>
+        <name lang="hu">Bosnyák helyesírási szótár</name>
+        <name lang="id">Kamus ejaan Bosnia</name>
+        <name lang="is">Bosnian spelling dictionary</name>
+        <name lang="it">Dizionario ortografico bosniaco</name>
+        <name lang="ja">ボスニア語スペル辞書</name>
+        <name lang="ka">Bosnian spelling dictionary</name>
+        <name lang="kk">Bosnian spelling dictionary</name>
+        <name lang="km">វចនានុក្រុម​​អក្ខរាវិរុទ្ធ​ភាសា​ប៊ូស្នី</name>
+        <name lang="kn">ಬೋಸ್ನಿಯನ್ ಕಾಗುಣಿತ ಶಬ್ಧಕೋಶ</name>
+        <name lang="ko">보스니아어 맞춤법 검사 사전</name>
+        <name lang="kok">Bosnian spelling dictionary</name>
+        <name lang="ks">Bosnian spelling dictionary</name>
+        <name lang="ku">Bosnian spelling dictionary</name>
+        <name lang="lb">Bosnian spelling dictionary</name>
+        <name lang="lo">Bosnian spelling dictionary</name>
+        <name lang="lt">Bosnian spelling dictionary</name>
+        <name lang="lv">Bosniešu pareizrakstības vārdnīca</name>
+        <name lang="mai">Bosnian spelling dictionary</name>
+        <name lang="mk">Bosnian spelling dictionary</name>
+        <name lang="ml">ബോസ്നിയന്‍ സ്പെല്ലിങ് നിഘണ്ടു</name>
+        <name lang="mn">Bosnian spelling dictionary</name>
+        <name lang="mni">Bosnian spelling dictionary</name>
+        <name lang="mr">बोसनियन शुध्दलेखन शब्दकोश</name>
+        <name lang="my">Bosnian spelling dictionary</name>
+        <name lang="nb">Bosnisk stavekontroll</name>
+        <name lang="ne">Bosnian spelling dictionary</name>
+        <name lang="nl">Woordenlijst voor spellingcontrole voor Bosnië</name>
+        <name lang="nn">Bosnisk stavekontroll</name>
+        <name lang="nr">Bosnian spelling dictionary</name>
+        <name lang="nso">Bosnian spelling dictionary</name>
+        <name lang="oc">Diccionari ortografic bosniac</name>
+        <name lang="om">Bosnian spelling dictionary</name>
+        <name lang="or">ବୋସନିଆନ ବନାନ ଅଭିଧାନ</name>
+        <name lang="pa-IN">Bosnian spelling dictionary</name>
+        <name lang="pl">Bośniacki słownik ortograficzny</name>
+        <name lang="pt">Dicionário ortográfico bósnio</name>
+        <name lang="pt-BR">Dicionário ortográfico bósnio</name>
+        <name lang="ro">Dicționar ortografic bosnian</name>
+        <name lang="ru">Боснийский орфографический словарь</name>
+        <name lang="rw">Bosnian spelling dictionary</name>
+        <name lang="sa-IN">Bosnian spelling dictionary</name>
+        <name lang="sat">Bosnian spelling dictionary</name>
+        <name lang="sd">Bosnian spelling dictionary</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0"/>
+    </dependencies>
+</description>

@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 10b ଧାରଣ କରାଯାଇଥିବା ଭରଣକୁ ଗୌଣ ଭାବରେ ଚିହ୍ନଟ କରିବା ପାଇଁ ଏହି ଚେକ ବାକ୍ସକୁ ସମାନ ଶୀର୍ଷକ ଦ୍ୱାରା ଚିହ୍ନଟ କରନ୍ତୁ।
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText a0 ଗୋଟିଏ ବୈକଳ୍ପିକ ସଂକ୍ଷିପ୍ତ ସାରାଂଶ କିମ୍ବା ଟିପ୍ପଣୀ ଭରଣ କରନ୍ତୁ।
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 27f ଆପଣଙ୍କର ୱିକି ନିବେଶର ଶୀର୍ଷକକୁ ଭରଣ କରନ୍ତୁ। ଏହା ଆପଣଙ୍କର ୱିକି ନିବେଶର ଉପର ଶୀର୍ଷକ ଅଟେ। କୈଣସି ନୂତନ ଭରଣ ପାଇଁ, ଶୀର୍ଷକ ନିଶ୍ଚିତ ଭାବରେ ଅନନ୍ୟ ହୋଇଥିବା ଆବଶ୍ୟକ। ଯଦି ଆପଣ କୈଣସି ସ୍ଥିତବାନ ସୀର୍ଷକକୁ ଭରଣ କରନ୍ତି, ତେବେ ଆପଣଙ୍କର ଧାରଣ ସ୍ଥିତବାନ ଭରଣ ଉପରେ ନବଲିଖନ ହୋଇଯିବ।
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 68 ମନୋନିତକର ମାଧ୍ଯମ ୱିକି ସରବର୍ ମିଶାଣ ସରବର୍
+22 vnd.com.sun.star.wiki%3AsendDialog 68 ମନୋନିତକର ମାଧ୍ଯମ ୱିକି ସରବର୍ ମିଶାଣ ସରବର୍
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 122 ଆପଣଙ୍କର ତନ୍ତ୍ର ୱେବ ବ୍ରାଉଜରକୁ ଖୋଲିବା ପାଇଁ ଏହି ବାକ୍ସକୁ ଚିହ୍ନଟ କରନ୍ତୁ ଏବଂ ରଖାଯାଇଥିବା ୱିକି ପୃଷ୍ଠାକୁ ଦର୍ଶାନ୍ତୁ।
+1f vnd.com.sun.star.wiki%3Aaccount 88 http://ରୁ ଆରମ୍ଭ ହୋଇଥିବା, ମାଧ୍ଯମ ୱିକି ସର୍ଭରର URL ଭରଣ କରନ୍ତୁ
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 146 ଅଧିବେଶନ ମଧ୍ଯରେ ଆପଣଙ୍କ ପ୍ରବେଶ ସଂକେତକୁ ରଖିବା ପାଇଁ ସକ୍ରିୟ କରନ୍ତୁ। ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ସକ୍ରିୟ କରାଯିବା ଉଚିତ, Tools - Options - %PRODUCTNAME - Security .
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField ed ମେଡ଼ିଆ ୱିକି ସର୍ଭରରେ ଆପଣଙ୍କର ପ୍ରବେଶ ସଂକେତକୁ ଭରଣ କରନ୍ତୁ। ଅଜଣା ଅଭିଗମ୍ୟତା ପାଇଁ ଖାଲି ରଖନ୍ତୁ।
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField e1 ମେଡ଼ିଆ ୱିକି ସର୍ଭରରେ ଆପଣଙ୍କର ଚାଳକ ନାମକୁ ଭରଣ କରନ୍ତୁ। ଅଜଣା ଅଭିଗମ୍ୟତା ପାଇଁ ଖାଲି ରଖନ୍ତୁ।
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 88 http://ରୁ ଆରମ୍ଭ ହୋଇଥିବା, ମାଧ୍ଯମ ୱିକି ସର୍ଭରର URL ଭରଣ କରନ୍ତୁ
+1c vnd.com.sun.star.wiki%3Asend 10d ପ୍ରଚଳିତ ଲେଖକ ଦଲିଲକୁ ମାଧ୍ଯମ ୱିକି ସର୍ଭରରେ ଅବରୋହଣ କରିବା ପାଇଁ ମାଧ୍ୟମ ୱିକିକୁ ପଠାଯାଇଥିବା ଫାଇଲକୁ  ବାଛନ୍ତୁ।
+20 vnd.com.sun.star.wiki%3Aaboutbox 1c9 Wiki Publisher କୁ ବ୍ୟବହାର କରି ଆପଣ ଆପଣଙ୍କର ପ୍ରଚଳିତ ଲିଖିତ ପାଠ୍ୟକୁ ମାଧ୍ୟମ ୱିକି ସର୍ରଭରେ ଅବରୋହଣ କରିପାରିବେ। ଅବରୋହଣ କରିସାରିବା ପରେ, ସମସ୍ତ ୱିକି ଚାଳକ ମାନେ ୱିକିରେ ଆପଣଙ୍କର ଦଲିଲକୁ ପଢ଼ି ପାରିବେ।
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 63 ତାଲିକାରୁ ବଚ୍ଛିତ ଭରଣଗୁଡ଼ିକୁ କାଢ଼ିଥାଏ
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 257 ଗୋଟିଏ ନୂତନ ୱିକି ସର୍ଭର ଯୋଗ କରିବା ପାଇଁ ଯୋଗ କରନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ।ଗୋଟିଏ ଭରଣକୁ ବାଛନ୍ତୁ ଏବଂ ଖାତା ବିନ୍ୟାସକୁ ସମ୍ପାଦନ କରିବା ପାଇଁ ସମ୍ପାଦନ କରନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ। ଗୋଟିଏ ଭରଣ ବାଛନ୍ତୁ ଏବଂ ତାଲିକାରୁ କାଢ଼ିବା ପାଇଁ କାଢ଼ନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ।
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton a4 ବଚ୍ଛିତ ଭରଣକୁ ସମ୍ପାଦନ କରିବା ପାଇଁ ମାଧ୍ଯମ ୱିକି ସଂଳାପକୁ ଖୋଲନ୍ତୁ।
+20 vnd.com.sun.star.wiki%3Asettings 257 ଗୋଟିଏ ନୂତନ ୱିକି ସର୍ଭର ଯୋଗ କରିବା ପାଇଁ ଯୋଗ କରନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ।ଗୋଟିଏ ଭରଣକୁ ବାଛନ୍ତୁ ଏବଂ ଖାତା ବିନ୍ୟାସକୁ ସମ୍ପାଦନ କରିବା ପାଇଁ ସମ୍ପାଦନ କରନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ। ଗୋଟିଏ ଭରଣ ବାଛନ୍ତୁ ଏବଂ ତାଲିକାରୁ କାଢ଼ିବା ପାଇଁ କାଢ଼ନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ।
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton b5 ତାଲିକାରେ ଗୋଟିଏ ନୂତନ ଭରଣ ଯୋଗ କରିବା ପାଇଁ ମେଡ଼ିଆ ୱିକି ସଂଳାପକୁ ଖୋଲନ୍ତୁ।

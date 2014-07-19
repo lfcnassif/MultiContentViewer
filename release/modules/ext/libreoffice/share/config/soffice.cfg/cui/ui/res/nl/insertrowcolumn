@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="InsertRowColumnDialog" i="title">Rij invoegen</e>
+ <e g="label2" i="label">Positie</e>
+ <e g="insert_before" i="label">_Ervoor</e>
+ <e g="insert_after" i="label">Erna</e>
+ <e g="label3" i="label">_Getal</e>
+ <e g="label1" i="label">Invoegen</e>
+</t>

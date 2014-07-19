@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="checkbox-reduce-resolution" i="label">画像の解像度を下げる</e>
+ <e g="label6" i="label">品質:</e>
+ <e g="label8" i="label">表示サイズ:</e>
+ <e g="label10" i="label">新しい容量:</e>
+ <e g="label2" i="label">幅:</e>
+ <e g="interpolation-method-store" i="3">Lanczos</e>
+ <e g="label12" i="label">px</e>
+ <e g="label5" i="label">圧縮レベル:</e>
+ <e g="radio-lossless" i="label">ロスレス圧縮</e>
+ <e g="label14" i="label">DPI</e>
+ <e g="label7" i="label">元のサイズ:</e>
+ <e g="interpolation-method-store" i="1">バイリニア</e>
+ <e g="label9" i="label">画像の容量:</e>
+ <e g="interpolation-method-store" i="2">バイキュービック</e>
+ <e g="label1" i="label">画像の情報</e>
+ <e g="calculate" i="label">計算</e>
+ <e g="label11" i="label">補間方法:</e>
+ <e g="interpolation-method-store" i="0">なし</e>
+ <e g="label4" i="label">解像度:</e>
+ <e g="label3" i="label">高さ:</e>
+ <e g="label13" i="label">px</e>
+ <e g="radio-jpeg" i="label">JPEG 圧縮</e>
+</t>

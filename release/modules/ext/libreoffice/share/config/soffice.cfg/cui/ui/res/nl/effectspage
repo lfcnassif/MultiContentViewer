@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Titel</e>
+ <e g="overlinecolorft" i="label">Kleur bovenlijn</e>
+ <e g="liststore6" i="7">Streep (vet)</e>
+ <e g="liststore3" i="1">Punt</e>
+ <e g="underlinecolorft" i="label">Kleur onderstrepen</e>
+ <e g="label42" i="label">Opties</e>
+ <e g="liststore1" i="0">(Zonder)</e>
+ <e g="individualwordscb" i="label">Woord voor woord</e>
+ <e g="label46" i="label">Streep boven</e>
+ <e g="liststore5" i="3">Vet</e>
+ <e g="liststore6" i="14">Golf</e>
+ <e g="liststore6" i="10">Punt streep</e>
+ <e g="liststore6" i="0">(Zonder)</e>
+ <e g="liststore1" i="2">Kleine letters</e>
+ <e g="liststore5" i="5">Met X</e>
+ <e g="liststore6" i="16">Dubbele golf</e>
+ <e g="liststore3" i="4">Accent</e>
+ <e g="liststore6" i="6">Streep</e>
+ <e g="outlinecb" i="label">Omtrek</e>
+ <e g="liststore4" i="1">Onder tekst</e>
+ <e g="fontcolorft" i="label">Tekstkleur</e>
+ <e g="liststore2" i="0">(Zonder)</e>
+ <e g="liststore5" i="2">Dubbel</e>
+ <e g="liststore6" i="13">Punt punt streep (vet)</e>
+ <e g="emphasisft" i="label">Accentteken</e>
+ <e g="liststore6" i="3">Vet</e>
+ <e g="reliefft" i="label">Reliëf</e>
+ <e g="liststore2" i="2">Gegraveerd</e>
+ <e g="label50" i="label">Voorbeeld</e>
+ <e g="liststore6" i="15">Golf (vet)</e>
+ <e g="liststore6" i="9">Lange streep (vet)</e>
+ <e g="liststore6" i="5">Gestippeld (vet)</e>
+ <e g="liststore3" i="3">Schijf</e>
+ <e g="liststore4" i="0">Boven tekst</e>
+ <e g="liststore5" i="1">Enkel</e>
+ <e g="label47" i="label">Doorhalen</e>
+ <e g="hiddencb" i="label">Verborgen</e>
+ <e g="liststore6" i="12">Punt punt streep</e>
+ <e g="liststore6" i="2">Dubbel</e>
+ <e g="liststore3" i="0">(Zonder)</e>
+ <e g="liststore1" i="4">Kleine hoofdletters</e>
+ <e g="shadowcb" i="label">Schaduw</e>
+ <e g="liststore2" i="1">Geëmbosseerd</e>
+ <e g="liststore6" i="8">Lange streep</e>
+ <e g="liststore3" i="2">Cirkel</e>
+ <e g="liststore6" i="4">Gestippeld</e>
+ <e g="label48" i="label">Onderstreping</e>
+ <e g="blinkingcb" i="label">Knipperend</e>
+ <e g="liststore1" i="1">Hoofdletters</e>
+ <e g="positionft" i="label">Positie</e>
+ <e g="liststore5" i="4">Met /</e>
+ <e g="liststore5" i="0">(Zonder)</e>
+ <e g="effectsft" i="label">Effecten</e>
+ <e g="liststore6" i="11">Punt streep (vet)</e>
+ <e g="liststore6" i="1">Enkel</e>
+</t>

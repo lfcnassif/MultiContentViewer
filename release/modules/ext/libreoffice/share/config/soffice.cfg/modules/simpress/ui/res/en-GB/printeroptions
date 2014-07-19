@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Size</e>
+ <e g="grayscale" i="label">Greyscale</e>
+ <e g="tilesheet" i="label">Tile sheet of paper with repeated slides</e>
+ <e g="fittoprintable" i="label">Fit to printable page</e>
+ <e g="printname" i="label">Slide name</e>
+ <e g="printhidden" i="label">Hidden pages</e>
+ <e g="originalcolors" i="label">Original size</e>
+ <e g="blackandwhite" i="label">Black &amp; white</e>
+ <e g="distributeonmultiple" i="label">Distribute on multiple sheets of paper</e>
+ <e g="printdatetime" i="label">Date and time</e>
+ <e g="label4" i="label">Contents</e>
+ <e g="label5" i="label">Colour</e>
+ <e g="originalsize" i="label">Original size</e>
+</t>

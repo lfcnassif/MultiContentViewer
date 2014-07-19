@@ -1,0 +1,2 @@
+O Compactador de Apresentações é utilizado para reduzir o tamanho das suas apresentações. As imagens serão comprimidas e os dados desnecessários serão removidos.
+O Compactador de Apresentações pode otimizar a qualidade da imagem. Útil porque as apresentações para serem exibidas numa tela ou projetor não requerem a mesma qualidade que as imagens para impressão.

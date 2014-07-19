@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 7f Merk hierdie blokkie om die opgelaaide bladsy as 'n klein redigering te merk van 'n reeds bestaande bladsy met dieselfde titel.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 30 Tik 'n opsionele kort opsomming of opmerking in.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText f2 Tik die titel van jou wiki-inskrywing. Dit is die boonste opskrif van jou wiki-inskrywing. Vir 'n nuwe inskrywing moet die titel uniek op hierdie wiki wees. As jy 'n bestaande titel intik, sal jou oplaai die bestaande wiki-inskrywing vervang.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 75 Kies die MediaWiki-bediener waarop u u dokument wil publiseer. Klik 'Voeg by' om 'n nuwe bediener by die lys te voeg.
+22 vnd.com.sun.star.wiki%3AsendDialog 75 Kies die MediaWiki-bediener waarop u u dokument wil publiseer. Klik 'Voeg by' om 'n nuwe bediener by die lys te voeg.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 5b Merk hierdie blokkie op jou rekenaar se blaaier te open en die opgelaaie wikibladsy te wys.
+1f vnd.com.sun.star.wiki%3Aaccount 3e Tik die URL van 'n MediaWiki-bediener in, en begin met http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 8a Aktiveer om jou wagwoord tussen sessies te stoor. Die meesterwagwoord moet geaktiveer word, kyk Nuts - Opsies - %PRODUCTNAME - Sekuriteit.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 48 Tik u wagwoord op die MediaWiki-bediener. Laat oop vir anonieme toegang.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 53 Tik jou gebruikernaam op die MediaWiki-bediener in. Laat leeg vir anonieme toegang.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3e Tik die URL van 'n MediaWiki-bediener in, en begin met http://
+1c vnd.com.sun.star.wiki%3Asend 64 Kies Lêer- Stuur - Na MediaWiki om die huidige Writer-dokument na 'n MediaWiki-bediener op te laai.
+20 vnd.com.sun.star.wiki%3Aaboutbox bd Deur die Wiki Publisher te gebruik kan jy jou huidige Writer-teksdokumente na 'n MediaWiki-bediener oplaai. Nadat jy dit opgelaai het, kan alle wikigebruikers jou dokument op die wiki lees.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 2d Verwyder die gemerkte inskrywing uit die lys.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList ce Kliek 'Voeg by' om 'n nuwe wikibediener by te voeg.Kies 'n inskrywing en kliek Redigeer om die rekeninginstellings te redigeer.Kies 'n inskrywing en kliek Verwyder om die inskrywing uit die lys te verwyder.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 42 Open die MediaWiki-dialoog om die gemerkte inskrywing te redigeer.
+20 vnd.com.sun.star.wiki%3Asettings ce Kliek 'Voeg by' om 'n nuwe wikibediener by te voeg.Kies 'n inskrywing en kliek Redigeer om die rekeninginstellings te redigeer.Kies 'n inskrywing en kliek Verwyder om die inskrywing uit die lys te verwyder.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 44 Open die MediaWiki-dialoog om 'n nuwe inskrywing by die lys te voeg.

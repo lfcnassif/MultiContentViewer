@@ -1,0 +1,1 @@
+Benutzen Sie den Report Builder, um stilvolle, schick aussehende Datenbankberichte zu erzeugen. Der flexible Berichteditor kann Gruppen- und Seitenkopfzeilen wie auch Gruppen- und Seitenfußzeilen definieren. Darüber hinaus sind Berechnungsfelder verfügbar, um komplexe Datenbankberichte zu verwirklichen.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="delete" i="label">刪除(_D)...</e>
+ <e g="test" i="label">測試 XSL_T...</e>
+ <e g="XMLFilterSettingsDialog" i="title">XML 篩選器設定</e>
+ <e g="save" i="label">另存為包裹(_S)...</e>
+ <e g="open" i="label">開啟包裹(_O)...</e>
+ <e g="edit" i="label">編輯(_E)...</e>
+ <e g="new" i="label">新增(_N)...</e>
+</t>

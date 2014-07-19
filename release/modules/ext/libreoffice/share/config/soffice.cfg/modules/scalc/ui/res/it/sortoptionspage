@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Copia risultati ordinamento in:</e>
+ <e g="label6" i="label">Lingua</e>
+ <e g="algorithmft" i="label">Opzioni</e>
+ <e g="naturalsort" i="label">Abilita l'ordinamento naturale</e>
+ <e g="sortuser" i="label">Ordinamento personalizzato</e>
+ <e g="header" i="label">L'intervallo contiene...</e>
+ <e g="topdown" i="label">Dall'alto al basso (ordina per righe)</e>
+ <e g="case" i="label">Maiuscole/minuscole</e>
+ <e g="formats" i="label">Includi i formati</e>
+ <e g="leftright" i="label">Da sinistra a destra (ordina per colonne)</e>
+ <e g="label1" i="label">Direzione</e>
+</t>

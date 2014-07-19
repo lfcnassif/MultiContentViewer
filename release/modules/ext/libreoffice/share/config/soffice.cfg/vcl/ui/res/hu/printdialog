@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">Összes oldal</e>
+ <e g="pagestxt" i="label">Oldalak</e>
+ <e g="label5" i="label">Nyomtató</e>
+ <e g="label11" i="label">Nyomtatás</e>
+ <e g="setup" i="label">Tulajdonságok...</e>
+ <e g="label9" i="label">Megjegyzés:</e>
+ <e g="customlabel" i="label">egyéni</e>
+ <e g="liststore3" i="0">Automatikus</e>
+ <e g="label15" i="label">Nyomtatás</e>
+ <e g="label19" i="label">Rendezés</e>
+ <e g="sheetmargintxt1" i="label">Margó</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">Minden oldal</e>
+ <e g="label2" i="label">Oldalelrendezés</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Fekvő</e>
+ <e g="label6" i="label">Részletek</e>
+ <e g="label12" i="label">Dia oldalanként</e>
+ <e g="label16" i="label">Megjegyzések</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">fentről lefelé, majd balra</e>
+ <e g="ordertxt" i="label">Rendezés</e>
+ <e g="label3" i="label">Oldalak</e>
+ <e g="pagespersheetbtn" i="label">Oldalak laponként</e>
+ <e g="label7" i="label">Állapot:</e>
+ <e g="label13" i="label">Tartományok és példányszám</e>
+ <e g="label17" i="label">Hatókör</e>
+ <e g="printpages" i="label">Oldalak</e>
+ <e g="location" i="label">Hely</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Nyomtatás fájlba</e>
+ <e g="reverseorder" i="label">Nyomtatás fordított oldalsorrendben</e>
+ <e g="collate" i="label">Leválogatás</e>
+ <e g="label10" i="label">Dokumentum</e>
+ <e g="liststore2" i="1">fentről lefelé, majd jobbra</e>
+ <e g="label8" i="label">Hely:</e>
+ <e g="printselection" i="label">Kijelölés</e>
+ <e g="PrintDialog" i="title">Nyomtatás</e>
+ <e g="comment" i="label">Hosszú nyomtatónév</e>
+ <e g="liststore1" i="6">Egyéni</e>
+ <e g="singleprintjob" i="label">Önálló nyomtatási feladatok létrehozása a leválogatott kimenetekhez</e>
+ <e g="sheetmargintxt2" i="label">lap széléig</e>
+ <e g="by" i="label">mérték</e>
+ <e g="label1" i="label">Általános</e>
+ <e g="label20" i="label">Beállítások</e>
+ <e g="liststore2" i="3">jobbról balra, majd le</e>
+ <e g="printpaperfromsetup" i="label">Papírtálca-választás a nyomtató beállításai szerint</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Szegély rajzolása minden oldal köré</e>
+ <e g="fromwhich" i="label">Ebből nyomtatandó</e>
+ <e g="pagemargintxt1" i="label">Távolság</e>
+ <e g="status" i="label">Alapértelmezett nyomtató</e>
+ <e g="liststore2" i="0">balról jobbra, majd le</e>
+ <e g="printselectedsheets" i="label">Kijelölt munkalapok</e>
+ <e g="label21" i="label">Beállítások</e>
+ <e g="liststore3" i="1">Álló</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Kijelölt cellák</e>
+ <e g="pagemargintxt2" i="label">oldalak között</e>
+ <e g="label14" i="label">Másolatok száma</e>
+ <e g="brochure" i="label">Brosúra</e>
+ <e g="label18" i="label">Elrendezés</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Tájolás</e>
+</t>

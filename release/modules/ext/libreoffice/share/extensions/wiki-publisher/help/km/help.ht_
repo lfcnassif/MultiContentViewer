@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 1b3 គូសធីក​ប្រអប់​នេះ ដើម្បី​សម្គាល់​ថា​ទំព័រ​ដែលបានផ្ទុក​ឡើង​​ថា​ជា​ទំព័រ​ដែលមានការកែសម្រួល​តិចតួច​របស់​ទំព័រ​ដែលបានស្រាប់​ដែលមាន​ចំណង​ជើង​ដូច​គ្នា ។
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 90 បញ្ចូល​សេចក្ដី​សង្ខេប ឬ​មតិយោបល់​ខ្លី​ជា​ជម្រើស ។
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 304 បញ្ចូល​ចំណង​ជើង​របស់​ធាតុ​វីគី ។ នេះ​គឺ​ជា​ក្បាល​ផ្នែកខាង​លើ​របស់​ធាតុ​វីគី ។ សម្រាប់​ធាតុ​ថ្មី ចំណង​ជើង​ត្រូវតែ​មាន​តែ​មួយ​គត់​នៅ​ក្នុង​វីគី​នេះ​ ។ ប្រសិនបើ​អ្នក​បញ្ចូល​ចំណង​ជើង​ដែល​មាន​ស្រាប់ ការ​ផ្ទុក​ឡើង​របស់​អ្នក​នឹង​សរសេរ​ជាន់​លើ​ធាតុ​វីគី​ដែល​មាន​ស្រាប់ ។
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 9 MediaWiki
+22 vnd.com.sun.star.wiki%3AsendDialog 9 MediaWiki
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 14b គូស​ធីក​ប្រអប់​នេះ ដើម្បី​បើក​កម្មវិធី​រុករក​បណ្ដាញ​ប្រព័ន្ធ​របស់​អញនក ហើយ​បង្ហាញ​ទំព័រ​វីគី​ដែល​បាន​ផ្ទុក​ឡើង ។
+1f vnd.com.sun.star.wiki%3Aaccount 9 MediaWiki
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 18c បើក​វា ដើម្បី​រក្សាទុក​ពាក្យ​សម្ងាត់​របស់​អ្នក​រវាង​សម័យ​នីមួយៗ ។ ពាក្យ​សម្ងាត់​មេ​ត្រូវតែ​បានបើក សូមមើល ឧបករណ៍ - ជម្រើស - %PRODUCTNAME - សុវត្ថិភាព។
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 9 MediaWiki
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 9 MediaWiki
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 9 MediaWiki
+1c vnd.com.sun.star.wiki%3Asend 13 MediaWiki MediaWiki
+20 vnd.com.sun.star.wiki%3Aaboutbox 9 MediaWiki
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 65 យក​ធាតុ​ដែលបាន​ជ្រើស​ចេញពី​បញ្ជី ។
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 1e6 ចុច​ បន្ថែម ដើម្បីបន្ថែម​ម៉ាស៊ីនបម្រើ​វីគី​ថ្មី ។ ជ្រើស​ធាតុ ហើយ​ចុច​ កែសម្រួល ដើម្បី​កែសម្រួល​ការ​កំណត់គណនី ។ជ្រើស​ធាតុ​មួយ ហើយ​ចុច​ យកចេញ ដើម្បី​យក​ធាតុ​ចេញ​ពី​បញ្ជី ។
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 9 MediaWiki
+20 vnd.com.sun.star.wiki%3Asettings 1e6 ចុច​ បន្ថែម ដើម្បីបន្ថែម​ម៉ាស៊ីនបម្រើ​វីគី​ថ្មី ។ ជ្រើស​ធាតុ ហើយ​ចុច​ កែសម្រួល ដើម្បី​កែសម្រួល​ការ​កំណត់គណនី ។ជ្រើស​ធាតុ​មួយ ហើយ​ចុច​ យកចេញ ដើម្បី​យក​ធាតុ​ចេញ​ពី​បញ្ជី ។
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 9 MediaWiki

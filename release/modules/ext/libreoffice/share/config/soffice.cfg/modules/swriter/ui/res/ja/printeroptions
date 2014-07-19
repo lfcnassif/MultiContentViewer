@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="pictures" i="label">画像やグラフィックオブジェクト</e>
+ <e g="formcontrols" i="label">フォームコントロール</e>
+ <e g="autoblankpages" i="label">自動的に挿入された空白ページを印刷</e>
+ <e g="pagebackground" i="label">ページの背景</e>
+ <e g="label6" i="label">ページ</e>
+ <e g="label4" i="label">内容</e>
+ <e g="placeholders" i="label">テキストのプレースホルダー</e>
+ <e g="label5" i="label">色</e>
+ <e g="textinblack" i="label">文字を黒で印刷</e>
+ <e g="hiddentext" i="label">隠しテキスト</e>
+</t>

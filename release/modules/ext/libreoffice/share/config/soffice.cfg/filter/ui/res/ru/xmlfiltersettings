@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="delete" i="label">Удалить...</e>
+ <e g="test" i="label">Тестировать...</e>
+ <e g="XMLFilterSettingsDialog" i="title">Настройки фильтров XML</e>
+ <e g="save" i="label">Сохранить пакет...</e>
+ <e g="open" i="label">Открыть пакет...</e>
+ <e g="edit" i="label">Изменить...</e>
+ <e g="new" i="label">Создать...</e>
+</t>

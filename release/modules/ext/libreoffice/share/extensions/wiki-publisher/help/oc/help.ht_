@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 7c marcatz aquela casa per marcar la pagina mesa en linha coma una edicion menora d'una pagina existenta qu'a lo meteis títol.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 27 Picatz un brèu resumit o un comentari.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText cb Picatz lo títol de vòstra entrada Wiki. Per una entrada novèla, lo títol deu èsser unic sus aquel Wiki. Se picatz un títol qu'existís ja, vòstra mesa en linha va espotir l'entrada Wiki existenta.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 8b Seleccionatz lo servidor MediaWiki ont volètz publicar vòstre document. Clicatz sus Apondre per apondre un servidor novèl dins la lista.
+22 vnd.com.sun.star.wiki%3AsendDialog 8b Seleccionatz lo servidor MediaWiki ont volètz publicar vòstre document. Clicatz sus Apondre per apondre un servidor novèl dins la lista.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 6a marcatz aquesta casa per dobrir vòstre navigador web del sistèma e afichar la pagina Wiki mesa en linha.
+1f vnd.com.sun.star.wiki%3Aaccount 3d Picatz l'URL del servidor MediaWiki, que comença amb http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 99 Activatz per emmagazinar vòstre senhal entre doas sesilhas. Lo senhal principal deu èsser activat, vejatz Aisinas - Opcions - %PRODUCTNAME - Seguretat.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 5a Picatz vòstre senhal pel servidor MediaWiki. Daissatz lo camp void per un accès anonime.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 64 Picatz vòstre nom d'utilizaire sul servidor MediaWiki. Daissatz le camp void per un accès anonime.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3d Picatz l'URL del servidor MediaWiki, que comença amb http://
+1c vnd.com.sun.star.wiki%3Asend 66 Causir Fichièr - Mandar - A MediaWiki per telecargar lo document Writer actiu sul servidor MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox be En utilizant lo Wiki Publisher podètz cargar vòstre document Writer actiu sus un servidor MediaWiki. Aprèp lo cargament, totes los utilizaires Wiki pòdon legir vòstre document sul Wiki.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 2d Suprimís l'entrada seleccionada de la lista.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList e1 Clicatz sus Apondre per apondre un servidor Wiki novèl.Seleccionatz una entrada e clicatz sus Editar per editar los paramètres del compte.Seleccionatz una entrada e clicatz sus Suprimir per suprimir una entrada de la lista.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 4a Dobrís la bóstia de dialòg MediaWiki per editar l'entrada seleccionada.
+20 vnd.com.sun.star.wiki%3Asettings e1 Clicatz sus Apondre per apondre un servidor Wiki novèl.Seleccionatz una entrada e clicatz sus Editar per editar los paramètres del compte.Seleccionatz una entrada e clicatz sus Suprimir per suprimir una entrada de la lista.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 53 Dobrís la bóstia de dialòg MediaWiki per apondre una entrada novèla a la lista.

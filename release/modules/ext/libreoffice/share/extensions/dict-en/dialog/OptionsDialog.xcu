@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE oor:component-data SYSTEM "../../../../component-update.dtd">
+<oor:component-data oor:name="OptionsDialog" oor:package="org.openoffice.Office" xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <node oor:name="Nodes">
+                <node oor:name="org.openoffice.lightproof" oor:op="fuse">
+                        <prop oor:name="Label">
+                                <value xml:lang="en-US">Dictionaries</value>
+                        	<value xml:lang="af">Woordeboeke</value>
+                        	<value xml:lang="am">መዝገበ ቃላቶች</value>
+                        	<value xml:lang="ar">القواميس</value>
+                        	<value xml:lang="as">অভিধানবোৰ</value>
+                        	<value xml:lang="ast">Diccionarios</value>
+                        	<value xml:lang="be">Dictionaries</value>
+                        	<value xml:lang="bg">Речници</value>
+                        	<value xml:lang="bn">অভিধাণ</value>
+                        	<value xml:lang="bn-IN">Dictionaries</value>
+                        	<value xml:lang="bo">ཚིག་མཛོད།</value>
+                        	<value xml:lang="br">Geriadurioù</value>
+                        	<value xml:lang="brx">सोदोब बिहुंफोर</value>
+                        	<value xml:lang="bs">Rječnici</value>
+                        	<value xml:lang="ca">Diccionaris</value>
+                        	<value xml:lang="ca-XV">Diccionaris</value>
+                        	<value xml:lang="cs">Slovníky</value>
+                        	<value xml:lang="cy">Geiriaduron</value>
+                        	<value xml:lang="da">Ordbøger</value>
+                        	<value xml:lang="de">Wörterbücher</value>
+                        	<value xml:lang="dgo">शब्दकोश (बहु.) </value>
+                        	<value xml:lang="dz">ཚིག་མཛོད་ཚུ།</value>
+                        	<value xml:lang="el">Λεξικά</value>
+                        	<value xml:lang="en-GB">Dictionaries</value>
+                        	<value xml:lang="en-ZA">Dictionaries</value>
+                        	<value xml:lang="eo">Vortaroj</value>
+                        	<value xml:lang="es">Diccionarios</value>
+                        	<value xml:lang="et">Õigekirjakontroll</value>
+                        	<value xml:lang="eu">Hiztegiak</value>
+                        	<value xml:lang="fa">لغت‌نامه‌ها</value>
+                        	<value xml:lang="fi">Sanakirjat</value>
+                        	<value xml:lang="fr">Dictionnaires</value>
+                        	<value xml:lang="ga">Foclóirí</value>
+                        	<value xml:lang="gd">Faclairean</value>
+                        	<value xml:lang="gl">Dicionarios</value>
+                        	<value xml:lang="gu">શબ્દકોષો</value>
+                        	<value xml:lang="he">מילונים</value>
+                        	<value xml:lang="hi">शब्दकोश</value>
+                        	<value xml:lang="hr">Rječnici</value>
+                        	<value xml:lang="hu">Szótárak</value>
+                        	<value xml:lang="id">Kamus</value>
+                        	<value xml:lang="is">Orðasöfn</value>
+                        	<value xml:lang="it">Dizionari</value>
+                        	<value xml:lang="ja">辞書</value>
+                        	<value xml:lang="ka">ლექსიკონები</value>
+                        	<value xml:lang="kk">Сөздiктер</value>
+                        	<value xml:lang="km">វចនានុក្រម</value>
+                        	<value xml:lang="kn">ಶಬ್ಧಕೋಶಗಳು</value>
+                        	<value xml:lang="ko">사전</value>
+                        	<value xml:lang="kok">शब्दकोश</value>
+                        	<value xml:lang="ks">لغات</value>
+                        	<value xml:lang="ku">Ferheng</value>
+                        	<value xml:lang="lb">Dictionnairen</value>
+                        	<value xml:lang="lo">ວັດຈະນານຸກົມ</value>
+                        	<value xml:lang="lt">Žodynai</value>
+                        	<value xml:lang="lv">Vārdnīcas</value>
+                        	<value xml:lang="mai">शब्दकोश</value>
+                        	<value xml:lang="mk">Речници</value>
+                        	<value xml:lang="ml">നിഘണ്ടുകള്‍</value>
+                        	<value xml:lang="mn">Толь бичгүүд</value>
+                        	<value xml:lang="mni">দিক্সনারিশিং</value>
+                        	<value xml:lang="mr">शब्दकोश</value>
+                        	<value xml:lang="my">အဘိဓာန်များ</value>
+                        	<value xml:lang="nb">Ordbøker</value>
+                        	<value xml:lang="ne">शब्दकोशहरू</value>
+                        	<value xml:lang="nl">Woordenlijsten</value>
+                        	<value xml:lang="nn">Ordlister</value>
+                        	<value xml:lang="nr">Iinhlathululimagama</value>
+                        	<value xml:lang="nso">Dipukuntšu</value>
+                        	<value xml:lang="oc">Diccionaris</value>
+                        	<value xml:lang="om">Dictionaries</value>
+                        	<value xml:lang="or">ଅଭିଧାନଗୁଡିକ</value>
+                        	<value xml:lang="pa-IN">ਡਿਕਸ਼ਨਰੀਆਂ</value>
+                        	<value xml:lang="pl">Słowniki</value>
+                        	<value xml:lang="pt">Dicionários</value>
+                        	<value xml:lang="pt-BR">Dicionários</value>
+                        	<value xml:lang="ro">Dictionare</value>
+                        	<value xml:lang="ru">Словари</value>
+                        	<value xml:lang="rw">Inkoranyamagambo</value>
+                        	<value xml:lang="sa-IN">शब्दकोशाः</value>
+                        	<value xml:lang="sat">पुथी ओड़ञक्</value>
+                        	<value xml:lang="sd">ڊڪشنريون</value>
+                        	<value xml:lang="sh">Rečnici</value>
+                        	<value xml:lang="si">ශබ්දකෝෂ</value>
+                        	<value xml:lang="sid">Borqaalla</value>
+                        	<value xml:lang="sk">Slovníky</value>
+                        	<value xml:lang="sl">Slovarji</value>
+                        	<value xml:lang="sq">Fjalorët</value>
+                        	<value xml:lang="sr">Речници</value>
+                        	<value xml:lang="ss">Tichazamagama</value>
+                        	<value xml:lang="st">Dibukantswe</value>
+                        	<value xml:lang="sv">Ordlistor</value>
+                        	<value xml:lang="sw-TZ">Dictionaries</value>
+                        	<value xml:lang="ta">அகராதிகள்</value>
+                        	<value xml:lang="te">నిఘంటువులు</value>
+                        	<value xml:lang="tg">Луғатҳо</value>
+                        	<value xml:lang="th">พจนานุกรม</value>
+                        	<value xml:lang="tn">Dictionaries</value>
+                        	<value xml:lang="tr">Sözlükler</value>
+                        	<value xml:lang="ts">Tidikixinari</value>
+                        	<value xml:lang="tt">Сүзлекләр</value>
+                        	<value xml:lang="ug">لۇغەتلەر</value>
+                        	<value xml:lang="uk">Словники</value>
+                        	<value xml:lang="uz">Lugʻatlar</value>
+                        	<value xml:lang="ve">Dziṱhalusaipfi</value>
+                        	<value xml:lang="vi">Từ điển</value>
+                        	<value xml:lang="xh">Izichazi-magama</value>
+                        	<value xml:lang="zh-CN">词典</value>
+                        	<value xml:lang="zh-TW">字典</value>
+                        	<value xml:lang="zu">Izichazamagama</value>
+                        </prop>
+                        <node oor:name="Leaves">
+
+                                <node oor:name="org.openoffice.lightproof.en" oor:op="fuse">
+                                        
+                                        <prop oor:name="Id">
+                                                <value>org.openoffice.en.hunspell.dictionaries</value>
+                                        </prop>
+                                        
+                                        <prop oor:name="Label">
+
+                                                <value xml:lang="en-US">English sentence checking</value>
+
+                                        	<value xml:lang="af">English sentence checking</value>
+                                        	<value xml:lang="am">English sentence checking</value>
+                                        	<value xml:lang="ar">يتأكد من الجملة الانجليزية</value>
+                                        	<value xml:lang="as">ইংৰাজী বাক্য নীৰিক্ষণ</value>
+                                        	<value xml:lang="ast">Correutor de frases pal inglés</value>
+                                        	<value xml:lang="be">English sentence checking</value>
+                                        	<value xml:lang="bg">Проверка на изреченията за английски</value>
+                                        	<value xml:lang="bn">English sentence checking</value>
+                                        	<value xml:lang="bn-IN">ইংরাজি পংক্তি পরীক্ষা</value>
+                                        	<value xml:lang="bo">English sentence checking</value>
+                                        	<value xml:lang="br">Gwiriadur ar frazenn e saozneg</value>
+                                        	<value xml:lang="brx">English sentence checking</value>
+                                        	<value xml:lang="bs">English sentence checking</value>
+                                        	<value xml:lang="ca">Comprovació de la frase anglesa</value>
+                                        	<value xml:lang="ca-XV">Comprovació de la frase anglesa</value>
+                                        	<value xml:lang="cs">Kontrola anglických vět</value>
+                                        	<value xml:lang="cy">Gwirio brawddegau Saesneg</value>
+                                        	<value xml:lang="da">Engelsk sætningskontrol</value>
+                                        	<value xml:lang="de">Englische Satzkontrolle</value>
+                                        	<value xml:lang="dgo">English sentence checking</value>
+                                        	<value xml:lang="dz">English sentence checking</value>
+                                        	<value xml:lang="el">Αγγλικός έλεγχος πρότασης</value>
+                                        	<value xml:lang="en-GB">English sentence checking</value>
+                                        	<value xml:lang="en-ZA">English sentence checking</value>
+                                        	<value xml:lang="eo">Angla frazkontrolado</value>
+                                        	<value xml:lang="es">Comprobador de oraciones en inglés</value>
+                                        	<value xml:lang="et">Inglise lausete kontroll</value>
+                                        	<value xml:lang="eu">English sentence checking</value>
+                                        	<value xml:lang="fa">English sentence checking</value>
+                                        	<value xml:lang="fi">Englannin virkkeiden tarkistus</value>
+                                        	<value xml:lang="fr">Vérification de la phrase en anglais</value>
+                                        	<value xml:lang="ga">Seiceáil abairtí Béarla</value>
+                                        	<value xml:lang="gd">Sgrùdadh sheantansan na Beurla</value>
+                                        	<value xml:lang="gl">Corrector oracional do inglés</value>
+                                        	<value xml:lang="gu">અંગ્રેજી વાક્ય ચકાસણી</value>
+                                        	<value xml:lang="he">בדיקת משפטים באנגלית</value>
+                                        	<value xml:lang="hi">अंग्रेजी वाक्य जाँच</value>
+                                        	<value xml:lang="hr">Provjera engleske sintakse</value>
+                                        	<value xml:lang="hu">Angol mondatellenőrző</value>
+                                        	<value xml:lang="id">Pemeriksaan kalimat bahasa Inggris</value>
+                                        	<value xml:lang="is">Yfirferð setninga á ensku</value>
+                                        	<value xml:lang="it">Analisi della frase inglese</value>
+                                        	<value xml:lang="ja">英文のチェック</value>
+                                        	<value xml:lang="ka">English sentence checking</value>
+                                        	<value xml:lang="kk">English sentence checking</value>
+                                        	<value xml:lang="km">ពិនិត្យ​មើល​ប្រយោគ​ភាសា​អង់គ្លេស</value>
+                                        	<value xml:lang="kn">ಇಂಗ್ಲೀಷ್ ವಾಕ್ಯದ ಪರಿಶೀಲನೆ</value>
+                                        	<value xml:lang="ko">영어 문장 확인</value>
+                                        	<value xml:lang="kok">English sentence checking</value>
+                                        	<value xml:lang="ks">English sentence checking</value>
+                                        	<value xml:lang="ku">English sentence checking</value>
+                                        	<value xml:lang="lb">Englesch Sazkontroll</value>
+                                        	<value xml:lang="lo">English sentence checking</value>
+                                        	<value xml:lang="lt">English sentence checking</value>
+                                        	<value xml:lang="lv">Gramatikas pārbaude angļu valodā</value>
+                                        	<value xml:lang="mai">English sentence checking</value>
+                                        	<value xml:lang="mk">English sentence checking</value>
+                                        	<value xml:lang="ml">ഇംഗ്ലീഷ് വാചക പരിശോധന</value>
+                                        	<value xml:lang="mn">English sentence checking</value>
+                                        	<value xml:lang="mni">English sentence checking</value>
+                                        	<value xml:lang="mr">इंग्लिश वाक्याची तपासणी</value>
+                                        	<value xml:lang="my">English sentence checking</value>
+                                        	<value xml:lang="nb">Engelsk setningskontroll</value>
+                                        	<value xml:lang="ne">अंग्रेजी वाक्य को जाँच</value>
+                                        	<value xml:lang="nl">Nakijken van Engelse zin</value>
+                                        	<value xml:lang="nn">Engelsk setningskontroll</value>
+                                        	<value xml:lang="nr">English sentence checking</value>
+                                        	<value xml:lang="nso">English sentence checking</value>
+                                        	<value xml:lang="oc">Verificacion de la frasa en anglés</value>
+                                        	<value xml:lang="om">English sentence checking</value>
+                                        	<value xml:lang="or">ଇଂରାଜୀ ବାକ୍ୟ ଯାଞ୍ଚ</value>
+                                        	<value xml:lang="pa-IN">ਅੰਗਰੇਜ਼ੀ ਵਾਕ ਚੈਕਿੰਗ</value>
+                                        	<value xml:lang="pl">Sprawdzanie zdań w języku angielskim</value>
+                                        	<value xml:lang="pt">Análise de frases em inglês</value>
+                                        	<value xml:lang="pt-BR">Verificação de frases em inglês</value>
+                                        	<value xml:lang="ro">Verificator de propoziție în engleză</value>
+                                        	<value xml:lang="ru">Проверка грамматики (английский)</value>
+                                        	<value xml:lang="rw">English sentence checking</value>
+                                        	<value xml:lang="sa-IN">English sentence checking</value>
+                                        	<value xml:lang="sat">English sentence checking</value>
+                                        	<value xml:lang="sd">English sentence checking</value>
+                                        	<value xml:lang="sh">Provera rečenica na engleskom</value>
+                                        	<value xml:lang="si">English sentence checking</value>
+                                        	<value xml:lang="sid">English sentence checking</value>
+                                        	<value xml:lang="sk">Kontrola anglických viet</value>
+                                        	<value xml:lang="sl">Preverjanje angleških povedi</value>
+                                        	<value xml:lang="sq">English sentence checking</value>
+                                        	<value xml:lang="sr">Провера реченица на енглеском</value>
+                                        	<value xml:lang="ss">English sentence checking</value>
+                                        	<value xml:lang="st">English sentence checking</value>
+                                        	<value xml:lang="sv">Engelsk grammatikkontroll</value>
+                                        	<value xml:lang="sw-TZ">English sentence checking</value>
+                                        	<value xml:lang="ta">ஆங்கில வாக்கிய சரிபார்ப்பு</value>
+                                        	<value xml:lang="te">ఆంగ్ల పంక్తి పరిశీలన</value>
+                                        	<value xml:lang="tg">English sentence checking</value>
+                                        	<value xml:lang="th">English sentence checking</value>
+                                        	<value xml:lang="tn">English sentence checking</value>
+                                        	<value xml:lang="tr">İngilizce cümle kontrolü</value>
+                                        	<value xml:lang="ts">English sentence checking</value>
+                                        	<value xml:lang="tt">Грамматиканы тикшерү (инглиз)</value>
+                                        	<value xml:lang="ug">ئىنگلىزچە جۈملە تەكشۈرۈش</value>
+                                        	<value xml:lang="uk">Перевірка граматики (англійська)</value>
+                                        	<value xml:lang="uz">English sentence checking</value>
+                                        	<value xml:lang="ve">English sentence checking</value>
+                                        	<value xml:lang="vi">Kiểm tra câu tiếng Anh</value>
+                                        	<value xml:lang="xh">English sentence checking</value>
+                                        	<value xml:lang="zh-CN">英文语句检查</value>
+                                        	<value xml:lang="zh-TW">英文句法檢查</value>
+                                        	<value xml:lang="zu">English sentence checking</value>
+                                        </prop>
+                                        
+                                        <prop oor:name="OptionsPage">
+                                                <value>%origin%/en.xdl</value>
+                                        </prop>
+                                        
+                                        <prop oor:name="EventHandlerService">
+                                                <value>org.libreoffice.comp.pyuno.LightproofOptionsEventHandler.en</value>
+                                        </prop>
+                                        
+                                </node>
+
+                        </node>
+                </node>
+        </node>
+</oor:component-data>

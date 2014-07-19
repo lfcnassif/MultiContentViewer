@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">Get more extensions online...</e>
+ <e g="ExtensionManagerDialog" i="title">Extension Manager</e>
+ <e g="label1" i="label">Type of Extension</e>
+ <e g="user" i="label">User</e>
+ <e g="update" i="label">Check for Updates</e>
+ <e g="shared" i="label">Shared</e>
+ <e g="add" i="label">Add...</e>
+ <e g="progressft" i="label">Adding %EXTENSION_NAME</e>
+ <e g="bundled" i="label">Install to:</e>
+</t>

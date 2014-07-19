@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">Автонумерация</e>
+ <e g="offset" i="label">Начать с</e>
+ <e g="pagestyleft" i="label">Страница</e>
+ <e g="label29" i="label">Стили символов</e>
+ <e g="label22" i="label">До</e>
+ <e g="label27" i="label">Область текста</e>
+ <e g="label19" i="label">Нумерация</e>
+ <e g="label25" i="label">После</e>
+ <e g="label20" i="label">Абзац</e>
+ <e g="label28" i="label">Область концевых сносок</e>
+ <e g="label23" i="label">Стили</e>
+</t>

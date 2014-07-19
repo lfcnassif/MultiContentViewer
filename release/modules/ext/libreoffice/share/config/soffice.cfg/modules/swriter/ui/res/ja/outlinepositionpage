@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">揃える位置</e>
+ <e g="num2align" i="label">番号の配置</e>
+ <e g="liststore2" i="0">タブ間隔</e>
+ <e g="liststore1" i="1">中揃え</e>
+ <e g="indent" i="label">インデント</e>
+ <e g="numalign" i="label">番号の配置</e>
+ <e g="numberingwidth" i="label">番号付けの幅</e>
+ <e g="3" i="label">位置と間隔</e>
+ <e g="liststore1" i="0">左</e>
+ <e g="liststore1" i="2">右</e>
+ <e g="numdist" i="label">番号とテキストラベルの最小間隔</e>
+ <e g="liststore2" i="2">なし</e>
+ <e g="1" i="label">レベル</e>
+ <e g="liststore2" i="1">スペースバー</e>
+ <e g="numfollowedby" i="label">番号に続く空白</e>
+ <e g="at" i="label">位置</e>
+ <e g="relative" i="label">相対的</e>
+ <e g="indentat" i="label">インデントの位置</e>
+ <e g="standard" i="label">既定</e>
+</t>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Styl</e>
+ <e g="linerb" i="label">Podział wiersza</e>
+ <e g="label1" i="label">Typ</e>
+ <e g="liststore1" i="0">[Brak]</e>
+ <e g="pagenumcb" i="label">Zmień numer strony</e>
+ <e g="pagerb" i="label">Podział strony</e>
+ <e g="BreakDialog" i="title">Wstaw podział</e>
+ <e g="columnrb" i="label">Podział kolumny</e>
+</t>

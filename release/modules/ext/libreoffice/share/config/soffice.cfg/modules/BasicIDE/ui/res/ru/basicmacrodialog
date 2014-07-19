@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">Правка</e>
+ <e g="macrotoft" i="label">Сохранить м~акрос в</e>
+ <e g="existingmacrosft" i="label">Существующие макросы:</e>
+ <e g="BasicMacroDialog" i="title">Макросы %PRODUCTNAME BASIC</e>
+ <e g="macrofromft" i="label">Макрос из</e>
+ <e g="libraryft1" i="label">Имя макроса</e>
+ <e g="newlibrary" i="label">Создать библиотеку</e>
+ <e g="newmodule" i="label">Создать модуль</e>
+ <e g="organize" i="label">Управление...</e>
+ <e g="run" i="label">Выполнить</e>
+ <e g="assign" i="label">Назначить...</e>
+</t>

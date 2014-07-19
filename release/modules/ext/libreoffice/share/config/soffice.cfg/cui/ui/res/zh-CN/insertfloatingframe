@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">默认</e>
+ <e g="heightlabel" i="label">高度</e>
+ <e g="label2" i="label">边框</e>
+ <e g="scrollbarauto" i="label">自动</e>
+ <e g="label1" i="label">滚动条</e>
+ <e g="label7" i="label">内容</e>
+ <e g="borderon" i="label">启动</e>
+ <e g="InsertFloatingFrameDialog" i="title">浮动框属性</e>
+ <e g="buttonbrowse" i="label">浏览...</e>
+ <e g="label6" i="label">名称</e>
+ <e g="widthlabel" i="label">宽度</e>
+ <e g="scrollbaroff" i="label">关闭</e>
+ <e g="scrollbaron" i="label">开启</e>
+ <e g="defaultheight" i="label">默认</e>
+ <e g="borderoff" i="label">关闭</e>
+ <e g="label3" i="label">与内容间距</e>
+</t>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Tytuł</e>
+ <e g="overlinecolorft" i="label">Kolor nadkreślenia</e>
+ <e g="liststore6" i="7">Kreski (pogrubione)</e>
+ <e g="liststore3" i="1">Kropka</e>
+ <e g="underlinecolorft" i="label">Kolor podkreślenia</e>
+ <e g="label42" i="label">Opcje</e>
+ <e g="liststore1" i="0">(Bez)</e>
+ <e g="individualwordscb" i="label">Poszczególne słowa</e>
+ <e g="label46" i="label">Nadkreślenie</e>
+ <e g="liststore5" i="3">Pogrubienie</e>
+ <e g="liststore6" i="14">Fala</e>
+ <e g="liststore6" i="10">Kropka-kreska</e>
+ <e g="liststore6" i="0">(Bez)</e>
+ <e g="liststore1" i="2">Małe litery</e>
+ <e g="liststore5" i="5">Znakami X</e>
+ <e g="liststore6" i="16">Podwójna linia falista</e>
+ <e g="liststore3" i="4">Akcent</e>
+ <e g="liststore6" i="6">Kreski</e>
+ <e g="outlinecb" i="label">Konspekt</e>
+ <e g="liststore4" i="1">Pod tekstem</e>
+ <e g="fontcolorft" i="label">Kolor czcionki</e>
+ <e g="liststore2" i="0">(Bez)</e>
+ <e g="liststore5" i="2">Podwójne</e>
+ <e g="liststore6" i="13">Kropka kropka kreska (pogrubione)</e>
+ <e g="emphasisft" i="label">Znak wyróżnienia</e>
+ <e g="liststore6" i="3">Pogrubienie</e>
+ <e g="reliefft" i="label">Uwypuklenie</e>
+ <e g="liststore2" i="2">Grawerowane</e>
+ <e g="label50" i="label">Podgląd</e>
+ <e g="liststore6" i="15">Linia falista (pogrubione)</e>
+ <e g="liststore6" i="9">Długie kreski (pogrubione)</e>
+ <e g="liststore6" i="5">Kropki (pogrubione)</e>
+ <e g="liststore3" i="3">Dysk</e>
+ <e g="liststore4" i="0">Powyżej tekstu</e>
+ <e g="liststore5" i="1">Pojedyncze</e>
+ <e g="label47" i="label">Przekreślenie</e>
+ <e g="hiddencb" i="label">Ukryty</e>
+ <e g="liststore6" i="12">Kropka-kropka-kreska</e>
+ <e g="liststore6" i="2">Podwójne</e>
+ <e g="liststore3" i="0">(Bez)</e>
+ <e g="liststore1" i="4">Małe kapitaliki</e>
+ <e g="shadowcb" i="label">Cień</e>
+ <e g="liststore2" i="1">Wypukłe</e>
+ <e g="liststore6" i="8">Długie kreski</e>
+ <e g="liststore3" i="2">Okrąg</e>
+ <e g="liststore6" i="4">Kropki</e>
+ <e g="label48" i="label">Podkreślenie</e>
+ <e g="blinkingcb" i="label">Miganie</e>
+ <e g="liststore1" i="1">Wielkie litery</e>
+ <e g="positionft" i="label">Pozycja</e>
+ <e g="liststore5" i="4">Znakami /</e>
+ <e g="liststore5" i="0">(Bez)</e>
+ <e g="effectsft" i="label">Efekty</e>
+ <e g="liststore6" i="11">Kropka kreska (pogrubione)</e>
+ <e g="liststore6" i="1">Pojedyncze</e>
+</t>

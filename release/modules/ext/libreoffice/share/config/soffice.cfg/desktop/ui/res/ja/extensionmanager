@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">ほかの拡張機能をオンラインで取得...</e>
+ <e g="ExtensionManagerDialog" i="title">拡張機能マネージャー</e>
+ <e g="label1" i="label">拡張の種類</e>
+ <e g="user" i="label">ユーザー</e>
+ <e g="update" i="label">更新のチェック...</e>
+ <e g="shared" i="label">共有</e>
+ <e g="add" i="label">追加...</e>
+ <e g="progressft" i="label">%EXTENSION_NAME の追加</e>
+ <e g="bundled" i="label">インストール</e>
+</t>

@@ -1,0 +1,1 @@
+Utilize o gerador de relatórios para criar relatórios de banco de dados com estilo. O editor de relatório pode definir grupos, cabeçalhos e rodapés de página. Além disso, os campos de cálculo também estão disponíveis para serem incluídos nos relatórios.

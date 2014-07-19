@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">接著請在您網頁瀏覽器中的位址列複製該 Persona 頁面的網址，再到下方輸入欄位中貼上。</e>
+ <e g="label1" i="label">首先請造訪 Firefox Personas (http://www.getpersonas.com)，找出您喜歡且想用於 LibreOffice 上的 Persona 佈景主題。</e>
+ <e g="label3" i="label">Persona 網址：</e>
+ <e g="visit_personas" i="label">造訪 Firefox Personas</e>
+</t>

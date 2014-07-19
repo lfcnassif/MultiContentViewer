@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Modello</e>
+ <e g="linerb" i="label">Interruzione riga</e>
+ <e g="label1" i="label">Tipo</e>
+ <e g="liststore1" i="0">[Nessuna]</e>
+ <e g="pagenumcb" i="label">Cambia numero pagina</e>
+ <e g="pagerb" i="label">Interruzione pagina</e>
+ <e g="BreakDialog" i="title">Inserisci interruzione</e>
+ <e g="columnrb" i="label">Interruzione colonna</e>
+</t>

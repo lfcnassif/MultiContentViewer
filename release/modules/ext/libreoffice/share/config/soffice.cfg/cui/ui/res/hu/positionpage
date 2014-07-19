@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Előnézet</e>
+ <e g="label22" i="label">Térköz</e>
+ <e g="kerningft" i="label">mérték</e>
+ <e g="relativefontsize" i="label">Relatív betűméret</e>
+ <e g="0deg" i="label">0 fok</e>
+ <e g="90deg" i="label">90 fok</e>
+ <e g="superscript" i="label">Felső index</e>
+ <e g="normal" i="label">Normál</e>
+ <e g="270deg" i="label">270 fok</e>
+ <e g="liststore1" i="0">Alapértelmezett</e>
+ <e g="liststore1" i="1">Ritkított</e>
+ <e g="liststore1" i="2">Sűrített</e>
+ <e g="pairkerning" i="label">Betűpár alávágása</e>
+ <e g="label24" i="label">Szélesség változtatása</e>
+ <e g="raiselower" i="label">Emelés/süllyesztés</e>
+ <e g="rotate" i="label">Elforgatás</e>
+ <e g="rotateandscale" i="label">Forgatás és méretezés</e>
+ <e g="subscript" i="label">Alsó index</e>
+ <e g="fittoline" i="label">Igazítás a sorhoz</e>
+ <e g="automatic" i="label">Automatikus</e>
+ <e g="label20" i="label">Pozíció</e>
+</t>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Титульная страница</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Вставить новые титульные страницы</e>
+ <e g="label3" i="label">Редактировать свойства страницы</e>
+ <e g="label2" i="label">Нумерация страниц</e>
+ <e g="label1" i="label">Создать титульные страницы</e>
+ <e g="label8" i="label">стр.</e>
+ <e g="label6" i="label">Количество страниц</e>
+ <e g="label7" i="label">Поместить в</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Сбросить нумерацию после титульных</e>
+ <e g="FT_PAGE_PAGES" i="label">Номер страницы</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Преобразовать существующие страницы в титульные</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Установить номер для первой титульной</e>
+ <e g="RB_DOCUMENT_START" i="label">Начало документа</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Правка...</e>
+ <e g="RB_PAGE_START" i="label">Страница</e>
+ <e g="FT_PAGE_COUNT" i="label">Номер страницы</e>
+</t>

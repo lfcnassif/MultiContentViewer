@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="create" i="label">Создать...</e>
+ <e g="macrosft" i="label">Макросы</e>
+ <e g="delete" i="label">Удалить...</e>
+ <e g="rename" i="label">Переименовать...</e>
+ <e g="run" i="label">Выполнить</e>
+ <e g="ScriptOrganizerDialog" i="title">Макросы %MACROLANG</e>
+</t>

@@ -1,0 +1,2 @@
+Minimalizátor prezentácií sa používa na zmenšenie veľkosti aktuálnej prezentácie. Obrázky budú komprimované a dáta, ktoré už nie sú potrebné, sa odstránia.
+ Minimalizátor prezentácií môže optimalizovať kvalitu obrázkov. Prezentácie určené pre obrazovku alebo projektor nepotrebujú rovnako vysokú kvalitu ako prezentácie určené pre tlač. 

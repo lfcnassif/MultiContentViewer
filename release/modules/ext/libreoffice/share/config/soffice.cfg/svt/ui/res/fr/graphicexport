@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 correspond à la qualité maximum et à la plus grande taille de fichier.</e>
+ <e g="liststore2" i="3">points</e>
+ <e g="level2rb" i="label">Niveau 2</e>
+ <e g="label17" i="label">Aperçu</e>
+ <e g="label2" i="label">Profondeur de couleur</e>
+ <e g="label10" i="label">1 correspond à la qualité minimum est à la plus petite taille de fichier.</e>
+ <e g="label16" i="label">Encodage</e>
+ <e g="label22" i="label">0 correspond à la taille de fichier la plus grande et au chargement le plus rapide.</e>
+ <e g="label" i="label">Compression</e>
+ <e g="label1" i="label">Taille</e>
+ <e g="compressnone" i="label">Aucun(e)</e>
+ <e g="resolutionft" i="label">Résolution</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Hauteur</e>
+ <e g="liststore1" i="0">pixels/cm</e>
+ <e g="label20" i="label">Compression</e>
+ <e g="liststore1" i="2">pixels/mètre</e>
+ <e g="binarycb" i="label">Binaire</e>
+ <e g="GraphicExportDialog" i="title"> Options</e>
+ <e g="textcb" i="label">Texte</e>
+ <e g="color1rb" i="label">Couleur</e>
+ <e g="liststore2" i="4">pixels</e>
+ <e g="epsipreviewcb" i="label">Interchange (EPSI)</e>
+ <e g="label5" i="label">Largeur</e>
+ <e g="color2rb" i="label">Niveaux de gris</e>
+ <e g="label19" i="label">Version</e>
+ <e g="label4" i="label">Information</e>
+ <e g="rlecb" i="label">Encodage RLE</e>
+ <e g="labe" i="label">Objets de dessin</e>
+ <e g="liststore2" i="0">pouces</e>
+ <e g="label12" i="label">Mode</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">Encodage LZW</e>
+ <e g="label3" i="label">Compression</e>
+ <e g="tiffpreviewcb" i="label">Aperçu de l'image (TIFF)</e>
+ <e g="savetransparencycb" i="label">Enregistrer la transparence</e>
+ <e g="level1rb" i="label">Niveau 1</e>
+ <e g="liststore1" i="1">pixels/pouce</e>
+ <e g="label23" i="label">9 correspond à la taille de fichier la plus petite et au chargement le plus lent.</e>
+ <e g="label18" i="label">Format de couleur</e>
+ <e g="interlacedcb" i="label">Entrelacé</e>
+ <e g="label9" i="label">Qualité</e>
+</t>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="background_label" i="label">背景画像</e>
+ <e g="own_background" i="label">独自の背景画像</e>
+ <e g="default_background" i="label">(利用可能な場合)プリインストールされている背景画像</e>
+ <e g="label1" i="label">FirefoxのPersonas</e>
+ <e g="no_background" i="label">そのままの外観、背景画像を用いない</e>
+ <e g="own_persona" i="label">独自のPersona</e>
+ <e g="select_background" i="label">背景画像の選択</e>
+ <e g="no_persona" i="label">そのままの外観、Personasを用いない</e>
+ <e g="default_persona" i="label">(利用可能な場合)プリインストールされているPersona</e>
+ <e g="select_persona" i="label">Personaを選択</e>
+</t>

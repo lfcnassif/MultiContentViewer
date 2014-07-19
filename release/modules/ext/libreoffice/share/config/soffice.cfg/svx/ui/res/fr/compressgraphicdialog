@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="checkbox-reduce-resolution" i="label">Réduire la résolution de l'image</e>
+ <e g="label6" i="label">Qualité :</e>
+ <e g="label8" i="label">Afficher la taille :</e>
+ <e g="label10" i="label">Nouvelle qualité :</e>
+ <e g="label2" i="label">Largeur :</e>
+ <e g="interpolation-method-store" i="3">Lanczos</e>
+ <e g="label12" i="label">px</e>
+ <e g="label5" i="label">Compression :</e>
+ <e g="radio-lossless" i="label">Compression sans perte</e>
+ <e g="label14" i="label">DPI</e>
+ <e g="label7" i="label">Taille d'origine :</e>
+ <e g="interpolation-method-store" i="1">Bilinéaire</e>
+ <e g="label9" i="label">Qualité de l'image :</e>
+ <e g="interpolation-method-store" i="2">Bicubique</e>
+ <e g="label1" i="label">Informations sur l'image</e>
+ <e g="calculate" i="label">Calculer</e>
+ <e g="label11" i="label">Interpolation :</e>
+ <e g="interpolation-method-store" i="0">Aucune</e>
+ <e g="label4" i="label">Résolution :</e>
+ <e g="label3" i="label">Hauteur :</e>
+ <e g="label13" i="label">px</e>
+ <e g="radio-jpeg" i="label">Compression JPEG</e>
+</t>

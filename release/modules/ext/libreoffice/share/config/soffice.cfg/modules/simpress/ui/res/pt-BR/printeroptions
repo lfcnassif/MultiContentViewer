@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Tamanho</e>
+ <e g="grayscale" i="label">Escala de cinzas</e>
+ <e g="tilesheet" i="label">Preencher a folha de papel com o slide repetido</e>
+ <e g="fittoprintable" i="label">Ajustar à área de impressão da página</e>
+ <e g="printname" i="label">Nome do slide</e>
+ <e g="printhidden" i="label">Páginas ocultas</e>
+ <e g="originalcolors" i="label">Tamanho original</e>
+ <e g="blackandwhite" i="label">Preto &amp; branco</e>
+ <e g="distributeonmultiple" i="label">Distribuir em várias folhas de papel</e>
+ <e g="printdatetime" i="label">Data e hora</e>
+ <e g="label4" i="label">Conteúdo</e>
+ <e g="label5" i="label">Cor</e>
+ <e g="originalsize" i="label">Tamanho original</e>
+</t>

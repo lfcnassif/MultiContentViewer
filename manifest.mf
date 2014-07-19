@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: dpf.sp.gpinf.indexer.search.viewer/1
+OpenIDE-Module-Localizing-Bundle: dpf/sp/gpinf/indexer/search/viewer/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Install: dpf/sp/gpinf/indexer/util/MultiContentViewerCloser.class

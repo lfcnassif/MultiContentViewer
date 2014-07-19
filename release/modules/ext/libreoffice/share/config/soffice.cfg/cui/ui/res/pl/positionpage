@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Podgląd</e>
+ <e g="label22" i="label">Odstęp</e>
+ <e g="kerningft" i="label">o</e>
+ <e g="relativefontsize" i="label">Względny rozmiar czcionki</e>
+ <e g="0deg" i="label">0 stopni</e>
+ <e g="90deg" i="label">90 stopni</e>
+ <e g="superscript" i="label">Indeks górny</e>
+ <e g="normal" i="label">Normalne</e>
+ <e g="270deg" i="label">270 stopni</e>
+ <e g="liststore1" i="0">Domyślny</e>
+ <e g="liststore1" i="1">Rozszerzone</e>
+ <e g="liststore1" i="2">Ścieśnione</e>
+ <e g="pairkerning" i="label">Kerning</e>
+ <e g="label24" i="label">Skaluj szerokość</e>
+ <e g="raiselower" i="label">Podnieś/obniż o</e>
+ <e g="rotate" i="label">Obrót</e>
+ <e g="rotateandscale" i="label">Obrót/skalowanie</e>
+ <e g="subscript" i="label">Indeks dolny</e>
+ <e g="fittoline" i="label">Dopasuj do wiersza</e>
+ <e g="automatic" i="label">Automatycznie</e>
+ <e g="label20" i="label">Pozycja</e>
+</t>

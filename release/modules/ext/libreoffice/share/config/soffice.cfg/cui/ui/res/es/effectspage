@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Título</e>
+ <e g="overlinecolorft" i="label">Color de suprarrayado</e>
+ <e g="liststore6" i="7">Trazo negrita</e>
+ <e g="liststore3" i="1">Punto</e>
+ <e g="underlinecolorft" i="label">Color de subrayado</e>
+ <e g="label42" i="label">Opciones</e>
+ <e g="liststore1" i="0">(Sin)</e>
+ <e g="individualwordscb" i="label">Palabras individuales</e>
+ <e g="label46" i="label">Suprarrayado</e>
+ <e g="liststore5" i="3">Negrita</e>
+ <e g="liststore6" i="14">Onda</e>
+ <e g="liststore6" i="10">Punto trazo</e>
+ <e g="liststore6" i="0">(Sin)</e>
+ <e g="liststore1" i="2">Minúsculas</e>
+ <e g="liststore5" i="5">Con X</e>
+ <e g="liststore6" i="16">Ondulada doble</e>
+ <e g="liststore3" i="4">Acento</e>
+ <e g="liststore6" i="6">Guión</e>
+ <e g="outlinecb" i="label">Contorno</e>
+ <e g="liststore4" i="1">Debajo del texto</e>
+ <e g="fontcolorft" i="label">Color de fuente</e>
+ <e g="liststore2" i="0">(Sin)</e>
+ <e g="liststore5" i="2">Doble</e>
+ <e g="liststore6" i="13">Punto punto trazo negrita</e>
+ <e g="emphasisft" i="label">Caracteres de acentuación</e>
+ <e g="liststore6" i="3">Negrita</e>
+ <e g="reliefft" i="label">Relieve</e>
+ <e g="liststore2" i="2">Bajorrelieve</e>
+ <e g="label50" i="label">Previsualización</e>
+ <e g="liststore6" i="15">Ondulada negrita</e>
+ <e g="liststore6" i="9">Trazo negrita largo</e>
+ <e g="liststore6" i="5">Punteado negrita</e>
+ <e g="liststore3" i="3">Disco</e>
+ <e g="liststore4" i="0">Sobre el texto</e>
+ <e g="liststore5" i="1">Sencillo</e>
+ <e g="label47" i="label">Tachado</e>
+ <e g="hiddencb" i="label">Oculto</e>
+ <e g="liststore6" i="12">Punto punto trazo</e>
+ <e g="liststore6" i="2">Doble</e>
+ <e g="liststore3" i="0">(Sin)</e>
+ <e g="liststore1" i="4">Versalitas</e>
+ <e g="shadowcb" i="label">Sombra</e>
+ <e g="liststore2" i="1">Repujado</e>
+ <e g="liststore6" i="8">Trazo largo</e>
+ <e g="liststore3" i="2">Círculo</e>
+ <e g="liststore6" i="4">Punteado</e>
+ <e g="label48" i="label">Subrayado</e>
+ <e g="blinkingcb" i="label">Intermitente</e>
+ <e g="liststore1" i="1">Mayúsculas</e>
+ <e g="positionft" i="label">Posición</e>
+ <e g="liststore5" i="4">Con /</e>
+ <e g="liststore5" i="0">(Sin)</e>
+ <e g="effectsft" i="label">Efectos</e>
+ <e g="liststore6" i="11">Punto trazo negrita</e>
+ <e g="liststore6" i="1">Sencillo</e>
+</t>

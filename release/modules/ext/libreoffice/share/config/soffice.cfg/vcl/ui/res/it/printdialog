@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">Tutte le pagine</e>
+ <e g="pagestxt" i="label">Pagine</e>
+ <e g="label5" i="label">Stampante</e>
+ <e g="label11" i="label">Stampa</e>
+ <e g="setup" i="label">Proprietà...</e>
+ <e g="label9" i="label">Commento:</e>
+ <e g="customlabel" i="label">personalizzata</e>
+ <e g="liststore3" i="0">Automatico</e>
+ <e g="label15" i="label">Stampa</e>
+ <e g="label19" i="label">Ordine</e>
+ <e g="sheetmargintxt1" i="label">Margine</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">Tutti i fogli</e>
+ <e g="label2" i="label">Layout di pagina</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Orizzontale</e>
+ <e g="label6" i="label">Dettagli</e>
+ <e g="label12" i="label">Diapositive per pagina</e>
+ <e g="label16" i="label">Commenti</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">dall'alto in basso, poi a destra</e>
+ <e g="ordertxt" i="label">Ordine</e>
+ <e g="label3" i="label">Lati della pagina</e>
+ <e g="pagespersheetbtn" i="label">Pagine per foglio</e>
+ <e g="label7" i="label">Stato:</e>
+ <e g="label13" i="label">Intervallo e copie</e>
+ <e g="label17" i="label">Includi</e>
+ <e g="printpages" i="label">Pagine</e>
+ <e g="location" i="label">Luogo</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Stampa nel file</e>
+ <e g="reverseorder" i="label">Stampa in ordine inverso</e>
+ <e g="collate" i="label">Fascicola</e>
+ <e g="label10" i="label">Documento</e>
+ <e g="liststore2" i="1">dall'alto in basso, poi a destra</e>
+ <e g="label8" i="label">Posizione: </e>
+ <e g="printselection" i="label">Selezione</e>
+ <e g="PrintDialog" i="title">Stampa</e>
+ <e g="comment" i="label">Nome stampante esteso</e>
+ <e g="liststore1" i="6">Personalizzato</e>
+ <e g="singleprintjob" i="label">Crea singoli ordini di stampa per la fascicolazione</e>
+ <e g="sheetmargintxt2" i="label">a bordo pagina</e>
+ <e g="by" i="label">da</e>
+ <e g="label1" i="label">Generale</e>
+ <e g="label20" i="label">Opzioni</e>
+ <e g="liststore2" i="3">da destra a sinistra, poi in basso</e>
+ <e g="printpaperfromsetup" i="label">Usa cassetto solo da impostazioni stampante</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Disegna un bordo intorno a ogni pagina</e>
+ <e g="fromwhich" i="label">Da cui stampare</e>
+ <e g="pagemargintxt1" i="label">Distanza</e>
+ <e g="status" i="label">Stampante predefinita</e>
+ <e g="liststore2" i="0">da sinistra a destra, poi in basso</e>
+ <e g="printselectedsheets" i="label">Fogli selezionati</e>
+ <e g="label21" i="label">Opzioni</e>
+ <e g="liststore3" i="1">Verticale</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Celle selezionate</e>
+ <e g="pagemargintxt2" i="label">tra le pagine</e>
+ <e g="label14" i="label">Numero di copie</e>
+ <e g="brochure" i="label">Dépliant</e>
+ <e g="label18" i="label">Layout</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Orientamento</e>
+</t>

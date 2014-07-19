@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100은 최고화질로 파일 크기가 가장 큽니다.</e>
+ <e g="liststore2" i="3">점</e>
+ <e g="level2rb" i="label">수준 2</e>
+ <e g="label17" i="label">미리보기</e>
+ <e g="label2" i="label">색상 깊이</e>
+ <e g="label10" i="label">1은 최저화질로 파일 크기가 가장 작습니다.</e>
+ <e g="label16" i="label">인코딩</e>
+ <e g="label22" i="label">0은 최대 파일 크기로 로딩 속도가 빠릅니다.</e>
+ <e g="label" i="label">Compression</e>
+ <e g="label1" i="label">크기</e>
+ <e g="compressnone" i="label">없음</e>
+ <e g="resolutionft" i="label">해상도</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">높이</e>
+ <e g="liststore1" i="0">픽셀/cm</e>
+ <e g="label20" i="label">Compression</e>
+ <e g="liststore1" i="2">픽셀/미터</e>
+ <e g="binarycb" i="label">이진</e>
+ <e g="GraphicExportDialog" i="title"> 옵션</e>
+ <e g="textcb" i="label">텍스트</e>
+ <e g="color1rb" i="label">색상</e>
+ <e g="liststore2" i="4">픽셀</e>
+ <e g="epsipreviewcb" i="label">교환(ESPI)</e>
+ <e g="label5" i="label">너비</e>
+ <e g="color2rb" i="label">회색조</e>
+ <e g="label19" i="label">버전</e>
+ <e g="label4" i="label">정보</e>
+ <e g="rlecb" i="label">RLE Encoding</e>
+ <e g="labe" i="label">그리기 개체</e>
+ <e g="liststore2" i="0">inch</e>
+ <e g="label12" i="label">모드</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">LZW 인코딩</e>
+ <e g="label3" i="label">Compression</e>
+ <e g="tiffpreviewcb" i="label">이미지 미리보기(TIFF)</e>
+ <e g="savetransparencycb" i="label">투명도 저장</e>
+ <e g="level1rb" i="label">수준 1</e>
+ <e g="liststore1" i="1">픽셀/inch</e>
+ <e g="label23" i="label">9는 최소 파일 크기로 로딩 속도가 느립니다.</e>
+ <e g="label18" i="label">색상 형식</e>
+ <e g="interlacedcb" i="label">인터레이스</e>
+ <e g="label9" i="label">Quality</e>
+</t>

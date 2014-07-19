@@ -1,0 +1,1 @@
+Tvorcu zostáv používajte na vytváranie štýlových výstupov z databázy. Flexibilný editor zostáv umožňuje upravovať hlavičky skupín a strán ako aj päty strán. Navyše, výpočtové polia umožňujú vytvárať zložité databázová zostavy.

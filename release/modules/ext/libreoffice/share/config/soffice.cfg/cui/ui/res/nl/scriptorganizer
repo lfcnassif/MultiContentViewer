@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="create" i="label">Maken...</e>
+ <e g="macrosft" i="label">Macro's</e>
+ <e g="delete" i="label">Verwijderen...</e>
+ <e g="rename" i="label">Hernoemen...</e>
+ <e g="run" i="label">Uitvoeren</e>
+ <e g="ScriptOrganizerDialog" i="title">%MACROLANG-macro's</e>
+</t>

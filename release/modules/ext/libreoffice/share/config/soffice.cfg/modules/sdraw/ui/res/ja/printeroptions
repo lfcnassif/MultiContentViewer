@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">サイズ</e>
+ <e g="grayscale" i="label">グレースケール</e>
+ <e g="tilesheet" i="label">ページをタイル状に印刷する</e>
+ <e g="fittoprintable" i="label">印刷可能なページサイズに合わせる</e>
+ <e g="printname" i="label">ページ名</e>
+ <e g="originalcolors" i="label">元のサイズ</e>
+ <e g="blackandwhite" i="label">白黒</e>
+ <e g="printdatetime" i="label">日付と時刻</e>
+ <e g="label4" i="label">内容</e>
+ <e g="distributeonmultiple" i="label">複数の用紙に分ける</e>
+ <e g="label5" i="label">色</e>
+ <e g="originalsize" i="label">元のサイズ</e>
+</t>

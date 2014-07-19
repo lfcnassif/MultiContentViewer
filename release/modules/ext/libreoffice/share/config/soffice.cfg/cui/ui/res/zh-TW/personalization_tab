@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="background_label" i="label">背景影像</e>
+ <e g="own_background" i="label">自用影像</e>
+ <e g="default_background" i="label">預先安裝的背景影像 (如果有的話)</e>
+ <e g="label1" i="label">Firefox Personas</e>
+ <e g="no_background" i="label">純淨外觀，不使用背景影像</e>
+ <e g="own_persona" i="label">自用 Persona</e>
+ <e g="select_background" i="label">選取背景影像</e>
+ <e g="no_persona" i="label">純淨外觀，不使用 Personas</e>
+ <e g="default_persona" i="label">預先安裝的 Presona (如果有的話)</e>
+ <e g="select_persona" i="label">選取 Persona 主題</e>
+</t>

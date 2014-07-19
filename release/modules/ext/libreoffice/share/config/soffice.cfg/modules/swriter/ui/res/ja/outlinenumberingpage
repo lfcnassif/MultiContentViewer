@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">後</e>
+ <e g="label7" i="label">区切り</e>
+ <e g="label5" i="label">文字スタイル</e>
+ <e g="label3" i="label">段落スタイル</e>
+ <e g="label2" i="label">番号付け</e>
+ <e g="label8" i="label">前</e>
+ <e g="label4" i="label">番号</e>
+ <e g="label10" i="label">開始番号</e>
+ <e g="label1" i="label">レベル</e>
+ <e g="sublevelsft" i="label">総章数</e>
+</t>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">自動編號</e>
+ <e g="offset" i="label">開始從</e>
+ <e g="pagestyleft" i="label">頁</e>
+ <e g="label29" i="label">字元樣式</e>
+ <e g="label22" i="label">之前</e>
+ <e g="label27" i="label">文字區域</e>
+ <e g="label19" i="label">編號</e>
+ <e g="label25" i="label">之後</e>
+ <e g="label20" i="label">段落</e>
+ <e g="label28" i="label">尾註區域</e>
+ <e g="label23" i="label">樣式</e>
+</t>

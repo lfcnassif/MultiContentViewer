@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck f9 পৃষ্টাটোক একে শীৰ্ষকেৰে ইতিমধ্যে থকা পৃষ্ঠাৰ গৌণ সম্পাদনা হিচাপে ল'ড কৰিবলে এই বাকচক চেক কৰক।
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 6c এটা বৈকল্পিক সৰু সাৰাংশ বা মন্তব্য দিয়ক।
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 214 আপোনাৰ ৱিকিৰ শিৰোনাম দিয়ক। এইটো আপোনাৰ ৱিকি নিবেশৰ ওপৰৰ হেডিং। নতুন নিবেশৰ কাৰণে, এই ৱিকিত শিৰোনাম অদ্বিতীয় হ'ব লাগিব। ইতিমধ্য থকা শিৰোনাম দিলে, আপোনাৰ আপ-ল'ডে বৰ্ত্তমানৰ ৱিকি প্ৰৱিষ্টি অভাৰৰাইট কৰিব।
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 105 আপোনাৰ দস্তাবেজ প্ৰকাশ কৰিবলৈ MediaWiki চাৰ্ভাৰ বাচি লওক। তালিকালৈ যোগ দিবলৈ এটা নতুন চাৰ্ভাৰ বাচি লওক।
+22 vnd.com.sun.star.wiki%3AsendDialog 105 আপোনাৰ দস্তাবেজ প্ৰকাশ কৰিবলৈ MediaWiki চাৰ্ভাৰ বাচি লওক। তালিকালৈ যোগ দিবলৈ এটা নতুন চাৰ্ভাৰ বাচি লওক।
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck c9 আপুনাৰ চিস্টেম ৱেব ব্ৰাউছাৰ খুলি ল'ড হোৱা Wiki পৃষ্ঠা দেখাবলে এই বাকচক চেক কৰক।
+1f vnd.com.sun.star.wiki%3Aaccount 67 এটা MediaWiki চাৰ্ভাৰৰ URL দিয়ক, http:// ৰে আৰম্ভ কৰি
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 153 অধিবেশনত আপোনাৰ পাছৱাৰ্ড ৰক্ষা কৰিবলৈ সক্ৰিয় কৰক। মূখ্য পাছৱাৰ্ড সক্ৰিয় হ'ব লাগিব, সঁজুলিসমূহ - বিকল্পসমূহ - %PRODUCTNAME - সুৰক্ষা চাওক।
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField b5 MediaWiki চাৰ্ভাৰত আপোনাৰ পাছৱাৰ্ড দিয়ক । বেনামী অভিগমৰ কাৰণে ৰিক্ত ৰাখক।
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField ca MediaWiki চাৰ্ভাৰৰত আপোনাৰ ব্যৱহাৰকাৰীৰ নাম দিয়ক। বেনামী অভিগমৰ বাবে ৰিক্ত ৰাখক।
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 67 এটা MediaWiki চাৰ্ভাৰৰ URL দিয়ক, http:// ৰে আৰম্ভ কৰি
+1c vnd.com.sun.star.wiki%3Asend e0 ফাইল - পঠাওক - MediaWiki লৈ নিৰ্বাচন কৰক বৰ্ত্তমানৰ Writer দস্তাবেজক এটা MediaWiki চাৰ্ভাৰলৈ তুলিবলৈ ।
+20 vnd.com.sun.star.wiki%3Aaboutbox 1af ৱিকি প্ৰকাশক ব্যৱহাৰ কৰি আপুনি বৰ্ত্তমানৰ Writer লিখনী দস্তাবেজক এটা MediaWiki চাৰ্ভাৰলৈ ল'ড কৰিব পাৰে। তাৰ পিছত, সকলো ৱিকি ব্যৱহাৰকাৰীই আপোনাৰ দস্তাবেজক ৱিকিত পঢ়িব পাৰিব।
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 6b তালিকাৰ পৰা নিৰ্বাচিত প্ৰৱিষ্টি গুচায় ।
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 1ec নতুন ৱিকি চাৰ্ভাৰ যোগ কৰিবলৈ যোগ কৰক টিপক। এটা প্ৰৱিষ্টি নিৰ্বাচন কৰি একাওন্ট সংহতিসমূহ সম্পাদন কৰিবলৈ সম্পাদন টিপক। প্ৰৱিষ্টি নিৰ্বাচন কৰক আৰু তালিকাৰ পৰা তাক আঁতৰাবলৈ আঁতৰাওক টিপক।
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 8d নিৰ্বাচিত প্ৰৱিষ্টি সম্পাদন কৰিবলৈ MediaWiki সম্বাদ খোলে।
+20 vnd.com.sun.star.wiki%3Asettings 1ec নতুন ৱিকি চাৰ্ভাৰ যোগ কৰিবলৈ যোগ কৰক টিপক। এটা প্ৰৱিষ্টি নিৰ্বাচন কৰি একাওন্ট সংহতিসমূহ সম্পাদন কৰিবলৈ সম্পাদন টিপক। প্ৰৱিষ্টি নিৰ্বাচন কৰক আৰু তালিকাৰ পৰা তাক আঁতৰাবলৈ আঁতৰাওক টিপক।
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 7b তালিকাত নতুন প্ৰৱিষ্টি দিবলৈ MediaWiki সম্বাদ খোলে।

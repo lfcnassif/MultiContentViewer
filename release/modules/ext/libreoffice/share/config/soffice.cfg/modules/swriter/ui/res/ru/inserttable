@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Название</e>
+ <e g="ok" i="label">Вставить</e>
+ <e g="headercb" i="label">Заголовок</e>
+ <e g="bordercb" i="label">Обрамление</e>
+ <e g="label1" i="label">Общие</e>
+ <e g="repeatcb" i="label">Повторять строки заголовка на новых страницах</e>
+ <e g="dontsplitcb" i="label">Не разбивать таблицу по страницам</e>
+ <e g="3" i="label">Столбцы</e>
+ <e g="label2" i="label">Параметры</e>
+ <e g="InsertTableDialog" i="title">Вставить таблицу</e>
+ <e g="4" i="label">Строки</e>
+ <e g="repeatheaderafter" i="label">Строки заголовка</e>
+ <e g="autoformat" i="label">Автоформат</e>
+</t>

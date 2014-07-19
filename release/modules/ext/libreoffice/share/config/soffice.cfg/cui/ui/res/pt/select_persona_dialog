@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">De seguida, na barra de endereço do navegador, copie o endereço da página do Persona para a área de transferência e cole-o no campo abaixo.</e>
+ <e g="label1" i="label">Aceda ao sítio Firefox Personas (http://www.getpersonas.com) e localize a Persona que pretende utilizar no LibreOffice.</e>
+ <e g="label3" i="label">Endereço do Persona:</e>
+ <e g="visit_personas" i="label">Aceder ao Firefox Personas</e>
+</t>

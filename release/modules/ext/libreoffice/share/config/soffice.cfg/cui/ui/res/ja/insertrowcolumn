@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="InsertRowColumnDialog" i="title">行の挿入</e>
+ <e g="label2" i="label">位置</e>
+ <e g="insert_before" i="label">前(_B)</e>
+ <e g="insert_after" i="label">後(_F)</e>
+ <e g="label3" i="label">番号(_N)</e>
+ <e g="label1" i="label">挿入</e>
+</t>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="down" i="label">_Decrescente</e>
+ <e g="sortft" i="label">Chave de classificação </e>
+ <e g="up" i="label">_Crescente</e>
+</t>

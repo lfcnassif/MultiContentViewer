@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Fájl/URL</e>
+ <e g="label2" i="label">Beállítások</e>
+ <e g="InsertPluginDialog" i="title">Bővítőmodul beszúrása</e>
+ <e g="urlbtn" i="label">Tallózás…</e>
+</t>

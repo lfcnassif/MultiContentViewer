@@ -1,0 +1,1 @@
+Utilizatz lo Creator de Rapòrts per crear de rapòrts de basa de donadas polits e d'aparència agradiva. L'editor permet de definir un pè de pagina, de grops e d'entèsta de pagina.  Amai, es possible de calcular los camps per tal de realizar de rapòrts de basa de donadas complèxes.

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 为最高质量与最大文件尺寸。</e>
+ <e g="liststore2" i="3">点</e>
+ <e g="level2rb" i="label">级别 2</e>
+ <e g="label17" i="label">预览</e>
+ <e g="label2" i="label">颜色深度</e>
+ <e g="label10" i="label">1 为最低质量与最小文件尺寸。</e>
+ <e g="label16" i="label">编码</e>
+ <e g="label22" i="label">0 为最大文件尺寸与最快加载。</e>
+ <e g="label" i="label">压缩</e>
+ <e g="label1" i="label">大小</e>
+ <e g="compressnone" i="label">无</e>
+ <e g="resolutionft" i="label">分辨率</e>
+ <e g="liststore2" i="1">厘米</e>
+ <e g="label6" i="label">高度</e>
+ <e g="liststore1" i="0">像素/厘米</e>
+ <e g="label20" i="label">压缩</e>
+ <e g="liststore1" i="2">像素/米</e>
+ <e g="binarycb" i="label">二进制</e>
+ <e g="GraphicExportDialog" i="title"> 选项</e>
+ <e g="textcb" i="label">文字</e>
+ <e g="color1rb" i="label">颜色</e>
+ <e g="liststore2" i="4">像素</e>
+ <e g="epsipreviewcb" i="label">互换 (EPSI)</e>
+ <e g="label5" i="label">宽度</e>
+ <e g="color2rb" i="label">灰度</e>
+ <e g="label19" i="label">版本</e>
+ <e g="label4" i="label">信息</e>
+ <e g="rlecb" i="label">RLE 编码</e>
+ <e g="labe" i="label">绘图对象</e>
+ <e g="liststore2" i="0">英寸</e>
+ <e g="label12" i="label">模式</e>
+ <e g="liststore2" i="2">毫米</e>
+ <e g="compresslzw" i="label">LZW 编码</e>
+ <e g="label3" i="label">压缩</e>
+ <e g="tiffpreviewcb" i="label">图像预览 (TIFF)</e>
+ <e g="savetransparencycb" i="label">保存透明度</e>
+ <e g="level1rb" i="label">级别 1</e>
+ <e g="liststore1" i="1">像素/英寸</e>
+ <e g="label23" i="label">0 为最小文件尺寸与最慢加载。</e>
+ <e g="label18" i="label">颜色格式</e>
+ <e g="interlacedcb" i="label">交错</e>
+ <e g="label9" i="label">质量</e>
+</t>

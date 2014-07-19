@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">1. Schlüssel</e>
+ <e g="typeft" i="label">Verzeichnis</e>
+ <e g="phonetic1ft" i="label">Phonetische Lesart</e>
+ <e g="searchcasewordonlycb" i="label">Nur ganze Wörter</e>
+ <e g="levelft" i="label">Ebene</e>
+ <e g="new" i="tooltip_text">Neues benutzerdefiniertes Verzeichnis</e>
+ <e g="IndexEntryDialog" i="title">Verzeichniseintrag einfügen</e>
+ <e g="mainentrycb" i="label">Haupteintrag</e>
+ <e g="phonetic0ft" i="label">Phonetische Lesart</e>
+ <e g="searchcasesensitivecb" i="label">Groß-/Kleinschreibung berücksichtigen</e>
+ <e g="key2ft" i="label">2. Schlüssel</e>
+ <e g="label1" i="label">Auswahl</e>
+ <e g="applytoallcb" i="label">Auf alle ähnliche Texte anwenden</e>
+ <e g="insert" i="label">Einfügen</e>
+ <e g="phonetic2ft" i="label">Phonetische Lesart</e>
+ <e g="label3" i="label">Eintrag</e>
+</t>

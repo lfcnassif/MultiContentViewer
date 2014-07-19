@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">プレビュー</e>
+ <e g="label22" i="label">間隔</e>
+ <e g="kerningft" i="label">間隔</e>
+ <e g="relativefontsize" i="label">相対的フォントサイズ</e>
+ <e g="0deg" i="label">0 度</e>
+ <e g="90deg" i="label">90 度</e>
+ <e g="superscript" i="label">上付き</e>
+ <e g="normal" i="label">標準</e>
+ <e g="270deg" i="label">270 度</e>
+ <e g="liststore1" i="0">既定</e>
+ <e g="liststore1" i="1">広くする</e>
+ <e g="liststore1" i="2">狭くする</e>
+ <e g="pairkerning" i="label">ペアカーニング</e>
+ <e g="label24" i="label">幅の倍率</e>
+ <e g="raiselower" i="label">上下の割合</e>
+ <e g="rotate" i="label">回転</e>
+ <e g="rotateandscale" i="label">回転 / 倍率</e>
+ <e g="subscript" i="label">下付き</e>
+ <e g="fittoline" i="label">行に合わせる</e>
+ <e g="automatic" i="label">自動</e>
+ <e g="label20" i="label">位置</e>
+</t>

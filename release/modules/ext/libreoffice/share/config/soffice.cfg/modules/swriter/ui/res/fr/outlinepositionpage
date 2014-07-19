@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Aligné à</e>
+ <e g="num2align" i="label">Alignement de la numérotation</e>
+ <e g="liststore2" i="0">Tabulation</e>
+ <e g="liststore1" i="1">Centré</e>
+ <e g="indent" i="label">Retrait</e>
+ <e g="numalign" i="label">Alignement de la numérotation</e>
+ <e g="numberingwidth" i="label">Largeur de la numérotation</e>
+ <e g="3" i="label">Position et espacement</e>
+ <e g="liststore1" i="0">Gauche</e>
+ <e g="liststore1" i="2">Droit</e>
+ <e g="numdist" i="label">Espace mini. numérotation &lt;-&gt; étiquette</e>
+ <e g="liststore2" i="2">Rien</e>
+ <e g="1" i="label">Niveau</e>
+ <e g="liststore2" i="1">Espace</e>
+ <e g="numfollowedby" i="label">Numérotation suivie par</e>
+ <e g="at" i="label">à</e>
+ <e g="relative" i="label">Relatif</e>
+ <e g="indentat" i="label">Retrait à</e>
+ <e g="standard" i="label">Par défaut</e>
+</t>

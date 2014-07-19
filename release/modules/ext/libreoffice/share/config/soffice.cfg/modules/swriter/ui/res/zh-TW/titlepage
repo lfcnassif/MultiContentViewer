@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">標題頁</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">插入新標題頁</e>
+ <e g="label3" i="label">編輯頁面屬性</e>
+ <e g="label2" i="label">頁面編碼</e>
+ <e g="label1" i="label">建立標題頁</e>
+ <e g="label8" i="label">頁</e>
+ <e g="label6" i="label">標題頁的數目</e>
+ <e g="label7" i="label">將標題頁置於</e>
+ <e g="CB_RESTART_NUMBERING" i="label">在標題頁之後重設頁面編碼</e>
+ <e g="FT_PAGE_PAGES" i="label">頁碼</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">將現存的頁面轉換為標題頁</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">為第一張標題頁設定頁碼</e>
+ <e g="RB_DOCUMENT_START" i="label">文件開頭</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">編輯...</e>
+ <e g="RB_PAGE_START" i="label">頁</e>
+ <e g="FT_PAGE_COUNT" i="label">頁碼</e>
+</t>

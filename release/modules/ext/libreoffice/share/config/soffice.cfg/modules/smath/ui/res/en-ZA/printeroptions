@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="fittopage" i="label">Fit to page</e>
+ <e g="scaling" i="label">Scaling</e>
+ <e g="borders" i="label">Borders</e>
+ <e g="formulatext" i="label">Formula text</e>
+ <e g="label4" i="label">Contents</e>
+ <e g="label5" i="label">Size</e>
+ <e g="originalsize" i="label">Original size</e>
+ <e g="title" i="label">Title</e>
+</t>

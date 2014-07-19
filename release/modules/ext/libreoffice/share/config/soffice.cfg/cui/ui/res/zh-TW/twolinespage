@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">其他字元...</e>
+ <e g="label29" i="label">起始字元</e>
+ <e g="liststore1" i="0">(無)</e>
+ <e g="label28" i="label">帶括號的字元</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">分為雙行寫入</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(無)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">其他字元...</e>
+ <e g="label30" i="label">結尾字元</e>
+ <e g="label2" i="label">雙行</e>
+ <e g="label52" i="label">預覽</e>
+</t>

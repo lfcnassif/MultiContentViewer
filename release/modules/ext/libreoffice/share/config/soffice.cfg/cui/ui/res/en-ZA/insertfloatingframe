@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Default</e>
+ <e g="heightlabel" i="label">Height</e>
+ <e g="label2" i="label">Border</e>
+ <e g="scrollbarauto" i="label">Automatic</e>
+ <e g="label1" i="label">Scroll bar</e>
+ <e g="label7" i="label">Contents</e>
+ <e g="borderon" i="label">On</e>
+ <e g="InsertFloatingFrameDialog" i="title">Floating Frame Properties</e>
+ <e g="buttonbrowse" i="label">Browse...</e>
+ <e g="label6" i="label">Name</e>
+ <e g="widthlabel" i="label">Width</e>
+ <e g="scrollbaroff" i="label">Off</e>
+ <e g="scrollbaron" i="label">On</e>
+ <e g="defaultheight" i="label">Default</e>
+ <e g="borderoff" i="label">Off</e>
+ <e g="label3" i="label">Spacing to contents</e>
+</t>

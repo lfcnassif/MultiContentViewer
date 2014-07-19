@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="printallpages" i="label">Alle pagina's</e>
+ <e g="pagestxt" i="label">Pagina's</e>
+ <e g="label5" i="label">Printer</e>
+ <e g="label11" i="label">Afdrukken</e>
+ <e g="setup" i="label">Eigenschappen...</e>
+ <e g="label9" i="label">Opmerking:</e>
+ <e g="customlabel" i="label">aangepast</e>
+ <e g="liststore3" i="0">Automatisch</e>
+ <e g="label15" i="label">Afdrukken</e>
+ <e g="label19" i="label">Positie</e>
+ <e g="sheetmargintxt1" i="label">Marge</e>
+ <e g="liststore1" i="4">9</e>
+ <e g="printallsheets" i="label">Alle bladen</e>
+ <e g="label2" i="label">Paginalay-out</e>
+ <e g="totalnumpages" i="label">/ %n</e>
+ <e g="liststore3" i="2">Liggend</e>
+ <e g="label6" i="label">Details</e>
+ <e g="label12" i="label">Dia's per pagina</e>
+ <e g="label16" i="label">Notities</e>
+ <e g="liststore1" i="1">2</e>
+ <e g="liststore2" i="2">van boven naar beneden, dan naar links</e>
+ <e g="ordertxt" i="label">Positie</e>
+ <e g="label3" i="label">Paginazijden</e>
+ <e g="pagespersheetbtn" i="label">Pagina's per blad</e>
+ <e g="label7" i="label">Status:</e>
+ <e g="label13" i="label">Bereik en kopieën</e>
+ <e g="label17" i="label">Opnemen</e>
+ <e g="printpages" i="label">Pagina's</e>
+ <e g="location" i="label">Plaatsen</e>
+ <e g="liststore1" i="0">1</e>
+ <e g="printtofile" i="label">Afdrukken naar bestand</e>
+ <e g="reverseorder" i="label">Afdrukken in omgekeerde volgorde van pagina's</e>
+ <e g="collate" i="label">Stapelen</e>
+ <e g="label10" i="label">Document</e>
+ <e g="liststore2" i="1">Van boven naar beneden, dan naar rechts</e>
+ <e g="label8" i="label">Locatie: </e>
+ <e g="printselection" i="label">Selectie</e>
+ <e g="PrintDialog" i="title">Afdrukken</e>
+ <e g="comment" i="label">Lange printernaam</e>
+ <e g="liststore1" i="6">Gebruikergedefinieerd</e>
+ <e g="singleprintjob" i="label">Maak afzonderlijke afdruktaken voor gestapelde uitvoer</e>
+ <e g="sheetmargintxt2" i="label">naar bladrand</e>
+ <e g="by" i="label">door</e>
+ <e g="label1" i="label">Algemeen</e>
+ <e g="label20" i="label">Opties</e>
+ <e g="liststore2" i="3">Van rechts naar links, dan naar beneden</e>
+ <e g="printpaperfromsetup" i="label">Gebruik alleen de papierlade uit de printervoorkeuren</e>
+ <e g="liststore1" i="3">6</e>
+ <e g="bordercb" i="label">Teken een rand langs elke pagina</e>
+ <e g="fromwhich" i="label">Afdrukbereik</e>
+ <e g="pagemargintxt1" i="label">Afstand</e>
+ <e g="status" i="label">Standaardprinter</e>
+ <e g="liststore2" i="0">Van links naar rechts, dan naar beneden</e>
+ <e g="printselectedsheets" i="label">Geselecteerde werkbladen</e>
+ <e g="label21" i="label">Opties</e>
+ <e g="liststore3" i="1">Staand</e>
+ <e g="liststore1" i="5">16</e>
+ <e g="printselectedcells" i="label">Geselecteerde cellen</e>
+ <e g="pagemargintxt2" i="label">tussen pagina's</e>
+ <e g="label14" i="label">Aantal kopieën</e>
+ <e g="brochure" i="label">Brochure</e>
+ <e g="label18" i="label">Lay-out</e>
+ <e g="liststore1" i="2">4</e>
+ <e g="orientationtxt" i="label">Richting</e>
+</t>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">之后</e>
+ <e g="label7" i="label">分隔符</e>
+ <e g="label5" i="label">字符样式</e>
+ <e g="label3" i="label">段落样式</e>
+ <e g="label2" i="label">编号</e>
+ <e g="label8" i="label">之前</e>
+ <e g="label4" i="label">数字</e>
+ <e g="label10" i="label">开始于</e>
+ <e g="label1" i="label">级</e>
+ <e g="sublevelsft" i="label">显示下级</e>
+</t>

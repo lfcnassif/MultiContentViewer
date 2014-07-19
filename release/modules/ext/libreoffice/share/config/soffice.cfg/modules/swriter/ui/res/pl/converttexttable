@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Akapit</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">wiersze</e>
+ <e g="tabs" i="label">Tabulatory</e>
+ <e g="label3" i="label">Pierwszy </e>
+ <e g="label1" i="label">Dziel tekst na znaku</e>
+ <e g="headingcb" i="label">Nagłówek</e>
+ <e g="bordercb" i="label">Krawędź</e>
+ <e g="dontsplitcb" i="label">Nie dziel tabeli</e>
+ <e g="autofmt" i="label">Autoformatowanie...</e>
+ <e g="repeatheading" i="label">Powtórz nagłówek</e>
+ <e g="keepcolumn" i="label">Jednakowa szerokość wszystkich kolumn</e>
+ <e g="ConvertTextTableDialog" i="title">Konwertuj tabelę na tekst</e>
+ <e g="semicolons" i="label">Średniki</e>
+ <e g="2" i="label">Opcje</e>
+ <e g="other" i="label">Inne:</e>
+</t>

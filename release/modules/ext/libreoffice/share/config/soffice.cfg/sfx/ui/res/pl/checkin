@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="MajorVersion" i="label">Nowa główna wersja</e>
+ <e g="label2" i="label">Komentarz do wersji</e>
+ <e g="CheckinDialog" i="title">Zaewidencjonuj</e>
+</t>

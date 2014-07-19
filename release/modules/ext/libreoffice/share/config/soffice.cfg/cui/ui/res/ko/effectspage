@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">제목</e>
+ <e g="overlinecolorft" i="label">Overline color</e>
+ <e g="liststore6" i="7">파선(굵게)</e>
+ <e g="liststore3" i="1">점</e>
+ <e g="underlinecolorft" i="label">Underline Color</e>
+ <e g="label42" i="label">Options</e>
+ <e g="liststore1" i="0">(Without)</e>
+ <e g="individualwordscb" i="label">Individual words</e>
+ <e g="label46" i="label">Overlining</e>
+ <e g="liststore5" i="3">Bold</e>
+ <e g="liststore6" i="14">파선</e>
+ <e g="liststore6" i="10">일점 쇄선</e>
+ <e g="liststore6" i="0">(Without)</e>
+ <e g="liststore1" i="2">소문자</e>
+ <e g="liststore5" i="5">X로</e>
+ <e g="liststore6" i="16">이중 물결선</e>
+ <e g="liststore3" i="4">액센트</e>
+ <e g="liststore6" i="6">파선</e>
+ <e g="outlinecb" i="label">외곽선</e>
+ <e g="liststore4" i="1">텍스트 밑에</e>
+ <e g="fontcolorft" i="label">글꼴 색</e>
+ <e g="liststore2" i="0">(Without)</e>
+ <e g="liststore5" i="2">Double</e>
+ <e g="liststore6" i="13">이점 쇄선(굵게)</e>
+ <e g="emphasisft" i="label">강조 표시</e>
+ <e g="liststore6" i="3">Bold</e>
+ <e g="reliefft" i="label">양각</e>
+ <e g="liststore2" i="2">Engraved</e>
+ <e g="label50" i="label">Preview</e>
+ <e g="liststore6" i="15">물결선(굵게)</e>
+ <e g="liststore6" i="9">긴 파선(굵게)</e>
+ <e g="liststore6" i="5">점선(굵게)</e>
+ <e g="liststore3" i="3">디스크</e>
+ <e g="liststore4" i="0">텍스트 위에</e>
+ <e g="liststore5" i="1">Single</e>
+ <e g="label47" i="label">취소선</e>
+ <e g="hiddencb" i="label">숨김</e>
+ <e g="liststore6" i="12">이점 쇄선</e>
+ <e g="liststore6" i="2">Double</e>
+ <e g="liststore3" i="0">(Without)</e>
+ <e g="liststore1" i="4">작은 대문자</e>
+ <e g="shadowcb" i="label">그림자</e>
+ <e g="liststore2" i="1">돌출 효과</e>
+ <e g="liststore6" i="8">긴 파선</e>
+ <e g="liststore3" i="2">원</e>
+ <e g="liststore6" i="4">점선</e>
+ <e g="label48" i="label">Underlining</e>
+ <e g="blinkingcb" i="label">깜박임</e>
+ <e g="liststore1" i="1">대문자</e>
+ <e g="positionft" i="label">Position</e>
+ <e g="liststore5" i="4">/로</e>
+ <e g="liststore5" i="0">(Without)</e>
+ <e g="effectsft" i="label">효과</e>
+ <e g="liststore6" i="11">일점 쇄선(굵게)</e>
+ <e g="liststore6" i="1">Single</e>
+</t>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Vorlage</e>
+ <e g="linerb" i="label">Zeilenumbruch</e>
+ <e g="label1" i="label">Typ</e>
+ <e g="liststore1" i="0">[Keine]</e>
+ <e g="pagenumcb" i="label">Seitennummer ändern</e>
+ <e g="pagerb" i="label">Seitenumbruch</e>
+ <e g="BreakDialog" i="title">Umbruch einfügen</e>
+ <e g="columnrb" i="label">Spaltenumbruch</e>
+</t>

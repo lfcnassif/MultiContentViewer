@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="DbReportWindowState" oor:package="org.openoffice.Office.UI">
+ <node oor:name="UIElements">
+  <node oor:name="States">
+   <node oor:name="private:resource/toolbar/toolbar" oor:op="replace">
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>0,1</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="DockingArea" oor:type="xs:int">
+            <value>0</value>
+        </prop>
+        <prop oor:name="Style" oor:type="xs:int">
+            <value>0</value>
+        </prop>
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Standard</value>
+        	<value xml:lang="af">Standaard</value>
+        	<value xml:lang="am">መደበኛ</value>
+        	<value xml:lang="ar">قياسي</value>
+        	<value xml:lang="as">প্ৰামাণিক</value>
+        	<value xml:lang="ast">Estándar</value>
+        	<value xml:lang="be">Standard</value>
+        	<value xml:lang="bg">Стандартни</value>
+        	<value xml:lang="bn">আদর্শ</value>
+        	<value xml:lang="bn-IN">আদর্শ</value>
+        	<value xml:lang="bo">ཚད་གཞི།</value>
+        	<value xml:lang="br">Skoueriek</value>
+        	<value xml:lang="brx">Standard</value>
+        	<value xml:lang="bs">Standardno</value>
+        	<value xml:lang="ca">Estàndard</value>
+        	<value xml:lang="ca-XV">Estàndard</value>
+        	<value xml:lang="cs">Standardní</value>
+        	<value xml:lang="cy">Safonol</value>
+        	<value xml:lang="da">Standard</value>
+        	<value xml:lang="de">Standard</value>
+        	<value xml:lang="dgo">Standard</value>
+        	<value xml:lang="dz">ཚད་ལྡན།</value>
+        	<value xml:lang="el">Τυπική</value>
+        	<value xml:lang="en-GB">Standard</value>
+        	<value xml:lang="en-ZA">Standard</value>
+        	<value xml:lang="eo">Normala</value>
+        	<value xml:lang="es">Estándar</value>
+        	<value xml:lang="et">Standardne</value>
+        	<value xml:lang="eu">Estandarra</value>
+        	<value xml:lang="fa">استاندارد</value>
+        	<value xml:lang="fi">Oletus</value>
+        	<value xml:lang="fr">Standard</value>
+        	<value xml:lang="ga">Caighdeánach</value>
+        	<value xml:lang="gd">Stannardach</value>
+        	<value xml:lang="gl">Estándar</value>
+        	<value xml:lang="gu">મૂળભૂત</value>
+        	<value xml:lang="he">סטנדרטי</value>
+        	<value xml:lang="hi">मानक</value>
+        	<value xml:lang="hr">Standardno</value>
+        	<value xml:lang="hu">Standard</value>
+        	<value xml:lang="id">Standar</value>
+        	<value xml:lang="is">Venjuleg</value>
+        	<value xml:lang="it">Standard</value>
+        	<value xml:lang="ja">標準</value>
+        	<value xml:lang="ka">სტანდარტული</value>
+        	<value xml:lang="kk">Қалыпты</value>
+        	<value xml:lang="km">ស្តង់ដារ</value>
+        	<value xml:lang="kn">ಶಿಷ್ಟ</value>
+        	<value xml:lang="ko">표준</value>
+        	<value xml:lang="kok">प्रमाणित</value>
+        	<value xml:lang="ks">Standard</value>
+        	<value xml:lang="ku">Standard</value>
+        	<value xml:lang="lb">Standard</value>
+        	<value xml:lang="lo">ມາດຕະຖານ</value>
+        	<value xml:lang="lt">Standartinė juosta</value>
+        	<value xml:lang="lv">Standarta</value>
+        	<value xml:lang="mai">मानक</value>
+        	<value xml:lang="mk">Стандардно</value>
+        	<value xml:lang="ml">സാധാരണ</value>
+        	<value xml:lang="mn">Стандарт</value>
+        	<value xml:lang="mni">স্তেন্দর্দ</value>
+        	<value xml:lang="mr">मानक</value>
+        	<value xml:lang="my">အဆင့်အတန်း</value>
+        	<value xml:lang="nb">Standard</value>
+        	<value xml:lang="ne">मानक</value>
+        	<value xml:lang="nl">Standaard</value>
+        	<value xml:lang="nn">Standard</value>
+        	<value xml:lang="nr">Amukelekile</value>
+        	<value xml:lang="nso">Motheo</value>
+        	<value xml:lang="oc">Estandard</value>
+        	<value xml:lang="om">Durtii</value>
+        	<value xml:lang="or">ମାନକ</value>
+        	<value xml:lang="pa-IN">ਸਟੈਂਡਰਡ</value>
+        	<value xml:lang="pl">Standardowy</value>
+        	<value xml:lang="pt">Padrão</value>
+        	<value xml:lang="pt-BR">Padrão</value>
+        	<value xml:lang="ro">Standard</value>
+        	<value xml:lang="ru">Стандарт</value>
+        	<value xml:lang="rw">Bisanzwe</value>
+        	<value xml:lang="sa-IN">मानकः</value>
+        	<value xml:lang="sat">Standard</value>
+        	<value xml:lang="sd">معيار</value>
+        	<value xml:lang="sh">Uobičajeno</value>
+        	<value xml:lang="si">සම්මත</value>
+        	<value xml:lang="sid">Mereggisa</value>
+        	<value xml:lang="sk">Štandardný</value>
+        	<value xml:lang="sl">Standardno</value>
+        	<value xml:lang="sq">Standarde</value>
+        	<value xml:lang="sr">Уобичајено</value>
+        	<value xml:lang="ss">Sitandathi</value>
+        	<value xml:lang="st">Motheo</value>
+        	<value xml:lang="sv">Standard</value>
+        	<value xml:lang="sw-TZ">Standard</value>
+        	<value xml:lang="ta">நிலையான</value>
+        	<value xml:lang="te">నాణ్యత</value>
+        	<value xml:lang="tg">Стандарт</value>
+        	<value xml:lang="th">มาตรฐาน</value>
+        	<value xml:lang="tn">Standard</value>
+        	<value xml:lang="tr">Standart</value>
+        	<value xml:lang="ts">Fambiselo</value>
+        	<value xml:lang="tt">Үрнәкле</value>
+        	<value xml:lang="ug">ئۆلچەملىك</value>
+        	<value xml:lang="uk">Standard</value>
+        	<value xml:lang="uz">Andoza</value>
+        	<value xml:lang="ve">Vhuimo</value>
+        	<value xml:lang="vi">Chuẩn</value>
+        	<value xml:lang="xh">Okwesiqhelo</value>
+        	<value xml:lang="zh-CN">标准</value>
+        	<value xml:lang="zh-TW">標準</value>
+        	<value xml:lang="zu">Okuvamile</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+   </node>
+    <node oor:name="private:resource/toolbar/Formatting" oor:op="replace">
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>0,1</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="DockingArea" oor:type="xs:int">
+            <value>0</value>
+        </prop>
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Formatting</value>
+        	<value xml:lang="af">Formatering</value>
+        	<value xml:lang="am">Formatting</value>
+        	<value xml:lang="ar">تنسيق</value>
+        	<value xml:lang="as">ফৰমেট কৰা হৈ আছে</value>
+        	<value xml:lang="ast">Formatu</value>
+        	<value xml:lang="be">Formatting</value>
+        	<value xml:lang="bg">Форматиране</value>
+        	<value xml:lang="bn">বিন্যাস করা হচ্ছে</value>
+        	<value xml:lang="bn-IN">বিন্যাস করা হচ্ছে</value>
+        	<value xml:lang="bo">Formatting</value>
+        	<value xml:lang="br">Mentrezhañ</value>
+        	<value xml:lang="brx">दाथाय दानाय</value>
+        	<value xml:lang="bs">Formatiranje</value>
+        	<value xml:lang="ca">Formatació</value>
+        	<value xml:lang="ca-XV">Formatació</value>
+        	<value xml:lang="cs">Formátování</value>
+        	<value xml:lang="cy">Fformatio</value>
+        	<value xml:lang="da">Formatering</value>
+        	<value xml:lang="de">Format</value>
+        	<value xml:lang="dgo">Formatting</value>
+        	<value xml:lang="dz">Formatting</value>
+        	<value xml:lang="el">Μορφοποίηση</value>
+        	<value xml:lang="en-GB">Formatting</value>
+        	<value xml:lang="en-ZA">Formatting</value>
+        	<value xml:lang="eo">Formatado</value>
+        	<value xml:lang="es">Formato</value>
+        	<value xml:lang="et">Vormindus</value>
+        	<value xml:lang="eu">Formatua</value>
+        	<value xml:lang="fa">قالب‌بندی</value>
+        	<value xml:lang="fi">Muotoilu</value>
+        	<value xml:lang="fr">Formatage</value>
+        	<value xml:lang="ga">Formáidiú</value>
+        	<value xml:lang="gd">Fòrmatadh</value>
+        	<value xml:lang="gl">Formatado</value>
+        	<value xml:lang="gu">બંધારણ કરી રહ્યા છે</value>
+        	<value xml:lang="he">עיצוב</value>
+        	<value xml:lang="hi">फार्मेट किया जा रहा है</value>
+        	<value xml:lang="hr">Formatiranje</value>
+        	<value xml:lang="hu">Formázás</value>
+        	<value xml:lang="id">Pemformatan</value>
+        	<value xml:lang="is">Snið</value>
+        	<value xml:lang="it">Formattazione</value>
+        	<value xml:lang="ja">書式設定</value>
+        	<value xml:lang="ka">ფორმატირება</value>
+        	<value xml:lang="kk">Пiшiмдеу</value>
+        	<value xml:lang="km">ការ​ធ្វើ​ទ្រង់ទ្រាយ</value>
+        	<value xml:lang="kn">ರೂಪಿಸುವಿಕೆ</value>
+        	<value xml:lang="ko">서식</value>
+        	<value xml:lang="kok">Formatting</value>
+        	<value xml:lang="ks">Formatting</value>
+        	<value xml:lang="ku">Teşekirin</value>
+        	<value xml:lang="lb">Formatting</value>
+        	<value xml:lang="lo">Formatting</value>
+        	<value xml:lang="lt">Formatavimas</value>
+        	<value xml:lang="lv">Formatēšana</value>
+        	<value xml:lang="mai">Formatting</value>
+        	<value xml:lang="mk">Форматирање</value>
+        	<value xml:lang="ml">ഫോര്‍മാറ്റിങ്</value>
+        	<value xml:lang="mn">Хэлбэржүүлэлт</value>
+        	<value xml:lang="mni">Formatting</value>
+        	<value xml:lang="mr">रूपण</value>
+        	<value xml:lang="my">စီစဉ်ဖွဲ့စည်းမှုပုံစံ</value>
+        	<value xml:lang="nb">Formatering</value>
+        	<value xml:lang="ne">ढाँचा</value>
+        	<value xml:lang="nl">Opmaak</value>
+        	<value xml:lang="nn">Formatering</value>
+        	<value xml:lang="nr">Yahlela</value>
+        	<value xml:lang="nso">Go fometa</value>
+        	<value xml:lang="oc">Formatatge</value>
+        	<value xml:lang="om">Dhangeessuu</value>
+        	<value xml:lang="or">ଫର୍ମାଟକରିବା</value>
+        	<value xml:lang="pa-IN">ਫਾਰਮੈਟਿੰਗ</value>
+        	<value xml:lang="pl">Formatowanie</value>
+        	<value xml:lang="pt">Formatação</value>
+        	<value xml:lang="pt-BR">Formatação</value>
+        	<value xml:lang="ro">Formatare</value>
+        	<value xml:lang="ru">Форматирование</value>
+        	<value xml:lang="rw">Ihinduramiterere</value>
+        	<value xml:lang="sa-IN">Formatting</value>
+        	<value xml:lang="sat">Formatting</value>
+        	<value xml:lang="sd">Formatting</value>
+        	<value xml:lang="sh">Formatiranje</value>
+        	<value xml:lang="si">හැඩසවිය</value>
+        	<value xml:lang="sid">Formatting</value>
+        	<value xml:lang="sk">Formátovanie</value>
+        	<value xml:lang="sl">Oblikovanje</value>
+        	<value xml:lang="sq">Formatim</value>
+        	<value xml:lang="sr">Форматирање</value>
+        	<value xml:lang="ss">Kufometha</value>
+        	<value xml:lang="st">Ho Etsa Sebopeho</value>
+        	<value xml:lang="sv">Formatering</value>
+        	<value xml:lang="sw-TZ">Formatting</value>
+        	<value xml:lang="ta">வடிவமைக்கிறது</value>
+        	<value xml:lang="te">ఆకృతీకరణ</value>
+        	<value xml:lang="tg">Форматноккунӣ</value>
+        	<value xml:lang="th">Formatting</value>
+        	<value xml:lang="tn">Kago</value>
+        	<value xml:lang="tr">Biçimlendirme</value>
+        	<value xml:lang="ts">Ku Sasela</value>
+        	<value xml:lang="tt">Рәвешләндерү</value>
+        	<value xml:lang="ug">پىچىم</value>
+        	<value xml:lang="uk">Форматування</value>
+        	<value xml:lang="uz">Formatlash</value>
+        	<value xml:lang="ve">U Fomatha</value>
+        	<value xml:lang="vi">Định dạng</value>
+        	<value xml:lang="xh">Ulungiselelo</value>
+        	<value xml:lang="zh-CN">格式化</value>
+        	<value xml:lang="zh-TW">格式化</value>
+        	<value xml:lang="zu">Okwesakhelo</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>true</value>
+    </prop>
+    </node>
+    <node oor:name="private:resource/toolbar/reportcontrols" oor:op="replace">
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Report Controls</value>
+        	<value xml:lang="af">Rapporteerkontroles</value>
+        	<value xml:lang="am">መግለጫ መቆጣጠሪያዎች</value>
+        	<value xml:lang="ar">عناصر التحكم في التقرير</value>
+        	<value xml:lang="as">সংবাদ নিয়ন্ত্ৰণসমূহ</value>
+        	<value xml:lang="ast">Controles d&apos;informe</value>
+        	<value xml:lang="be">Report Controls</value>
+        	<value xml:lang="bg">Елементи за управление за справки</value>
+        	<value xml:lang="bn">রিপোর্ট কন্ট্রোল</value>
+        	<value xml:lang="bn-IN">রিপোর্ট কন্ট্রোল</value>
+        	<value xml:lang="bo">Report Controls</value>
+        	<value xml:lang="br">Reolerezhioù an danevell</value>
+        	<value xml:lang="brx">Report Controls</value>
+        	<value xml:lang="bs">Kontrole izvještaja</value>
+        	<value xml:lang="ca">Controls de l&apos;informe</value>
+        	<value xml:lang="ca-XV">Controls de l&apos;informe</value>
+        	<value xml:lang="cs">Ovládací prvky sestavy</value>
+        	<value xml:lang="cy">Rheolyddion Adroddiadau</value>
+        	<value xml:lang="da">Rapportkontrolelementer</value>
+        	<value xml:lang="de">Bericht-Steuerelemente</value>
+        	<value xml:lang="dgo">Report Controls</value>
+        	<value xml:lang="dz">Report Controls</value>
+        	<value xml:lang="el">Στοιχεία ελέγχου αναφοράς</value>
+        	<value xml:lang="en-GB">Report Controls</value>
+        	<value xml:lang="en-ZA">Report Controls</value>
+        	<value xml:lang="eo">Enmeti regilojn</value>
+        	<value xml:lang="es">Controles de informe</value>
+        	<value xml:lang="et">Aruande juhtelemendid</value>
+        	<value xml:lang="eu">Txosten-kontrolak</value>
+        	<value xml:lang="fa">کنترل‌های گزارش</value>
+        	<value xml:lang="fi">Raportin ohjausobjektit</value>
+        	<value xml:lang="fr">Contrôles de rapport</value>
+        	<value xml:lang="ga">Rialtáin Tuairisce</value>
+        	<value xml:lang="gd">Innealan-smachd na h-aithisg</value>
+        	<value xml:lang="gl">Controis do informe</value>
+        	<value xml:lang="gu">નિયંત્રણોનો અહેવાલ કરો</value>
+        	<value xml:lang="he">פקדי דוח</value>
+        	<value xml:lang="hi">रिपोर्ट नियंत्रण</value>
+        	<value xml:lang="hr">Kontrole izvještaja</value>
+        	<value xml:lang="hu">Jelentés vezérlőelemek</value>
+        	<value xml:lang="id">Kendali Laporan</value>
+        	<value xml:lang="is">Skýrslustýringar</value>
+        	<value xml:lang="it">Comandi rapporto</value>
+        	<value xml:lang="ja">レポートコントロール</value>
+        	<value xml:lang="ka">Report Controls</value>
+        	<value xml:lang="kk">Есептемені басқару элементтері</value>
+        	<value xml:lang="km">វត្ថុ​បញ្ជា​របាយការណ៍</value>
+        	<value xml:lang="kn">ವರದಿಯ ನಿಯಂತ್ರಕಗಳು</value>
+        	<value xml:lang="ko">보고서 콘트롤</value>
+        	<value xml:lang="kok">Report Controls</value>
+        	<value xml:lang="ks">Report Controls</value>
+        	<value xml:lang="ku">Kontrolên Raporê</value>
+        	<value xml:lang="lb">Report Controls</value>
+        	<value xml:lang="lo">Report Controls</value>
+        	<value xml:lang="lt">Ataskaitos valdikliai</value>
+        	<value xml:lang="lv">Atskaites vadīklas</value>
+        	<value xml:lang="mai">Report Controls</value>
+        	<value xml:lang="mk">Контроли за извештај</value>
+        	<value xml:lang="ml">റിപോര്‍ട്ടിനുള്ള നിയന്ത്രണങ്ങള്‍</value>
+        	<value xml:lang="mn">Report Controls</value>
+        	<value xml:lang="mni">Report Controls</value>
+        	<value xml:lang="mr">कंट्रोल्स् कळवा</value>
+        	<value xml:lang="my">အစီရင်ခံစာ ထိန်းချုပ်မှုများ</value>
+        	<value xml:lang="nb">Kontrollelementer for rapporter</value>
+        	<value xml:lang="ne">प्रतिवेदन नियन्त्रणहरू</value>
+        	<value xml:lang="nl">Besturingselementen voor rapport</value>
+        	<value xml:lang="nn">Rapportkontrollar</value>
+        	<value xml:lang="nr">Report Controls</value>
+        	<value xml:lang="nso">Report Controls</value>
+        	<value xml:lang="oc">Contraròtles de rapòrt</value>
+        	<value xml:lang="om">To&apos;annaawwan Gabaasaa</value>
+        	<value xml:lang="or">ବିବରଣୀ ନିଯନ୍ତ୍ରଣ</value>
+        	<value xml:lang="pa-IN">ਰਿਪੋਰਟ ਕੰਟਰੋਲ</value>
+        	<value xml:lang="pl">Formanty raportu</value>
+        	<value xml:lang="pt">Controlos do relatório</value>
+        	<value xml:lang="pt-BR">Controles do relatório</value>
+        	<value xml:lang="ro">Controale raport</value>
+        	<value xml:lang="ru">Элементы управления отчётов</value>
+        	<value xml:lang="rw">Report Controls</value>
+        	<value xml:lang="sa-IN">Report Controls</value>
+        	<value xml:lang="sat">Report Controls</value>
+        	<value xml:lang="sd">Report Controls</value>
+        	<value xml:lang="sh">Kontrole izveštaja</value>
+        	<value xml:lang="si">වාර්ථා පාලක</value>
+        	<value xml:lang="sid">Report Controls</value>
+        	<value xml:lang="sk">Ovládacie prvky správy</value>
+        	<value xml:lang="sl">Kontrolniki poročila</value>
+        	<value xml:lang="sq">Shto kontrollet</value>
+        	<value xml:lang="sr">Контроле извештаја</value>
+        	<value xml:lang="ss">Report Controls</value>
+        	<value xml:lang="st">Report Controls</value>
+        	<value xml:lang="sv">Rapportkontroller</value>
+        	<value xml:lang="sw-TZ">Report Controls</value>
+        	<value xml:lang="ta">அறிக்கை கட்டுப்பாடுகள்</value>
+        	<value xml:lang="te">నియంత్రికలను నివేదించుము</value>
+        	<value xml:lang="tg">Report Controls</value>
+        	<value xml:lang="th">Report Controls</value>
+        	<value xml:lang="tn">Report Controls</value>
+        	<value xml:lang="tr">Rapor Kontrolleri</value>
+        	<value xml:lang="ts">Report Controls</value>
+        	<value xml:lang="tt">Report Controls</value>
+        	<value xml:lang="ug">دوكلات كونترولى</value>
+        	<value xml:lang="uk">Елементи керування звітів</value>
+        	<value xml:lang="uz">Hisobot boshqaruv elementlari</value>
+        	<value xml:lang="ve">Report Controls</value>
+        	<value xml:lang="vi">Điều khiển báo cáo</value>
+        	<value xml:lang="xh">Report Controls</value>
+        	<value xml:lang="zh-CN">报表控件</value>
+        	<value xml:lang="zh-TW">報表控制項</value>
+        	<value xml:lang="zu">Report Controls</value>
+        </prop>
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>0,2</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+    </node>
+    <node oor:name="private:resource/toolbar/drawbar" oor:op="replace">
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Drawing objects</value>
+        	<value xml:lang="af">Tekenobjekte</value>
+        	<value xml:lang="am">እቃዎችን መሳያ</value>
+        	<value xml:lang="ar">رسم كائنات</value>
+        	<value xml:lang="as">অঁকা বস্তুবোৰ</value>
+        	<value xml:lang="ast">Oxetos dibuxaos</value>
+        	<value xml:lang="be">Drawing objects</value>
+        	<value xml:lang="bg">Графични обекти</value>
+        	<value xml:lang="bn">অঙ্কনের বস্তু</value>
+        	<value xml:lang="bn-IN">অঙ্কনের বস্তু</value>
+        	<value xml:lang="bo">རི་མོ་འབྲི་བ།</value>
+        	<value xml:lang="br">Ergorennoù tresañ</value>
+        	<value xml:lang="brx">सावगारि बोनाय मुवाफोर</value>
+        	<value xml:lang="bs">Objekti za crtanje</value>
+        	<value xml:lang="ca">Objectes de dibuix</value>
+        	<value xml:lang="ca-XV">Objectes de dibuix</value>
+        	<value xml:lang="cs">Grafické objekty</value>
+        	<value xml:lang="cy">Gwrthrychau lluniadu</value>
+        	<value xml:lang="da">Tegneobjekter</value>
+        	<value xml:lang="de">Zeichenobjekte</value>
+        	<value xml:lang="dgo">चित्रकारी चीजां</value>
+        	<value xml:lang="dz">དངོས་པོ་ཚུ་འབྲི་དོ།</value>
+        	<value xml:lang="el">Αντικείμενα σχεδίασης</value>
+        	<value xml:lang="en-GB">Drawing objects</value>
+        	<value xml:lang="en-ZA">Drawing objects</value>
+        	<value xml:lang="eo">Desegnaj objektoj</value>
+        	<value xml:lang="es">Objetos de dibujo</value>
+        	<value xml:lang="et">Joonistusobjektid</value>
+        	<value xml:lang="eu">Marrazki-objektuak</value>
+        	<value xml:lang="fa">اشیاء نقاشی</value>
+        	<value xml:lang="fi">Piirros-objektit</value>
+        	<value xml:lang="fr">Objets de dessin</value>
+        	<value xml:lang="ga">Réada líníochta</value>
+        	<value xml:lang="gd">Oibseactan tarraing</value>
+        	<value xml:lang="gl">Obxectos de debuxo</value>
+        	<value xml:lang="gu">ઓબ્જેક્ટોને દોરી રહ્યા છે</value>
+        	<value xml:lang="he">אוביקטי ציור</value>
+        	<value xml:lang="hi">वस्तु का रेखाचित्र बना रहा है</value>
+        	<value xml:lang="hr">Crtani objekti</value>
+        	<value xml:lang="hu">Rajzobjektumok</value>
+        	<value xml:lang="id">Objek menggambar</value>
+        	<value xml:lang="is">Teiknaðir hlutir</value>
+        	<value xml:lang="it">Oggetti di disegno</value>
+        	<value xml:lang="ja">図形描画オブジェクト</value>
+        	<value xml:lang="ka">ხატვის ობიექტები</value>
+        	<value xml:lang="kk">Сызбалық нысандар</value>
+        	<value xml:lang="km">វត្ថុគំនូ</value>
+        	<value xml:lang="kn">ಚಿತ್ರರಚನಾ ವಸ್ತುಗಳು</value>
+        	<value xml:lang="ko">그리기 개체</value>
+        	<value xml:lang="kok">वस्तींचे चित्र काडप</value>
+        	<value xml:lang="ks"> آبجیكٹس   بناوان</value>
+        	<value xml:lang="ku">Hömanên xêzkirinê</value>
+        	<value xml:lang="lb">Zeechnenobjeten</value>
+        	<value xml:lang="lo">ການແຕ້ມ</value>
+        	<value xml:lang="lt">Grafikos objektai</value>
+        	<value xml:lang="lv">Zīmējumu objekti</value>
+        	<value xml:lang="mai">वस्तु आरेख बनाएब रहल अछि</value>
+        	<value xml:lang="mk">Објекти за цртање</value>
+        	<value xml:lang="ml">വരയ്ക്കുവാനുള്ള വസ്തുക്കള്‍</value>
+        	<value xml:lang="mn">Дүрслэл объектууд</value>
+        	<value xml:lang="mni">অয়েকপা পোত্শকশিং</value>
+        	<value xml:lang="mr">ऑब्जेक्ट्स् रेखाटीत करत आहे</value>
+        	<value xml:lang="my">ပုံရေးဆွဲခြင်းအရာ၀တ္ထုများ</value>
+        	<value xml:lang="nb">Tegneobjekter</value>
+        	<value xml:lang="ne">वस्तुहरूको रेखाचित्र</value>
+        	<value xml:lang="nl">Tekenobjecten</value>
+        	<value xml:lang="nn">Teikneobjekt</value>
+        	<value xml:lang="nr">Izinto zokugwala</value>
+        	<value xml:lang="nso">Didirišwa tša go thala</value>
+        	<value xml:lang="oc">Objèctes de dessenh</value>
+        	<value xml:lang="om">Miseensota Fakkasaa</value>
+        	<value xml:lang="or">ଚିତ୍ରାଙ୍କନ ବସ୍ତୁଗୁଡିକ</value>
+        	<value xml:lang="pa-IN">ਡਰਾਇੰਗ ਆਬਜੈਕਟ</value>
+        	<value xml:lang="pl">Obiekty graficzne</value>
+        	<value xml:lang="pt">Objetos de desenho</value>
+        	<value xml:lang="pt-BR">Objetos de desenho</value>
+        	<value xml:lang="ro">Obiecte de desenare</value>
+        	<value xml:lang="ru">Рисунки</value>
+        	<value xml:lang="rw">Ibyifashishwa mu gushushanya</value>
+        	<value xml:lang="sa-IN">रेखाचित्रवस्तूनि</value>
+        	<value xml:lang="sat">चितार जिनिस आदेर</value>
+        	<value xml:lang="sd">شيون چٽڻُ</value>
+        	<value xml:lang="sh">Objekti za crtanje</value>
+        	<value xml:lang="si">ඇඳිම් වස්තු</value>
+        	<value xml:lang="sid">Drawing objects</value>
+        	<value xml:lang="sk">Grafické objekty</value>
+        	<value xml:lang="sl">Risani predmeti</value>
+        	<value xml:lang="sq">Objektet e vizatimit</value>
+        	<value xml:lang="sr">Објекти за цртање</value>
+        	<value xml:lang="ss">Tintfo tekudvweba</value>
+        	<value xml:lang="st">Drawing objects</value>
+        	<value xml:lang="sv">Ritobjekt</value>
+        	<value xml:lang="sw-TZ">Drawing objects</value>
+        	<value xml:lang="ta">பொருட்களை வரைகிறது</value>
+        	<value xml:lang="te">చిత్రలేఖన ఆబ్జక్టులు</value>
+        	<value xml:lang="tg">Объектҳои графикӣ</value>
+        	<value xml:lang="th">วัตถุวาดรูป</value>
+        	<value xml:lang="tn">Moralo didiriswa</value>
+        	<value xml:lang="tr">Çizim nesneleri</value>
+        	<value xml:lang="ts">Drawing objects</value>
+        	<value xml:lang="tt">Drawing objects</value>
+        	<value xml:lang="ug">سىزمىچىلىق ئوبيېكتى</value>
+        	<value xml:lang="uk">Графічні об&apos;єкти</value>
+        	<value xml:lang="uz">Chizma obyektlar</value>
+        	<value xml:lang="ve">Drawing objects</value>
+        	<value xml:lang="vi">Đối tượng vẽ</value>
+        	<value xml:lang="xh">Izinto zokuzoba</value>
+        	<value xml:lang="zh-CN">绘图对象</value>
+        	<value xml:lang="zh-TW">繪圖物件</value>
+        	<value xml:lang="zu">Amalunga okudweba</value>
+        </prop>
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>297,2</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>false</value>
+        </prop>
+    </node>
+    <node oor:name="private:resource/toolbar/alignmentbar" oor:op="replace">
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Align</value>
+        	<value xml:lang="af">Belyn</value>
+        	<value xml:lang="am">ማሰለፊያ</value>
+        	<value xml:lang="ar">محاذاة</value>
+        	<value xml:lang="as">সংস্থাপন কৰক</value>
+        	<value xml:lang="ast">Alliniar</value>
+        	<value xml:lang="be">Align</value>
+        	<value xml:lang="bg">Подравняване</value>
+        	<value xml:lang="bn">প্রান্তিককরণ</value>
+        	<value xml:lang="bn-IN">প্রান্তিককরণ</value>
+        	<value xml:lang="bo">སྙོམ་གཤིབ།</value>
+        	<value xml:lang="br">Steudañ</value>
+        	<value xml:lang="brx">सारियाव लाबोनाय</value>
+        	<value xml:lang="bs">Poravnanje</value>
+        	<value xml:lang="ca">Alineació</value>
+        	<value xml:lang="ca-XV">Alineació</value>
+        	<value xml:lang="cs">Zarovnání</value>
+        	<value xml:lang="cy">Alinio</value>
+        	<value xml:lang="da">Juster</value>
+        	<value xml:lang="de">Ausrichtung</value>
+        	<value xml:lang="dgo"> सेधीकरण करो\t</value>
+        	<value xml:lang="dz">ཕྲང་།</value>
+        	<value xml:lang="el">Στοίχιση</value>
+        	<value xml:lang="en-GB">Align</value>
+        	<value xml:lang="en-ZA">Align</value>
+        	<value xml:lang="eo">Ĝisrandigi</value>
+        	<value xml:lang="es">Alineación</value>
+        	<value xml:lang="et">Joondus</value>
+        	<value xml:lang="eu">Lerrokatu</value>
+        	<value xml:lang="fa">هم‌تراز کردن</value>
+        	<value xml:lang="fi">Tasaus</value>
+        	<value xml:lang="fr">Aligner</value>
+        	<value xml:lang="ga">Ailínigh</value>
+        	<value xml:lang="gd">Co-thaobhaich</value>
+        	<value xml:lang="gl">Aliñar</value>
+        	<value xml:lang="gu">ગોઠવો</value>
+        	<value xml:lang="he">יישור</value>
+        	<value xml:lang="hi">पंक्तिबद्ध करें</value>
+        	<value xml:lang="hr">Podesi</value>
+        	<value xml:lang="hu">Igazítás</value>
+        	<value xml:lang="id">Perataan</value>
+        	<value xml:lang="is">Jafna</value>
+        	<value xml:lang="it">Allinea</value>
+        	<value xml:lang="ja">整列</value>
+        	<value xml:lang="ka">გასწორება</value>
+        	<value xml:lang="kk">Туралау</value>
+        	<value xml:lang="km">តម្រឹម</value>
+        	<value xml:lang="kn">ಹೊಂದಿಸು</value>
+        	<value xml:lang="ko">정렬</value>
+        	<value xml:lang="kok">सारकें करात</value>
+        	<value xml:lang="ks"> ترتیب واری </value>
+        	<value xml:lang="ku">Beralîkirin</value>
+        	<value xml:lang="lb">Align</value>
+        	<value xml:lang="lo">ຈັດລຽນ</value>
+        	<value xml:lang="lt">Lygiuoti</value>
+        	<value xml:lang="lv">Līdzināt</value>
+        	<value xml:lang="mai">पंक्तिबद्ध करू</value>
+        	<value xml:lang="mk">Порамнување</value>
+        	<value xml:lang="ml">അലൈന്‍</value>
+        	<value xml:lang="mn">Жигдрүүлэлт</value>
+        	<value xml:lang="mni">পরেং চান্নহনবা</value>
+        	<value xml:lang="mr">संरेषन</value>
+        	<value xml:lang="my">ချိန်ညှိပါ</value>
+        	<value xml:lang="nb">Juster</value>
+        	<value xml:lang="ne">पङ्क्तिबद्ध</value>
+        	<value xml:lang="nl">Uitlijnen</value>
+        	<value xml:lang="nn">Juster</value>
+        	<value xml:lang="nr">Lungisa</value>
+        	<value xml:lang="nso">Tsepanya</value>
+        	<value xml:lang="oc">Alinhar</value>
+        	<value xml:lang="om">Hiriirsi</value>
+        	<value xml:lang="or">ପାର୍ଶ୍ୱୀକରଣ</value>
+        	<value xml:lang="pa-IN">ਇਕਸਾਰ</value>
+        	<value xml:lang="pl">Wyrównaj</value>
+        	<value xml:lang="pt">Alinhar</value>
+        	<value xml:lang="pt-BR">Alinhar</value>
+        	<value xml:lang="ro">Aliniere</value>
+        	<value xml:lang="ru">Выравнивание</value>
+        	<value xml:lang="rw">Gutongeka</value>
+        	<value xml:lang="sa-IN">संरेखणं कुरु</value>
+        	<value xml:lang="sat">Align</value>
+        	<value xml:lang="sd">صڌ:ئي </value>
+        	<value xml:lang="sh">Poravnanje</value>
+        	<value xml:lang="si">එල්ල කිරීම</value>
+        	<value xml:lang="sid">Align</value>
+        	<value xml:lang="sk">Zarovnať</value>
+        	<value xml:lang="sl">Poravnava</value>
+        	<value xml:lang="sq">Rreshto</value>
+        	<value xml:lang="sr">Поравнање</value>
+        	<value xml:lang="ss">Linganisa</value>
+        	<value xml:lang="st">Lokisa</value>
+        	<value xml:lang="sv">Justera</value>
+        	<value xml:lang="sw-TZ">Align</value>
+        	<value xml:lang="ta">ஒழங்கு</value>
+        	<value xml:lang="te">కుదిరిక</value>
+        	<value xml:lang="tg">Баробаркунӣ</value>
+        	<value xml:lang="th">จัดตำแหน่ง</value>
+        	<value xml:lang="tn">Align</value>
+        	<value xml:lang="tr">Hizala</value>
+        	<value xml:lang="ts">Kongomisa</value>
+        	<value xml:lang="tt">Тигезләү</value>
+        	<value xml:lang="ug">توغرىلا</value>
+        	<value xml:lang="uk">Вирівнювання</value>
+        	<value xml:lang="uz">Tekislash</value>
+        	<value xml:lang="ve">Dzudzanya</value>
+        	<value xml:lang="vi">Sắp hàng</value>
+        	<value xml:lang="xh">Lungelelanisa</value>
+        	<value xml:lang="zh-CN">对齐</value>
+        	<value xml:lang="zh-TW">對齊</value>
+        	<value xml:lang="zu">Ukuqondisa</value>
+        </prop>
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>489,2</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+    </node>
+    <node oor:name="private:resource/toolbar/sectionalignmentbar" oor:op="replace">
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Align at Section</value>
+        	<value xml:lang="af">Belyn met afdeling</value>
+        	<value xml:lang="am">በክፍሉ ማሰለፊያ</value>
+        	<value xml:lang="ar">محاذاة عند مقطع</value>
+        	<value xml:lang="as">অংশত সংস্থাপন কৰক</value>
+        	<value xml:lang="ast">Alliniar en seición</value>
+        	<value xml:lang="be">Align at Section</value>
+        	<value xml:lang="bg">Подравняване спрямо раздел</value>
+        	<value xml:lang="bn">সেকশনে প্রান্তিককরণ</value>
+        	<value xml:lang="bn-IN">সেকশনে প্রান্তিককরণ</value>
+        	<value xml:lang="bo">Align at Section</value>
+        	<value xml:lang="br">Steudañ ouzh ar gevrenn</value>
+        	<value xml:lang="brx">Align at Section</value>
+        	<value xml:lang="bs">Align at Section</value>
+        	<value xml:lang="ca">Alinea a la secció</value>
+        	<value xml:lang="ca-XV">Alinea a la secció</value>
+        	<value xml:lang="cs">Zarovnání v sekci</value>
+        	<value xml:lang="cy">Alinio i Adran</value>
+        	<value xml:lang="da">Juster ved sektion</value>
+        	<value xml:lang="de">Am Bereich ausrichten</value>
+        	<value xml:lang="dgo">Align at Section</value>
+        	<value xml:lang="dz">Align at Section</value>
+        	<value xml:lang="el">Στοίχιση σε ενότητα</value>
+        	<value xml:lang="en-GB">Align at Section</value>
+        	<value xml:lang="en-ZA">Align at Section</value>
+        	<value xml:lang="eo">Ĝisrandigi ĉe sekcio</value>
+        	<value xml:lang="es">Alinear a la sección</value>
+        	<value xml:lang="et">Joondamine sektsioonile</value>
+        	<value xml:lang="eu">Lerrokatu sekziora</value>
+        	<value xml:lang="fa">هم‌تراز کردن در بخش</value>
+        	<value xml:lang="fi">Tasaa osaan</value>
+        	<value xml:lang="fr">Aligner à la section</value>
+        	<value xml:lang="ga">Ailínigh ag Rannán</value>
+        	<value xml:lang="gd">Co-thaobhaich aig an taghadh</value>
+        	<value xml:lang="gl">Aliñar en sección</value>
+        	<value xml:lang="gu">વિભાગ પર ગોઠવો</value>
+        	<value xml:lang="he">יישור במקטע</value>
+        	<value xml:lang="hi">विभाग पंक्तिबद्ध करें</value>
+        	<value xml:lang="hr">Poravnaj pri sekciji</value>
+        	<value xml:lang="hu">Igazítás szakaszonként</value>
+        	<value xml:lang="id">Rata pada Seksi</value>
+        	<value xml:lang="is">Jafna við hlutann</value>
+        	<value xml:lang="it">Allinea alla sezione</value>
+        	<value xml:lang="ja">セクションで整列</value>
+        	<value xml:lang="ka">Align at Section</value>
+        	<value xml:lang="kk">Бөлімдегі туралау</value>
+        	<value xml:lang="km">តម្រឹម​នៅ​ភាគ</value>
+        	<value xml:lang="kn">ವಿಭಾದಲ್ಲಿ ಹೊಂದಿಸು</value>
+        	<value xml:lang="ko">섹션에 정렬</value>
+        	<value xml:lang="kok">Align at Section</value>
+        	<value xml:lang="ks">Align at Section</value>
+        	<value xml:lang="ku">Li Beşê Beralî Bike</value>
+        	<value xml:lang="lb">Align at Section</value>
+        	<value xml:lang="lo">Align at Section</value>
+        	<value xml:lang="lt">Lygiuoti ties sekcija</value>
+        	<value xml:lang="lv">Līdzināt sekcijā</value>
+        	<value xml:lang="mai">Align at Section</value>
+        	<value xml:lang="mk">Порамнување на дел</value>
+        	<value xml:lang="ml">വിഭാഗത്തില്‍ ക്രമത്തിലാക്കുക</value>
+        	<value xml:lang="mn">Align at Section</value>
+        	<value xml:lang="mni">Align at Section</value>
+        	<value xml:lang="mr">विभाग प्रमाणे संरेषीत करा</value>
+        	<value xml:lang="my">အပိုင်းတစ်ခုတွင် ချိန်ညှိပါ</value>
+        	<value xml:lang="nb">Juster til bolk</value>
+        	<value xml:lang="ne">विभागमा पङ्क्तिबद्ध गर्नुहोस्</value>
+        	<value xml:lang="nl">Uitlijnen op sectie</value>
+        	<value xml:lang="nn">Juster til bolk</value>
+        	<value xml:lang="nr">Align at Section</value>
+        	<value xml:lang="nso">Align at Section</value>
+        	<value xml:lang="oc">Alinhar a la seccion</value>
+        	<value xml:lang="om">Kutaatin hiriirsuu</value>
+        	<value xml:lang="or">ବିଭାଗରେ ରହିଅଛି</value>
+        	<value xml:lang="pa-IN">ਸ਼ੈਕਸ਼ਨ ਉੱਤੇ ਇਕਸਾਰ</value>
+        	<value xml:lang="pl">Wyrównaj w sekcji</value>
+        	<value xml:lang="pt">Alinhar à secção</value>
+        	<value xml:lang="pt-BR">Alinhar na seção</value>
+        	<value xml:lang="ro">Aliniere la secțiune</value>
+        	<value xml:lang="ru">Выравнивание в разделе</value>
+        	<value xml:lang="rw">Align at Section</value>
+        	<value xml:lang="sa-IN">Align at Section</value>
+        	<value xml:lang="sat">Align at Section</value>
+        	<value xml:lang="sd">Align at Section</value>
+        	<value xml:lang="sh">Poravnaj u odeljku</value>
+        	<value xml:lang="si">කොටස තුල එල්ල කරන්න</value>
+        	<value xml:lang="sid">Align at Section</value>
+        	<value xml:lang="sk">Zarovnať na oblasť</value>
+        	<value xml:lang="sl">Poravnaj na odsek</value>
+        	<value xml:lang="sq">Mbledhi në fund të seksionit</value>
+        	<value xml:lang="sr">Поравнај у одељку</value>
+        	<value xml:lang="ss">Align at Section</value>
+        	<value xml:lang="st">Align at Section</value>
+        	<value xml:lang="sv">Justera vid avsnitt</value>
+        	<value xml:lang="sw-TZ">Align at Section</value>
+        	<value xml:lang="ta">பிரிவுக்கு ஒழுங்குப்படுத்து</value>
+        	<value xml:lang="te">విభాగమునందు సర్దుబాటు చేయుము</value>
+        	<value xml:lang="tg">Align at Section</value>
+        	<value xml:lang="th">Align at Section</value>
+        	<value xml:lang="tn">Align at Section</value>
+        	<value xml:lang="tr">Bölümü Hizala</value>
+        	<value xml:lang="ts">Align at Section</value>
+        	<value xml:lang="tt">Align at Section</value>
+        	<value xml:lang="ug">دائىرىدە توغرىلا</value>
+        	<value xml:lang="uk">Вирівнювання в розділі</value>
+        	<value xml:lang="uz">Boʻlimda tekislash</value>
+        	<value xml:lang="ve">Align at Section</value>
+        	<value xml:lang="vi">Giống hàng ở đoạn</value>
+        	<value xml:lang="xh">Align at Section</value>
+        	<value xml:lang="zh-CN">在区域中对齐</value>
+        	<value xml:lang="zh-TW">區段對齊</value>
+        	<value xml:lang="zu">Align at Section</value>
+        </prop>
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>0,2</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+    </node>
+    <node oor:name="private:resource/toolbar/sectionshrinkbar" oor:op="replace">
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Shrink at Section</value>
+        	<value xml:lang="af">Krimp by afdeling</value>
+        	<value xml:lang="am">ክፍሉ ላይ ማሳናሻ</value>
+        	<value xml:lang="ar">تقليص عند مقطع</value>
+        	<value xml:lang="as">অংশত সংকোচন কৰক</value>
+        	<value xml:lang="ast">Encoyer a la seición</value>
+        	<value xml:lang="be">Shrink at Section</value>
+        	<value xml:lang="bg">Свиване на раздел</value>
+        	<value xml:lang="bn">সেকশনে সংকোচন</value>
+        	<value xml:lang="bn-IN">সেকশনে সংকোচন</value>
+        	<value xml:lang="bo">Shrink at Section</value>
+        	<value xml:lang="br">Bihanaat d&apos;ar regenn</value>
+        	<value xml:lang="brx">Shrink at Section</value>
+        	<value xml:lang="bs">Shrink at Section</value>
+        	<value xml:lang="ca">Redueix a la secció</value>
+        	<value xml:lang="ca-XV">Redueix a la secció</value>
+        	<value xml:lang="cs">Zmenšení v sekci</value>
+        	<value xml:lang="cy">Chrebachu mewn Adran</value>
+        	<value xml:lang="da">Formindsk ved sektion</value>
+        	<value xml:lang="de">Auf Bereich verkleinern</value>
+        	<value xml:lang="dgo">Shrink at Section</value>
+        	<value xml:lang="dz">Shrink at Section</value>
+        	<value xml:lang="el">Σμίκρυνση σε ενότητα</value>
+        	<value xml:lang="en-GB">Shrink at Section</value>
+        	<value xml:lang="en-ZA">Shrink at Section</value>
+        	<value xml:lang="eo">Ŝrumpi ĉe sekcio</value>
+        	<value xml:lang="es">Encoger a la sección</value>
+        	<value xml:lang="et">Kahandamine sektsioonile</value>
+        	<value xml:lang="eu">Txikiagotu sekzioa</value>
+        	<value xml:lang="fa">جمع شدن در بخش</value>
+        	<value xml:lang="fi">Kutista osassa</value>
+        	<value xml:lang="fr">Réduire à la section</value>
+        	<value xml:lang="ga">Crap ag Rannán</value>
+        	<value xml:lang="gd">Crùb aig an taghadh</value>
+        	<value xml:lang="gl">Encoller en sección</value>
+        	<value xml:lang="gu">વિભાગથી સંકોચો</value>
+        	<value xml:lang="he">כיווץ במקטע</value>
+        	<value xml:lang="hi">विभाग सिकोड़ें</value>
+        	<value xml:lang="hr">Smanji kod sekcije</value>
+        	<value xml:lang="hu">Zsugorítás szakasznál</value>
+        	<value xml:lang="id">Susutkan pada Seksi</value>
+        	<value xml:lang="is">Minnka við hlutann</value>
+        	<value xml:lang="it">Riduci alla sezione</value>
+        	<value xml:lang="ja">セクションで縮小</value>
+        	<value xml:lang="ka">Shrink at Section</value>
+        	<value xml:lang="kk">Бөлімді кішірейту</value>
+        	<value xml:lang="km">បង្រួម​នៅ​ភាគ</value>
+        	<value xml:lang="kn">ವಿಭಾಗಕ್ಕೆ ಕುಗ್ಗಿಸು</value>
+        	<value xml:lang="ko">섹션에 축소</value>
+        	<value xml:lang="kok">Shrink at Section</value>
+        	<value xml:lang="ks">Shrink at Section</value>
+        	<value xml:lang="ku">Li Beşê Biçûk Bike</value>
+        	<value xml:lang="lb">Shrink at Section</value>
+        	<value xml:lang="lo">Shrink at Section</value>
+        	<value xml:lang="lt">Sutraukti ties sekcija</value>
+        	<value xml:lang="lv">Samazināt sekcijā</value>
+        	<value xml:lang="mai">Shrink at Section</value>
+        	<value xml:lang="mk">Shrink at Section</value>
+        	<value xml:lang="ml">വിഭാഗത്തില്‍ ചെറുതാക്കുക</value>
+        	<value xml:lang="mn">Shrink at Section</value>
+        	<value xml:lang="mni">Shrink at Section</value>
+        	<value xml:lang="mr">विभागात आंकुचीत करा</value>
+        	<value xml:lang="my">အပိုင်းတစ်ခုတွင် ချုံ့ပါ</value>
+        	<value xml:lang="nb">Forminsk til bolk</value>
+        	<value xml:lang="ne">विभागमा खुम्च्याउनुहोस्</value>
+        	<value xml:lang="nl">Verkleinen naar sectie</value>
+        	<value xml:lang="nn">Forminsk til bolk</value>
+        	<value xml:lang="nr">Shrink at Section</value>
+        	<value xml:lang="nso">Shrink at Section</value>
+        	<value xml:lang="oc">Redusir a la seccion</value>
+        	<value xml:lang="om">Kutaarratti Qooqi</value>
+        	<value xml:lang="or">ବିଭାଗରେ ସଙ୍କୋଚିତ ହେବା</value>
+        	<value xml:lang="pa-IN">ਸ਼ੈਕਸ਼ਨ ਉੱਤੇ ਸੰਘੜੋ</value>
+        	<value xml:lang="pl">Zmniejsz w sekcji</value>
+        	<value xml:lang="pt">Reduzir à secção</value>
+        	<value xml:lang="pt-BR">Encolher na seção</value>
+        	<value xml:lang="ro">Micșorează la secțiune</value>
+        	<value xml:lang="ru">Уменьшить раздел</value>
+        	<value xml:lang="rw">Shrink at Section</value>
+        	<value xml:lang="sa-IN">Shrink at Section</value>
+        	<value xml:lang="sat">Shrink at Section</value>
+        	<value xml:lang="sd">Shrink at Section</value>
+        	<value xml:lang="sh">Skupi u odeljku</value>
+        	<value xml:lang="si">කොටස තුල හකුළන්න</value>
+        	<value xml:lang="sid">Shrink at Section</value>
+        	<value xml:lang="sk">Zmenšiť v oblasti</value>
+        	<value xml:lang="sl">Skrči na odsek</value>
+        	<value xml:lang="sq">Shrink at Section</value>
+        	<value xml:lang="sr">Скупи у одељку</value>
+        	<value xml:lang="ss">Shrink at Section</value>
+        	<value xml:lang="st">Shrink at Section</value>
+        	<value xml:lang="sv">Förminska vid avsnitt</value>
+        	<value xml:lang="sw-TZ">Shrink at Section</value>
+        	<value xml:lang="ta">பகுதியில் சுருக்கு</value>
+        	<value xml:lang="te">విభాగము వద్ద కుదించుము</value>
+        	<value xml:lang="tg">Shrink at Section</value>
+        	<value xml:lang="th">Shrink at Section</value>
+        	<value xml:lang="tn">Shrink at Section</value>
+        	<value xml:lang="tr">Bölümü Küçült</value>
+        	<value xml:lang="ts">Shrink at Section</value>
+        	<value xml:lang="tt">Shrink at Section</value>
+        	<value xml:lang="ug">دائىرىدە كىچىكلەت</value>
+        	<value xml:lang="uk">Скоротити за розділом</value>
+        	<value xml:lang="uz">Shrink at Section</value>
+        	<value xml:lang="ve">Shrink at Section</value>
+        	<value xml:lang="vi">Làm co đoạn</value>
+        	<value xml:lang="xh">Shrink at Section</value>
+        	<value xml:lang="zh-CN">在区域中缩小</value>
+        	<value xml:lang="zh-TW">區段收縮</value>
+        	<value xml:lang="zu">Shrink at Section</value>
+        </prop>
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>0,2</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+    </node>
+    <node oor:name="private:resource/toolbar/resizebar" oor:op="replace">
+        <prop oor:name="UIName" oor:type="xs:string">
+            <value xml:lang="en-US">Object Resizing</value>
+        	<value xml:lang="af">Objekherskalering</value>
+        	<value xml:lang="am">እቃዎችን እንደገና መመጠኛ</value>
+        	<value xml:lang="ar">تغيير حجم الكائن</value>
+        	<value xml:lang="as">অবজেক্ট পুনৰ আকাৰকৰণ</value>
+        	<value xml:lang="ast">Redimensión del oxetu</value>
+        	<value xml:lang="be">Object Resizing</value>
+        	<value xml:lang="bg">Преоразмеряване на обект</value>
+        	<value xml:lang="bn">অবজেক্টের আকার পরিবর্তন</value>
+        	<value xml:lang="bn-IN">অবজেক্টের আকার পরিবর্তন</value>
+        	<value xml:lang="bo">Object Resizing</value>
+        	<value xml:lang="br">Adventañ an ergorenn</value>
+        	<value xml:lang="brx">Object Resizing</value>
+        	<value xml:lang="bs">Promjena veličine objekata</value>
+        	<value xml:lang="ca">Canvi de mida dels objectes</value>
+        	<value xml:lang="ca-XV">Canvi de mida dels objectes</value>
+        	<value xml:lang="cs">Změna velikosti objektu</value>
+        	<value xml:lang="cy">Newid Maint Gwrthrych</value>
+        	<value xml:lang="da">Ændre objektstørrelse</value>
+        	<value xml:lang="de">Größenänderung für Objekte</value>
+        	<value xml:lang="dgo">Object Resizing</value>
+        	<value xml:lang="dz">Object Resizing</value>
+        	<value xml:lang="el">Αυξομείωση αντικειμένου</value>
+        	<value xml:lang="en-GB">Object Resizing</value>
+        	<value xml:lang="en-ZA">Object Resizing</value>
+        	<value xml:lang="eo">Ŝangi grandon de objekto</value>
+        	<value xml:lang="es">Cambio de tamaño del objeto</value>
+        	<value xml:lang="et">Objekti suuruse muutmine</value>
+        	<value xml:lang="eu">Objektua tamainaz aldatzea</value>
+        	<value xml:lang="fa">تغییر اندازه شیء</value>
+        	<value xml:lang="fi">Objektin koon muuttaminen</value>
+        	<value xml:lang="fr">Redimensionnement de l&apos;objet</value>
+        	<value xml:lang="ga">Athrú Méide Réada</value>
+        	<value xml:lang="gd">Atharrachadh meud an oibseict</value>
+        	<value xml:lang="gl">Redimensionar obxecto</value>
+        	<value xml:lang="gu">ઓબ્જેક્ટ નું માપ બદલી રહ્યા છે</value>
+        	<value xml:lang="he">שינוי גודל אובייקט</value>
+        	<value xml:lang="hi">वस्तु का फिर आकार किया जाना</value>
+        	<value xml:lang="hr">Prilagodba veličine objekta</value>
+        	<value xml:lang="hu">Objektum átméretezése</value>
+        	<value xml:lang="id">Ubah Ukuran Objek</value>
+        	<value xml:lang="is">Stærðarbreyting hlutar</value>
+        	<value xml:lang="it">Ridimensiona oggetto</value>
+        	<value xml:lang="ja">オブジェクトのサイズ変更</value>
+        	<value xml:lang="ka">Object Resizing</value>
+        	<value xml:lang="kk">Объект өлшемдерін өзгерту</value>
+        	<value xml:lang="km">កា​រផ្លាស់ប្ដូរ​ទំហំ​វត្ថុ</value>
+        	<value xml:lang="kn">ವಸ್ತುವಿನ ಗಾತ್ರ ಬದಲಾವಣೆ</value>
+        	<value xml:lang="ko">개체 크기 조절</value>
+        	<value xml:lang="kok">Object Resizing</value>
+        	<value xml:lang="ks">Object Resizing</value>
+        	<value xml:lang="ku">Mezinahî Guherandina Hêmanê</value>
+        	<value xml:lang="lb">Object Resizing</value>
+        	<value xml:lang="lo">Object Resizing</value>
+        	<value xml:lang="lt">Objekto dydis</value>
+        	<value xml:lang="lv">Objekta izmēra mainīšana</value>
+        	<value xml:lang="mai">Object Resizing</value>
+        	<value xml:lang="mk">Промена на големина на објект</value>
+        	<value xml:lang="ml">വസ്തുവിന്റെ വ്യാപ്തി മാറ്റുക</value>
+        	<value xml:lang="mn">Object Resizing</value>
+        	<value xml:lang="mni">Object Resizing</value>
+        	<value xml:lang="mr">ऑब्जेक्टला पुनःआकार द्या</value>
+        	<value xml:lang="my">အရာ၀တ္ထုအရွယ်အစားချိန်ညှိမှု</value>
+        	<value xml:lang="nb">Skalering av objekt</value>
+        	<value xml:lang="ne">वस्तु पुनराकृति</value>
+        	<value xml:lang="nl">Afmeting wijzigen object</value>
+        	<value xml:lang="nn">Endring av storleik på objekt</value>
+        	<value xml:lang="nr">Object Resizing</value>
+        	<value xml:lang="nso">Object Resizing</value>
+        	<value xml:lang="oc">Redimensionament de l&apos;objècte</value>
+        	<value xml:lang="om">Hammamtaa wantaa jijjiiri</value>
+        	<value xml:lang="or">ବସ୍ତୁର ଆକାର ବଦଳାଇବା</value>
+        	<value xml:lang="pa-IN">ਆਬਜੈਕਟ ਮੁੜ-ਆਕਾਰ</value>
+        	<value xml:lang="pl">Zmiana rozmiaru obiektu</value>
+        	<value xml:lang="pt">Ajuste de objetos</value>
+        	<value xml:lang="pt-BR">Redimensionar objeto</value>
+        	<value xml:lang="ro">Redimensionare obiect</value>
+        	<value xml:lang="ru">Изменить размеры объекта</value>
+        	<value xml:lang="rw">Object Resizing</value>
+        	<value xml:lang="sa-IN">Object Resizing</value>
+        	<value xml:lang="sat">Object Resizing</value>
+        	<value xml:lang="sd">Object Resizing</value>
+        	<value xml:lang="sh">Promena veličine</value>
+        	<value xml:lang="si">වස්තු ප්‍රතිප්‍රමාණය</value>
+        	<value xml:lang="sid">Object Resizing</value>
+        	<value xml:lang="sk">Zmena veľkosti objektu</value>
+        	<value xml:lang="sl">Spreminjanje velikosti predmeta</value>
+        	<value xml:lang="sq">Duke ndryshuar ndarjen...</value>
+        	<value xml:lang="sr">Промена величине</value>
+        	<value xml:lang="ss">Object Resizing</value>
+        	<value xml:lang="st">Object Resizing</value>
+        	<value xml:lang="sv">Storleksändring av objekt</value>
+        	<value xml:lang="sw-TZ">Object Resizing</value>
+        	<value xml:lang="ta">பொருள் மறுஅளவீடு</value>
+        	<value xml:lang="te">ఆబ్జక్టు పునఃపరిమాణము</value>
+        	<value xml:lang="tg">Object Resizing</value>
+        	<value xml:lang="th">Object Resizing</value>
+        	<value xml:lang="tn">Object Resizing</value>
+        	<value xml:lang="tr">Nesne Yeniden Boyutlandırma</value>
+        	<value xml:lang="ts">Object Resizing</value>
+        	<value xml:lang="tt">Object Resizing</value>
+        	<value xml:lang="ug">ئوبيېكت چوڭلۇق تەڭشىكى</value>
+        	<value xml:lang="uk">Object Resizing</value>
+        	<value xml:lang="uz">~Obyekt hajmini oʻzgartirish</value>
+        	<value xml:lang="ve">Object Resizing</value>
+        	<value xml:lang="vi">Thay đổi cỡ đối tượng</value>
+        	<value xml:lang="xh">Object Resizing</value>
+        	<value xml:lang="zh-CN">调整对象大小</value>
+        	<value xml:lang="zh-TW">調整物件大小</value>
+        	<value xml:lang="zu">Object Resizing</value>
+        </prop>
+        <prop oor:name="DockPos" oor:type="xs:string">
+            <value>670,2</value>
+        </prop>
+        <prop oor:name="Docked" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+        <prop oor:name="Visible" oor:type="xs:boolean">
+            <value>true</value>
+        </prop>
+    </node>
+  </node>
+ </node>
+</oor:component-data>

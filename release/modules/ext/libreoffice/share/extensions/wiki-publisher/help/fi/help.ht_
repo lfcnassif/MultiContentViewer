@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 6b Merkitsemällä tämä ruutu kopioitava sivu merkitään jo samalla otsikolla olevan sivun täydennykseksi.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 34 Annetaan valinnainen lyhyt yhteenveto tai kommentti.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText ea Annetaan Wiki-kirjauksen otsikko. Tämä on Wiki-sivun pääotsikko. Uusille kirjauksille otsikon tulee olla aiemmista erottuva tällä Wiki-sivustolla. Jos annetaan jo olemassa oleva otsikko, kopiointi korvaa aiemman Wiki-merkinnän.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 7d Valitaan MediaWiki-palvelin, jossa asiakirja julkaistaan. Napsautetaan Lisää, mikäli lisätään uusi palvelin luetteloon.
+22 vnd.com.sun.star.wiki%3AsendDialog 7d Valitaan MediaWiki-palvelin, jossa asiakirja julkaistaan. Napsautetaan Lisää, mikäli lisätään uusi palvelin luetteloon.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 60 Merkitsemällä tämä ruutu avataan järjestelmän www-selain, jossa näkyy kopioitu Wiki-sivu.
+1f vnd.com.sun.star.wiki%3Aaccount 3a Kirjoita MediaWiki-palvelimen URL-osoite aloittaen http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 94 Sallitaan salasanan säilöminen istuntojen välillä. Pääsalasana pitää olla käytössä, katso Työkalut - Asetukset - %PRODUCTNAME - Suojaus.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 5a Kirjoita MediaWiki-palvelimen salasanasi. Nimettömästi käyttäessäsi jätä tyhjäksi.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 65 Kirjoita MediaWiki-palvelimen käyttäjätunnuksesi. Nimettömästi käyttäessäsi jätä tyhjäksi.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3a Kirjoita MediaWiki-palvelimen URL-osoite aloittaen http://
+1c vnd.com.sun.star.wiki%3Asend 71 Valitse Tiedosto - Lähetä - MediaWikiin käsiteltävän Writer-asiakirjan kopioimiseksi MediaWiki-palvelimelle.
+20 vnd.com.sun.star.wiki%3Aaboutbox c8 Käsiteltävä Writerin tekstiasiakirja on kopioitavissa MediaWiki-palvelimelle ohjelmalla Wiki Publisher. Kopioinnin jälkeen kaikki Wiki-käyttäjät voivat lukea tämän asiakirjan Wiki-sivustolta.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 24 Poistetaan valittu rivi luettelosta.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList d4 Napsauttamalla Lisää-painiketta lisätään uusi Wiki-palvelin.Valitaan kirjaus ja napsautetaan Muokkaa tiliasetusten muokkaamiseksi.Valitaan kirjaus ja napsautetaan Poista kirjauksen poistamiseksi luettelosta.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 42 Avataan MediaWiki-valintaikkuna valitun kirjauksen muokkaamiseksi.
+20 vnd.com.sun.star.wiki%3Asettings d4 Napsauttamalla Lisää-painiketta lisätään uusi Wiki-palvelin.Valitaan kirjaus ja napsautetaan Muokkaa tiliasetusten muokkaamiseksi.Valitaan kirjaus ja napsautetaan Poista kirjauksen poistamiseksi luettelosta.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 4b Avataan MediaWiki-valintaikkuna uuden kirjauksen lisäämiseksi luetteloon.

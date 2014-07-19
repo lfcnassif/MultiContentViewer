@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Uitgelijnd op</e>
+ <e g="num2align" i="label">Uitlijning van nummering</e>
+ <e g="liststore2" i="0">Tabstop</e>
+ <e g="liststore1" i="1">Gecentreerd</e>
+ <e g="indent" i="label">Inspringen</e>
+ <e g="numalign" i="label">Uitlijning van nummering</e>
+ <e g="numberingwidth" i="label">Breedte van nummering</e>
+ <e g="3" i="label">Positie en afstand</e>
+ <e g="liststore1" i="0">Links</e>
+ <e g="liststore1" i="2">Rechts</e>
+ <e g="numdist" i="label">Minimale afstand nummering &lt;-&gt; tekstlabel</e>
+ <e g="liststore2" i="2">Niets</e>
+ <e g="1" i="label">Niveau</e>
+ <e g="liststore2" i="1">Spatie</e>
+ <e g="numfollowedby" i="label">Nummering gevolgd door</e>
+ <e g="at" i="label">bij</e>
+ <e g="relative" i="label">Relatief</e>
+ <e g="indentat" i="label">Inspringen op</e>
+ <e g="standard" i="label">Standaard</e>
+</t>

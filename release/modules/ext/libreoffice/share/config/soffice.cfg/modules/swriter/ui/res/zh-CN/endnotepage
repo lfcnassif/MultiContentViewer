@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">自动编号</e>
+ <e g="offset" i="label">开始于</e>
+ <e g="pagestyleft" i="label">页</e>
+ <e g="label29" i="label">字符样式</e>
+ <e g="label22" i="label">之前</e>
+ <e g="label27" i="label">文字区域</e>
+ <e g="label19" i="label">编号</e>
+ <e g="label25" i="label">之后</e>
+ <e g="label20" i="label">段落</e>
+ <e g="label28" i="label">尾注区域</e>
+ <e g="label23" i="label">样式</e>
+</t>

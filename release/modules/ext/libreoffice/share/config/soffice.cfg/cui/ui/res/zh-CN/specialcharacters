@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="symboltext" i="label">字符数:</e>
+ <e g="fontft" i="label">字体</e>
+ <e g="SpecialCharactersDialog" i="title">特殊字符</e>
+ <e g="subsetft" i="label">子集</e>
+</t>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">스타일</e>
+ <e g="linerb" i="label">Line break</e>
+ <e g="label1" i="label">유형</e>
+ <e g="liststore1" i="0">[없음]</e>
+ <e g="pagenumcb" i="label">Change page number</e>
+ <e g="pagerb" i="label">Page break</e>
+ <e g="BreakDialog" i="title">나누기 삽입</e>
+ <e g="columnrb" i="label">Column break</e>
+</t>

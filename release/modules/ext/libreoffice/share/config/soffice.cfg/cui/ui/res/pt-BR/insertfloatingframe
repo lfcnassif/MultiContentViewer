@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Padrão</e>
+ <e g="heightlabel" i="label">Altura</e>
+ <e g="label2" i="label">Borda</e>
+ <e g="scrollbarauto" i="label">Automático</e>
+ <e g="label1" i="label">Barra de rolagem</e>
+ <e g="label7" i="label">Conteúdo</e>
+ <e g="borderon" i="label">Ativado</e>
+ <e g="InsertFloatingFrameDialog" i="title">Propriedades do quadro flutuante</e>
+ <e g="buttonbrowse" i="label">Procurar...</e>
+ <e g="label6" i="label">Nome</e>
+ <e g="widthlabel" i="label">Largura</e>
+ <e g="scrollbaroff" i="label">Desativado</e>
+ <e g="scrollbaron" i="label">Ativado</e>
+ <e g="defaultheight" i="label">Padrão</e>
+ <e g="borderoff" i="label">Desativado</e>
+ <e g="label3" i="label">Espaço até o conteúdo</e>
+</t>

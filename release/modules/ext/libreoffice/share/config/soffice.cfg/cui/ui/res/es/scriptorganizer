@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="create" i="label">Crear…</e>
+ <e g="macrosft" i="label">Macros</e>
+ <e g="delete" i="label">Eliminar…</e>
+ <e g="rename" i="label">Renombrar…</e>
+ <e g="run" i="label">Ejecutar</e>
+ <e g="ScriptOrganizerDialog" i="title">Macros de %MACROLANG</e>
+</t>

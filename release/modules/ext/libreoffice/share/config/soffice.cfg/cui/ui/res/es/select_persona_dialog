@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Luego, en la barra de direcciones de su navegador web, copie la dirección de la página que contiene la Persona al portapapeles, y péguela en el campo situado a continuación.</e>
+ <e g="label1" i="label">Visite Firefox Personas (http://www.getpersonas.com). Encuentre una Persona que le guste y quiera aplicar en LibreOffice.</e>
+ <e g="label3" i="label">Dirección de la Persona:</e>
+ <e g="visit_personas" i="label">Visitar Firefox Personas</e>
+</t>

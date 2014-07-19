@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">条目</e>
+ <e g="label3" i="label">标题</e>
+ <e g="label5" i="label">简短说明文</e>
+ <e g="fromdocument" i="label">从文档内容</e>
+ <e g="label2" i="label">作者</e>
+ <e g="insert" i="label">插入</e>
+ <e g="frombibliography" i="label">从文献数据库</e>
+ <e g="modify" i="label">修改</e>
+ <e g="BibliographyEntryDialog" i="title">插入文献目录条目</e>
+</t>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Igazítva</e>
+ <e g="num2align" i="label">Számozás igazítása</e>
+ <e g="liststore2" i="0">Tabulátor</e>
+ <e g="liststore1" i="1">Középre</e>
+ <e g="indent" i="label">Behúzás</e>
+ <e g="numalign" i="label">Számozás igazítása</e>
+ <e g="numberingwidth" i="label">A számozás szélessége</e>
+ <e g="3" i="label">Pozíció és térköz</e>
+ <e g="liststore1" i="0">Balra</e>
+ <e g="liststore1" i="2">Jobbra</e>
+ <e g="numdist" i="label">Számozás és szövegcímke minimális távolsága</e>
+ <e g="liststore2" i="2">Semmi</e>
+ <e g="1" i="label">Szint</e>
+ <e g="liststore2" i="1">Szóköz</e>
+ <e g="numfollowedby" i="label">Számozás után</e>
+ <e g="at" i="label">itt</e>
+ <e g="relative" i="label">Viszonylagos</e>
+ <e g="indentat" i="label">Behúzás</e>
+ <e g="standard" i="label">Alapértelmezett</e>
+</t>

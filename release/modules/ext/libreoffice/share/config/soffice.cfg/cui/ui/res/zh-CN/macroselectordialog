@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">选择库，该库包含您需要的宏。然后在“宏名称”下面选择宏。</e>
+ <e g="categoryft" i="label">分类</e>
+ <e g="helptoolbar" i="label">要将命令添加到工具栏中，请先选择类别，然后选择命令。然后将命令拖动到“自定义”对话框中“工具栏”选项卡页面的“命令”列表中。</e>
+ <e g="add" i="label">添加</e>
+ <e g="label1" i="label">说明</e>
+ <e g="MacroSelectorDialog" i="title">宏选择器</e>
+ <e g="macronameft" i="label">宏的名称</e>
+ <e g="commandsft" i="label">命令</e>
+ <e g="libraryft" i="label">程序库</e>
+</t>

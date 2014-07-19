@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">对齐于</e>
+ <e g="num2align" i="label">编号对齐</e>
+ <e g="liststore2" i="0">制表位</e>
+ <e g="liststore1" i="1">居中</e>
+ <e g="indent" i="label">缩进</e>
+ <e g="numalign" i="label">编号对齐</e>
+ <e g="numberingwidth" i="label">编号宽度</e>
+ <e g="3" i="label">位置与间距</e>
+ <e g="liststore1" i="0">左</e>
+ <e g="liststore1" i="2">右</e>
+ <e g="numdist" i="label">编号与文字标签之间的最小间距</e>
+ <e g="liststore2" i="2">无</e>
+ <e g="1" i="label">级</e>
+ <e g="liststore2" i="1">空格</e>
+ <e g="numfollowedby" i="label">编号后接</e>
+ <e g="at" i="label">位于</e>
+ <e g="relative" i="label">相对</e>
+ <e g="indentat" i="label">缩进于</e>
+ <e g="standard" i="label">默认</e>
+</t>

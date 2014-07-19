@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="down" i="label">降順(_D)</e>
+ <e g="sortft" i="label">並べ替えキー</e>
+ <e g="up" i="label">昇順(_A)</e>
+</t>

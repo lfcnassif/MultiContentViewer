@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">Andere tekens...</e>
+ <e g="label29" i="label">Eerste teken</e>
+ <e g="liststore1" i="0">(Geen)</e>
+ <e g="label28" i="label">Teken omsluiten</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">Twee regels per rij</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(Geen)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">Andere tekens...</e>
+ <e g="label30" i="label">Laatste teken</e>
+ <e g="label2" i="label">Tweeregelig</e>
+ <e g="label52" i="label">Voorbeeld</e>
+</t>

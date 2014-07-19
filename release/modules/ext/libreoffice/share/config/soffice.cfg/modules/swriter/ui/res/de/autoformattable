@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">Ausrichtung</e>
+ <e g="fontcb" i="label">Schrift</e>
+ <e g="label2" i="label">Formatierungen</e>
+ <e g="bordercb" i="label">Umrandung</e>
+ <e g="AutoFormatTableDialog" i="title">AutoFormat</e>
+ <e g="patterncb" i="label">Muster</e>
+ <e g="numformatcb" i="label">Zahlenformat</e>
+ <e g="rename" i="label">Umbenennen</e>
+ <e g="label1" i="label">Format</e>
+</t>

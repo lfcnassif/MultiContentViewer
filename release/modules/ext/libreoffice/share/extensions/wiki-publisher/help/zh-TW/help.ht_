@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 5a 核取此方塊可將上傳的頁面標記為標題相同之現存頁面的次要編輯。
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 27 輸入選擇性簡短摘要或註釋。
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText bd 輸入 Wiki 項目的標題。此為 Wiki 項目的頂端標題。新項目的標題在此 Wiki 上必須是唯一的。如果輸入現存標題，則上傳會覆寫現存的 Wiki 項目。
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 69 選取要發佈文件所在的 MediaWiki 伺服器。按一下 [加入] 可加入新伺服器至清單。
+22 vnd.com.sun.star.wiki%3AsendDialog 69 選取要發佈文件所在的 MediaWiki 伺服器。按一下 [加入] 可加入新伺服器至清單。
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 51 核取此方塊可開啟系統網頁瀏覽器，並顯示上傳的 Wiki 頁面。
+1f vnd.com.sun.star.wiki%3Aaccount 33 輸入開頭為 http:// 的 MediaWiki 伺服器 URL
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 8d 啟用此選項可在階段作業之間儲存密碼。主密碼必須啟用，請參閱 [工具] - [選項] - [%PRODUCTNAME] - [安全性]。
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 44 輸入 MediaWiki 伺服器的密碼。若是匿名存取則留白。
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 4d 輸入 MediaWiki 伺服器的使用者名稱。若是匿名存取則留白。
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 33 輸入開頭為 http:// 的 MediaWiki 伺服器 URL
+1c vnd.com.sun.star.wiki%3Asend 6f 選擇 [檔案] - [傳送] - [傳送至 MediaWiki]，將目前的 Writer 文件上傳至 MediaWiki 伺服器。
+20 vnd.com.sun.star.wiki%3Aaboutbox ac 您可以使用 Wiki 發布器，將目前的 Writer 文字文件上傳至 MediaWiki 伺服器。上傳之後，所有 Wiki 使用者皆可在 Wiki 上讀取您的文件。
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 24 從清單中移除選取的項目。
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList ae 按一下 [加入] 以加入 Wiki 伺服器。選取項目，再按一下 [編輯] 以編輯帳號設定。選取項目，再按一下 [移除] 以從清單中移除項目。
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3a 開啟 [MediaWiki] 對話方塊以編輯選取的項目。
+20 vnd.com.sun.star.wiki%3Asettings ae 按一下 [加入] 以加入 Wiki 伺服器。選取項目，再按一下 [編輯] 以編輯帳號設定。選取項目，再按一下 [移除] 以從清單中移除項目。
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 3a 開啟 [MediaWiki] 對話方塊加入新項目至清單。

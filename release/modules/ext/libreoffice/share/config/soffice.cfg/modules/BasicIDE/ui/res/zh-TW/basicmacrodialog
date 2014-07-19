@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">編輯</e>
+ <e g="macrotoft" i="label">另存巨集的位置</e>
+ <e g="existingmacrosft" i="label">現有的巨集位置：</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic 巨集</e>
+ <e g="macrofromft" i="label">巨集來源</e>
+ <e g="libraryft1" i="label">巨集名稱</e>
+ <e g="newlibrary" i="label">新函式庫</e>
+ <e g="newmodule" i="label">新模組</e>
+ <e g="organize" i="label">組織器...</e>
+ <e g="run" i="label">執行</e>
+ <e g="assign" i="label">指派...</e>
+</t>

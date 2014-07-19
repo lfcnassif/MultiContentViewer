@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Alternativen</e>
+ <e g="alternatives" i="label">Beschriftung</e>
+ <e g="replace" i="label">Ersetzen</e>
+ <e g="ThesaurusDialog" i="title">Thesaurus</e>
+ <e g="label1" i="label">Aktuelles Wort</e>
+ <e g="label3" i="label">Ersetzen durch</e>
+</t>

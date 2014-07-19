@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">Autonumeração</e>
+ <e g="offset" i="label">Iniciar em</e>
+ <e g="pagestyleft" i="label">Página</e>
+ <e g="label29" i="label">Estilos de caractere</e>
+ <e g="label22" i="label">Antes</e>
+ <e g="label27" i="label">Área de texto</e>
+ <e g="label19" i="label">Numeração</e>
+ <e g="label25" i="label">Depois</e>
+ <e g="label20" i="label">Parágrafo</e>
+ <e g="label28" i="label">Área de nota de fim</e>
+ <e g="label23" i="label">Estilos</e>
+</t>

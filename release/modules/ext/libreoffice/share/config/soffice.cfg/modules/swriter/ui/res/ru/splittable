@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">Разбить таблицу</e>
+ <e g="noheading" i="label">Без заголовка</e>
+ <e g="copyheading" i="label">Копировать заголовок</e>
+ <e g="customheading" i="label">Пользовательский заголовок</e>
+ <e g="label1" i="label">Режим</e>
+ <e g="customheadingapplystyle" i="label">Пользовательский заголовок (включая стиль)</e>
+</t>

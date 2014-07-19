@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="MajorVersion" i="label">Nova versão maior</e>
+ <e g="label2" i="label">Comentário da versão</e>
+ <e g="CheckinDialog" i="title">Registro de entrada</e>
+</t>

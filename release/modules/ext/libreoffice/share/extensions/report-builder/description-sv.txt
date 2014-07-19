@@ -1,0 +1,1 @@
+Använd Report Builder för att skapa snygga databasrapporter. Den flexibla rapportredigeraren kan definiera grupp- och sidhuvud samt grupp- och sidfötter. Dessutom finns beräkningsfält tillgängliga för att utföra komplexa databasrapporter.

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="background_label" i="label">Фоновое изображение</e>
+ <e g="own_background" i="label">Другое изображение</e>
+ <e g="default_background" i="label">Предустановленное фоновое изображение (если доступно)</e>
+ <e g="label1" i="label">Темы оформления из Firefox</e>
+ <e g="no_background" i="label">Обычный вид, не использовать фоновые изображения</e>
+ <e g="own_persona" i="label">Другая тема</e>
+ <e g="select_background" i="label">Выбрать изображение</e>
+ <e g="no_persona" i="label">Обычный вид, не использовать тему</e>
+ <e g="default_persona" i="label">Предустановленная тема (если доступна)</e>
+ <e g="select_persona" i="label">Выбрать тему</e>
+</t>

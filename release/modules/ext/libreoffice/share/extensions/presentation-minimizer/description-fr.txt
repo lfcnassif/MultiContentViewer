@@ -1,0 +1,2 @@
+Presentation Minimizer est utilisé pour réduire la taille de fichier de la présentation active. Les images seront compressées et les données qui ne sont plus utiles seront supprimées.
+ Presentation Minimizer peut optimiser la taille de qualité des images. Les présentations créées pour l'écran ou le projecteur ne nécessitent pas le même niveau de qualité que les présentations créées pour l'impression.

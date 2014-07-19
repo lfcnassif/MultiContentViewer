@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Szinonimák</e>
+ <e g="alternatives" i="label">címke</e>
+ <e g="replace" i="label">Csere</e>
+ <e g="ThesaurusDialog" i="title">Szókincstár</e>
+ <e g="label1" i="label">Jelenlegi szó</e>
+ <e g="label3" i="label">Csere erre</e>
+</t>

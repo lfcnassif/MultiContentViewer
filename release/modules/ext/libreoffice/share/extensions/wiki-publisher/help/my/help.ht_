@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 1b2 တူညီသော ခေါင်းစဉ်တစ်ခုနှင့်အတူ အသင့်ရှိပြီးသား စာမျက်နှာပေါ် တွင် အသေးစားပြင်ဆင်တည်းဖြတ်မှုတစ်ခုအဖြစ် ဆွဲတင်အသုံးပြုရန် ဤသေတ္တာတွင် ရွေးချယ်မှတ်သားပါ။
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText cf ရွေးပိုင်ခွင့်ဆိုင်ရာ အတိုအနှစ်ချုပ်တစ်ခု (သို့) မှတ်ချက်ကို ရိုက်ထည့်ပါ။
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 30a သင့်ဝီကီဝင်ရောက်မှုအတွက် ခေါင်းစဉ်ရိုက်ထည့်ပါ။ ၎င်းသည် သင့်ဝီကီ၏ ထိပ်ဆုံးခေါင်းစဉ်ဖြစ်သည်။ အသစ်ဝင်ရောက်မှုအတွက် ဤဝီကီပေါ်တွင် ခေါင်းစဉ်တစ်ခုသာ ရှိရမည်ဖြစ်သည်။ ရှိပြီးသား ခေါင်းစဉ်တစ်ခုကို သင်ရိုက်ထည့်လျှင် ဝီကီမှ ရှိပြီးသားကိုဖျက်ပြီး အသစ်ဖြင့် အစားထိုးလိမ့် မည်ဖြစ်သည်။
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 19a သင့်မှတ်တမ်းမှတ်ရာ ထုတ်ဝေမှုပြုရန် သင်အလိုရှိသည့်နေရာတွင် မီဒီယာဝီကီဆာဗာကို ရွေးချယ်ပါ။ ဆာဗာအသစ်ကို စာရင်းသွင်းရန် ‘ထပ်ထည့်ပါ’ ကိုကလစ်နှိပ်ပါ။
+22 vnd.com.sun.star.wiki%3AsendDialog 19a သင့်မှတ်တမ်းမှတ်ရာ ထုတ်ဝေမှုပြုရန် သင်အလိုရှိသည့်နေရာတွင် မီဒီယာဝီကီဆာဗာကို ရွေးချယ်ပါ။ ဆာဗာအသစ်ကို စာရင်းသွင်းရန် ‘ထပ်ထည့်ပါ’ ကိုကလစ်နှိပ်ပါ။
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 132 သင့်ကွန်ပျူတာရှိ ကွန်ယက်ဘရောက်စ်ဇာကို ဖွင့်ရန် ဤသေတ္တာတွင် ရွေးချယ်ပြီး ဝီကီစာမျက်နှာပေါ်သို့ ဆွဲတင်ပြသပါ။
+1f vnd.com.sun.star.wiki%3Aaccount 3a Enter the URL of a MediaWiki server, starting with http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 83 Enable to store your password between sessions. The master password must be enabled, see Tools - Options - %PRODUCTNAME - Security.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 4e Enter your password on the MediaWiki server. Leave empty for anonymous access.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 4f Enter your user name on the MediaWiki server. Leave empty for anonymous access.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3a Enter the URL of a MediaWiki server, starting with http://
+1c vnd.com.sun.star.wiki%3Asend 223 ရွေးချယ်ပါ။ မီဒီယာဝီကီဆာဗာသို့ လက်ရှိမှတ်တမ်းမှတ်ရာရေးသားသူ၏ အချက်အလက်များလွှဲပြောင်းပေးပို့ရန် <အချက်အလက်အမျိုးအစား="အချက်အလက်မီနူး">ဖိုင် - ပေးပို့ပါ - မီဒီယာဝီကီသို့</အချက်အလက်> ကိုရွေးချယ်ပါ။
+20 vnd.com.sun.star.wiki%3Aaboutbox 26c မီဒီယာဝီကီဆာဗာသို့ သင့်လက်ရှိ စာသားမှတ်တမ်းမှတ်ရာရေးသားသူ၏ သတင်းအချက်အလက်များပေးပို့နိုင်ရန် Wiki Publisher ကိုအသုံးပြုပါ။ ပေးပို့မှုများပြုပြီးနောက် ဝီကီပေါ်တွင် သင့်မှတ်တမ်းမှတ်ရာများကို ဝီကီအသုံးပြုသူအားလုံးဖတ်နိုင်သည်။
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 9f ထည့်သွင်းရန် ရွေးချယ်ထားမှုများကို စာရင်းမှ ပယ်ဖျက်သည်။
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList a2 Click Add to add a new Wiki server.Select an entry and click Edit to edit the account settings.Select an entry and click Remove to remove the entry from the list.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton e9 ထည့်သွင်း ရွေးချယ်ထားမှုများကို တည်းဖြတ်ရန် မီဒီယာဝီကီ ဒိုင်ယာလော့ဒ်ကို ဖွင့်သည်။
+20 vnd.com.sun.star.wiki%3Asettings a2 Click Add to add a new Wiki server.Select an entry and click Edit to edit the account settings.Select an entry and click Remove to remove the entry from the list.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton db အသစ်ထည့်သွင်းမှုများကို ထပ်ဖြည့်ရန် မီဒီယာဝီကီဒိုင်ယာလော့ဒ်ကို ကိုဖွင့်သည်။

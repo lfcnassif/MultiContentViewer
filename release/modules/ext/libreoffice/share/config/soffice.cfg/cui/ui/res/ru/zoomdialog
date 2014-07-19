@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Автоматически</e>
+ <e g="optimal" i="label">Оптимально</e>
+ <e g="columns" i="label">Колонки</e>
+ <e g="bookmode" i="label">Режим книги</e>
+ <e g="fitw" i="label">По ширине</e>
+ <e g="label1" i="label">Расположение</e>
+ <e g="variable" i="label">Произвольно</e>
+ <e g="label2" i="label">Масштаб</e>
+ <e g="singlepage" i="label">Одна страница</e>
+ <e g="ZoomDialog" i="title">Масштабирование и режимы просмотра</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">По ширине и высоте</e>
+</t>

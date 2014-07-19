@@ -1,0 +1,26 @@
+25 com.sun.wiki-publisher%2Fwikisend.xhp 3a #com.sun.wiki-publisher/wikisend.xhphelp.jarDërgo Prapa
+22 vnd.com.sun.star.wiki%3AsendDialog 47 0com.sun.wiki-publisher/wikisend.xhp#bm_id7021088help.jarDërgo Prapa
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 46 /com.sun.wiki-publisher/wikisend.xhp#bm_id735801help.jarDërgo Prapa
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 46 /com.sun.wiki-publisher/wikisend.xhp#bm_id735802help.jarDërgo Prapa
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 46 /com.sun.wiki-publisher/wikisend.xhp#bm_id735803help.jarDërgo Prapa
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 47 0com.sun.wiki-publisher/wikisend.xhp#bm_id2619708help.jarDërgo Prapa
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 47 0com.sun.wiki-publisher/wikisend.xhp#bm_id1293679help.jarDërgo Prapa
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.SendButton 46 /com.sun.wiki-publisher/wikisend.xhp#bm_id290536help.jarDërgo Prapa
+28 com.sun.wiki-publisher%2Fwikiformats.xhp 46 &com.sun.wiki-publisher/wikiformats.xhphelp.jar(Të gjitha formatet)
+1f vnd.com.sun.star.wiki%3Aformats 53 3com.sun.wiki-publisher/wikiformats.xhp#bm_id7021088help.jar(Të gjitha formatet)
+28 com.sun.wiki-publisher%2Fwikiaccount.xhp 46 &com.sun.wiki-publisher/wikiaccount.xhphelp.jar(Të gjitha formatet)
+1f vnd.com.sun.star.wiki%3Aaccount 53 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id7021088help.jar(Të gjitha formatet)
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 53 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558244help.jar(Të gjitha formatet)
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 53 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558245help.jar(Të gjitha formatet)
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 53 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558246help.jar(Të gjitha formatet)
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 53 3com.sun.wiki-publisher/wikiaccount.xhp#bm_id4558247help.jar(Të gjitha formatet)
+21 com.sun.wiki-publisher%2Fwiki.xhp 44 com.sun.wiki-publisher/wiki.xhphelp.jarDuke instaluar kernelin...
+20 vnd.com.sun.star.wiki%3Aaboutbox 51 ,com.sun.wiki-publisher/wiki.xhp#bm_id3159252help.jarDuke instaluar kernelin...
+1c vnd.com.sun.star.wiki%3Asend 51 ,com.sun.wiki-publisher/wiki.xhp#bm_id3159253help.jarDuke instaluar kernelin...
+21 com.sun.wiki-publisher%2Fwiki.xhp 51 ,com.sun.wiki-publisher/wiki.xhp#bm_id3154408help.jarDuke instaluar kernelin...
+29 com.sun.wiki-publisher%2Fwikisettings.xhp 45 'com.sun.wiki-publisher/wikisettings.xhphelp.jarShiriti i opcioneve
+20 vnd.com.sun.star.wiki%3Asettings 52 4com.sun.wiki-publisher/wikisettings.xhp#bm_id7021088help.jarShiriti i opcioneve
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 52 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6402783help.jarShiriti i opcioneve
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 52 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6067384help.jarShiriti i opcioneve
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 52 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6067385help.jarShiriti i opcioneve
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 52 4com.sun.wiki-publisher/wikisettings.xhp#bm_id6067386help.jarShiriti i opcioneve

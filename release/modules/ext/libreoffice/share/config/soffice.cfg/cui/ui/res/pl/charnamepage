@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="weststyleft-cjk" i="label">Styl</e>
+ <e g="label6" i="label">Czcionka dla złożonego systemu pisania</e>
+ <e g="westsizeft-cjk" i="label">Rozmiar</e>
+ <e g="ctlstyleft" i="label">Styl</e>
+ <e g="westfontnameft-nocjk" i="label">Rodzina </e>
+ <e g="label5" i="label">Czcionka tekstu azjatyckiego</e>
+ <e g="label4" i="label">Czcionka tekstu zachodniego</e>
+ <e g="eastsizeft" i="label">Rozmiar</e>
+ <e g="westfontnameft-cjk" i="label">Rodzina </e>
+ <e g="westlangft-cjk" i="label">Język</e>
+ <e g="label19" i="label">Podgląd</e>
+ <e g="ctlfontnameft" i="label">Rodzina </e>
+ <e g="eaststyleft" i="label">Styl</e>
+ <e g="ctlsizeft" i="label">Rozmiar</e>
+ <e g="weststyleft-nocjk" i="label">Styl</e>
+ <e g="eastlangft" i="label">Język</e>
+ <e g="eastfontnameft" i="label">Rodzina </e>
+ <e g="ctllangft" i="label">Język</e>
+ <e g="label21" i="label">Czcionka</e>
+ <e g="westlangft-nocjk" i="label">Język</e>
+ <e g="westsizeft-nocjk" i="label">Rozmiar</e>
+</t>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="checkbox-reduce-resolution" i="label">Zmniejsz rozdzielczość obrazu</e>
+ <e g="label6" i="label">Jakość:</e>
+ <e g="label8" i="label">Rozmiar widoku:</e>
+ <e g="label10" i="label">Nowa wielkość:</e>
+ <e g="label2" i="label">Szerokość:</e>
+ <e g="interpolation-method-store" i="3">Lanczos</e>
+ <e g="label12" i="label">px</e>
+ <e g="label5" i="label">Kompresja:</e>
+ <e g="radio-lossless" i="label">Kompresja bezstratna</e>
+ <e g="label14" i="label">DPI</e>
+ <e g="label7" i="label">Rozmiar oryginalny:</e>
+ <e g="interpolation-method-store" i="1">Dwuliniowa</e>
+ <e g="label9" i="label">Wielkość obrazu:</e>
+ <e g="interpolation-method-store" i="2">Dwusześcienna</e>
+ <e g="label1" i="label">Informacje o obrazie</e>
+ <e g="calculate" i="label">Oblicz</e>
+ <e g="label11" i="label">Interpolacja:</e>
+ <e g="interpolation-method-store" i="0">Brak</e>
+ <e g="label4" i="label">Rozdzielczość:</e>
+ <e g="label3" i="label">Wysokość:</e>
+ <e g="label13" i="label">px</e>
+ <e g="radio-jpeg" i="label">Kompresja JPEG</e>
+</t>

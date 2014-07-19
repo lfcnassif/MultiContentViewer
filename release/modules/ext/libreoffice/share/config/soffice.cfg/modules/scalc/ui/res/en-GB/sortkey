@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="down" i="label">_Descending</e>
+ <e g="sortft" i="label">Sort key </e>
+ <e g="up" i="label">_Ascending</e>
+</t>

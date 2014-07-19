@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">段落</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">行</e>
+ <e g="tabs" i="label">タブ</e>
+ <e g="label3" i="label">最初</e>
+ <e g="label1" i="label">テキスト内の区切り記号</e>
+ <e g="headingcb" i="label">見出し</e>
+ <e g="bordercb" i="label">枠</e>
+ <e g="dontsplitcb" i="label">表を分割しない</e>
+ <e g="autofmt" i="label">オートフォーマット...</e>
+ <e g="repeatheading" i="label">見出しの繰り返し</e>
+ <e g="keepcolumn" i="label">列幅を均等にする</e>
+ <e g="ConvertTextTableDialog" i="title">表をテキストに変換する</e>
+ <e g="semicolons" i="label">セミコロン</e>
+ <e g="2" i="label">オプション</e>
+ <e g="other" i="label">その他:</e>
+</t>

@@ -1,0 +1,2 @@
+Prezentāciju samazinātājs tiek izmantots, lai samazinātu pašreizējās prezentācijas datnes izmēru. Attēli tiks saspiesti, un dati, kas vairs netiks izmantoti, tiks izņemti.
+Prezentāciju samazinātājs var optimizēt attēla kvalitātes izmēru. Prezentācijām, kas veidotas ekrānam vai projektoram, nevajag būt tikpat augstas kvalitātes kā tām, kas veidotas drukāšanai.

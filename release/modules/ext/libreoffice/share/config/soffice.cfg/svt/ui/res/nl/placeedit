@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">Pad</e>
+ <e g="label12" i="label">Server_details</e>
+ <e g="liststore1" i="4">CMIS</e>
+ <e g="liststore1" i="2">SSH</e>
+ <e g="liststore1" i="0">WebDAV</e>
+ <e g="pathLabel" i="label">Pad</e>
+ <e g="label15" i="label">Gebruikersgegevens</e>
+ <e g="repositoryLabel" i="label">Bewaarplaats</e>
+ <e g="label16" i="label">Aanmelden</e>
+ <e g="label1" i="label">Naam</e>
+ <e g="liststore1" i="3">Vensters delen</e>
+ <e g="liststore1" i="1">FTP</e>
+ <e g="label2" i="label">Type</e>
+ <e g="portLabel" i="label">Poort</e>
+ <e g="label3" i="label">Servertype</e>
+ <e g="hostLabel" i="label">Gastheer</e>
+ <e g="label4" i="label">Server_details</e>
+ <e g="bindingLabel" i="label">Bindende URL</e>
+ <e g="label5" i="label">Pad</e>
+ <e g="webdavs" i="label">Beveiligde WebDAV (HTTPS)</e>
+ <e g="label8" i="label">Server_details</e>
+ <e g="label10" i="label">Delen</e>
+ <e g="label9" i="label">Gastheer</e>
+</t>

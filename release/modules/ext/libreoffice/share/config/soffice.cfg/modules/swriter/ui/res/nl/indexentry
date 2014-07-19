@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">1e sleutel</e>
+ <e g="typeft" i="label">Index</e>
+ <e g="phonetic1ft" i="label">Fonetisch lezen</e>
+ <e g="searchcasewordonlycb" i="label">Alleen hele woorden</e>
+ <e g="levelft" i="label">Niveau</e>
+ <e g="new" i="tooltip_text">Nieuwe gebruikergedefinieerde index</e>
+ <e g="IndexEntryDialog" i="title">Indexitem invoegen</e>
+ <e g="mainentrycb" i="label">Hoofditem</e>
+ <e g="phonetic0ft" i="label">Fonetisch lezen</e>
+ <e g="searchcasesensitivecb" i="label">Hoofdletters/kleine letters respecteren</e>
+ <e g="key2ft" i="label">2e sleutel</e>
+ <e g="label1" i="label">Selectie</e>
+ <e g="applytoallcb" i="label">Op alle overeenkomende teksten toepassen</e>
+ <e g="insert" i="label">Invoegen</e>
+ <e g="phonetic2ft" i="label">Fonetisch lezen</e>
+ <e g="label3" i="label">Item</e>
+</t>

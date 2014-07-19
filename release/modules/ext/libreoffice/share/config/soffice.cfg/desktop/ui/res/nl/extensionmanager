@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">Haal meer extensies online...</e>
+ <e g="ExtensionManagerDialog" i="title">Extensiebeheer</e>
+ <e g="label1" i="label">Type extensie</e>
+ <e g="user" i="label">Gebruiker</e>
+ <e g="update" i="label">Controleren op versie bijwerken...</e>
+ <e g="shared" i="label">Gedeeld</e>
+ <e g="add" i="label">Toevoegen...</e>
+ <e g="progressft" i="label">%EXTENSION_NAME toevoegen</e>
+ <e g="bundled" i="label">Installatie</e>
+</t>

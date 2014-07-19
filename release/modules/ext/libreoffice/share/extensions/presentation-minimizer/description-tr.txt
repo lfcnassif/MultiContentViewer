@@ -1,0 +1,2 @@
+Sunum Küçültücü geçerli sunumun dosya boyutunu küçültmek için kullanılır. Resimler sıkıştırılır ve verilerin kaldırılmasına ihtiyaç kalmaz.
+Sunum Küçültücü resim kalite boyutunu iyileştirebilir. Sunumlar yazdırmak için tasarlanan sunumlar gibi aynı yüksek kaliteye ihtiyaç duymayan ekran ve projektör için tasarlanırlar.

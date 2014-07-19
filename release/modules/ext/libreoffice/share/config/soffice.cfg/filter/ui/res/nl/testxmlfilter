@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">XSLT voor exporteren</e>
+ <e g="label5" i="label">XSLT voor importeren</e>
+ <e g="currentdocument" i="label">Huidig document</e>
+ <e g="importbrowse" i="label">Bladeren…</e>
+ <e g="label2" i="label">Importeren</e>
+ <e g="exportbrowse" i="label">Bladeren…</e>
+ <e g="templateimport" i="label">Sjabloon voor importeren</e>
+ <e g="displaysource" i="label">Bron tonen</e>
+ <e g="TestXMLFilterDialog" i="title">XML-filter testen: %s</e>
+ <e g="label4" i="label">Document transformeren</e>
+ <e g="label6" i="label">Bestand transformeren</e>
+ <e g="label1" i="label">Exporteren</e>
+ <e g="recentfile" i="label">Recent bestand</e>
+</t>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">WebブラウザーのロケーションバーからPersonaのあるページのアドレスをクリップボードにコピーして、下の入力フィールドに貼り付けてください。</e>
+ <e g="label1" i="label">まずFirefox Personas (http://www.getpersonas.com)にアクセスしてください。LibreOfficeで使いたいお好みのPersonaを見つけてください。</e>
+ <e g="label3" i="label">Persona アドレス:</e>
+ <e g="visit_personas" i="label">FirefoxのPersonasを開く</e>
+</t>

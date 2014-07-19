@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">スタイル</e>
+ <e g="linerb" i="label">改行</e>
+ <e g="label1" i="label">種類</e>
+ <e g="liststore1" i="0">[なし]</e>
+ <e g="pagenumcb" i="label">ページ番号の変更</e>
+ <e g="pagerb" i="label">改ページ</e>
+ <e g="BreakDialog" i="title">区切りの挿入</e>
+ <e g="columnrb" i="label">段区切り</e>
+</t>

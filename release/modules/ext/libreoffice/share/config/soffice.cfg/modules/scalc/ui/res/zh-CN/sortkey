@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="down" i="label">降序(_D)</e>
+ <e g="sortft" i="label">排序条件</e>
+ <e g="up" i="label">升序(_A)</e>
+</t>

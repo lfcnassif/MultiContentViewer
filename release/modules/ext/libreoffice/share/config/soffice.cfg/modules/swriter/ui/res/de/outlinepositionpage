@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Ausgerichtet bei</e>
+ <e g="num2align" i="label">Ausrichtung der Nummerierung</e>
+ <e g="liststore2" i="0">Tabulator</e>
+ <e g="liststore1" i="1">Zentriert</e>
+ <e g="indent" i="label">Einzug</e>
+ <e g="numalign" i="label">Ausrichtung der Nummerierung</e>
+ <e g="numberingwidth" i="label">Breite der Nummerierung</e>
+ <e g="3" i="label">Position und Abstand</e>
+ <e g="liststore1" i="0">Links</e>
+ <e g="liststore1" i="2">Rechts</e>
+ <e g="numdist" i="label">Mindestabstand Nummer &lt;-&gt; Text</e>
+ <e g="liststore2" i="2">Keins</e>
+ <e g="1" i="label">Ebene</e>
+ <e g="liststore2" i="1">Leerezeichen</e>
+ <e g="numfollowedby" i="label">Nummerierung wird gefolgt von</e>
+ <e g="at" i="label">bei</e>
+ <e g="relative" i="label">Relativ</e>
+ <e g="indentat" i="label">Einzug bei</e>
+ <e g="standard" i="label">Standard</e>
+</t>

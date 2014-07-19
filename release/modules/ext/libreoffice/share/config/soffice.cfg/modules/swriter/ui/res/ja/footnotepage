@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">文書ごと</e>
+ <e g="pos" i="label">位置</e>
+ <e g="label3" i="label">自動番号付け</e>
+ <e g="label18" i="label">次のページ</e>
+ <e g="label17" i="label">脚注末</e>
+ <e g="pagestyleft" i="label">ページ</e>
+ <e g="label6" i="label">番号付け</e>
+ <e g="label16" i="label">脚注範囲</e>
+ <e g="label13" i="label">文字スタイル</e>
+ <e g="pospagecb" i="label">ページの終わり</e>
+ <e g="label8" i="label">前</e>
+ <e g="label5" i="label">脚注が次ページに続く際の注意書き</e>
+ <e g="label15" i="label">テキスト範囲</e>
+ <e g="label12" i="label">スタイル</e>
+ <e g="label7" i="label">番号付け</e>
+ <e g="label4" i="label">段落</e>
+ <e g="posdoccb" i="label">ドキュメントの終わり</e>
+ <e g="liststore1" i="0">ページごと</e>
+ <e g="label11" i="label">後</e>
+ <e g="offset" i="label">開始番号</e>
+ <e g="liststore1" i="1">章ごと</e>
+</t>

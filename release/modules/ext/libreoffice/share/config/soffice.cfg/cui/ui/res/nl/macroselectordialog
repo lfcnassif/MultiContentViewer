@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">Selecteer de bibliotheek die de macro bevat die nodig hebt. Selecteer dan de macro onder 'Macronaam'.</e>
+ <e g="categoryft" i="label">Categorie</e>
+ <e g="helptoolbar" i="label">Selecteer de categorie en dan de opdracht om een opdracht aan een werkbalk toe te voegen. Sleep de opdracht dan naar de lijst met opdrachten op de pagina Werkbalken in het dialoogvenster Aanpassen.</e>
+ <e g="add" i="label">Toevoegen</e>
+ <e g="label1" i="label">Beschrijving</e>
+ <e g="MacroSelectorDialog" i="title">Macroselectie</e>
+ <e g="macronameft" i="label">Macronaam</e>
+ <e g="commandsft" i="label">Opdrachten</e>
+ <e g="libraryft" i="label">Bibliotheek</e>
+</t>

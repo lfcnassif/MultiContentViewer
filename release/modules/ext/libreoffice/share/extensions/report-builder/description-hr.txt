@@ -1,0 +1,1 @@
+Koristite Izradu izvještaja kako biste napravili pregledan i zanimljiv izvještaj baze podataka. Prilagodljiv uređivač izvještaja može definirati grupna zaglavlja i zaglavlja stranice kao i grupna podnožja i podnožja stranice. Nadalje, izračunska polja su dostupna za izradu složenih izvještaja baza podataka.

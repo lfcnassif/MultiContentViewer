@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="background_label" i="label">Immagine di sfondo</e>
+ <e g="own_background" i="label">Immagine personale</e>
+ <e g="default_background" i="label">Immagine di sfondo pre-installata (se disponibile)</e>
+ <e g="label1" i="label">Firefox Personas</e>
+ <e g="no_background" i="label">Aspetto normale, non usare immagini di sfondo</e>
+ <e g="own_persona" i="label">Persona personale</e>
+ <e g="select_background" i="label">Seleziona immagine di sfondo</e>
+ <e g="no_persona" i="label">Aspetto normale, non usare Personas</e>
+ <e g="default_persona" i="label">Persona pre-installata (se disponibile)</e>
+ <e g="select_persona" i="label">Seleziona Persona</e>
+</t>

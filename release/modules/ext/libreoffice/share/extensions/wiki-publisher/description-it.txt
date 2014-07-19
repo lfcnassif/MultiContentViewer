@@ -1,0 +1,1 @@
+Wiki Publisher vi permette di creare articoli wiki sui server MediaWiki senza bisogno di conoscere la sintassi del linguaggio di marcatura MediaWiki. Con Writer potete pubblicare in modo trasparente i vostri documenti, vecchi e nuovi, in una pagina wiki.

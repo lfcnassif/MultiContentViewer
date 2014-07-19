@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="characterstyle" i="label">文字スタイル</e>
+ <e g="count" i="label">総数</e>
+ <e g="view" i="label">表示</e>
+ <e g="positionstore" i="3">外側</e>
+ <e g="positionstore" i="1">右</e>
+ <e g="format" i="label">書式</e>
+ <e g="position" i="label">位置</e>
+ <e g="every" i="label">すべて</e>
+ <e g="shownumbering" i="label">番号付けをオンにする</e>
+ <e g="positionstore" i="2">内側</e>
+ <e g="positionstore" i="0">左</e>
+ <e g="lines" i="label">線</e>
+ <e g="restarteverynewpage" i="label">ページごとに１から</e>
+ <e g="linesintextframes" i="label">テキスト枠内の行</e>
+ <e g="spacing" i="label">間隔</e>
+ <e g="intervallines" i="label">行</e>
+ <e g="interval" i="label">間隔</e>
+ <e g="LineNumberingDialog" i="title">行番号付け</e>
+ <e g="blanklines" i="label">空白の行</e>
+ <e g="separator" i="label">区切り</e>
+ <e g="text" i="label">テキスト</e>
+</t>

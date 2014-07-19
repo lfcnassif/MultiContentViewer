@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="fittopage" i="label">适应页面大小</e>
+ <e g="scaling" i="label">显示比例</e>
+ <e g="borders" i="label">边框</e>
+ <e g="formulatext" i="label">公式文字</e>
+ <e g="label4" i="label">内容</e>
+ <e g="label5" i="label">大小</e>
+ <e g="originalsize" i="label">原始尺寸</e>
+ <e g="title" i="label">标题</e>
+</t>

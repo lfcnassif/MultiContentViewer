@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">替換文字</e>
+ <e g="alternatives" i="label">標籤</e>
+ <e g="replace" i="label">取代</e>
+ <e g="ThesaurusDialog" i="title">同義詞庫</e>
+ <e g="label1" i="label">目前字詞</e>
+ <e g="label3" i="label">取代成</e>
+</t>

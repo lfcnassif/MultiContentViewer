@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">Obtenir des extensions supplémentaires en ligne...</e>
+ <e g="ExtensionManagerDialog" i="title">Gestionnaire des extensions</e>
+ <e g="label1" i="label">Type d'extension</e>
+ <e g="user" i="label">Utilisateur</e>
+ <e g="update" i="label">Vérifier les mises à jour...</e>
+ <e g="shared" i="label">Partagée</e>
+ <e g="add" i="label">Ajouter...</e>
+ <e g="progressft" i="label">Ajout de %EXTENSION_NAME</e>
+ <e g="bundled" i="label">Installation</e>
+</t>

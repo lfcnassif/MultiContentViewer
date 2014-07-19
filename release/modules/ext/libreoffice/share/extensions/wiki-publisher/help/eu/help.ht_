@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 80 aktibatu kontrol-koadro hau eguneratutako orrialdea titulu bereko existitzen den orrialdearen edizio lagungarri gisa markatzeko.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 26 Idatzi aukerako laburpen edo iruzkina.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 10e Idatzi zure Wiki sarreraren titulua. Hau goreneko goiburukoa da Wiki sarreran. Sarrera berri batentzako, titulua esklusiboa izan behar du Wiki honetan. Aurrez existitzen den titulu bat idazten baduzu, zure eguneraketak aurrez existitzen den Wiki sarrera gainidatziko du.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 8a Hautatu MediaWiki zerbitzaria zure dokumentuak bertan argitaratzeko. Egin klik 'Gehitu' botoian zerbitzari berri bat gehitzeko zerrendari.
+22 vnd.com.sun.star.wiki%3AsendDialog 8a Hautatu MediaWiki zerbitzaria zure dokumentuak bertan argitaratzeko. Egin klik 'Gehitu' botoian zerbitzari berri bat gehitzeko zerrendari.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 6f aktibatu kontrol-koadro hau sistemako web arakatzailea abiarazteko eta eguneratutako Wiki orrialdea erakusteko.
+1f vnd.com.sun.star.wiki%3Aaccount 3b Sartu MediaWiki zerbitzariaren URLa, 'http://'-rekin hasiz.
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 7e Gaitu pasahitza saioen artean gordetzea. Pasahitz maisua gaitu behar da, ikusi Tresnak - Aukerak - %PRODUCTNAME - Segurtasuna.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 51 Sartu pasahitza MediaWiki zerbitzarian. Utzi hutsik sarbide anonimoa erabiltzean.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 5a Sartu erabiltzaile-izena MediaWiki zerbitzarian. Utzi hutsik sarbide anonimoa erabiltzean.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3b Sartu MediaWiki zerbitzariaren URLa, 'http://'-rekin hasiz.
+1c vnd.com.sun.star.wiki%3Asend 64 Aukeratu Fitxategia - Bidali - MediaWiki-ra uneko Writer dokumentua MediaWiki zerbitzarira igotzeko.
+20 vnd.com.sun.star.wiki%3Aaboutbox b9 Wiki Publisher erabiliz uneko Writer testu-dokumentua igo dezakezu MediaWiki zerbitzarira. Igo ondoren, Wiki-aren erabiltzaile guztiek irakurri ahal izango dute zure dokumentua Wiki-an.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 2b Hautatutako sarrera zerrendatik kentzen du.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList e1 Egin klik 'Gehitu' botoian Wiki zerbitzari berri bat gehitzeko.Hautatu sarrera bat eta egin klik 'Editatu' botoian kontuaren ezarpenak editatzeko.Hautatu sarrera bat eta egin klik 'Kendu' botoian sarrera zerrendatik kentzeko.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 4b MediaWiki elkarrizketa-koadroa irekitzen du hautatutako sarrera editatzeko.
+20 vnd.com.sun.star.wiki%3Asettings e1 Egin klik 'Gehitu' botoian Wiki zerbitzari berri bat gehitzeko.Hautatu sarrera bat eta egin klik 'Editatu' botoian kontuaren ezarpenak editatzeko.Hautatu sarrera bat eta egin klik 'Kendu' botoian sarrera zerrendatik kentzeko.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 53 MediaWiki elkarrizketa-koadroa irekitzen du sarrera berri bat gehitzeko zerrendari.

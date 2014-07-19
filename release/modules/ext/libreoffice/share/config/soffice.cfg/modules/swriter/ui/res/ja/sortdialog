@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">タブ</e>
+ <e g="columns" i="label">段組み</e>
+ <e g="label3" i="label">方向</e>
+ <e g="up2" i="label">昇順</e>
+ <e g="1" i="label">条件</e>
+ <e g="column" i="label">列</e>
+ <e g="key3" i="label">キー 3</e>
+ <e g="character" i="label">文字</e>
+ <e g="down2" i="label">降順</e>
+ <e g="matchcase" i="label">大/小文字を区別</e>
+ <e g="label2" i="label">詳細設定</e>
+ <e g="up1" i="label">昇順</e>
+ <e g="key2" i="label">キー 2</e>
+ <e g="down1" i="label">降順</e>
+ <e g="rows" i="label">行</e>
+ <e g="label4" i="label">区切り</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">キーの種類</e>
+ <e g="up3" i="label">昇順</e>
+ <e g="label1" i="label">言語</e>
+ <e g="key1" i="label">キー 1</e>
+ <e g="SortDialog" i="title">並べ替え</e>
+ <e g="order" i="label">順番</e>
+ <e g="down3" i="label">降順</e>
+</t>

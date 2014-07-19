@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Copier le résultat du tri à :</e>
+ <e g="label6" i="label">Langue</e>
+ <e g="algorithmft" i="label">Options</e>
+ <e g="naturalsort" i="label">Activer le tri naturel</e>
+ <e g="sortuser" i="label">Ordre de tri personnalisé</e>
+ <e g="header" i="label">La plage contient...</e>
+ <e g="topdown" i="label">Du _haut vers le bas (trier des lignes)</e>
+ <e g="case" i="label">Sensible à la _casse</e>
+ <e g="formats" i="label">Inclure les formats</e>
+ <e g="leftright" i="label">De _gauche à droite (trier des colonnes)</e>
+ <e g="label1" i="label">Direction</e>
+</t>

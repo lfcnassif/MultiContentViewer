@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">自动</e>
+ <e g="optimal" i="label">最佳</e>
+ <e g="columns" i="label">列</e>
+ <e g="bookmode" i="label">图书模式</e>
+ <e g="fitw" i="label">适应宽度</e>
+ <e g="label1" i="label">视图布局</e>
+ <e g="variable" i="label">可变</e>
+ <e g="label2" i="label">显示比例</e>
+ <e g="singlepage" i="label">单页</e>
+ <e g="ZoomDialog" i="title">显示比例和视图布局</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">适应宽度及高度</e>
+</t>

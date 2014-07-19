@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">После</e>
+ <e g="label7" i="label">Разделитель</e>
+ <e g="label5" i="label">Стиль символа</e>
+ <e g="label3" i="label">Стиль абзаца</e>
+ <e g="label2" i="label">Нумерация</e>
+ <e g="label8" i="label">До</e>
+ <e g="label4" i="label">Число</e>
+ <e g="label10" i="label">Начать с</e>
+ <e g="label1" i="label">Уровень</e>
+ <e g="sublevelsft" i="label">Все уровни</e>
+</t>

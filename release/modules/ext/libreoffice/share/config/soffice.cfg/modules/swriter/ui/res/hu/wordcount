@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Szavak száma</e>
+ <e g="label3" i="label">Karakterek száma szóközök nélkül</e>
+ <e g="label9" i="label">Kijelölés</e>
+ <e g="WordCountDialog" i="title">Szavak száma</e>
+ <e g="cjkcharsft" i="label">Ázsiai karakterek és koreai szótagok</e>
+ <e g="label10" i="label">Dokumentum</e>
+ <e g="label2" i="label">Karakterek száma szóközökkel</e>
+</t>

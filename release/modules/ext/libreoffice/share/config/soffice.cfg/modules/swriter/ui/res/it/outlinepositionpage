@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Allineato a</e>
+ <e g="num2align" i="label">Allineamento della numerazione</e>
+ <e g="liststore2" i="0">Tabulazione</e>
+ <e g="liststore1" i="1">Centrato</e>
+ <e g="indent" i="label">Rientro</e>
+ <e g="numalign" i="label">Allineamento della numerazione</e>
+ <e g="numberingwidth" i="label">Larghezza della numerazione</e>
+ <e g="3" i="label">Posizione e spaziatura</e>
+ <e g="liststore1" i="0">Sinistra</e>
+ <e g="liststore1" i="2">Destra</e>
+ <e g="numdist" i="label">Distanza minima numerazione &lt;-&gt; etichettaditesto</e>
+ <e g="liststore2" i="2">Nulla</e>
+ <e g="1" i="label">Livello</e>
+ <e g="liststore2" i="1">Spazio</e>
+ <e g="numfollowedby" i="label">Numerazione seguita da</e>
+ <e g="at" i="label">a</e>
+ <e g="relative" i="label">Relativa</e>
+ <e g="indentat" i="label">Rientro a</e>
+ <e g="standard" i="label">Predefinita</e>
+</t>

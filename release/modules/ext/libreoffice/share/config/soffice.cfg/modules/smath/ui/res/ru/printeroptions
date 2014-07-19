@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="fittopage" i="label">Согласовать с размером страницы</e>
+ <e g="scaling" i="label">Масштабирование</e>
+ <e g="borders" i="label">Обрамление</e>
+ <e g="formulatext" i="label">Текст фор~мулы</e>
+ <e g="label4" i="label">Содержимое</e>
+ <e g="label5" i="label">Размер</e>
+ <e g="originalsize" i="label">Исходный размер</e>
+ <e g="title" i="label">Имя</e>
+</t>

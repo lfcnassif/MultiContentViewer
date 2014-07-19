@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Następnie z paska adresu przeglądarki internetowej, skopiuj do schowka adres strony zawierający Personę i wklej ją do poniższego pola.</e>
+ <e g="label1" i="label">Odwiedź najpierw Firefox Personas (http://www.getpersonas.com). Znajdź Personę, którą lubisz i chciałbyś wybrać dla LibreOffice.</e>
+ <e g="label3" i="label">Adres Persony:</e>
+ <e g="visit_personas" i="label">Odwiedź Firefox Personas</e>
+</t>

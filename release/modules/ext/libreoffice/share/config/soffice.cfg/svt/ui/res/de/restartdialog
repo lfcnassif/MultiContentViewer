@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">Damit die ausgewählte Java-Laufzeitumgebung richtig funktioniert, muss %PRODUCTNAME neu gestartet werden.</e>
+ <e g="yes" i="label">Jetzt neu starten</e>
+ <e g="RestartDialog" i="title">%PRODUCTNAME neu starten</e>
+ <e g="label" i="label">Wollen Sie %PRODUCTNAME jetzt neu starten?</e>
+ <e g="no" i="label">Später neu starten</e>
+ <e g="reason_pdf" i="label">Damit die geänderten Druckauftrag-Standardeinstellungen verwendet werden können, muss %PRODUCTNAME neu gestartet werden.</e>
+ <e g="reason_bibliography_install" i="label">Damit das Literaturverzeichnis richtig funktioniert, muss %PRODUCTNAME neu gestartet werden.</e>
+</t>

@@ -1,0 +1,21 @@
+This section lists the software components and libraries that are used inside of MultiContentViewer. These tools are bundled with the module, unless specified otherwise.
+
+LibreOffice 4.0.4 for windows
+- Site: https://www.libreoffice.org/
+- License: LGPL v.3
+
+Noa-Libre 0.3
+- Site: https://code.google.com/p/noa-libre/
+- License: LGPL
+
+IcePDF 5.0.6-P01
+- Site: http://www.icesoft.org/java/projects/ICEpdf
+- License: Apache  2.0
+
+James Mime4J 0.7.2
+- Site: http://james.apache.org/mime4j/
+- License: Apache 2.0
+
+JAI - Java Advanced Imaging 1.1.3
+- Site: http://www.oracle.com/technetwork/java/javase/tech/jai-142803.html
+- License: http://download.java.net/media/jai/builds/release/1_1_3/LICENSE-jai.txt

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">Outros caracteres...</e>
+ <e g="label29" i="label">Carácter inicial</e>
+ <e g="liststore1" i="0">(Nenhum)</e>
+ <e g="label28" i="label">Caracteres de inclusão</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">Escrever em linhas duplas</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(Nenhum)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">Outros caracteres...</e>
+ <e g="label30" i="label">Carácter final</e>
+ <e g="label2" i="label">Linha dupla</e>
+ <e g="label52" i="label">Visualizar</e>
+</t>

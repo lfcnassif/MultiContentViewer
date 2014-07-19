@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="styleft" i="label">Stílus</e>
+ <e g="linerb" i="label">Sortörés</e>
+ <e g="label1" i="label">Típus</e>
+ <e g="liststore1" i="0">[Nincs]</e>
+ <e g="pagenumcb" i="label">Oldalszám megváltoztatása</e>
+ <e g="pagerb" i="label">Oldaltörés</e>
+ <e g="BreakDialog" i="title">Töréspont beszúrása</e>
+ <e g="columnrb" i="label">Oszloptörés</e>
+</t>

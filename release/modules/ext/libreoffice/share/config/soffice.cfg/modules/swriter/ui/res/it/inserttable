@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Didascalia</e>
+ <e g="ok" i="label">Inserisci</e>
+ <e g="headercb" i="label">Intestazione</e>
+ <e g="bordercb" i="label">_Bordo</e>
+ <e g="label1" i="label">Generale</e>
+ <e g="repeatcb" i="label">Ripeti righe di intestazione sulle nuove pagine</e>
+ <e g="dontsplitcb" i="label">Non separare la tabella tra le pagine</e>
+ <e g="3" i="label">Colonne </e>
+ <e g="label2" i="label">Opzioni</e>
+ <e g="InsertTableDialog" i="title">Inserisci tabella</e>
+ <e g="4" i="label">Righe</e>
+ <e g="repeatheaderafter" i="label">Righe di intestazione</e>
+ <e g="autoformat" i="label">Formattazione automatica</e>
+</t>

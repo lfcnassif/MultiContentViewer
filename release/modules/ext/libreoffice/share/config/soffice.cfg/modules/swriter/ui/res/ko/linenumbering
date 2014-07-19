@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="characterstyle" i="label">문자 스타일</e>
+ <e g="count" i="label">개수</e>
+ <e g="view" i="label">보기</e>
+ <e g="positionstore" i="3">외부</e>
+ <e g="positionstore" i="1">오른쪽</e>
+ <e g="format" i="label">Format</e>
+ <e g="position" i="label">Position</e>
+ <e g="every" i="label">Every</e>
+ <e g="shownumbering" i="label">Show numbering</e>
+ <e g="positionstore" i="2">내부</e>
+ <e g="positionstore" i="0">왼쪽</e>
+ <e g="lines" i="label">선</e>
+ <e g="restarteverynewpage" i="label">Restart every new page</e>
+ <e g="linesintextframes" i="label">텍스트 프레임의 행</e>
+ <e g="spacing" i="label">간격</e>
+ <e g="intervallines" i="label">행</e>
+ <e g="interval" i="label">간격</e>
+ <e g="LineNumberingDialog" i="title">행 번호 매기기</e>
+ <e g="blanklines" i="label">빈 줄</e>
+ <e g="separator" i="label">Separator</e>
+ <e g="text" i="label">Text</e>
+</t>

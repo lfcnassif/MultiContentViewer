@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Copy sort results to:</e>
+ <e g="label6" i="label">Language</e>
+ <e g="algorithmft" i="label">Options</e>
+ <e g="naturalsort" i="label">Enable natural sort</e>
+ <e g="sortuser" i="label">Custom sort order</e>
+ <e g="header" i="label">Range contains...</e>
+ <e g="topdown" i="label">_Top to bottom (sort rows)</e>
+ <e g="case" i="label">Case _sensitive</e>
+ <e g="formats" i="label">Include formats</e>
+ <e g="leftright" i="label">L_eft to right (sort columns)</e>
+ <e g="label1" i="label">Direction</e>
+</t>

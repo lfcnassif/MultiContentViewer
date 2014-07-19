@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Naam</e>
+ <e g="ok" i="label">Invoegen</e>
+ <e g="headercb" i="label">_Kop</e>
+ <e g="bordercb" i="label">_Rand</e>
+ <e g="label1" i="label">Algemeen</e>
+ <e g="repeatcb" i="label">Koprijen op nieuwe _pagina's herhalen</e>
+ <e g="dontsplitcb" i="label">De tabel niet over pagina's splitsen</e>
+ <e g="3" i="label">Kolommen</e>
+ <e g="label2" i="label">Opties</e>
+ <e g="InsertTableDialog" i="title">Tabel invoegen</e>
+ <e g="4" i="label">_Rijen</e>
+ <e g="repeatheaderafter" i="label">Koprijen</e>
+ <e g="autoformat" i="label">Auto_Opmaak</e>
+</t>

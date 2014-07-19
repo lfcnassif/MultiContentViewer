@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="background_label" i="label">Image d'arrière-plan</e>
+ <e g="own_background" i="label">Propre image</e>
+ <e g="default_background" i="label">Image d'arrière-plan pré-installée (si disponible)</e>
+ <e g="label1" i="label">Personas Firefox</e>
+ <e g="no_background" i="label">Apparence ordinaire, ne pas utiliser d'images d'arrière-plan</e>
+ <e g="own_persona" i="label">Propre persona</e>
+ <e g="select_background" i="label">Sélectionner une image d'arrière-plan</e>
+ <e g="no_persona" i="label">Apparence ordinaire, ne pas utiliser de Personas</e>
+ <e g="default_persona" i="label">Persona pré-installé (si disponible)</e>
+ <e g="select_persona" i="label">Sélectionner un Persona</e>
+</t>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignmentcb" i="label">Wyrównanie</e>
+ <e g="fontcb" i="label">Czcionka</e>
+ <e g="label2" i="label">Formatowanie</e>
+ <e g="bordercb" i="label">Krawędzie</e>
+ <e g="AutoFormatTableDialog" i="title">Autoformatowanie</e>
+ <e g="patterncb" i="label">Deseń</e>
+ <e g="numformatcb" i="label">Format liczb</e>
+ <e g="rename" i="label">Zmień nazwę</e>
+ <e g="label1" i="label">Format</e>
+</t>

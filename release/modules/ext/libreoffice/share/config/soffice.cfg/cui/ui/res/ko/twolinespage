@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">Other Characters...</e>
+ <e g="label29" i="label">Initial character</e>
+ <e g="liststore1" i="0">(None)</e>
+ <e g="label28" i="label">원 문자</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">Write in double lines</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(None)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">Other Characters...</e>
+ <e g="label30" i="label">Final character</e>
+ <e g="label2" i="label">Double-lined</e>
+ <e g="label52" i="label">Preview</e>
+</t>

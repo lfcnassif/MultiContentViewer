@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">拆分表格</e>
+ <e g="noheading" i="label">无标题</e>
+ <e g="copyheading" i="label">复制标题</e>
+ <e g="customheading" i="label">自定义标题</e>
+ <e g="label1" i="label">模式</e>
+ <e g="customheadingapplystyle" i="label">自定义标题（应用样式）</e>
+</t>

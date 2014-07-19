@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">Inne znaki...</e>
+ <e g="label29" i="label">Znak wiodący</e>
+ <e g="liststore1" i="0">(Brak)</e>
+ <e g="label28" i="label">Znak otaczający</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">Pisz w dwóch wierszach</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(Brak)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">Inne znaki...</e>
+ <e g="label30" i="label">Znak końcowy</e>
+ <e g="label2" i="label">Podwójne wiersze</e>
+ <e g="label52" i="label">Podgląd</e>
+</t>

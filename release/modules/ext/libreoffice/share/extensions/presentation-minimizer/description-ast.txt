@@ -1,0 +1,2 @@
+El Minimizador de Presentaciones úsase p'amenorgar el tamañu del ficheru de la presentación actual. Les imaxes van comprimise y los datos que yá nun seyan necesarios, van desaniciase.
+El Minimizador de Presentaciones pue ameyorar la calidá y el tamañu de les imaxes. Les presentaciones que tán diseñaes p'amosase nuna pantalla o proyeutor nun requieren la mesma calidá que les presentaciones que tán diseñaes pa la imprenta.

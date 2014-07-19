@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="checkbox-reduce-resolution" i="label">Уменьшить разрешение</e>
+ <e g="label6" i="label">Качество:</e>
+ <e g="label8" i="label">Конечный размер:</e>
+ <e g="label10" i="label">Новый объём:</e>
+ <e g="label2" i="label">Ширина:</e>
+ <e g="interpolation-method-store" i="3">Ланцшоса</e>
+ <e g="label12" i="label">пикс.</e>
+ <e g="label5" i="label">Сжатие:</e>
+ <e g="radio-lossless" i="label">Сжатие без потерь</e>
+ <e g="label14" i="label">DPI</e>
+ <e g="label7" i="label">Исходный размер:</e>
+ <e g="interpolation-method-store" i="1">Билинейная</e>
+ <e g="label9" i="label">Объём изображения:</e>
+ <e g="interpolation-method-store" i="2">Бикубическая</e>
+ <e g="label1" i="label">Сведения об изображении</e>
+ <e g="calculate" i="label">Вычислить</e>
+ <e g="label11" i="label">Интерполяция:</e>
+ <e g="interpolation-method-store" i="0">нет</e>
+ <e g="label4" i="label">Разрешение:</e>
+ <e g="label3" i="label">Высота:</e>
+ <e g="label13" i="label">пикс.</e>
+ <e g="radio-jpeg" i="label">Сжатие JPEG</e>
+</t>

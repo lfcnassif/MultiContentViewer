@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">文字</e>
+ <e g="label33" i="label">字符样式</e>
+ <e g="label34" i="label">访问过的链接</e>
+ <e g="label32" i="label">超链接</e>
+ <e g="urlpb" i="label">浏览...</e>
+ <e g="eventpb" i="label">事件...</e>
+ <e g="label39" i="label">目标框架</e>
+ <e g="label10" i="label">尚未访问过的链接</e>
+ <e g="label37" i="label">名称</e>
+ <e g="label36" i="label">URL</e>
+</t>

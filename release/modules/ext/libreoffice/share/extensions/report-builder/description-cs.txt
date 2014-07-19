@@ -1,0 +1,1 @@
+Použijte Návrhář sestav k vytvoření stylových, profesionálně vypadajících databázových sestav. Flexibilní editor sestav umožní definovat záhlaví a zápatí jak pro jednotlivé stránky, tak pro jednotlivé skupiny dat. Pro vytváření složitějších sestav je zde také možnost vkládat pole s výpočty.

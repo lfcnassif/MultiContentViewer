@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Просмотр</e>
+ <e g="label22" i="label">Интервал</e>
+ <e g="kerningft" i="label">по</e>
+ <e g="relativefontsize" i="label">Масштаб шрифта</e>
+ <e g="0deg" i="label">0 градусов</e>
+ <e g="90deg" i="label">90 градусов</e>
+ <e g="superscript" i="label">Верхний индекс</e>
+ <e g="normal" i="label">Обычный</e>
+ <e g="270deg" i="label">270 градусов</e>
+ <e g="liststore1" i="0">Стандарт</e>
+ <e g="liststore1" i="1">Разреженный</e>
+ <e g="liststore1" i="2">Уплотненный</e>
+ <e g="pairkerning" i="label">Парный кернинг</e>
+ <e g="label24" i="label">Масштаб по ширине</e>
+ <e g="raiselower" i="label">Смещать на</e>
+ <e g="rotate" i="label">Вращение</e>
+ <e g="rotateandscale" i="label">Вращение / масштабирование</e>
+ <e g="subscript" i="label">Нижний индекс</e>
+ <e g="fittoline" i="label">Уместить в строке</e>
+ <e g="automatic" i="label">Автоматически</e>
+ <e g="label20" i="label">Положение</e>
+</t>

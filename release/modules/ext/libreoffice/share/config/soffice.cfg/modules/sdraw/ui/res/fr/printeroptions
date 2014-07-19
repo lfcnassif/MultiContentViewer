@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">Taille</e>
+ <e g="grayscale" i="label">Niveaux de gris</e>
+ <e g="tilesheet" i="label">Juxtaposer des diapos répétées sur la feuille de papier</e>
+ <e g="fittoprintable" i="label">Adapter à la page imprimable</e>
+ <e g="printname" i="label">Nom de page</e>
+ <e g="originalcolors" i="label">Taille d'origine</e>
+ <e g="blackandwhite" i="label">Noir et blanc</e>
+ <e g="printdatetime" i="label">Date et heure</e>
+ <e g="label4" i="label">Contenu</e>
+ <e g="distributeonmultiple" i="label">Répartir sur plusieurs feuilles de papier</e>
+ <e g="label5" i="label">Couleur</e>
+ <e g="originalsize" i="label">Taille d'origine</e>
+</t>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">Táblázat felosztása</e>
+ <e g="noheading" i="label">Nincs címsor</e>
+ <e g="copyheading" i="label">Címsor másolása</e>
+ <e g="customheading" i="label">Egyéni címsor</e>
+ <e g="label1" i="label">Mód</e>
+ <e g="customheadingapplystyle" i="label">Egyéni fejléc (stílus felhasználásával)</e>
+</t>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Etiqueta</e>
+ <e g="ok" i="label">Insertar</e>
+ <e g="headercb" i="label">Enca_bezado</e>
+ <e g="bordercb" i="label">_Borde</e>
+ <e g="label1" i="label">General</e>
+ <e g="repeatcb" i="label">Repetir filas de título en _páginas nuevas</e>
+ <e g="dontsplitcb" i="label">No _dividir la tabla en varias páginas</e>
+ <e g="3" i="label">Columnas </e>
+ <e g="label2" i="label">Opciones</e>
+ <e g="InsertTableDialog" i="title">Insertar tabla</e>
+ <e g="4" i="label">_Filas</e>
+ <e g="repeatheaderafter" i="label">_Filas de título</e>
+ <e g="autoformat" i="label">Auto_formato</e>
+</t>

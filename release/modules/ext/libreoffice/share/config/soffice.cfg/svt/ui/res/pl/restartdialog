@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">Aby wybrane środowisko uruchomieniowe Java działało poprawne, należy ponownie uruchomić %PRODUCTNAME.</e>
+ <e g="yes" i="label">Zrestartuj teraz</e>
+ <e g="RestartDialog" i="title">Zrestartuj %PRODUCTNAME</e>
+ <e g="label" i="label">Chcesz uruchomić %PRODUCTNAME teraz?</e>
+ <e g="no" i="label">Zrestartuj później</e>
+ <e g="reason_pdf" i="label">Aby zmiana domyślnego formatu drukowania odniosła skutek, należy ponownie uruchomić %PRODUCTNAME.</e>
+ <e g="reason_bibliography_install" i="label">Aby bibliografia działała poprawne, należy ponownie uruchomić %PRODUCTNAME.</e>
+</t>

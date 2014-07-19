@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Then, in your web browser's location bar, copy the address of the page that contains the Persona to clipboard, and paste it to the input field below.</e>
+ <e g="label1" i="label">First visit Firefox Personas (http://www.getpersonas.com). Find a Persona you like, and want to choose for LibreOffice.</e>
+ <e g="label3" i="label">Persona address:</e>
+ <e g="visit_personas" i="label">Visit Firefox Personas</e>
+</t>

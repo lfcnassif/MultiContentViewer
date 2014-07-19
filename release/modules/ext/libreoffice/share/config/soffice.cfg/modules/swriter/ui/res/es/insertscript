@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="text" i="label">Texto</e>
+ <e g="InsertScriptDialog" i="title">Insertar script</e>
+ <e g="scripttype" i="text">JavaScript</e>
+ <e g="label1" i="label">Tipo de script</e>
+ <e g="url" i="label">URL</e>
+ <e g="browse" i="label">Examinar...</e>
+</t>

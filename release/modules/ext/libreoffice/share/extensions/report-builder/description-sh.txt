@@ -1,0 +1,1 @@
+Pomoću graditelja izveštaja napravite lepo uređene i pametne izveštaje iz baze podataka. Prilagodljivi uređivač određuje grupe i zaglavlja, kao i podnožja stranice. Dodatno, koristite polja sa izračunavanjem da sastavite složene izveštaje sa podacima iz baze podataka.

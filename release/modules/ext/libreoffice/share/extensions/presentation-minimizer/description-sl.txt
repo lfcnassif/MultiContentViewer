@@ -1,0 +1,2 @@
+Stiskalnica predstavitev je namenjena zmanjšanju velikosti datoteke trenutne predstavitve. Slike bodo stisnjene in podatki, ki niso več potrebni, bodo odstranjeni.
+Stiskalnica predstavitev lahko optimizira velikost oz. kakovost slik. Predstavitve, namenjene zaslonu ali projektorju, ne potrebujejo enako visoke kakovosti kot tiste, namenjene tisku.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">1. kulcs</e>
+ <e g="typeft" i="label">jegyzék</e>
+ <e g="phonetic1ft" i="label">Fonetikus átirat</e>
+ <e g="searchcasewordonlycb" i="label">Csak teljes szavak</e>
+ <e g="levelft" i="label">Szint</e>
+ <e g="new" i="tooltip_text">Új egyéni jegyzék</e>
+ <e g="IndexEntryDialog" i="title">Bejegyzés beszúrása</e>
+ <e g="mainentrycb" i="label">Főbejegyzés</e>
+ <e g="phonetic0ft" i="label">Fonetikus átirat</e>
+ <e g="searchcasesensitivecb" i="label">Kis- és nagybetű különbözik</e>
+ <e g="key2ft" i="label">2. kulcs</e>
+ <e g="label1" i="label">Kijelölés</e>
+ <e g="applytoallcb" i="label">Alkalmazás minden hasonló szövegre</e>
+ <e g="insert" i="label">Beszúrás</e>
+ <e g="phonetic2ft" i="label">Fonetikus átirat</e>
+ <e g="label3" i="label">Bejegyzés</e>
+</t>

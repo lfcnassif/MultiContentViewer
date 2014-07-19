@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Item</e>
+ <e g="label3" i="label">Titel</e>
+ <e g="label5" i="label">Beknopte aanduiding</e>
+ <e g="fromdocument" i="label">Uit documentinhoud</e>
+ <e g="label2" i="label">Auteur</e>
+ <e g="insert" i="label">Invoegen</e>
+ <e g="frombibliography" i="label">Uit literatuurlijstdatabase</e>
+ <e g="modify" i="label">Wijzigen</e>
+ <e g="BibliographyEntryDialog" i="title">Item voor literatuurlijst invoegen</e>
+</t>

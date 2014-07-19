@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck e4 Штиклирајте го ова поле за да ја означите испратената страница како мала промена на веќе постоечката страница со ист наслов.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 52 По желба, внесете кратко резиме или коментар.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 199 Внесете наслов на вашиот внес на Вики. Ова главното заглавие на вашиот Вики внес. За нов внес, насловот мора да биде единствен на ова Вики. Ако внесете постоечки наслов, вашето испраќање ќе го препише постоечкиот внес на Вики.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList f2 Изберете сервер за MediaWiki каде што сакате да го објавите вашиот документ. Кликнете на „Додади“ за да додадете нов сервер кон листата.
+22 vnd.com.sun.star.wiki%3AsendDialog f2 Изберете сервер за MediaWiki каде што сакате да го објавите вашиот документ. Кликнете на „Додади“ за да додадете нов сервер кон листата.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck ca Изберете го ова поле за да го отворите вашиот системски прелистувач и да ја прикаже испратената Вики страница.
+1f vnd.com.sun.star.wiki%3Aaccount 55 Внесете URL на MediaWiki серверот, почнувајќи со http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 106 Овозможете за да ја снимате лозинка помеѓу сесиите. Главната лозинка мора да биде овозможена, видете Алатки - Опции - StarOffice/OpenOffice.org - Безбедност.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 8b Внесете ја лозинката на MediaWiki серверот. Оставете празно за анонимен пристап.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField a6 Внесете ги вашето корисничко име за MediaWiki серверот. Оставете го празно за анонимен пристап.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 55 Внесете URL на MediaWiki серверот, почнувајќи со http://
+1c vnd.com.sun.star.wiki%3Asend bb Изберете Датотека - Испрати - До MediaWiki за да го испратите вашиот тековен документ од Writer до MediaWiki сервер.
+20 vnd.com.sun.star.wiki%3Aaboutbox 15f Со користење на Wiki Publisher можете да го испратите вашиот тековен текстуален документ од Writer до MediaWiki сервер. Откога ќе го испратите, сите корисници на вики ќе можат да го прочитат вашиот документ.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 4a Го отстранува избраниот внес од листата.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 16d Кликнете „Додај“ за да додадете нов Вики сервер.Изберете внес и кликнете Уреди за да ги промените поставките за сметката.Изберете го внесот и кликнете Отстрани за да го отстраните внесот од листата.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 6d Го отвара дијалогот на MediaWiki за уредување на избраниот внес.
+20 vnd.com.sun.star.wiki%3Asettings 16d Кликнете „Додај“ за да додадете нов Вики сервер.Изберете внес и кликнете Уреди за да ги промените поставките за сметката.Изберете го внесот и кликнете Отстрани за да го отстраните внесот од листата.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 6c Отвара дијалог на MediaWiki за додавање на нов внес кон листата.

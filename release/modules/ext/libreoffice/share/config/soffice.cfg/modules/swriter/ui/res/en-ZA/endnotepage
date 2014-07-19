@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">Autonumbering</e>
+ <e g="offset" i="label">Start at</e>
+ <e g="pagestyleft" i="label">Page</e>
+ <e g="label29" i="label">Character Styles</e>
+ <e g="label22" i="label">Before</e>
+ <e g="label27" i="label">Text area</e>
+ <e g="label19" i="label">Numbering</e>
+ <e g="label25" i="label">After</e>
+ <e g="label20" i="label">Paragraph</e>
+ <e g="label28" i="label">Endnote area</e>
+ <e g="label23" i="label">Styles</e>
+</t>

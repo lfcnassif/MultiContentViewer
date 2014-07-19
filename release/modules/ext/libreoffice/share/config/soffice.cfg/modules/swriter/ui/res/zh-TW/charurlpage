@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">文字</e>
+ <e g="label33" i="label">字元樣式</e>
+ <e g="label34" i="label">訪問過的連結</e>
+ <e g="label32" i="label">超連結</e>
+ <e g="urlpb" i="label">瀏覽...</e>
+ <e g="eventpb" i="label">事件...</e>
+ <e g="label39" i="label">目標框架</e>
+ <e g="label10" i="label">尚未訪問過的連結</e>
+ <e g="label37" i="label">名稱</e>
+ <e g="label36" i="label">URL</e>
+</t>

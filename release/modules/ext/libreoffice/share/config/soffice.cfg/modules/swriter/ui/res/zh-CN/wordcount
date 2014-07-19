@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">字</e>
+ <e g="label3" i="label">不计空格时的字符数</e>
+ <e g="label9" i="label">选择</e>
+ <e g="WordCountDialog" i="title">词数统计</e>
+ <e g="cjkcharsft" i="label">亚洲字符及朝鲜语音节</e>
+ <e g="label10" i="label">文档</e>
+ <e g="label2" i="label">包含空格时的字符数</e>
+</t>

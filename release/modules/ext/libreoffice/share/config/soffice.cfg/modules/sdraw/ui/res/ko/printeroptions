@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">크기</e>
+ <e g="grayscale" i="label">회색조</e>
+ <e g="tilesheet" i="label">반복되는 페이지를 바둑판식으로 배열</e>
+ <e g="fittoprintable" i="label">인쇄 가능한 페이지에 맞춤</e>
+ <e g="printname" i="label">Page name</e>
+ <e g="originalcolors" i="label">Original size</e>
+ <e g="blackandwhite" i="label">흑백</e>
+ <e g="printdatetime" i="label">날짜와 시간</e>
+ <e g="label4" i="label">내용</e>
+ <e g="distributeonmultiple" i="label">여러 용지로 나누기</e>
+ <e g="label5" i="label">색상</e>
+ <e g="originalsize" i="label">Original size</e>
+</t>

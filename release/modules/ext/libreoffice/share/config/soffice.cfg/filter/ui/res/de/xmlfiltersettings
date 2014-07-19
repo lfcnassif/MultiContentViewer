@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="delete" i="label">_Löschen…</e>
+ <e g="test" i="label">_XSLTs testen...</e>
+ <e g="XMLFilterSettingsDialog" i="title">XML-Filtereinstellungen</e>
+ <e g="save" i="label">_Als Paket sichern...</e>
+ <e g="open" i="label">_Paket öffnen...</e>
+ <e g="edit" i="label">_Bearbeiten…</e>
+ <e g="new" i="label">_Neu …</e>
+</t>

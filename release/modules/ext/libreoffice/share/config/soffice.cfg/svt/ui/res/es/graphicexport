@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 es la calidad máxima y un archivo de mayor tamaño.</e>
+ <e g="liststore2" i="3">puntos</e>
+ <e g="level2rb" i="label">Nivel 2</e>
+ <e g="label17" i="label">Vista previa</e>
+ <e g="label2" i="label">Profundidad de color</e>
+ <e g="label10" i="label">1 es la calidad mínima y un archivo de menor tamaño.</e>
+ <e g="label16" i="label">Codificación</e>
+ <e g="label22" i="label">0 es un archivo de mayor tamaño y carga rápida.</e>
+ <e g="label" i="label">Compresión</e>
+ <e g="label1" i="label">Tamaño</e>
+ <e g="compressnone" i="label">Ninguna</e>
+ <e g="resolutionft" i="label">Resolución</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Altura</e>
+ <e g="liststore1" i="0">píxeles/cm</e>
+ <e g="label20" i="label">Compresión</e>
+ <e g="liststore1" i="2">píxeles/metro</e>
+ <e g="binarycb" i="label">Binario</e>
+ <e g="GraphicExportDialog" i="title"> Opciones</e>
+ <e g="textcb" i="label">Texto</e>
+ <e g="color1rb" i="label">Color</e>
+ <e g="liststore2" i="4">píxeles</e>
+ <e g="epsipreviewcb" i="label">Intercambiar (EPSI)</e>
+ <e g="label5" i="label">Anchura</e>
+ <e g="color2rb" i="label">Escala de grises</e>
+ <e g="label19" i="label">Versión</e>
+ <e g="label4" i="label">Información</e>
+ <e g="rlecb" i="label">Codificación de RLE</e>
+ <e g="labe" i="label">Objetos de dibujo</e>
+ <e g="liststore2" i="0">pulgada</e>
+ <e g="label12" i="label">Modo</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">Codificación LZW</e>
+ <e g="label3" i="label">Compresión</e>
+ <e g="tiffpreviewcb" i="label">Previsualización de imagen (TIFF)</e>
+ <e g="savetransparencycb" i="label">Guardar transparencia</e>
+ <e g="level1rb" i="label">Nivel 1</e>
+ <e g="liststore1" i="1">píxeles/pulgada</e>
+ <e g="label23" i="label">9 es un archivo de menor tamaño y una carga más lenta.</e>
+ <e g="label18" i="label">Formato del color</e>
+ <e g="interlacedcb" i="label">Entrelazado</e>
+ <e g="label9" i="label">Calidad</e>
+</t>

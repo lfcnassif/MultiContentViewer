@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label26" i="label">自動番号付け</e>
+ <e g="offset" i="label">開始番号</e>
+ <e g="pagestyleft" i="label">ページ</e>
+ <e g="label29" i="label">文字スタイル</e>
+ <e g="label22" i="label">前</e>
+ <e g="label27" i="label">文書範囲</e>
+ <e g="label19" i="label">番号付け</e>
+ <e g="label25" i="label">後</e>
+ <e g="label20" i="label">段落</e>
+ <e g="label28" i="label">文末脚注範囲</e>
+ <e g="label23" i="label">スタイル</e>
+</t>

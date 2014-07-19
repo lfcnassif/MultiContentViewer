@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">Scinder le tableau</e>
+ <e g="noheading" i="label">Aucun en-tête</e>
+ <e g="copyheading" i="label">Copier l'en-tête</e>
+ <e g="customheading" i="label">En-tête personnalisé</e>
+ <e g="label1" i="label">Mode</e>
+ <e g="customheadingapplystyle" i="label">En-tête personnalisé (appliquer le style)</e>
+</t>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="3">Titre</e>
+ <e g="overlinecolorft" i="label">Couleur de surlignage</e>
+ <e g="liststore6" i="7">Tiret (gras)</e>
+ <e g="liststore3" i="1">Point</e>
+ <e g="underlinecolorft" i="label">Couleur de soulignage</e>
+ <e g="label42" i="label">Options</e>
+ <e g="liststore1" i="0">(Sans)</e>
+ <e g="individualwordscb" i="label">Mot par mot</e>
+ <e g="label46" i="label">Surlignage</e>
+ <e g="liststore5" i="3">Gras</e>
+ <e g="liststore6" i="14">Ondulation</e>
+ <e g="liststore6" i="10">Point tiret</e>
+ <e g="liststore6" i="0">(Sans)</e>
+ <e g="liststore1" i="2">Minuscules</e>
+ <e g="liststore5" i="5">Avec X</e>
+ <e g="liststore6" i="16">Ondulation double</e>
+ <e g="liststore3" i="4">Accent</e>
+ <e g="liststore6" i="6">Tiret</e>
+ <e g="outlinecb" i="label">Contour</e>
+ <e g="liststore4" i="1">En dessous du texte</e>
+ <e g="fontcolorft" i="label">Couleur de police</e>
+ <e g="liststore2" i="0">(Sans)</e>
+ <e g="liststore5" i="2">Double</e>
+ <e g="liststore6" i="13">Point point tiret (gras)</e>
+ <e g="emphasisft" i="label">Caractères d'accentuation</e>
+ <e g="liststore6" i="3">Gras</e>
+ <e g="reliefft" i="label">Relief</e>
+ <e g="liststore2" i="2">Empreinte</e>
+ <e g="label50" i="label">Aperçu</e>
+ <e g="liststore6" i="15">Ondulation (grasse)</e>
+ <e g="liststore6" i="9">Tiret long (gras)</e>
+ <e g="liststore6" i="5">Pointillé (gras)</e>
+ <e g="liststore3" i="3">Disque</e>
+ <e g="liststore4" i="0">Au-dessus du texte</e>
+ <e g="liststore5" i="1">Simple</e>
+ <e g="label47" i="label">Barré</e>
+ <e g="hiddencb" i="label">Masqué</e>
+ <e g="liststore6" i="12">Point point tiret</e>
+ <e g="liststore6" i="2">Double</e>
+ <e g="liststore3" i="0">(Sans)</e>
+ <e g="liststore1" i="4">Petites majuscules</e>
+ <e g="shadowcb" i="label">Ombre</e>
+ <e g="liststore2" i="1">Relief</e>
+ <e g="liststore6" i="8">Tiret long</e>
+ <e g="liststore3" i="2">Cercle</e>
+ <e g="liststore6" i="4">Pointillé</e>
+ <e g="label48" i="label">Soulignage</e>
+ <e g="blinkingcb" i="label">Clignotant</e>
+ <e g="liststore1" i="1">Majuscules</e>
+ <e g="positionft" i="label">Position</e>
+ <e g="liststore5" i="4">Avec /</e>
+ <e g="liststore5" i="0">(Sans)</e>
+ <e g="effectsft" i="label">Effets</e>
+ <e g="liststore6" i="11">Point tiret (gras)</e>
+ <e g="liststore6" i="1">Simple</e>
+</t>

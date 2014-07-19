@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="paragraph" i="label">Absatz</e>
+ <e g="othered" i="text">,</e>
+ <e g="label4" i="label">Zeilen</e>
+ <e g="tabs" i="label">Tabulator</e>
+ <e g="label3" i="label">Die ersten </e>
+ <e g="label1" i="label">Trennzeichen im Text</e>
+ <e g="headingcb" i="label">Überschrift</e>
+ <e g="bordercb" i="label">Umrandung</e>
+ <e g="dontsplitcb" i="label">Tabelle nicht trennen</e>
+ <e g="autofmt" i="label">AutoFormat...</e>
+ <e g="repeatheading" i="label">Überschrift wiederholen</e>
+ <e g="keepcolumn" i="label">Gleiche Breite aller Spalten</e>
+ <e g="ConvertTextTableDialog" i="title">Tabelle in Text umwandeln</e>
+ <e g="semicolons" i="label">Semikola</e>
+ <e g="2" i="label">Optionen</e>
+ <e g="other" i="label">Sonstige:</e>
+</t>

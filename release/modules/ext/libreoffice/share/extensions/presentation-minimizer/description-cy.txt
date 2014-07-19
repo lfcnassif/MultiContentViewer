@@ -1,0 +1,2 @@
+Mae'r Teclyn Lleihau Cyflwyniad yn cael ei ddefnyddio i leihau maint y ffeil y cyflwyniad cyfredol. Bydd y lluniau yn cael eu cywasgu, a bydd data nad ei oes ei angen mwyach cael ei ddileu.
+Gall y Teclyn Lleihau Cyflwyniad wneud y gorau o faint ansawdd llun. Nid yw cyflwyniadau wedi'u cynllunio ar gyfer sgrin neu daflunydd angen yr un ansawdd uchel â chyflwyniadau a gynlluniwyd ar gyfer eu hargraffu.

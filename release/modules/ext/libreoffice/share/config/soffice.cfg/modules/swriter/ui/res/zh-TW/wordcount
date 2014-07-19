@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">字</e>
+ <e g="label3" i="label">不含空格的字元數</e>
+ <e g="label9" i="label">選取</e>
+ <e g="WordCountDialog" i="title">字數</e>
+ <e g="cjkcharsft" i="label">亞洲字元與韓音節</e>
+ <e g="label10" i="label">文件</e>
+ <e g="label2" i="label">包含空格的字元數</e>
+</t>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="fittopage" i="label">ページサイズに合わせる</e>
+ <e g="scaling" i="label">倍率</e>
+ <e g="borders" i="label">外枠</e>
+ <e g="formulatext" i="label">数式文字列</e>
+ <e g="label4" i="label">内容</e>
+ <e g="label5" i="label">サイズ</e>
+ <e g="originalsize" i="label">既定のサイズ</e>
+ <e g="title" i="label">タイトル</e>
+</t>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="characterstyle" i="label">Tekenopmaakprofiel</e>
+ <e g="count" i="label">Aantal</e>
+ <e g="view" i="label">Weergave</e>
+ <e g="positionstore" i="3">Buitenkant</e>
+ <e g="positionstore" i="1">Rechts</e>
+ <e g="format" i="label">Opmaak</e>
+ <e g="position" i="label">Positie</e>
+ <e g="every" i="label">Elke</e>
+ <e g="shownumbering" i="label">Nummering weergeven</e>
+ <e g="positionstore" i="2">Binnen</e>
+ <e g="positionstore" i="0">Links</e>
+ <e g="lines" i="label">Lijnen</e>
+ <e g="restarteverynewpage" i="label">Opnieuw starten bij iedere nieuwe pagina</e>
+ <e g="linesintextframes" i="label">Regels in tekstframes</e>
+ <e g="spacing" i="label">Afstand</e>
+ <e g="intervallines" i="label">Regels</e>
+ <e g="interval" i="label">Interval</e>
+ <e g="LineNumberingDialog" i="title">Regelnummering</e>
+ <e g="blanklines" i="label">Tussenregels</e>
+ <e g="separator" i="label">Scheidingsteken</e>
+ <e g="text" i="label">Tekst</e>
+</t>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="reason_java" i="label">A kiválasztott Java-futtatókörnyezet helyes működéséhez a %PRODUCTNAME programot újra kell indítani.</e>
+ <e g="yes" i="label">Újraindítás most</e>
+ <e g="RestartDialog" i="title">%PRODUCTNAME újraindítása</e>
+ <e g="label" i="label">Újraindítja most a %PRODUCTNAME programot?</e>
+ <e g="no" i="label">Újraindítás később</e>
+ <e g="reason_pdf" i="label">A módosított alapértelmezett nyomtatásifeladat-formátum életbe lépéséhez a %PRODUCTNAME programot újra kell indítani.</e>
+ <e g="reason_bibliography_install" i="label">Az irodalomjegyzék helyes működéséhez a %PRODUCTNAME programot újra kell indítani.</e>
+</t>

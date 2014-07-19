@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">必要なマクロが含まれているライブラリを選択してください。その後、「マクロ名」の中からマクロを選択してください。</e>
+ <e g="categoryft" i="label">カテゴリー</e>
+ <e g="helptoolbar" i="label">コマンドをツールバーに追加するには、分類を選んでから、コマンドを選びます。そのコマンドをカスタマイズダイアログにあるツールバータブのコマンドリストにドラッグします。</e>
+ <e g="add" i="label">追加</e>
+ <e g="label1" i="label">説明</e>
+ <e g="MacroSelectorDialog" i="title">マクロセレクター</e>
+ <e g="macronameft" i="label">マクロ名</e>
+ <e g="commandsft" i="label">コマンド</e>
+ <e g="libraryft" i="label">ライブラリ</e>
+</t>

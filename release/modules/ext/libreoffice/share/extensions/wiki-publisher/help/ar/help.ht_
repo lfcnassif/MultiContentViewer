@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck b4 تحقق من هذا المربع لتحديد الصفحة التي تم تحميلها كتحرير ثانوي للصفحة الموجودة بالفعل بنفس العنوان.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 4a أدخل ملخصًا قصيرًا اختياريًا أو تعليقًا.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText 168 أدخل عنوان مدخلة الويكي. يُعد ذلك العنوان الرئيسي لإدخال الويكي الخاص بك. لإدخال جديد، يجب أن يكون العنوان فريدًا على ذلك Wiki. في حالة إدخال عنوان موجود، فسيحل الرفع الخاص بك محل إدخال الويكي الموجود.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList a1 حدد خادم MediaWiki حيث تريد نشر المستند الخاص بك. انقر فوق إضافة لإضافة خادم جديد إلى القائمة.
+22 vnd.com.sun.star.wiki%3AsendDialog a1 حدد خادم MediaWiki حيث تريد نشر المستند الخاص بك. انقر فوق إضافة لإضافة خادم جديد إلى القائمة.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 84 تحقق من هذا المربع لفتح مستعرض ويب النظام وعرض صفحة الويكي التي تم رفعها.
+1f vnd.com.sun.star.wiki%3Aaccount 64 أدخل عنوان URL الخاص بخادم MediaWiki، والذي يبدأ بالمقطع http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox be قم بتمكين تخزين كلمة السر بين الجلسات. يجب تمكين كلمة السر الرئيسية، راجع أدوات - خيارات - %PRODUCTNAME - الأمان.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 7c أدخل كلمة السر الخاصة بك على خادم MediaWiki. اتركها فارغة للوصول المجهول.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 8e أدخل اسم المستخدم الخاص بك على خادم MediaWiki. اتركه فارغًا في حالة الوصول المجهول.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 64 أدخل عنوان URL الخاص بخادم MediaWiki، والذي يبدأ بالمقطع http://
+1c vnd.com.sun.star.wiki%3Asend 69 اختر ملف - إرسال - إلى MediaWiki لرفع مستند رايتر إلى خادم MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox f4 باستخدام ناشر الويكي يُمكنك تحميل مستند نص رايتر إلى خادم MediaWiki. وبعد الرفع، يُمكن لكافة مستخدمي الويكي قراءة المستند على موقع الويكي.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 42 يقوم بحذف الإدخال المحدد من القائمة.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList fe انقر فوق أضف لإضافة خادم ويكي جديد.حدد إدخالاً وانقر فوق تحرير لتحرير إعدادات الحساب.حدد إدخالاً وانقر فوق إزالة لإزالة الإدخال من القائمة.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 5b يقوم بفتح مربع الحوار MediaWiki لتحرير الإدخال المحدد.
+20 vnd.com.sun.star.wiki%3Asettings fe انقر فوق أضف لإضافة خادم ويكي جديد.حدد إدخالاً وانقر فوق تحرير لتحرير إعدادات الحساب.حدد إدخالاً وانقر فوق إزالة لإزالة الإدخال من القائمة.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 61 يقوم بفتح الحوار إضافة لإضافة إدخال جديد إلى القائمة.

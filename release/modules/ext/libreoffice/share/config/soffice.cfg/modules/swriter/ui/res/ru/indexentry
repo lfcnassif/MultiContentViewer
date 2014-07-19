@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="key1ft" i="label">1-й ключ</e>
+ <e g="typeft" i="label">Указатель</e>
+ <e g="phonetic1ft" i="label">Фонетическое чтение</e>
+ <e g="searchcasewordonlycb" i="label">~Только слово целиком</e>
+ <e g="levelft" i="label">Уровень</e>
+ <e g="new" i="tooltip_text">Новый указатель пользователя</e>
+ <e g="IndexEntryDialog" i="title">Вставить элемент указателя</e>
+ <e g="mainentrycb" i="label">Основной элемент</e>
+ <e g="phonetic0ft" i="label">Фонетическое чтение</e>
+ <e g="searchcasesensitivecb" i="label">Учитывать регистр</e>
+ <e g="key2ft" i="label">2-й ключ</e>
+ <e g="label1" i="label">Выбор</e>
+ <e g="applytoallcb" i="label">Применить ко всем вхождениям</e>
+ <e g="insert" i="label">Вставить</e>
+ <e g="phonetic2ft" i="label">Фонетическое чтение</e>
+ <e g="label3" i="label">Элемент</e>
+</t>

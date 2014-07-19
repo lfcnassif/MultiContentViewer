@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Стандарт</e>
+ <e g="heightlabel" i="label">Высота</e>
+ <e g="label2" i="label">Обрамление</e>
+ <e g="scrollbarauto" i="label">Автоматически</e>
+ <e g="label1" i="label">Полоса прокрутки</e>
+ <e g="label7" i="label">Содержимое</e>
+ <e g="borderon" i="label">Вкл.</e>
+ <e g="InsertFloatingFrameDialog" i="title">Свойства фрейма</e>
+ <e g="buttonbrowse" i="label">Обзор...</e>
+ <e g="label6" i="label">Название</e>
+ <e g="widthlabel" i="label">Ширина</e>
+ <e g="scrollbaroff" i="label">Выкл.</e>
+ <e g="scrollbaron" i="label">Вкл.</e>
+ <e g="defaultheight" i="label">Стандарт</e>
+ <e g="borderoff" i="label">Выкл.</e>
+ <e g="label3" i="label">Отступы от содержимого</e>
+</t>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">Hinter</e>
+ <e g="label7" i="label">Trenner</e>
+ <e g="label5" i="label">Zeichenvorlage</e>
+ <e g="label3" i="label">Absatzvorlage</e>
+ <e g="label2" i="label">Nummerierung</e>
+ <e g="label8" i="label">Vor</e>
+ <e g="label4" i="label">Nummer</e>
+ <e g="label10" i="label">Beginn bei</e>
+ <e g="label1" i="label">Ebene</e>
+ <e g="sublevelsft" i="label">Vollständig</e>
+</t>

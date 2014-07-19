@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Étiquette</e>
+ <e g="ok" i="label">Insérer</e>
+ <e g="headercb" i="label">_En-tête</e>
+ <e g="bordercb" i="label">_Bordure</e>
+ <e g="label1" i="label">Général</e>
+ <e g="repeatcb" i="label">Répéter les lignes d'en-tête sur les nouvelles _pages</e>
+ <e g="dontsplitcb" i="label">Ne pas _scinder le tableau à travers les pages</e>
+ <e g="3" i="label">Colonnes</e>
+ <e g="label2" i="label">Options</e>
+ <e g="InsertTableDialog" i="title">Insérer un tableau</e>
+ <e g="4" i="label">_Lignes</e>
+ <e g="repeatheaderafter" i="label">Lignes d'_en-tête</e>
+ <e g="autoformat" i="label">Auto_Format</e>
+</t>

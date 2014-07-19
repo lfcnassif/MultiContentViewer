@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="background_label" i="label">Obraz tła</e>
+ <e g="own_background" i="label">Własny obraz</e>
+ <e g="default_background" i="label">Preinstalowany obraz tła (jeśli dostępny)</e>
+ <e g="label1" i="label">Persony Firefoksa</e>
+ <e g="no_background" i="label">Zwykły wygląd, nie używaj obrazu tła</e>
+ <e g="own_persona" i="label">Własna Persona</e>
+ <e g="select_background" i="label">Wybierz obraz tła</e>
+ <e g="no_persona" i="label">Zwykły wygląd, nie używaj Person</e>
+ <e g="default_persona" i="label">Preinstalowana Persona (jeśli dostępna)</e>
+ <e g="select_persona" i="label">Wybierz Personę</e>
+</t>

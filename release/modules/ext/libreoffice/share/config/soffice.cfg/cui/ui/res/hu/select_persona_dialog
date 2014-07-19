@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Ezután másolja a Personat tartalmazó oldal címét a vágólapra, és illessze be a lenti beviteli mezőbe.</e>
+ <e g="label1" i="label">Először keresse fel a Firefox Personas (http://www.getpersonas.com) oldalt. Válassza ki az Önnek tetsző, és a LibreOffice-ban használni kívánt Personat.</e>
+ <e g="label3" i="label">Persona címe:</e>
+ <e g="visit_personas" i="label">Firefox Personas felkeresése</e>
+</t>

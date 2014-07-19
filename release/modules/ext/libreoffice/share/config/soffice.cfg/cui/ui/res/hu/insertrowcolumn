@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="InsertRowColumnDialog" i="title">Sor beszúrása</e>
+ <e g="label2" i="label">Pozíció</e>
+ <e g="insert_before" i="label">_Elé</e>
+ <e g="insert_after" i="label">_Mögé</e>
+ <e g="label3" i="label">S_zám</e>
+ <e g="label1" i="label">Beszúrás</e>
+</t>

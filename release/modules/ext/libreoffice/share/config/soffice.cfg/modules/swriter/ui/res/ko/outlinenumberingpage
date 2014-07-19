@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">After</e>
+ <e g="label7" i="label">Separator</e>
+ <e g="label5" i="label">문자 스타일</e>
+ <e g="label3" i="label">Paragraph Style</e>
+ <e g="label2" i="label">Numbering</e>
+ <e g="label8" i="label">Before</e>
+ <e g="label4" i="label">Number</e>
+ <e g="label10" i="label">Start at</e>
+ <e g="label1" i="label">수준</e>
+ <e g="sublevelsft" i="label">Show sublevels</e>
+</t>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="alignedat" i="label">Wyrównanie</e>
+ <e g="num2align" i="label">Wyrównanie numeracji</e>
+ <e g="liststore2" i="0">Tabulator</e>
+ <e g="liststore1" i="1">Wyśrodkowanie</e>
+ <e g="indent" i="label">Wcięcie</e>
+ <e g="numalign" i="label">Wyrównanie numeracji</e>
+ <e g="numberingwidth" i="label">Odstęp od tekstu</e>
+ <e g="3" i="label">Pozycja i odstęp</e>
+ <e g="liststore1" i="0">Z lewej</e>
+ <e g="liststore1" i="2">Z prawej</e>
+ <e g="numdist" i="label">Minimalny odstęp numeracja &lt;-&gt; etykieta tekstu</e>
+ <e g="liststore2" i="2">Brak</e>
+ <e g="1" i="label">Poziom</e>
+ <e g="liststore2" i="1">Spacja</e>
+ <e g="numfollowedby" i="label">Po numeracji</e>
+ <e g="at" i="label">do</e>
+ <e g="relative" i="label">Względny</e>
+ <e g="indentat" i="label">Wcięcie</e>
+ <e g="standard" i="label">Domyślny</e>
+</t>

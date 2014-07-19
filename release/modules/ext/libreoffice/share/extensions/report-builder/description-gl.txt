@@ -1,0 +1,1 @@
+Use o Report Builder para crear informes de base de datos con estilo. O flexíbel editor de informes pode definir grupo, cabeceiras e rodapés de páxina. Alén diso, os campos de cálculo tamén están dispoñíbeis para seren incluídos nos informes.

@@ -1,0 +1,1 @@
+Esta extensão se integra ao Calc e disponibiliza novos algoritmos do Solver para serem utilizados na otimização de modelos não lineares.

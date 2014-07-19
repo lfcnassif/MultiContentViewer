@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="characterstyle" i="label">Karakterstílus</e>
+ <e g="count" i="label">Darab</e>
+ <e g="view" i="label">Nézet</e>
+ <e g="positionstore" i="3">Külső</e>
+ <e g="positionstore" i="1">Jobbra</e>
+ <e g="format" i="label">Formátum</e>
+ <e g="position" i="label">Pozíció</e>
+ <e g="every" i="label">Minden</e>
+ <e g="shownumbering" i="label">Számozás megjelenítése</e>
+ <e g="positionstore" i="2">Belső</e>
+ <e g="positionstore" i="0">Balra</e>
+ <e g="lines" i="label">Vonalak</e>
+ <e g="restarteverynewpage" i="label">Újrakezdés minden oldalon</e>
+ <e g="linesintextframes" i="label">Keretben levő sorok sorszámozása</e>
+ <e g="spacing" i="label">Térköz</e>
+ <e g="intervallines" i="label">sorban</e>
+ <e g="interval" i="label">Minden</e>
+ <e g="LineNumberingDialog" i="title">Sorszámozás</e>
+ <e g="blanklines" i="label">Üres sorok</e>
+ <e g="separator" i="label">Elválasztó</e>
+ <e g="text" i="label">Szöveg</e>
+</t>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="edit" i="label">Szerkesztés</e>
+ <e g="macrotoft" i="label">Makró mentése</e>
+ <e g="existingmacrosft" i="label">Létező makrók:</e>
+ <e g="BasicMacroDialog" i="title">%PRODUCTNAME Basic-makrók</e>
+ <e g="macrofromft" i="label">Makró forrása</e>
+ <e g="libraryft1" i="label">Makró neve</e>
+ <e g="newlibrary" i="label">Új programkönyvtár</e>
+ <e g="newmodule" i="label">Új modul</e>
+ <e g="organize" i="label">Szervező...</e>
+ <e g="run" i="label">Futtatás</e>
+ <e g="assign" i="label">Hozzárendelés...</e>
+</t>

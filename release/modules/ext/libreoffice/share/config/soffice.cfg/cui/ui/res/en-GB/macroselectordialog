@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="helpmacro" i="label">Select the library that contains the macro you want. Then select the macro under 'Macro name'.</e>
+ <e g="categoryft" i="label">Category</e>
+ <e g="helptoolbar" i="label">To add a command to a toolbar, select the category and then the command. Then drag the command to the Commands list of the Toolbars tab page in the Customise dialogue box.</e>
+ <e g="add" i="label">Add</e>
+ <e g="label1" i="label">Description</e>
+ <e g="MacroSelectorDialog" i="title">Macro Selector</e>
+ <e g="macronameft" i="label">Macro name</e>
+ <e g="commandsft" i="label">Commands</e>
+ <e g="libraryft" i="label">Library</e>
+</t>

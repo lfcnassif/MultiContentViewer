@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="SplitTableDialog" i="title">Dividir tabela</e>
+ <e g="noheading" i="label">Sem título</e>
+ <e g="copyheading" i="label">Copiar título</e>
+ <e g="customheading" i="label">Título personalizado</e>
+ <e g="label1" i="label">Modo</e>
+ <e g="customheadingapplystyle" i="label">Título personalizado (aplicar estilo)</e>
+</t>

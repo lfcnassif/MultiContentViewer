@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="copyresult" i="label">Copiar resultados da classificação para:</e>
+ <e g="label6" i="label">Idioma</e>
+ <e g="algorithmft" i="label">Opções</e>
+ <e g="naturalsort" i="label">Ativar classificação natural</e>
+ <e g="sortuser" i="label">Ordem de classificação personalizada</e>
+ <e g="header" i="label">O intervalo contém...</e>
+ <e g="topdown" i="label">De _cima para baixo (classificar linhas)</e>
+ <e g="case" i="label">Diferenciar maiú_sculas de minúsculas</e>
+ <e g="formats" i="label">Incluir formatos</e>
+ <e g="leftright" i="label">Da _esquerda para a direita (classificar colunas)</e>
+ <e g="label1" i="label">Direção</e>
+</t>

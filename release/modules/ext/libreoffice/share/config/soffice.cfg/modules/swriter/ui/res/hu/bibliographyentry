@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Bejegyzés</e>
+ <e g="label3" i="label">Cím</e>
+ <e g="label5" i="label">Rövid név</e>
+ <e g="fromdocument" i="label">Dokumentum tartalmából</e>
+ <e g="label2" i="label">Szerző</e>
+ <e g="insert" i="label">Beszúrás</e>
+ <e g="frombibliography" i="label">Irodalomjegyzék-adatbázisból</e>
+ <e g="modify" i="label">Módosítás</e>
+ <e g="BibliographyEntryDialog" i="title">Irodalomjegyzék-bejegyzés beszúrása</e>
+</t>

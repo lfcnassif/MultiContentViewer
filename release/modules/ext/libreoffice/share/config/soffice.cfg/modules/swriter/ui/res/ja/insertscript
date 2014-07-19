@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="text" i="label">テキスト</e>
+ <e g="InsertScriptDialog" i="title">スクリプトの挿入</e>
+ <e g="scripttype" i="text">JavaScript</e>
+ <e g="label1" i="label">スクリプトの種類</e>
+ <e g="url" i="label">URL</e>
+ <e g="browse" i="label">参照 ...</e>
+</t>

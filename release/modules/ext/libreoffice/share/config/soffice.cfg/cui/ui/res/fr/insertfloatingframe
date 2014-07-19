@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Par défaut</e>
+ <e g="heightlabel" i="label">Hauteur</e>
+ <e g="label2" i="label">Bordure</e>
+ <e g="scrollbarauto" i="label">Automatique</e>
+ <e g="label1" i="label">Barre de défilement</e>
+ <e g="label7" i="label">Contenu</e>
+ <e g="borderon" i="label">Activé</e>
+ <e g="InsertFloatingFrameDialog" i="title">Propriétés du cadre flottant</e>
+ <e g="buttonbrowse" i="label">Parcourir...</e>
+ <e g="label6" i="label">Nom</e>
+ <e g="widthlabel" i="label">Largeur</e>
+ <e g="scrollbaroff" i="label">Désactivé</e>
+ <e g="scrollbaron" i="label">Activé</e>
+ <e g="defaultheight" i="label">Par défaut</e>
+ <e g="borderoff" i="label">Désactivé</e>
+ <e g="label3" i="label">Espacement avec le contenu</e>
+</t>

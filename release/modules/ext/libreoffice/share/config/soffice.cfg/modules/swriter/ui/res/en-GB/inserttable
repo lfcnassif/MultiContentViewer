@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Label</e>
+ <e g="ok" i="label">Insert</e>
+ <e g="headercb" i="label">Hea_ding</e>
+ <e g="bordercb" i="label">_Border</e>
+ <e g="label1" i="label">General</e>
+ <e g="repeatcb" i="label">Repeat Heading Rows on new _pages</e>
+ <e g="dontsplitcb" i="label">Don’t _split table over pages</e>
+ <e g="3" i="label">Columns </e>
+ <e g="label2" i="label">Options</e>
+ <e g="InsertTableDialog" i="title">Insert Table</e>
+ <e g="4" i="label">_Rows</e>
+ <e g="repeatheaderafter" i="label">Heading Ro_ws</e>
+ <e g="autoformat" i="label">Auto_Format</e>
+</t>

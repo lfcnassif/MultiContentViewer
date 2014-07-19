@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="getextensions" i="label">További kiterjesztések letöltése...</e>
+ <e g="ExtensionManagerDialog" i="title">Kiterjesztéskezelő</e>
+ <e g="label1" i="label">Kiterjesztés típusa</e>
+ <e g="user" i="label">Saját</e>
+ <e g="update" i="label">Frissítések keresése…</e>
+ <e g="shared" i="label">Közös</e>
+ <e g="add" i="label">Hozzáadás...</e>
+ <e g="progressft" i="label">%EXTENSION_NAME hozzáadása</e>
+ <e g="bundled" i="label">Alaptelepítés része</e>
+</t>

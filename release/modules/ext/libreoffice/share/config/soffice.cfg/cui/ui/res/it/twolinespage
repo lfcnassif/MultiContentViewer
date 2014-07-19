@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore2" i="2">]</e>
+ <e g="liststore2" i="3">&gt;</e>
+ <e g="liststore2" i="4">}</e>
+ <e g="liststore2" i="5">Altri caratteri...</e>
+ <e g="label29" i="label">Carattere iniziale</e>
+ <e g="liststore1" i="0">(Nessuno)</e>
+ <e g="label28" i="label">Carattere di inclusione</e>
+ <e g="liststore1" i="1">(</e>
+ <e g="twolines" i="label">Scrivi due righe per riga</e>
+ <e g="liststore1" i="2">[</e>
+ <e g="liststore2" i="0">(Nessuno)</e>
+ <e g="liststore1" i="3">&lt;</e>
+ <e g="liststore2" i="1">)</e>
+ <e g="liststore1" i="4">{</e>
+ <e g="liststore1" i="5">Altri caratteri...</e>
+ <e g="label30" i="label">Ultimo carattere</e>
+ <e g="label2" i="label">A riga doppia</e>
+ <e g="label52" i="label">Anteprima</e>
+</t>

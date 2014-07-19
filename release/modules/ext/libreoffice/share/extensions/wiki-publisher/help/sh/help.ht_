@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 76 Aktivirajte ovo kako biste označili da je otpremljena stranica mala izmena već postojećeg teksta sa istim naslovom.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 26 Opciono unesite sažetak ili komentar.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText ba Navedite naslov za unos u Viki. Ovo je osnovno zaglavlje unosa. Za novi unos morate uneti jedinstven naslov na  Vikiju. Ukoliko unesete postojeći naslov unos u Vikiju će biti zamenjen.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList 6d Izaberite Medijaviki server za objavljivanje dokumenta. Kliknite "Dodaj" za dodavanje novog servera na listu.
+22 vnd.com.sun.star.wiki%3AsendDialog 6d Izaberite Medijaviki server za objavljivanje dokumenta. Kliknite "Dodaj" za dodavanje novog servera na listu.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 61 Aktivirajte za otvaranje sistemskog veb preglednika koji će prikazati otpremljenu Viki stranicu.
+1f vnd.com.sun.star.wiki%3Aaccount 3a Unesite adresu Medijaviki servera koja počinje sa http://
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox 96 Omogućite da biste sačuvali lozinku između sesija. Najpre morate uneti glavnu lozinku, pogledajte Alatke - Podešavanja - %PRODUCTNAME - Sigurnost.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 4a Unesite lozinku za Medijaviki server. Ostavite prazno za anoniman pristup.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 52 Unesite korisničko ime za Medijaviki server. Ostavite prazno za anoniman pristup.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 3a Unesite adresu Medijaviki servera koja počinje sa http://
+1c vnd.com.sun.star.wiki%3Asend 6a Izaberite Datoteka - Pošalji - Na Medijaviki kako biste otpremili trenutni dokument na Medijaviki server.
+20 vnd.com.sun.star.wiki%3Aaboutbox 9e Koristeći dodatak Objavi na vikiju možete da otpremite tekst iz Pisca na Medijaviki server. Po objavljivanju svi će moći da pročitaju dokument na Vikiju.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 1f Uklanja izabrani unos iz liste.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList be Kliknite na „Dodaj“ za dodavanje novog Viki servera.Izaberite unos i kliknite „Uredi“ za izmenu podataka o nalogu.Izabetire unos i kliknite „Ukloni“ za uklanjanje unosa iz liste.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 3b Otvara Medijaviki prozorče za uređivanje izabranog unosa.
+20 vnd.com.sun.star.wiki%3Asettings be Kliknite na „Dodaj“ za dodavanje novog Viki servera.Izaberite unos i kliknite „Uredi“ za izmenu podataka o nalogu.Izabetire unos i kliknite „Ukloni“ za uklanjanje unosa iz liste.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 3d Otvara Medijaviki prozorče za dodavanje novog unosa u listu.

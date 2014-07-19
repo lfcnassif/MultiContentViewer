@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">幅</e>
+ <e g="label2" i="label">列</e>
+ <e g="label1" i="label">幅</e>
+ <e g="ColumnWidthDialog" i="title">列幅</e>
+</t>

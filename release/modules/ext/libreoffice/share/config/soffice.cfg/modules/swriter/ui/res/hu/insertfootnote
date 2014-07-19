@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Számozás</e>
+ <e g="character" i="label">Karakter</e>
+ <e g="label2" i="label">Típus</e>
+ <e g="InsertFootnoteDialog" i="title">Lábjegyzet/végjegyzet beszúrása</e>
+ <e g="endnote" i="label">Végjegyzet</e>
+ <e g="choosecharacter" i="label">Válasszon…</e>
+ <e g="automatic" i="label">Automatikus</e>
+ <e g="footnote" i="label">Lábjegyzet</e>
+</t>

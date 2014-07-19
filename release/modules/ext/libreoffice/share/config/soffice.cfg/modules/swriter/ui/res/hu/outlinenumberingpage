@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label9" i="label">Utána</e>
+ <e g="label7" i="label">Elválasztó</e>
+ <e g="label5" i="label">Karakterstílus</e>
+ <e g="label3" i="label">Bekezdésstílus</e>
+ <e g="label2" i="label">Számozás</e>
+ <e g="label8" i="label">Előtte</e>
+ <e g="label4" i="label">Szám</e>
+ <e g="label10" i="label">Kezdet</e>
+ <e g="label1" i="label">Szint</e>
+ <e g="sublevelsft" i="label">Alszintek száma</e>
+</t>

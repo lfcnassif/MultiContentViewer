@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Słowa</e>
+ <e g="label3" i="label">Znaki bez spacji</e>
+ <e g="label9" i="label">Zaznaczenie</e>
+ <e g="WordCountDialog" i="title">Licznik słów</e>
+ <e g="cjkcharsft" i="label">Znaki azjatyckie i koreańskie sylaby</e>
+ <e g="label10" i="label">Dokument</e>
+ <e g="label2" i="label">Znaki zawierające spacje</e>
+</t>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label6" i="label">大小</e>
+ <e g="grayscale" i="label">灰度</e>
+ <e g="tilesheet" i="label">使用幻灯片重复平铺</e>
+ <e g="fittoprintable" i="label">适合可打印页面</e>
+ <e g="printname" i="label">页面名称</e>
+ <e g="originalcolors" i="label">原始尺寸</e>
+ <e g="blackandwhite" i="label">黑白</e>
+ <e g="printdatetime" i="label">日期和时间</e>
+ <e g="label4" i="label">内容</e>
+ <e g="distributeonmultiple" i="label">分布到多张</e>
+ <e g="label5" i="label">颜色</e>
+ <e g="originalsize" i="label">原始尺寸</e>
+</t>

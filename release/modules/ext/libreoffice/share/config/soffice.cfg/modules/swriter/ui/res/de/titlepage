@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Titelseite</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Neue Titelseiten einfügen</e>
+ <e g="label3" i="label">Seiteneigenschaften bearbeiten</e>
+ <e g="label2" i="label">Seitennummerierung</e>
+ <e g="label1" i="label">Titelseiten erzeugen</e>
+ <e g="label8" i="label">Seiten</e>
+ <e g="label6" i="label">Anzahl von Titelseiten</e>
+ <e g="label7" i="label">Titelseiten einfügen ab</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Nummerierung nach Titelseiten neu beginnen</e>
+ <e g="FT_PAGE_PAGES" i="label">Seitennummer</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Vorhandene Seiten zu Titelseiten umwandeln</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Seitennummer für erste Titelseite</e>
+ <e g="RB_DOCUMENT_START" i="label">Dokumentanfang</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Bearbeiten...</e>
+ <e g="RB_PAGE_START" i="label">Seite</e>
+ <e g="FT_PAGE_COUNT" i="label">Seitennummer</e>
+</t>

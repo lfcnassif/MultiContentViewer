@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label1" i="label">Нумерация</e>
+ <e g="character" i="label">Символ</e>
+ <e g="label2" i="label">Тип</e>
+ <e g="InsertFootnoteDialog" i="title">Вставить сноску/концевую сноску</e>
+ <e g="endnote" i="label">Концевая сноска</e>
+ <e g="choosecharacter" i="label">Выбрать ...</e>
+ <e g="automatic" i="label">Автоматически</e>
+ <e g="footnote" i="label">Сноска</e>
+</t>

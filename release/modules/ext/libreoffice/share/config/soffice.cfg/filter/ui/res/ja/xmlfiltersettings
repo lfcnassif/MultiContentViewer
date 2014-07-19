@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="delete" i="label">削除(_D)...</e>
+ <e g="test" i="label">XSLTを試す(_T)...</e>
+ <e g="XMLFilterSettingsDialog" i="title">XML フィルターの設定</e>
+ <e g="save" i="label">パッケージとして保存(_S)...</e>
+ <e g="open" i="label">パッケージを開く(_O)...</e>
+ <e g="edit" i="label">編集(_E)...</e>
+ <e g="new" i="label">新規(_N)...</e>
+</t>

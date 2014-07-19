@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="liststore1" i="2">Dokumentumonként</e>
+ <e g="pos" i="label">Pozíció</e>
+ <e g="label3" i="label">Automatikus számozás</e>
+ <e g="label18" i="label">Lábjegyzet folytatása</e>
+ <e g="label17" i="label">Lábjegyzet vége</e>
+ <e g="pagestyleft" i="label">Oldal</e>
+ <e g="label6" i="label">Számozás</e>
+ <e g="label16" i="label">Lábjegyzet</e>
+ <e g="label13" i="label">Karakterstílusok</e>
+ <e g="pospagecb" i="label">Oldal alja</e>
+ <e g="label8" i="label">Előtte</e>
+ <e g="label5" i="label">Figyelmeztető üzenet a hely túllépése esetén</e>
+ <e g="label15" i="label">Szövegtörzs</e>
+ <e g="label12" i="label">Stílusok</e>
+ <e g="label7" i="label">Számolás</e>
+ <e g="label4" i="label">Bekezdés</e>
+ <e g="posdoccb" i="label">Dokumentum vége</e>
+ <e g="liststore1" i="0">Oldalanként</e>
+ <e g="label11" i="label">Utána</e>
+ <e g="offset" i="label">Kezdet</e>
+ <e g="liststore1" i="1">Fejezetenként</e>
+</t>

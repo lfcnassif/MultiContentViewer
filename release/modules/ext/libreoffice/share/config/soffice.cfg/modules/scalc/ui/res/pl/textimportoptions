@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automatycznie</e>
+ <e g="label3" i="label">Opcje</e>
+ <e g="TextImportOptionsDialog" i="title">Opcje importu</e>
+ <e g="custom" i="label">Niestandardowe</e>
+ <e g="label2" i="label">Wybierz język, którego chcesz użyć dla importu</e>
+ <e g="convertdata" i="label">Wykryj liczby specjalne (takie jak daty).</e>
+</t>

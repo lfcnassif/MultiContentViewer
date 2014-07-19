@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automatikus</e>
+ <e g="label3" i="label">Beállítások</e>
+ <e g="TextImportOptionsDialog" i="title">Importálás beállításai</e>
+ <e g="custom" i="label">Egyéni</e>
+ <e g="label2" i="label">Importáláshoz használt nyelv kiválasztása</e>
+ <e g="convertdata" i="label">Különleges számok észlelése (például dátumok).</e>
+</t>

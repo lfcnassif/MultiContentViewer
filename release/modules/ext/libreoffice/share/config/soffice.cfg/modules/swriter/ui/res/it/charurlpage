@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="textft" i="label">Testo</e>
+ <e g="label33" i="label">Stili di carattere</e>
+ <e g="label34" i="label">Collegamenti visitati</e>
+ <e g="label32" i="label">Collegamento</e>
+ <e g="urlpb" i="label">Sfoglia...</e>
+ <e g="eventpb" i="label">Eventi...</e>
+ <e g="label39" i="label">Frame</e>
+ <e g="label10" i="label">Collegamenti non visitati</e>
+ <e g="label37" i="label">Nome</e>
+ <e g="label36" i="label">URL</e>
+</t>

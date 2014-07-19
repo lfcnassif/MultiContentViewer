@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label51" i="label">Vorschau</e>
+ <e g="label22" i="label">Abstand</e>
+ <e g="kerningft" i="label">um</e>
+ <e g="relativefontsize" i="label">Schriftgröße rel.</e>
+ <e g="0deg" i="label">0 Grad</e>
+ <e g="90deg" i="label">90 Grad</e>
+ <e g="superscript" i="label">Hochgestellt</e>
+ <e g="normal" i="label">Normal</e>
+ <e g="270deg" i="label">270 Grad</e>
+ <e g="liststore1" i="0">Standard</e>
+ <e g="liststore1" i="1">Gesperrt</e>
+ <e g="liststore1" i="2">Schmal</e>
+ <e g="pairkerning" i="label">Paarweises Kerning</e>
+ <e g="label24" i="label">Breite skalieren</e>
+ <e g="raiselower" i="label">Hoch/Tief um</e>
+ <e g="rotate" i="label">Drehung</e>
+ <e g="rotateandscale" i="label">Rotation / Skalierung</e>
+ <e g="subscript" i="label">Tiefgestellt</e>
+ <e g="fittoline" i="label">An Zeile anpassen</e>
+ <e g="automatic" i="label">Automatisch</e>
+ <e g="label20" i="label">Position</e>
+</t>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="checkbox-reduce-resolution" i="label">降低影像解析度</e>
+ <e g="label6" i="label">品質：</e>
+ <e g="label8" i="label">檢視尺寸：</e>
+ <e g="label10" i="label">新大小：</e>
+ <e g="label2" i="label">寬度：</e>
+ <e g="interpolation-method-store" i="3">Lanczos</e>
+ <e g="label12" i="label">像素</e>
+ <e g="label5" i="label">壓縮：</e>
+ <e g="radio-lossless" i="label">無損壓縮</e>
+ <e g="label14" i="label">DPI</e>
+ <e g="label7" i="label">原始尺寸：</e>
+ <e g="interpolation-method-store" i="1">雙線性</e>
+ <e g="label9" i="label">影像大小：</e>
+ <e g="interpolation-method-store" i="2">雙立方</e>
+ <e g="label1" i="label">影像資訊</e>
+ <e g="calculate" i="label">計算</e>
+ <e g="label11" i="label">插補：</e>
+ <e g="interpolation-method-store" i="0">無</e>
+ <e g="label4" i="label">解析度：</e>
+ <e g="label3" i="label">高度：</e>
+ <e g="label13" i="label">像素</e>
+ <e g="radio-jpeg" i="label">JPEG 壓縮</e>
+</t>

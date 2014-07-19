@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label3" i="label">Címke</e>
+ <e g="ok" i="label">Beszúrás</e>
+ <e g="headercb" i="label">_Címsor</e>
+ <e g="bordercb" i="label">_Keret</e>
+ <e g="label1" i="label">Általános</e>
+ <e g="repeatcb" i="label">Fejlécs_orok ismétlése új oldalakon</e>
+ <e g="dontsplitcb" i="label">_Ne ossza fel a táblázatot több oldalra</e>
+ <e g="3" i="label">Oszlopok </e>
+ <e g="label2" i="label">Beállítások</e>
+ <e g="InsertTableDialog" i="title">Táblázat beszúrása</e>
+ <e g="4" i="label">So_rok:</e>
+ <e g="repeatheaderafter" i="label">Cí_msorok</e>
+ <e g="autoformat" i="label">A_utomatikus formázás</e>
+</t>

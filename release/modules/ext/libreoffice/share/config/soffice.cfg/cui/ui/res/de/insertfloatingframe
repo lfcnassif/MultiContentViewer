@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="defaultwidth" i="label">Standard</e>
+ <e g="heightlabel" i="label">Höhe</e>
+ <e g="label2" i="label">Umrandung</e>
+ <e g="scrollbarauto" i="label">Automatisch</e>
+ <e g="label1" i="label">Bildlaufleiste</e>
+ <e g="label7" i="label">Inhalt</e>
+ <e g="borderon" i="label">Ein</e>
+ <e g="InsertFloatingFrameDialog" i="title">Schwebender Rahmen - Eigenschaften</e>
+ <e g="buttonbrowse" i="label">Durchsuchen...</e>
+ <e g="label6" i="label">Name</e>
+ <e g="widthlabel" i="label">Breite</e>
+ <e g="scrollbaroff" i="label">Aus</e>
+ <e g="scrollbaron" i="label">Ein</e>
+ <e g="defaultheight" i="label">Standard</e>
+ <e g="borderoff" i="label">Aus</e>
+ <e g="label3" i="label">Abstand zum Inhalt</e>
+</t>

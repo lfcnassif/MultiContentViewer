@@ -1,0 +1,18 @@
+36 com.sun.star.wiki.MediaWiki.SendToMediaWiki.MinorCheck 90 Đánh dấu trong hộp này để ngụ ý dữ liệu được tải lên là một bản sửa đổi nhỏ của trang đã có cùng tên.
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.CommentText 36 Gõ một bản tóm tắt hay ghi chú (tùy chọn).
+37 com.sun.star.wiki.MediaWiki.SendToMediaWiki.ArticleText ed Gõ tựa đề của mục nhập Wiki của bạn. Đối với một bài mới, tựa đề này phải duy nhất trên Wiki này. Nếu bạn dùng một tựa đề đã có, bài của bạn sẽ ghi đè lên bài Wiki đã có.
+34 com.sun.star.wiki.MediaWiki.SendToMediaWiki.WikiList ae Chọn máy phục vụ MediaWiki trên đó bạn muốn công bố tài liệu của bạn. Nhấn vào nút Thêm để thêm một máy phục vụ mới vào danh sách.
+22 vnd.com.sun.star.wiki%3AsendDialog ae Chọn máy phục vụ MediaWiki trên đó bạn muốn công bố tài liệu của bạn. Nhấn vào nút Thêm để thêm một máy phục vụ mới vào danh sách.
+38 com.sun.star.wiki.MediaWiki.SendToMediaWiki.BrowserCheck 74 Bật tùy chọn này để mở trình duyệt Web trên máy của bạn và hiển thị trang mới tải lên.
+1f vnd.com.sun.star.wiki%3Aaccount 66 Gõ địa chỉ URL của một máy phục vụ MediaWiki, bắt đầu với giao thức (http://).
+2f com.sun.star.wiki.MediaWiki.EditSetting.SaveBox c8 Bật tùy chọn này để lưu lại mật khẩu của bạn giữa hai buổi đăng nhập. Mật khẩu chủ phải được bật: xem Công cụ - Tùy chọn - OpenOffice.org - Bảo mật.
+35 com.sun.star.wiki.MediaWiki.EditSetting.PasswordField 6d Gõ mật khẩu của bạn trên máy phục vụ MediaWiki này. Bỏ trống để truy cập nặc danh.
+35 com.sun.star.wiki.MediaWiki.EditSetting.UsernameField 74 Gõ tên người dùng của bạn trên máy phục vụ MediaWiki này. Bỏ trống để truy cập nặc danh.
+30 com.sun.star.wiki.MediaWiki.EditSetting.UrlField 66 Gõ địa chỉ URL của một máy phục vụ MediaWiki, bắt đầu với giao thức (http://).
+1c vnd.com.sun.star.wiki%3Asend 6f Chọn Tập tin > Gửi > Cho MediaWiki để tải tài liệu hiện tại lên một máy chủ  MediaWiki.
+20 vnd.com.sun.star.wiki%3Aaboutbox fd Bằng cách sử dụng Wiki Publisher, bạn có thể tải tài liệu văn bản Writer hiện tại lên một máy chủ MediaWiki. Sau khi tải lên thì mọi người dùng Wiki đều có thể đọc tài liệu của bạn trên Wiki đó.
+31 com.sun.star.wiki.MediaWiki.Settings.RemoveButton 35 Gỡ bỏ mục nhập đã chọn khỏi danh sách.
+2d com.sun.star.wiki.MediaWiki.Settings.WikiList 104 Bấm nút Thêm để thêm một máy phục vụ Wiki mới.Chọn một mục nhập, sau đó bấm nút Sửa để chỉnh sửa thiết lập tài khoản.Chọn một mục nhập, sau đó bấm nút Bỏ để gỡ bỏ mục đó khỏi danh sách.
+2f com.sun.star.wiki.MediaWiki.Settings.EditButton 4a Mở hộp thoại MediaWiki để chỉnh sửa mục nhập đã chọn.
+20 vnd.com.sun.star.wiki%3Asettings 104 Bấm nút Thêm để thêm một máy phục vụ Wiki mới.Chọn một mục nhập, sau đó bấm nút Sửa để chỉnh sửa thiết lập tài khoản.Chọn một mục nhập, sau đó bấm nút Bỏ để gỡ bỏ mục đó khỏi danh sách.
+2e com.sun.star.wiki.MediaWiki.Settings.AddButton 52 Mở hộp thoại MediaWiki để thêm một mục nhập mới vào danh sách.

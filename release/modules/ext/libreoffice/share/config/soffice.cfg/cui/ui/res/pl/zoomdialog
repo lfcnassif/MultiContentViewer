@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="automatic" i="label">Automatycznie</e>
+ <e g="optimal" i="label">Optymalnie</e>
+ <e g="columns" i="label">Kolumny</e>
+ <e g="bookmode" i="label">Książka</e>
+ <e g="fitw" i="label">Szerokość strony</e>
+ <e g="label1" i="label">Widok układu</e>
+ <e g="variable" i="label">Zmienny</e>
+ <e g="label2" i="label">Powiększenie</e>
+ <e g="singlepage" i="label">Pojedyncza strona</e>
+ <e g="ZoomDialog" i="title">Powiększenie i widok układu</e>
+ <e g="100pc" i="label">100%</e>
+ <e g="fitwandh" i="label">Cała strona</e>
+</t>

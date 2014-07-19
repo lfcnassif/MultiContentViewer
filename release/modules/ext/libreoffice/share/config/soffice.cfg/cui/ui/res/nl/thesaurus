@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label2" i="label">Alternatieven</e>
+ <e g="alternatives" i="label">label</e>
+ <e g="replace" i="label">Vervangen</e>
+ <e g="ThesaurusDialog" i="title">Synoniemenlijst</e>
+ <e g="label1" i="label">Huidig woord</e>
+ <e g="label3" i="label">Vervangen door</e>
+</t>

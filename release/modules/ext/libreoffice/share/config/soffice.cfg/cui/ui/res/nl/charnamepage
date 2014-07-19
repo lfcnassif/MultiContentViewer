@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="weststyleft-cjk" i="label">Opmaakprofiel</e>
+ <e g="label6" i="label">CTL-lettertype</e>
+ <e g="westsizeft-cjk" i="label">Grootte</e>
+ <e g="ctlstyleft" i="label">Opmaakprofiel</e>
+ <e g="westfontnameft-nocjk" i="label">Familie</e>
+ <e g="label5" i="label">Aziatisch lettertype voor tekst</e>
+ <e g="label4" i="label">Westers lettertype voor tekst</e>
+ <e g="eastsizeft" i="label">Grootte</e>
+ <e g="westfontnameft-cjk" i="label">Familie</e>
+ <e g="westlangft-cjk" i="label">Taal</e>
+ <e g="label19" i="label">Voorbeeld</e>
+ <e g="ctlfontnameft" i="label">Familie </e>
+ <e g="eaststyleft" i="label">Opmaakprofiel</e>
+ <e g="ctlsizeft" i="label">Grootte</e>
+ <e g="weststyleft-nocjk" i="label">Opmaakprofiel</e>
+ <e g="eastlangft" i="label">Taal</e>
+ <e g="eastfontnameft" i="label">Familie </e>
+ <e g="ctllangft" i="label">Taal</e>
+ <e g="label21" i="label">Lettertype</e>
+ <e g="westlangft-nocjk" i="label">Taal</e>
+ <e g="westsizeft-nocjk" i="label">Grootte</e>
+</t>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="InsertRowColumnDialog" i="title">Вставить строку</e>
+ <e g="label2" i="label">Положение</e>
+ <e g="insert_before" i="label">Перед</e>
+ <e g="insert_after" i="label">После</e>
+ <e g="label3" i="label">Число</e>
+ <e g="label1" i="label">Вставить</e>
+</t>

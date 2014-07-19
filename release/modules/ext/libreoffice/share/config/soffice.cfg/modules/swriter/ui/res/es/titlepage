@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="DLG_TITLEPAGE" i="title">Página de título</e>
+ <e g="RB_INSERT_NEW_PAGES" i="label">Insertar nuevas páginas de título</e>
+ <e g="label3" i="label">Editar las propiedades de la página</e>
+ <e g="label2" i="label">Numeración de páginas</e>
+ <e g="label1" i="label">Crear páginas de título</e>
+ <e g="label8" i="label">páginas</e>
+ <e g="label6" i="label">Cantidad de páginas de título</e>
+ <e g="label7" i="label">Ubicar las páginas de título en</e>
+ <e g="CB_RESTART_NUMBERING" i="label">Reiniciar la numeración de las páginas después de las páginas de título</e>
+ <e g="FT_PAGE_PAGES" i="label">Número de página</e>
+ <e g="RB_USE_EXISTING_PAGES" i="label">Convertir páginas existentes en páginas de título</e>
+ <e g="CB_SET_PAGE_NUMBER" i="label">Establecer el número de página para la primera página de título</e>
+ <e g="RB_DOCUMENT_START" i="label">Al inicio del documento</e>
+ <e g="PB_PAGE_PROPERTIES" i="label">Editar...</e>
+ <e g="RB_PAGE_START" i="label">Página</e>
+ <e g="FT_PAGE_COUNT" i="label">Número de página</e>
+</t>

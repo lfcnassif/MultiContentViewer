@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="label11" i="label">100 stemt overeen met hoogste kwaliteit en grootste bestandsgrootte.</e>
+ <e g="liststore2" i="3">punt</e>
+ <e g="level2rb" i="label">Niveau 2</e>
+ <e g="label17" i="label">Voorbeeld</e>
+ <e g="label2" i="label">Kleurdiepte</e>
+ <e g="label10" i="label">1 stemt overeen met minste kwaliteit en kleinste bestandsgrootte.</e>
+ <e g="label16" i="label">Codering</e>
+ <e g="label22" i="label">0 stemt overeen met grootste bestandsgrootte en snelste laden.</e>
+ <e g="label" i="label">Compressie</e>
+ <e g="label1" i="label">Grootte</e>
+ <e g="compressnone" i="label">Geen</e>
+ <e g="resolutionft" i="label">Resolutie</e>
+ <e g="liststore2" i="1">cm</e>
+ <e g="label6" i="label">Hoogte</e>
+ <e g="liststore1" i="0">pixels/cm</e>
+ <e g="label20" i="label">Compressie</e>
+ <e g="liststore1" i="2">pixels/meter</e>
+ <e g="binarycb" i="label">Binair</e>
+ <e g="GraphicExportDialog" i="title"> Opties</e>
+ <e g="textcb" i="label">Tekst</e>
+ <e g="color1rb" i="label">Kleur</e>
+ <e g="liststore2" i="4">pixels</e>
+ <e g="epsipreviewcb" i="label">Uitwisseling (EPSI)</e>
+ <e g="label5" i="label">Breedte</e>
+ <e g="color2rb" i="label">Grijswaarden</e>
+ <e g="label19" i="label">Versie</e>
+ <e g="label4" i="label">Informatie</e>
+ <e g="rlecb" i="label">RLE-codering</e>
+ <e g="labe" i="label">Tekenobjecten</e>
+ <e g="liststore2" i="0">duim</e>
+ <e g="label12" i="label">Modus</e>
+ <e g="liststore2" i="2">mm</e>
+ <e g="compresslzw" i="label">LZW-codering</e>
+ <e g="label3" i="label">Compressie</e>
+ <e g="tiffpreviewcb" i="label">Voorbeeldvenster (TIFF)</e>
+ <e g="savetransparencycb" i="label">Transparantie opslaan</e>
+ <e g="level1rb" i="label">Niveau 1</e>
+ <e g="liststore1" i="1">pixels/duim</e>
+ <e g="label23" i="label">9 stemt overeen met kleinste bestandsgrootte en traagste laden.</e>
+ <e g="label18" i="label">Kleuropmaak</e>
+ <e g="interlacedcb" i="label">Interlaced</e>
+ <e g="label9" i="label">Kwaliteit</e>
+</t>

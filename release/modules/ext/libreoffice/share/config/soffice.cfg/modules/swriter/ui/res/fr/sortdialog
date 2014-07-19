@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t>
+ <e g="tabs" i="label">Tabulations</e>
+ <e g="columns" i="label">Colonnes</e>
+ <e g="label3" i="label">Direction</e>
+ <e g="up2" i="label">Croissant</e>
+ <e g="1" i="label">Critère de tri</e>
+ <e g="column" i="label">Colonne</e>
+ <e g="key3" i="label">Critère 3</e>
+ <e g="character" i="label">Caractère</e>
+ <e g="down2" i="label">Décroissant</e>
+ <e g="matchcase" i="label">Respecter la casse</e>
+ <e g="label2" i="label">Paramétrage</e>
+ <e g="up1" i="label">Croissant</e>
+ <e g="key2" i="label">Critère 2</e>
+ <e g="down1" i="label">Décroissant</e>
+ <e g="rows" i="label">Lignes</e>
+ <e g="label4" i="label">Séparateur</e>
+ <e g="delimpb" i="label">...</e>
+ <e g="keytype" i="label">Type de clé</e>
+ <e g="up3" i="label">Croissant</e>
+ <e g="label1" i="label">Langue</e>
+ <e g="key1" i="label">Critère 1</e>
+ <e g="SortDialog" i="title">Trier</e>
+ <e g="order" i="label">Ordre</e>
+ <e g="down3" i="label">Décroissant</e>
+</t>

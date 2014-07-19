@@ -1,0 +1,2 @@
+Prezentation Minimizer se koristi za smanjivanje veličine trenutne prezentacije. Slike će se sažimati, a podaci koji nisu potrebni, biti će izbrisani.
+Prezentation Minimizer može optimizirati omjer veličine i kvalitete slike. Prezentacije namijenjene pregledavanju na projektorima ili zaslonima računala ne moraju biti tako visoke kvalitete kao one namijenjene ispisu.
