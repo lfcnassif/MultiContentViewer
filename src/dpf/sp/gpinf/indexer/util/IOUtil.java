@@ -32,11 +32,11 @@ import java.io.OutputStream;
  */
 public class IOUtil {
 
-    public static void copiaArquivo(File origem, File destino) throws IOException {
-        copiaArquivo(origem, destino, false);
+    public static void copyFile(File origem, File destino) throws IOException {
+        copyFile(origem, destino, false);
     }
 
-    public static void copiaArquivo(File origem, File destino, boolean append) throws IOException {
+    public static void copyFile(File origem, File destino, boolean append) throws IOException {
         InputStream in = new BufferedInputStream(new FileInputStream(origem));
         OutputStream out = new BufferedOutputStream(new FileOutputStream(destino, append));
         if (append) {
@@ -51,12 +51,12 @@ public class IOUtil {
         out.close();
         if (len != -1) {
             if (!destino.delete()) {
-                throw new IOException("Não foi possível apagar " + destino.getPath());
+                throw new IOException("Unable to delete " + destino.getPath());
             }
         }
     }
 
-    public static void copiaArquivo(InputStream in, OutputStream out) throws IOException {
+    public static void copyStream(InputStream in, OutputStream out) throws IOException {
         byte[] buf = new byte[1000000];
         int len;
         while ((len = in.read(buf)) >= 0 && !Thread.currentThread().isInterrupted()) {
@@ -64,10 +64,10 @@ public class IOUtil {
         }
     }
 
-    public static void copiaDiretorio(File origem, File destino, boolean recursive) throws IOException {
+    public static void copyDir(File origem, File destino, boolean recursive) throws IOException {
         if (!destino.exists()) {
             if (!destino.mkdir()) {
-                throw new IOException("Não foi possível criar diretório " + destino.getAbsolutePath());
+                throw new IOException("Unable to create dir " + destino.getAbsolutePath());
             }
         }
         String[] subdir = origem.list();
@@ -75,16 +75,16 @@ public class IOUtil {
             File subFile = new File(origem, subdir[i]);
             if (subFile.isDirectory()) {
                 if (recursive) {
-                    copiaDiretorio(subFile, new File(destino, subdir[i]));
+                    copyDir(subFile, new File(destino, subdir[i]));
                 }
             } else {
                 File subDestino = new File(destino, subdir[i]);
-                copiaArquivo(subFile, subDestino);
+                copyFile(subFile, subDestino);
             }
         }
     }
 
-    public static void copiaDiretorio(File origem, File destino) throws IOException {
-        copiaDiretorio(origem, destino, true);
+    public static void copyDir(File origem, File destino) throws IOException {
+        copyDir(origem, destino, true);
     }
 }
