@@ -33,6 +33,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.lang.reflect.InvocationTargetException;
 import java.security.Policy;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -45,9 +46,13 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import org.apache.tika.Tika;
+import org.openide.nodes.ChildFactory;
 import org.openide.nodes.Node;
+import org.openide.util.Exceptions;
 import org.openide.util.lookup.ServiceProvider;
 import org.sleuthkit.autopsy.corecomponentinterfaces.DataContentViewer;
+import org.sleuthkit.autopsy.keywordsearch.KeywordHitResultGetter;
+import org.sleuthkit.autopsy.keywordsearch.KeywordList;
 import org.sleuthkit.datamodel.AbstractFile;
 import org.sleuthkit.datamodel.BlackboardArtifact;
 import org.sleuthkit.datamodel.BlackboardAttribute;
@@ -248,7 +253,10 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
                 }
             }
         }
-
+        if(highlightTerms.size() == 0)
+            highlightTerms = KeywordHitResultGetter.getKeywords(node);
+        
+            
     }
 
     @Override
