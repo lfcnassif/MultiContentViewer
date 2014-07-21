@@ -20,6 +20,7 @@ package dpf.sp.gpinf.indexer.search.viewer;
 
 import dpf.sp.gpinf.indexer.util.MultiContentViewerHelper;
 import dpf.sp.gpinf.indexer.util.NoInternetPolicy;
+import dpf.sp.gpinf.indexer.util.NonBlackboardKeywordHit;
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
 import java.awt.Component;
@@ -193,14 +194,16 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
         }
 
     }
-    
-    private String getCustomMimeType(String name){
-        
-        if(name.endsWith(".cdr"))
+
+    private String getCustomMimeType(String name) {
+
+        if (name.endsWith(".cdr")) {
             return "image/x-cdr";
-        else if(name.endsWith(".dbf"))
+        } else if (name.endsWith(".dbf")) {
             return "text/x-dbf";
-        else return null;
+        } else {
+            return null;
+        }
     }
 
     private String getMimeType(Node node) {
@@ -209,9 +212,10 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
         if (abstractFile != null) {
             String name = abstractFile.getName().toLowerCase();
             mimeType = getCustomMimeType(name);
-            if(mimeType != null)
+            if (mimeType != null) {
                 return mimeType;
-            
+            }
+
             ArrayList<BlackboardAttribute> attributes;
             try {
                 attributes = abstractFile.getGenInfoAttributes(BlackboardAttribute.ATTRIBUTE_TYPE.TSK_FILE_TYPE_SIG);
@@ -248,6 +252,10 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
                 }
             }
         }
+        if (highlightTerms.size() == 0) {
+            highlightTerms = NonBlackboardKeywordHit.getKeywords(node);
+        }
+
 
     }
 

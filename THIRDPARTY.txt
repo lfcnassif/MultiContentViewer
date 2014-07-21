@@ -1,4 +1,4 @@
-This section lists the software components and libraries that are used inside of MultiContentViewer. These tools are bundled with the module, unless specified otherwise.
+This section lists the software components and libraries that are used inside of MultiContentViewer:
 
 LibreOffice 4.0.4 for windows
 - Site: https://www.libreoffice.org/
