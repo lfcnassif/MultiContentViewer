@@ -168,6 +168,11 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
 
             viewerToUse.loadFile(file, contentType, highlightTerms);
 
+            /*
+             * Try to delete previous temp files
+             * keep track of last two because the last one may not be deleted
+             * since it could be still in use by some viewer
+             */
             if (prevFile2 != null) {
                 prevFile2.delete();
             }
@@ -195,6 +200,9 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
 
     }
 
+    /*
+     * workaround while these are not detected by autopsy/tika
+     */
     private String getCustomMimeType(String name) {
 
         if (name.endsWith(".cdr")) {
@@ -206,6 +214,9 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
         }
     }
 
+    /*
+     * Try to get mimeType from blackboard or, if not found, from file name
+     */
     private String getMimeType(Node node) {
 
         AbstractFile abstractFile = node.getLookup().lookup(AbstractFile.class);
@@ -233,6 +244,10 @@ public class MultiContentViewer implements ActionListener, DataContentViewer {
         }
     }
 
+    /*
+     * Get terms to highlight from blackboard hit artifacts or, if not found,
+     * from lookup mechanism and some reflection
+     */
     private void getHighlighTerms(Node node) {
 
         highlightTerms = new HashSet<String>();
