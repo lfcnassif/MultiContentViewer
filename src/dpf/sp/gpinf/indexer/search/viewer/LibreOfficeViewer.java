@@ -78,6 +78,8 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import javax.swing.JButton;
 import javax.swing.JLabel;
@@ -111,6 +113,7 @@ public class LibreOfficeViewer extends AbstractViewer {
     private IDocument document = null, prevDocument = null;
     private int delta = 1;
     private ArrayList<Object> hits;
+    private Logger logger = Logger.getLogger(this.getClass().getName());
 
     public LibreOfficeViewer(String libPath, String pathLO) {
         super(new GridLayout());
@@ -241,7 +244,7 @@ public class LibreOfficeViewer extends AbstractViewer {
             officeApplication.activate();
             officeApplication.getDesktopService().activateTerminationPrevention();
 
-            System.out.println("LibreOffice running with pid " + ProcessUtil.getPid(PORT));
+            logger.log(Level.INFO, "LibreOffice running with pid " + ProcessUtil.getPid(PORT));
 
         } catch (Exception e1) {
             e1.printStackTrace();
@@ -362,7 +365,7 @@ public class LibreOfficeViewer extends AbstractViewer {
                 } catch (Exception e) {
                     loading = false;
 
-                    System.out.println(e.toString());
+                    logger.log(Level.WARNING, e.toString());
 
                     //e.printStackTrace();
 
@@ -411,7 +414,8 @@ public class LibreOfficeViewer extends AbstractViewer {
                     }
 
                     if (blocked && lastFile != null && !this.isInterrupted()) {
-                        System.out.println("GUI blocked while rendering in LibreOffice!");
+                        logger.log(Level.WARNING, "GUI blocked while rendering in LibreOffice!");
+                        System.out.println();
                         synchronized (startLOLock) {
                             restartLO();
                         }
@@ -432,7 +436,7 @@ public class LibreOfficeViewer extends AbstractViewer {
      * Restart LibreOffice process
      */
     public void restartLO() {
-        System.out.println(RESTART_MSG);
+        logger.log(Level.INFO, RESTART_MSG);
         restartCalled = true;
 
         //loadingThread.interrupt();
@@ -458,7 +462,7 @@ public class LibreOfficeViewer extends AbstractViewer {
         document = null;
         constructLOFrame();
 
-        System.out.println("LibreOffice restarted.");
+        logger.log(Level.INFO, "LibreOffice restarted.");
     }
 
     /*
